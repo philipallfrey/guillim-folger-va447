@@ -1,0 +1,34 @@
+<lb/><pb>1r</pb>
+<lb/><label>Restituti<macron>o</macron><ex>n</ex> of <brev-y>th</brev-y><sl>e</sl> Title of Su<brev-p>p</brev-p><ex>re</ex>me Heade</label>
+<lb/><date>A<ex>nn</ex><sl>o</sl>: d<ex>omi</ex><macron>n</macron>i: 1559</date>
+<lb/>In this <brev-p>p</brev-p><ex>ar</ex>liam<macron>e</macron><ex>n</ex>t the ffirst fruits & Tenthes were restored
+<lb/>to the Crowne. And also the su<brev-p>p</brev-p><ex>re</ex>eame gou<brev-er>er</brev-er>nem<macron>e</macron><ex>n</ex>t over
+<lb/>the estate ecclesiasticall. w<ex>hi</ex><sl>ch</sl> <name>Quene Mary</name> had <unclear>geved</unclear>
+<lb/>to the Pope. <date>A<ex>nn</ex><sl>o</sl>: R<ex>egni</ex>: Elizab<ex>ethae</ex>: 1<sup>mo</sup></date> / <bibl><name>Holling<ex>shed</ex></name>: pag:
+<lb/>1180.</bibl>
+<lb/><label><name>Cardinal wolsei</name> his Heraulde</label>
+<lb/><name>Cardynall Wolsey</name> (beside many other his serv<macron>a<ex>n</ex>t</macron>s & officers
+<lb/>ha<unclear>tt</unclear> 4.ffootm<macron>e<ex>n</ex></macron> w<ex>hi</ex><sl>ch</sl> were garnished in riche <unclear>Rvnninge</unclear>
+<lb/>Coat<unclear> <brev-es>es</brev-es></unclear> wh<macron>e<ex>n</ex></macron>soeu<brev-er>er</brev-er> he rode in any iourney. Th<macron>e<ex>n</ex></macron> had he
+<lb/>also an Heraulde of Armes. <unclear>&c<sup>o</sup></unclear> <unclear> <macron>Ibii</macron></unclear>: pag: 920. <date>A<ex>nn</ex><sl>o</sl>
+<lb/>R<ex>egni</ex>: Hen<ex>rici</ex>: 8: 23</date>.
+<lb/><label><date>A<ex>nn</ex><sl>o</sl>: Mundi.3586</date>. <date>A<ex>nn</ex><sl>o</sl>: ante Christ<ex>um</ex>: 377</date>. <date>A<ex>nn</ex>o ant<ex>e</ex> Brit<macron>an<ex>n</ex>i</macron>a cognitam. - 327</date></label>
+<lb/><name>Mausolus</name> kinge of <place>Car<unclear>d</unclear>a</place> raigned, whose wife <name>Artemeis</name> builded
+<lb/>for hym a wonderdull sepulchre, w<ex>hi</ex><sl>ch</sl> was tak<macron>e<ex>n</ex></macron> for one of <brev-y>th</brev-y><sl>e</sl>
+<lb/>goodly works of the worlde. Of w<ex>hi</ex><sl>ch</sl> all goodly monu<macron>me<ex>n</ex>t</macron>s of
+<lb/>Deade m<macron>e<ex>n</ex></macron> are called Mawseola. <bibl>Chro: Cow<brev-p>p</brev-p><ex>er</ex>i: fol: 53</bibl>
+<lb/><graphic>Drawing</graphic> <name>Hercules</name> the Sonne of <name>Amphitrio</name> & <name>Alcmena</name> was a defender
+<lb/>of Justice a chastiser of <unclear>iniustyce</unclear> & a relyver of the oppressed
+<lb/>& of greate <unclear>leuity</unclear> towards th<macron>e<ex>m</ex></macron> that he had succoured. ffor
+<lb/>w<ex>hi</ex><sl>ch</sl> vertues he obtayned as greate renowne as eu<brev-er>er</brev-er><ex>y</ex> Prynce had
+<lb/>done before his time <bibl><unclear>Ibii</unclear> fol:24</bibl>.
+<lb/><date>A<ex>nn</ex>o. Mundi. 8712</date>. <date>A<ex>nn</ex>o ante Christ<ex>um</ex>. 1251</date>.
+<lb/>ffurthermore he delyu<brev-er>er</brev-er>ed the Sea about<unclear>s</unclear> <place>Italye</place> & <place>Spayne</place> fr<macron>o<ex>m</ex></macron>
+<lb/>Pyrat<unclear> <brev-es>s</brev-es></unclear> & Robbers: & for a <brev-p>p</brev-p><ex>er</ex>petuall memory ther<unclear>of</unclear> he comanded
+<lb/>two greate Rocks to be set vp in the Vttermost Corners of
+<lb/><place>Spayne</place> & <place>Affricke</place> w<ex>hi</ex><sl>ch</sl> at this daye are called <brev-y>th</brev-y><sl>e</sl> Colvmns
+<lb/>of Hercules. <bibl> <unclear>Ibii</unclear></bibl> ./
+<lb/>
+<lb/><add>13150Ph</add>
+<lb/><add>S<sl>t</sl> George MSS</add>
+<lb/><add>13150</add>

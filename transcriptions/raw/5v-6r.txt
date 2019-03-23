@@ -1,0 +1,64 @@
+<lb/><pb>5v</pb>
+<lb/>All viscount<brev-es>es</brev-es> yong<brev-er>er</brev-er> sonnes be borne Baro<macron>n<ex>n</ex></macron>et<brev-es>es</brev-es>
+<lb/>& shall weare as many pawldering<brev-es>es</brev-es> as
+<lb/>Baronett<brev-es>es</brev-es> but shall goe belowe them.
+<lb/><label>Baron.</label> A Baron may have his gowne borne vp
+<lb/>by a m<macron>a<ex>n</ex></macron> in a Viscount<brev-es>es</brev-es> p<sl>r</sl><ex>e</ex>sence & the
+<lb/>Cou<brev-er>er</brev-er> of his cupp helde vnder whilesthe
+<lb/>Drinketh. His eldest sonne shall goeas <del>a</del>
+<lb/>a Banneret & have the vp<brev-p>p</brev-p><ex>er</ex> hande of
+<lb/>a Bann<brev-er>er</brev-er>et Because his father is a Peere of <brev-y>th</brev-y><sl>e</sl> Realme.
+<lb/>This daught<brev-er>er</brev-er> shall goe aboue all Bann<brev-er>er</brev-er>ettes
+<lb/>wyves & knight<brev-es>es</brev-es> wyv<brev-es>es</brev-es>. Except she doe
+<lb/>marry w<ex>i</ex><sl>th</sl> one vnder degree of a
+<lb/>knighte.
+<lb/><label>knight</label> A knight<brev-es>es</brev-es> wyfe may have her kyrtle
+<lb/>borne vp except in her betters
+<lb/>p<sl>r</sl><ex>e</ex>sence And her foot sheete in like
+<lb/>sorte.
+<lb/>And if any of the Bloode Royall stande
+<lb/>in place they must stand above all
+<lb/>of that degree they be of themselues./
+<lb/><metamark>flourish</metamark>
+<lb/><heading>
+<lb/>Nomber of mowrner<brev-es>s</brev-es>
+<lb/>for eu<brev-er>er</brev-er>y estate.</heading>
+<lb/>A kinge hathe -- xv<unclear> <sl>iiii</sl></unclear>
+<lb/>A Queene -- Xiii
+<lb/>A Prynce -- xiii.
+<lb/>A Marquise -- xi.
+<lb/>An Earle -- x.
+<lb/>A Viscounte --
+<lb/>{ A Baron. --
+<lb/>{ A knight -- v.
+<lb/>An Esquier -- iii./<name><unclear>M<sl>r</sl></unclear> Morgan<brev-es>es</brev-es></name> booke
+<lb/>of <brev-y>th</brev-y><sl>e</sl> Temple (a <place>Norh<macron>a<ex>m</ex></macron>pt<macron>o<ex>n</ex></macron>shire</place> m<macron>a<ex>n</ex></macron>)
+<lb/>
+<lb/><pb>6r</pb>
+<lb/>A<ex>nn</ex><sl>o</sl>.<date>13: Hen<ex>rici</ex>:8</date>.
+<lb/><name>Dux: Buckingh<macron>a<ex>m</ex></macron></name> condemnat<brev-er>ur</brev-er> cor<macron>a<ex>m</ex></macron> <name>Tho<ex>mas</ex>: duce Norff<ex>olk</ex>: eo tem<brev-p>p</brev-p><ex>or</ex>e Senescal<unclear>l</unclear>
+<lb/>Anglia</name>
+<lb/> iudicio pari<macron>u<ex>m</ex></macron> suor<ex>um</ex>/ sclz vni<ex>us</ex>q ducis. vni<ex>us</ex>q marchio<ex>n</ex>is .7. Comit<macron>u<ex>m</ex></macron>
+<lb/>et.12.Baron<macron>u<ex>m</ex></macron>.
+<lb/><date>Die ven<ex>er</ex>is :17: maii</date> <name>Edw<ex>ardus</ex>: dux Buck<ex>ingham</ex>:</name> decollat<ex>us</ex> est su<brev-p>p</brev-p><ex>er</ex> <place>monte<ex>m</ex> iuxta
+<lb/>Turr<unclear>im</unclear> Londo<unclear>n</unclear></place>. sepult<ex>us</ex> in <place>ecc<macron>l<ex>es</ex>ia</macron> ordinis S<ex>anc</ex><sl>ti</sl> August<unclear>ini</unclear></place>
+<lb/><date>A<ex>nn</ex>o.15:Hen<ex>rici</ex>:8:27:Apr<ex>ilis</ex>:</date> tem<brev-p>p</brev-p><ex>or</ex>e <brev-p>p</brev-p><ex>ar</ex>liam<macron>e<ex>n</ex>t</macron>i <name>Arthurii Plantagenet</name> miles <unclear> <macron>fili<ex>us</ex></macron></unclear>
+<lb/>noth<ex>us</ex> <name>Reg<brev-es>is</brev-es> Edw<ex>ardi</ex>:4</name>: ap<ex>u</ex><sl>d</sl> <place><unclear>font<macron>e<ex>m</ex></macron></unclear> Brigid<unclear>ia</unclear></place>. creat<brev-er>ur</brev-er> vice<macron>co<ex>m</ex>es</macron> de Insula
+<lb/>iure <name>vxoris relicte. Edm<macron>o<ex>ndi</ex></macron>: Dudley</name> decollati.
+<lb/><date>A<ex>nn</ex><sl>o</sl>.7:Hen<ex>rici</ex>:8:</date> <name>Margareta Regina <place>Scotie</place></name> nupta est <name>Archibaldo Dowglas
+<lb/>C<macron>o<ex>m</ex>iti</macron> de Angois</name> sine assensa Reg<brev-es>is</brev-es> ffratris sui, & aufuge<macron>ru<ex>n</ex>t</macron> in <place>Anglia<unclear>m</unclear></place>
+<lb/>& in <place>Castro Harbothell</place> in <place>Comitat<ex>u</ex> Northumb<ex>rens<unclear>i</unclear></ex></place>: nata est <name>margareta filia
+<lb/> eor<macron>u<ex>m</ex></macron></name>.
+<lb/><date>A<ex>nn</ex><sl>o</sl>:1248. 31:Hen<ex>rici</ex>:3:</date> <name>Thomas de Bellocampo <macron>Co<ex>m</ex>es</macron> <del><unclear>Nor...</unclear></del>
+<lb/><unclear>Norwic:</unclear> et Mariscall<unclear>us</unclear> Angliae</name> <date>.24. die Augusti .1354.</date>    <date>28
+<lb/>Edw<ex>ardi</ex>:3:</date> ... <unclear>vnq</unclear> int<brev-er>er</brev-er> caeteros nobiles qui scripserunt ad <unclear>p<macron>apa<ex>m</ex></macron></unclear>
+<lb/>circa negotia <place>ffrancieae</place>./ <name>Math. Paris</name>. fol.1004
+<lb/><heading>Cart<ex>a</ex>: <date>Anno:12:Hen<ex>rici</ex>:3:</date></heading>
+<lb/><name>Rog<brev-er>er</brev-er><ex>us</ex>q de Dant<ex>es</ex>: vel Antes</name> & <name>matildis Comitissa Hereff<ex>ordensis</ex></name>
+<lb/><name> vxor eius</name>† soror <name><unclear>W</unclear><macron><unclear>illiumi</unclear></macron>: <del>Comes de</del> mandevill nuper
+<lb/>Comit<brev-es>is</brev-es> Essex<ex>ensis</ex></name>./ † De <macron>Dau<ex>n</ex>t</macron>esia ./
+<lb/><label><date>a<ex>nn</ex><sl>o</sl>.12.h<ex>enrici</ex>:8.</date></label> <name>C<macron>o<ex>m</ex>es</macron> Kyldare</name> <unclear>deputat<brev-er>us</brev-er></unclear> terr<unclear><ex>ae</ex></unclear> <place>Hiberniae </place>exon<brev-er>er</brev-er>at<unclear><brev-er>ur</brev-er></unclear> ab officio, & <name>Tho<ex>mas</ex>
+<lb/>C<macron>o<ex>m</ex>e</macron>s Surreggia</name> eius loco constituit<brev-er>ur</brev-er> Deputat<ex>us</ex> eiu<macron>sde<ex>m</ex></macron> terre
+<lb/><brev-p>p</brev-p><ex>ro</ex>cura<ex>n</ex><unclear>te</unclear> <name>Wolseo Cardinali</name>, qui <date>in initio Aprilis</date> iter arri<unclear>xiit</unclear>
+<lb/>versus <place>Hiber<macron>nia<ex>m</ex></macron></place>.
+<lb/>

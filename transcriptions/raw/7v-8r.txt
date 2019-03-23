@@ -1,0 +1,11 @@
+<lb/><pb>7v</pb>
+<lb/><label><date>a<ex>nn</ex><sl>o</sl>.7.Hen<ex>rici</ex>:8.</date></label><name>Margareta Regina Scotiae</name> nupta est <name>Archibaldo Dowglass.
+<lb/>Comiti de Angois</name> sine assensu Reg<brev-es>is</brev-es> <macron>fr<ex>atr</ex>is</macron> sui & aufugerunt
+<lb/>in <place>Angli<macron>a<ex>m</ex></macron></place>, et in <place>Castello de Herbottell</place> in <place>Comitat<macron>u<ex>m</ex></macron> Nor=
+<lb/>thumbria</place> nata est <name>Margareta filia eor<ex>um</ex></name>./ Ex Chronica
+<lb/>Holl
+<lb/><pb>8r</pb>
+<lb/>
+<lb/><graphic>drawing</graphic> <name><del>Edward<ex>us</ex>q Terti<ex>us</ex>q</del></name> <name>Ricard<ex>us</ex>q Secund<ex>us</ex>q</name> <graphic>drawing</graphic> <name>Edw<ex>ardus</ex>: Terti<ex>us</ex>q</name>
+<lb/><graphic>drawing</graphic> <graphic>drawing</graphic> <name><macron>Ric<ex>ardus</ex>q</macron> Terti<ex>us</ex>q</name>
+<lb/>

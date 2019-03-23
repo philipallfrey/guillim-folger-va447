@@ -1,0 +1,16 @@
+<lb/>
+<lb/><pb>9v</pb>
+<lb/>Vide <metamark>unclear</metamark> .129.    In E<macron>ccl<ex>es</ex>i</macron>a de <place>Beawdley</place>
+<lb/><graphic>drawing</graphic> <graphic>drawing</graphic>
+<lb/><graphic>drawing</graphic> <graphic>drawing</graphic>
+<lb/><graphic>drawing</graphic> <graphic>drawing</graphic>
+<lb/><name>Edw<ex>ard</ex>: 3<ex>r</ex><sl>d</sl></name> <name>Edw<ex>ard</ex> :3<ex>r</ex><sl>d</sl></name>
+<lb/><pb>10r</pb>
+<lb/><graphic>drawing</graphic> <graphic>drawing</graphic>
+<lb/><place>Henrici Quinti</place> Insignia <name>Hen<ex>rici</ex>:6:</name>Insig<ex>nia</ex>:
+<lb/><graphic>drawing</graphic> <graphic>drawing</graphic>
+<lb/><name>Edw<ex>ardi</ex>:4<sl>ti</sl>:</name>Insig<ex>nia</ex>: <name>Hen<ex>rici</ex>:7<sl>mi</sl></name>:Insig<ex>nia</ex>:
+<lb/>Ex Chronographia <name><unclear>M<macron><ex>agist</ex>ri</macron></unclear>
+<lb/>Halle</name>
+<lb/>
+<lb/>
