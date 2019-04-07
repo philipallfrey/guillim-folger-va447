@@ -1,0 +1,75 @@
+<lb/><pb>16v</pb>
+<lb/><name>Edwarde Cromwell.</name> }
+<lb/><name>Rawfe Ewrye.</name> }
+<lb/><name>Phillippe Whart<macron>o<ex>n</ex></macron> of Wharto<unclear><sl>n</sl></unclear>.</name> }
+<lb/><name>Ro<macron>b<ex>er</ex>t</macron> Riche.</name> }
+<lb/><name>Tho<ex>mas</ex>: Darcy of Chiche.</name> }
+<lb/><name>W<ex>illia</ex><sl>m</sl>: Chandos of Sudeley.</name> }
+<lb/><name>Olyver S<sl>t</sl>: John of Bletsho.</name> } knighte
+<lb/><name>Tho<ex>mas</ex>: west d'laware.</name> }
+<lb/><name>Edmonde Sheffielde.</name> }
+<lb/><name>W<ex>illia</ex>m. Compt<macron>o<ex>n</ex></macron> of Compt<macron>o<ex>n</ex></macron></name> }
+<lb/><name>ffraunc<brev-es>es</brev-es> Norris of Rycot.</name> }
+<lb/><name>Tho<ex>mas</ex>: Howarde of Walden.</name> } <metamark>flourish</metamark> . <metamark>flourish</metamark> .
+<lb/>
+<lb/><heading>Justic<brev-es>es</brev-es> called by writte
+<lb/>to thesame Parliam<macron>e<ex>n</ex>t</macron>e.</heading>
+<lb/><label>
+<lb/>Out of the before
+<lb/>m<macron>e<ex>n</ex>t</macron>ioned <unclear>Pawne</unclear>.</label> <name>Joh<unclear><macron>n<ex>n</ex></macron></unclear> Popham Lo<ex>rd</ex>: Chiefe Justice of Englande.</name>
+<lb/><name>Edmonde Anderson knighte Lo<ex>rd</ex>: chiefe Justice of <brev-y>th</brev-y><sl>e</sl> Co<macron>m<ex>m</ex></macron><ex>on</ex>: pleas</name>
+<lb/><name>W<ex>illia</ex>m: Periam knighte, Chiefe Bar<macron>o<ex>n</ex></macron> of the Exchecquer.</name>
+<lb/><name>Joh<unclear><macron>n<ex>n</ex></macron></unclear> Clenche one of the Justic<brev-es>es</brev-es> of the king<brev-es>es</brev-es> benche.</name>
+<lb/><name>ffraunc<brev-es><unclear>is</unclear></brev-es> Gandye one other Justice of thesame.</name>
+<lb/><name>Tho<ex>mas</ex>: Walmesley one of the Justic<brev-es>es</brev-es> of the Co<macron>m<ex>m</ex>o</macron>n pleaes.</name>
+<lb/><name>Edward ffenner one other of the Justic<brev-es>es</brev-es> of the king<brev-es>es</brev-es> benche</name>
+<lb/><name>George Kyngesmill one other Justice of the Co<macron>m<ex>m</ex></macron>on pleaes.</name>
+<lb/><name>Peter Warburto<ex>u</ex><sl>n</sl> one other Justice of thesame.</name>
+<lb/><name>R<macron>ob<ex>er</ex>te</macron> Clarke one of the Barons of the Excheque<unclear>r</unclear></name>
+<lb/><name>Joh<unclear><macron>n<ex>n</ex></macron></unclear> d<unclear>a</unclear>vells. one other of the Barons of <brev-y>th</brev-y><sl>e</sl> Excheque<unclear>r</unclear></name>
+<lb/><name><ex>Christ</ex>ofer <unclear>Y</unclear>elverto<ex>u</ex><sl>n</sl>. her M<macron>a<ex>ies</ex>ties</macron> Sergeante at Lawe</name>
+<lb/><name>Edwarde Cooke. her highnesse Attorney g<macron><ex>e</ex>n<ex>e</ex>rall</macron>.</name>
+<lb/><name>Tho<ex>mas</ex>: ffleminge her highnesse solicito<ex>u</ex><sl>r</sl> g<macron><ex>e</ex>n<ex>e</ex>rall</macron></name>
+<lb/>Her M<macron>a<ex>ies</ex>ties</macron> welbeloved & faithfull Counsellor. <name>Robert
+<lb/></name>
+<lb/><name>Cecill knighte her pryncipall Secretarye</name>. <metamark>flourish</metamark> . <metamark>flourish</metamark> .
+<lb/><pb>17r</pb>
+<lb/><heading>
+<lb/>The <brev-p>p</brev-p><ex>ro</ex>ceedinge to the Churche for
+<lb/>An Earle</heading>
+<lb/>2. Conductors
+<lb/>Poorem<macron>e<ex>n</ex></macron> in gownes.
+<lb/>7. Conductors.
+<lb/>Serv<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es> of gentilm<macron>e<ex>n</ex></macron> knight<brev-es>es</brev-es> Lord<brev-es>es</brev-es> & Earles
+<lb/>Trompeto<ex>u</ex><sl>r</sl>
+<lb/><graphic>drawing</graphic> The Standarde
+<lb/>
+<lb/>yeom<macron>e<ex>n</ex></macron> serv<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es> to the defunct in Cloak<brev-es>es</brev-es>
+<lb/>The G<unclear>u</unclear>ydon.
+<lb/>Gent<ex>illmen</ex> serv<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es> to the defunct in Cloak<brev-es>es</brev-es>.
+<lb/>The Horse.
+<lb/>Gent<ex>illmen</ex> in Gownes.
+<lb/>Chaplaynes.
+<lb/>Counsello<ex>u</ex><sl>rs</sl> at Lawe.
+<lb/>Secretaries to the defunct.
+<lb/>Gent<ex>illman</ex> of his kynred.
+<lb/>Serge<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es> at Lawe.
+<lb/>The High sheriff of the sheere.
+<lb/><unclear>K</unclear>night<brev-es>es</brev-es>
+<lb/>Steward. Treasourer. Comptroller.
+<lb/>The greate banner borne by a knight. <graphic>drawing</graphic>
+<lb/>{ The Helme & Creast
+<lb/>3 Herehaught<ex>es</ex> { Sworde & Target.
+<lb/>{ Coate
+<lb/><graphic>drawing</graphic> { 4. knight<brev-es>es</brev-es> Assistant<brev-es>es</brev-es> to the body <graphic>drawing</graphic> { To beare <graphic>drawing</graphic>
+<lb/><graphic>drawing</graphic> Bodye <graphic>drawing</graphic>
+<lb/><graphic>drawing</graphic> <graphic>drawing</graphic>
+<lb/>The horse of Estate lead
+<lb/>by a gent<ex>illman</ex>.
+<lb/>Garter.
+<lb/>Chiefe Mourner: An Earle.
+<lb/>.8. Assistant<brev-es>es</brev-es> beinge N<macron>obleme<ex>n.</ex></macron>
+<lb/>2. gent<ex>illman</ex> Vsher<brev-es>es</brev-es> bareheaded.
+<lb/>The noble<macron>me<ex>n</ex></macron> on horsebacke.
+<lb/>The<ex>n</ex> all other yeo<macron>me<ex>n</ex></macron> in Cloak<brev-es>es</brev-es> ./ <graphic>flourish</graphic>
+<lb/><graphic>scribble</graphic>
