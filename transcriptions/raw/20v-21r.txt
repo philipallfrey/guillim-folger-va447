@@ -1,0 +1,71 @@
+<lb/><pb>20v</pb>
+<lb/><heading>The <brev-p>p</brev-p><ex>ro</ex>ceedinge at a knight<brev-es>es</brev-es>
+<lb/>
+<lb/>ffunerall.</heading>
+<lb/>
+<lb/>2. Conductors.
+<lb/>poorm<macron>e<ex>n</ex></macron> in gownes .2.&.2.
+<lb/>Yeom<macron>e<ex>n</ex></macron> in Cloak<brev-es>es</brev-es>.
+<lb/><graphic>drawing</graphic> The Standarde.
+<lb/>Servant<brev-es>es</brev-es> of gentilm<macron>e<ex>n</ex></macron>
+<lb/>Serv<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es> of knight<brev-es>es</brev-es>.
+<lb/>Serv<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es> of Lord<unclear><brev-es>es</brev-es></unclear>.
+<lb/>Serv<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es> to the deffunc<unclear>t</unclear>.
+<lb/>{ Gent<ex>ilmen</ex> serv<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es> to the deffunct.
+<lb/>In gowness or otherwise in blacke<brev-es>s</brev-es> { Esquires.
+<lb/>{ Knight<brev-es>es</brev-es>
+<lb/>The preacher.
+<lb/><graphic>drawing</graphic> The pennon.
+<lb/>Helme & Creaste.
+<lb/>Sworde & Targ.
+<lb/>Coate of Armes
+<lb/><graphic>drawing</graphic>
+<lb/><graphic>drawing</graphic> Assisstants Assistants Chiefe morn<brev-er>er</brev-er>
+<lb/>Chiefe Mourner.
+<lb/>4 Assisst<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es> Knight<brev-es>es</brev-es>
+<lb/>knight<brev-es>es</brev-es> & Lord<brev-es>es</brev-es> on horse
+<lb/>yf there be anye.
+<lb/>2. yeom<macron>e<ex>n</ex></macron>.
+<lb/>Gentillwo<macron>me<ex>n</ex></macron> in black<brev-es>es</brev-es>
+<lb/>Yeom<macron>e<ex>n</ex></macron> in Coat<brev-es>es</brev-es>.
+<lb/>The g<macron>e<ex>n</ex>t</macron>ilwo<macron>me<ex>n</ex></macron> w<ex>i</ex><sl>th</sl>out black<brev-es>es</brev-es>.
+<lb/>The parrishe & others./ <metamark>flourish</metamark>.
+<lb/><metamark>scribble</metamark>
+<lb/>The funerall. of an Esquire in all poynt<brev-es>es</brev-es>.
+<lb/>as a knight<brev-es>es</brev-es> funerall except the
+<lb/>Dowble Rayle; the hach<macron>me<ex>n</ex>t</macron><brev-es>es</brev-es> & Assist<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es>.
+<lb/>He is to have a Pen<macron>o<ex>n</ex></macron> of his Armes }
+<lb/>An helme, and Creaste. }
+<lb/>A Coate Armo<ex>u</ex><sl>r</sl> } <unclear>Bro:</unclear>
+<lb/>An Esquier to be Chiefe Mowrn<brev-er>er</brev-er> & }
+<lb/>Two Esquires for Assistant<brev-es>es</brev-es> ./ }
+<lb/>
+<lb/>
+<lb/><pb>21r</pb><heading>The <brev-p>p</brev-p><ex>ro</ex>ceedinge at a Cytezens
+<lb/>ffunerall</heading>
+<lb/>
+<lb/>March<macron>a<ex>n</ex>t</macron> V<macron>e<ex>n</ex>t</macron>erers <graphic>drawing</graphic> God Be our fr<unclear>i</unclear>end Marchcant of Moscovie <graphic>drawing</graphic> March<macron>a<ex>n</ex>t</macron> of <brev-y>th</brev-y><sl>e</sl> Staple <graphic>drawing</graphic>
+<lb/>The Chil<macron>dre<ex>n</ex></macron> of the hospitall
+<lb/>2. Conductors.
+<lb/>Poore<macron>me<ex>n</ex></macron> in Gownes.
+<lb/>Gent<ex>ilmen</ex> serv<macron>a<ex>n</ex>t</macron>es in Cloak<brev-es>es</brev-es>
+<lb/>Gentil<macron>me<ex>n</ex></macron> in Cloak<brev-es>es</brev-es>
+<lb/>Gentill<macron>me<ex>n</ex></macron> in Gownes
+<lb/>Alder<macron>me<ex>n</ex></macron> in black<brev-es>es</brev-es>
+<lb/>The p<sl>r</sl><ex>e</ex>cher.
+<lb/><graphic>drawing</graphic> His penn<macron>o<ex>n</ex></macron>
+<lb/>Helme & Creast.
+<lb/>Coate.
+<lb/><graphic>drawing</graphic> <graphic>drawing</graphic> <graphic>drawing</graphic>
+<lb/>A penn<macron>o<ex>n</ex></macron> of the March<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es> A pen<macron>no<ex>n</ex></macron> of his Company.
+<lb/>Chiefe Mo<unclear>u</unclear>rn<ex>er</ex>.
+<lb/>2. Assist<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es>.
+<lb/>Alder<macron>me<ex>n</ex></macron> not in black<brev-es>es</brev-es>.
+<lb/>Gentilwo<macron>me<ex>n</ex></macron> in black<brev-es>es</brev-es>.
+<lb/>The Lyu<brev-er>er</brev-er>ey of his Company.
+<lb/>Masters of the hospitall.
+<lb/>All other gent<ex>illmen</ex> not in blacke.
+<lb/>The parrishe.
+<lb/>.<metamark>flourish</metamark>.
+<lb/><graphic>drawing</graphic> Assistants Assistant Chief Morn<brev-er>er</brev-er> <graphic>drawing</graphic>
+<lb/>
