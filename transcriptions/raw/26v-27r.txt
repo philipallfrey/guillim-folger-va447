@@ -1,0 +1,114 @@
+<lb/>
+<lb/><pb>26v</pb>
+<lb/>Th<macron>e<ex>n</ex></macron> Alderm<macron>e<ex>n</ex></macron>s wyves havinge no black<brev-es>es</brev-es>
+<lb/>Then the Companyes.
+<lb/>Then the Masters of the Hospitalls w<ex>i</ex><sl>th</sl> greene staves
+<lb/>Then the neighbour<brev-es>es</brev-es> and other <brev-p>p</brev-p><ex>ar</ex>ishioners./
+<lb/>
+<lb/>
+<lb/><heading>The Offeringe.</heading>
+<lb/>ffirst the Chiefe Mowrner to Offer alone beinge
+<lb/>attended w<ex>i</ex><sl>th</sl> the other .iiii. mowrners for <brev-y>th</brev-y><sl>e</sl> defunct.
+<lb/>Th<macron>e<ex>n</ex></macron> the Coate of Armes by.
+<lb/>Th<macron>e<ex>n</ex></macron> the Sworde by .
+<lb/>Th<macron>e<ex>n</ex></macron> the Targe.
+<lb/>Then the helme & Creaste.
+<lb/>Then the Pennon.
+<lb/>The the Standarde.
+<lb/>Th<macron>e<ex>n</ex></macron> the Chiefe Mowrn<brev-er>er</brev-er> to offer alone for hymselfe
+<lb/>Then the Lorde Mayo<ex>u</ex><sl>r</sl>.
+<lb/>Th<macron>e<ex>n</ex></macron> the other iiii Mowrners.
+<lb/>Then the Alderm<macron>e<ex>n</ex></macron> havinge black<brev-es>es</brev-es>.
+<lb/>Then the Alderm<macron>e<ex>n</ex></macron> havinge no black<brev-es>es</brev-es>.
+<lb/>Th<macron>e<ex>n</ex></macron> the Executors
+<lb/>Then the Chamberlayne & Towne Clerke.
+<lb/>Then the Gentillm<macron>e<ex>n</ex></macron> in black<brev-es>es</brev-es>.
+<lb/>Then the Masters of the Hospitalls.
+<lb/>Then the Companyes.
+<lb/>Then all wom<macron>e<ex>n</ex></macron> in black<brev-es>es</brev-es>.
+<lb/>Then all the A<del>r</del><ins>l</ins>dermens wyves and other gentill
+<lb/>wom<macron>e<ex>n</ex></macron> havinge no black<brev-es>es</brev-es>./ <metamark>flourish</metamark> . <metamark>flourish</metamark> .
+<lb/>
+<lb/>
+<lb/>
+<lb/><heading>
+<lb/>Be it noted that in the <brev-p>p</brev-p><ex>ro</ex>ceadinge to the
+<lb/>Parlia<macron>me<ex>n</ex>t</macron> these .v. Byshoppes
+<lb/>following doe keepe theire places
+<lb/>ordenaryly. whoso is in them. In
+<lb/>this maner.
+<lb/>
+<lb/></heading>
+<lb/>The Archbishoppe of Caunterbury .}
+<lb/>The Archbishoppe of Yorke. }
+<lb/>The Bishoppe of London. } .v./ <metamark>flourish</metamark>
+<lb/>
+<lb/>The Bishoppe of Duresme. }
+<lb/>The Bishoppe of Wync<macron>hest<ex>er</ex></macron> }
+<lb/>All other Bishoppes take theire places
+<lb/>accordinge to theyre Creations ./ <metamark>flourish</metamark>
+<lb/>
+<lb/>
+<lb/><pb>27r</pb>
+<lb/><label>On S<sl>t</sl>: Georg<brev-es>es</brev-es> feast at Even.</label> <heading>The Dyet appoynted for the</heading> }
+<lb/><heading>Herehawght<brev-es>es</brev-es> at St Georg<brev-es>es</brev-es></heading> } <date>Anno .RR. Jacobi Secundo</date>
+<lb/><heading>ffeaste hold<macron>e<ex>n</ex></macron> at <place>White Halle</place></heading> }
+<lb/><date><heading>the.23.day of Aprill.1604.</heading></date> }
+<lb/><cb>
+<lb/>3 Sallett<brev-es>es</brev-es>
+<lb/>4 Mutton }
+<lb/>
+<lb/>5 Capon } Colde.
+<lb/>6 Lambe }
+<lb/>7 Mvtton . ]
+<lb/>8 Lambe. ]
+<lb/>9 Deeres tong<brev-es>es</brev-es> ] boyled.
+<lb/>10 Chickens ]
+<lb/>11 Mvtton. } r<macron>ost</macron>.
+<lb/>12 Tongues .}
+<lb/>13 Capon rost
+<lb/>14 Capon boyled hotte.
+<lb/>15 ffesant baked colde
+<lb/>16 Chickyns rost.
+<lb/>17 Crevisses.
+<lb/>18 Calves feete baked hotte.
+<lb/>19 Pyke boyled hotte.
+<lb/>20 Deer<brev-es>es</brev-es> tong<brev-es>es</brev-es> baked hotte.
+<lb/>21 Lambe rost.
+<lb/>22 Pigeons rost.
+<lb/>23 Prawnes.
+<lb/>24 Poole fishe <unclear>sowst</unclear>.
+<lb/>25 <unclear>Stumpes</unclear> of Lambe
+<lb/>26 baked colde.
+<lb/>27 Dowlcett<brev-es>es</brev-es>.
+<lb/>28 Tarte . <metamark>flourish</metamark> . <metamark>flourish</metamark> .
+<lb/>
+<lb/><label>On <date>S<sl>t</sl> Georg<brev-es>es</brev-es> daye</date> at Dyner.</label> <heading>Theire dyet </heading><date><heading>on the }</heading>
+<lb/> morrowe</date> at dyner }
+<lb/>
+<lb/>3 Sallett<brev-es>es</brev-es> .3.
+<lb/>4 Mutton }
+<lb/>5 Cap<macron>o<ex>n</ex></macron>. } Colde.
+<lb/>6 Lambe }
+<lb/>
+<lb/>
+<lb/>
+<lb/></cb>
+<lb/><cb>7 Beefe . }</cb>
+<lb/>8 Mutton . }
+<lb/>9 Veale . } boylde.
+<lb/>10 Chickins }
+<lb/>11 Rost Veale
+<lb/>12 Pyke boyled hotte.
+<lb/>13 Venson baked hotte.
+<lb/>14 Legg<brev-es>es</brev-es> larded hotte
+<lb/>15 Capon rost
+<lb/>16 Carpe boyled hotte.
+<lb/>17 Alloes boyled hotte
+<lb/>18 Chickens rost
+<lb/>19 Tongues baked hotte.
+<lb/>20 Carpe Sow<unclear>z</unclear>.
+<lb/>21 Rabett<brev-es>es</brev-es> rost
+<lb/>22 Prawnes
+<lb/>23 Pigeons rost.
+<lb/>24 Tarte. <metamark>flourish</metamark> ./ <metamark>flourish</metamark> 
