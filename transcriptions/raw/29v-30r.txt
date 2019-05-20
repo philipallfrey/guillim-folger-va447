@@ -1,0 +1,73 @@
+<lb/><pb>29v</pb>
+<lb/>1 ffirst whoso breaketh most speares as they owght to be
+<lb/>broken shall have the pryse.
+<lb/>2 <macron>It<ex>e</ex>m</macron> whso hytteth three,tymes in the sight of the helmet
+<lb/>shall have the pruse.
+<lb/>3 <macron>It<ex>e</ex>m</macron> whoso meeteth twise Cournall to Cowrnall shall
+<lb/>have the pryse.
+<lb/>4 <macron>It<ex>e</ex>m</macron> whoso beareth a<macron>ma<ex>n</ex></macron> downe w<ex>i</ex><sl>th</sl> stroke of speare
+<lb/>shall have the pryse.
+<lb/><heading>
+<lb/>Here followeth wherfore the pryze
+<lb/>should be loste.</heading>
+<lb/>1 ffirst whoso striketh a horse shall have no pryse.
+<lb/>2 <macron>It<ex>e</ex>m</macron> whoso striketh a m<macron>a<ex>n</ex></macron> his backe tourned <del>shall have
+<lb/>no pryse</del> or disgarnished of his Speare shall have
+<lb/>no pryze ./ 2-3
+<lb/>3 <macron>It<ex>e</ex>m</macron> whoso hitteth the Toyle .3. tymes shall have no
+<lb/>prize.
+<lb/>4 <macron>It<ex>e</ex>m</macron> whso vnhelmeth hymselfe twyce shall have
+<lb/>no pryze: vlnesse his horse doe fayle hym.
+<lb/><heading>Here followeth how Spear<brev-es>es</brev-es> bro<macron>ke<ex>n</ex></macron>
+<lb/>shalbe allowed</heading>
+<lb/>1 ffirst whoso breaketh a speare betwene the Saddle
+<lb/>& the Charnell of the Helme shalb allowed for
+<lb/>one.
+<lb/>2 <macron>It<ex>e</ex>m</macron> whoso breaketh a speare from the Charnelle
+<lb/>
+<lb/>vpward<brev-es>es</brev-es> shalbe allowed for two.
+<lb/>3 <macron>It<ex>e</ex>m</macron> whoso breaketh a speare so as he strike hym
+<lb/>downe or put hym out of the saddle or disarmeth
+<lb/>hym in suche sorte, as he may not rvnne the next
+<lb/>Cowrse aft<brev-er>er</brev-er>: or breaketh his speare Cr<unclear>o</unclear>wnalle to ...
+<lb/>Cournall shalbe allowed .3.spear<brev-es>es</brev-es> broke.
+<lb/>
+<lb/>
+<lb/><heading>
+<lb/>Here followeth how the speares
+<lb/>brok<macron>e<ex>n</ex></macron> shalbe disallowed</heading>
+<lb/>1 ffirst whos breaketh on the Saddle shalbe disallowed for
+<lb/>a Speare breakinge./
+<lb/>2 <macron>It<ex>e</ex>m</macron> whoso hitteth the Toyle once shalbe disallowed
+<lb/>for two./
+<lb/>3 <macron>It<ex>e</ex>m</macron> whoso hitteth the Toyle twice for the seconde he
+<lb/>
+<lb/>shalbe abated three ./ <catchword> <macron>It<ex>e</ex>m</macron></catchword>
+<lb/>
+<lb/>
+<lb/><pb>30r</pb> <macron>It<ex>e</ex>m</macron> whoso breaketh a speare <span>w<ex>i</ex><sl>th</sl></span>in a foote of the
+<lb/>Cournall shalbe adiudged as no speare brok<macron>e<ex>n</ex></macron>
+<lb/>
+<lb/>but a fayre attaynte./
+<lb/>
+<lb/>
+<lb/><heading>ffor the pryze to be ge<macron>ve<ex>n</ex></macron>.</heading>
+<lb/>
+<lb/>1 ffirst whoso beareth a <macron>ma<ex>n</ex></macron> downe <del>be</del> out of the Saddle
+<lb/>or putteth hym to the earthe horse & <macron>ma<ex>n</ex></macron>, shall have
+<lb/>the pryze before hym that stryketh Cournalle to Cournall twyce./
+<lb/>2 <macron>It<ex>e</ex>m</macron> he that striketh Cournall twice shall have the
+<lb/>pryze before hym that striketh the sighte three tymes
+<lb/>3 <macron>It<ex>e</ex>m</macron> he that striketh the sighte .3. tymes shall have the
+<lb/>pryze before hym that breaketh most speares.
+<lb/>4 <macron>It<ex>e</ex>m</macron> yf there be any <macron>ma<ex>n</ex></macron> that fortuneth in this wyse
+<lb/>w<ex>hi</ex><sl>ch</sl> shalbe demmed to have abyd<macron>e<ex>n</ex></macron> longest in the field
+<lb/>healmed & to have rvnne the fayrest Cowrse & to
+<lb/>have gev<macron>e<ex>n</ex></macron> the greatest strokes, & to have holpen
+<lb/>hym selfe best w<ex>i</ex><sl>th</sl> his speare he shall have the
+<lb/>pryze ./ <metamark>flourish</metamark> . Subscribed John Worcester<metamark>flourish</metamark>./
+<lb/><graphic>drawing</graphic>
+<lb/>An attaint on <brev-y>th</brev-y><sl>e</sl> heade one Attaint A staffe brok<macron>e<ex>n</ex></macron> on the heade.
+<lb/>brok<macron>e<ex>n</ex></macron> on <brev-y>th</brev-y><sl>e</sl> heade ||||| Staves br<macron>oke<ex>n</ex></macron>
+<lb/>a staffe broken.
+<lb/>Dismissed for a staffe ylle broken.
