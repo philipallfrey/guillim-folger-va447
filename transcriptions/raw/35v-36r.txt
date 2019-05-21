@@ -1,0 +1,40 @@
+<lb/>
+<lb/><pb>35v</pb>
+<lb/><pb>36r</pb><heading>
+<lb/>The Coppye of my Oathe tak<macron>e<ex>n</ex></macron> at my
+<lb/>Creation. by the Name of Portesmowth
+<lb/>Purcev<macron>a<ex>n</ex>t</macron>e at Armes.</heading>
+<lb/>ffyrst y<macron>o<ex>u</ex></macron> sweare to be trewe and Loyall vnto
+<lb/>the king<brev-es>es</brev-es> M<macron>a<ex>ies</ex>tye</macron>. his Crowne & dignitye. That
+<lb/>y<macron>o<ex>u</ex></macron> shall endeuo<ex>u</ex><sl>r</sl> <del>yo<ex>u</ex><sl>r</sl>selfe</del> to be studious Co<macron>n<ex>n</ex></macron>inge &
+<lb/>experte in the knowledge of <del>Armes</del> hono<ex>u</ex><sl>r</sl> Armes
+<lb/>& Chyvalrye: eschewinge of all evyll companye
+<lb/>and betakinge yo<ex>u</ex><sl>r</sl> selfe to vertue and Learninge
+<lb/>wherby y<macron>o<ex>u</ex></macron> may attayne to further advancem<macron>e<ex>n</ex>t</macron>e
+<lb/>w<macron>he<ex>n</ex></macron> yt shall hap<macron>pe<ex>n</ex></macron> to fall down vnto yo<macron><ex>u</ex></macron>. <metamark>flourish</metamark>.
+<lb/><metamark>scribble</metamark>
+<lb/><heading>
+<lb/>Officers of Armes. Martii.26.1604
+<lb/>& Anno :RR: Jacobi primo.</heading>
+<lb/>
+<lb/><heading>Names of Office.</heading>  <heading>Surnames.</heading>
+<lb/>{ Garter -- <name>W<ex>illia</ex><sl>m</sl>: Segar</name>.
+<lb/><label>Kinges of Armes</label> { Clarentieulx. -- <name>W<ex>illia</ex><sl>m</sl>: Camden</name>.
+<lb/>{ Norroye. -- <name>Rich<ex>ard</ex>: St: George</name>.
+<lb/>
+<lb/>{ Yorke. -- <name><ins>Raphe</ins> Brookes<ins>mowthe</ins></name>
+<lb/>{ Richmond: -- <name>Raven</name>.
+<lb/>
+<lb/><label>Herauldes.</label>{ Som<brev-er>er</brev-er>set -- <name><ins>Rob<ex>er</ex>t</ins> Treswell</name>.
+<lb/>{ Lancaster. -- <name>Thynne</name>.
+<lb/>{ Chester. -- <name><ins>Tho</ins> Knighte</name>.
+<lb/>{ Wyndsore. -- <name><ins>Sam<ex>uel</ex>:</ins> Tomson</name>.
+<lb/>
+<lb/>
+<lb/>{ Rowgdrag<macron>o<ex>n</ex></macron> -- <name>W<ex>illia</ex><sl>m</sl>: Smyth</name>
+<lb/>{ Blewmantell. -- <name>Mercury Patey</name>
+<lb/><label>Purcevant<brev-es>es</brev-es></label> { Portcullys. -- <name>Phillippe Holland</name>
+<lb/>{ Rowgcrosse. -- <name>W<ex>illia</ex><sl>m</sl> Wyrley</name>.
+<lb/>{ Portesmowthe. -- <name>John Gwyllym</name>.
+<lb/><metamark>flourish</metamark> <metamark>scribble</metamark> . <metamark>flourish</metamark> <metamark>scribble</metamark>
+<lb/>
