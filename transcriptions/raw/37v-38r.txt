@@ -1,0 +1,40 @@
+<lb/>
+<lb/><pb>37v</pb>
+<lb/><heading>
+<lb/>Noble<macron>me<ex>n</ex></macron> created by the king<brev-es>es</brev-es> }
+<lb/>
+<lb/>M<macron>a<ex>ies</ex>tie</macron>. <date>Anno :RR: Jacobi primo</date> }
+<lb/>
+<lb/></heading>
+<lb/><name>Ro<macron>b<ex>er</ex>te</macron> :Ba<ex>ron</ex>: Sydney Bar<macron>o<ex>n</ex></macron> of Penhurste</name>
+<lb/><name>W<ex>illia</ex>m: Knowles. Bar<macron>o<ex>n</ex></macron> of Grayes</name>.
+<lb/><name>Edward, Wott<macron>o<ex>n</ex></macron>. Bar<macron>o<ex>n</ex></macron> of Marley</name>.
+<lb/><name>R<macron>ob<ex>er</ex>te</macron>. Cecill. Bar<macron>o<ex>n</ex></macron> of Esingdon</name>.
+<lb/><name>Thomas Earle of Suffolke</name>.
+<lb/><name>Henry. E<ex>arle</ex>: of Sowthampton</name>.
+<lb/><name>Charles :E<ex>arle</ex>: of Devon</name>.
+<lb/><name>Jo<macron>h<ex>n</ex>n</macron> Harington. Bar<macron>o<ex>n</ex></macron> of Ext<macron>o<ex>n</ex></macron></name>.
+<lb/><name>R<macron>ob<ex>er</ex>te</macron> Spencer. Bar<macron>o<ex>n</ex></macron> of Wormeleight<macron>o<ex>n</ex></macron></name>
+<lb/><name>Jo<macron>h<ex>n</ex>n</macron> Peet<ex>er</ex>. Bar<macron>o<ex>n</ex></macron> of Writtell</name>.
+<lb/><name>Henry Danvers. Bar<macron>o<ex>n</ex></macron> of Dauntesey</name>.
+<lb/><name>Tho<ex>mas</ex>: Gerarde. Bar<macron>o<ex>n</ex></macron> of Gerad<brev-es>es</brev-es> Bromley</name>.
+<lb/><name>W<ex>illia</ex>m: Russell. Bar<macron>o<ex>n</ex></macron> of Thornehawghe</name>.
+<lb/><name>Henry Graye. Bar<macron>o<ex>n</ex></macron> of Groby</name>.
+<lb/><name>Thomas Egert<macron>on</macron>. Bar<macron>o<ex>n</ex></macron> of Elsmere</name>.
+<lb/><name>Henry Lo<ex>rd</ex>: Harbart</name>.
+<lb/>
+<lb/><name>Willi<macron>a<ex>m</ex></macron> Howard. Bar<macron>o<ex>n</ex></macron> of Effing<macron>ha<ex>m</ex></macron></name>./
+<lb/>
+<lb/>
+<lb/><pb>38r</pb>
+<cb/>
+<lb/>In fenestra { In Eccl<ex>es</ex>ia de <place>Brightwell</place> }
+<lb/>{ <place>in Comitat<ex>u</ex>. Oxo<macron>n<ex>ense</ex></macron></place>. }
+<lb/>{ In Cancella ibidem. }
+<lb/><graphic>drawing</graphic> <graphic>drawing</graphic>
+<lb/>IOHANNES <unclear>PARKER</unclear> PATRONIS ISTIUS ECCLESIAE
+<cb/>
+<lb/>In fenestra. { In Cancella Ecclesia de }
+<lb/>{ <place>Coddesbrooke</place> in <place>Co<macron>mit<ex>atu</ex></macron>}
+<lb/>{ Northampton</place> . ~ . ~ }
+<lb/><graphic>drawing</graphic>
