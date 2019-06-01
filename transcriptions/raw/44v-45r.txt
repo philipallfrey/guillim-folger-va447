@@ -1,0 +1,98 @@
+<lb/><pb>44v</pb>
+<lb/><heading>{ In <place><macron>eccl<ex>es</ex>ia</macron> de knebworthe</place> }
+<lb/>{ in <place>C<macron>om<ex>itatu</ex></macron>: Hertforde.</place> }</heading>
+<lb/><graphic>drawing</graphic> Hic iacet Clarissima femina <name>Anna Lytt<macron>o<ex>n</ex></macron></name> filia <name>Oliu<brev-er>er</brev-er>i Baronis S<sl>t</sl>:
+<lb/>John de Blet<unclear>ne</unclear>sho</name>. prmis nuptiis iuncta <name>Ro<macron>b<ex>er</ex>to</macron> Corbet de
+<lb/>Morton Corbet</name> Armig<brev-er>er</brev-er>o ex q<ex>u</ex><sl>o</sl> suscepit <name>Elizab<macron>etha<ex>m</ex></macron></name> vx<macron>ore<ex>m</ex></macron> <name>He<macron>nr<ex>ici</ex></macron>
+<lb/></name>
+<lb/><name>Walloppe milit<brev-es>is</brev-es></name> & <name>An<macron>na<ex>m</ex></macron></name> nupt<macron>a<ex>m</ex></macron> <name>Adulpho Carye Armig<brev-er>er</brev-er>o</name>
+<lb/>& altero marito <name>Rowlande Lytt<macron>o<ex>n</ex></macron> de knebworth Armigero</name>
+<lb/>reliquit filios <name>Gwiliel<macron>mu<ex>m</ex></macron></name> <name>Rowland<macron>u<ex>m</ex></macron></name> et <name>Philip<macron>pu<ex>m</ex></macron></name>. ffilias
+<lb/><name>An<macron>na<ex>m</ex></macron></name>. <name>Judith</name> <name>Elizabetham</name> & <name>J<macron>ana<ex>m</ex></macron></name>. vixit quadraginta
+<lb/>Annos. Nobilis, venusta, pia Clara deo et <macron>ho<ex>m</ex>i<ex>n</ex>ibusz:</macron> obiit
+<lb/>mul<macron>tu<ex>m</ex></macron> deplorata. Vltimo ffeb<ex>ruario</ex>: A<ex>nn</ex>o: Salut<brev-es>is</brev-es> .<date>1601</date>. pro
+<lb/>cui<ex>us</ex>q bene acta vita D<macron>eu<ex>m</ex></macron> laudate. utq<ex>ue</ex>z <macron>cu<ex>m</ex></macron> Sanctis ....
+<lb/>co<macron>m<ex>m</ex></macron>vnicatis Orate./
+<lb/>
+<lb/>
+<lb/><macron>Ib<ex>ide</ex>m</macron>
+<lb/><graphic>drawing</graphic> <graphic>drawing</graphic> Hic <brev-p>p</brev-p><ex>ro</ex>ce<macron>ru<ex>m</ex></macron> de stirpe satum <macron>cu<ex>m</ex></macron> Coniuge <name>Clara</name>
+<lb/><name>John Hotofte</name> iterum tolluris gleba maritat,
+<lb/>Hospitii Reg<brev-es>is</brev-es> qui Thesaurari<ex>us</ex>q olim
+<lb/><name>Hen<ex>rici</ex>: Sexti</name> merito pollebat honore.
+<lb/>Sic lux <brev-p>p</brev-p><ex>er</ex>petua sibi post h<unclear>e</unclear>c horrida lustra.
+<lb/>Cor<brev-p>p</brev-p><ex>or</ex>a Spiritib<ex>us</ex>q cum Lux su<brev-p>p</brev-p><ex>r</ex>ema rei<unclear><macron>u<ex>n</ex>g</macron></unclear>et./
+<lb/>
+<lb/><graphic>drawing</graphic> <graphic>drawing</graphic> <name>Rowland<ex>us</ex>q Lytt<macron>o<ex>n</ex></macron></name> Armig<brev-er>er</brev-er> qui virilit<brev-er>er</brev-er> Arma gessit in bello
+<lb/>Dux fortis in pace optim<ex>us</ex>q magistrat<ex>us</ex>q obiit <date>Julii .1582.</date>
+<lb/>Vxores <macron>h<ex>ab</ex>uit</macron> <name>Margaretam Tate</name> & <name>An<macron>na<ex>m</ex></macron> Carleton</name>.
+<lb/>ex prima reliquit <name>M<macron>aria<ex>m</ex></macron></name> ex altera <name>Rowland<macron>u<ex>m</ex></macron></name> et
+<lb/><name>ffrancissc<macron>u<ex>m</ex></macron></name>./
+<lb/>Hic iacet D<macron><ex>omi</ex>n<ex>us</ex>q</macron> <name>Sim<macron>o<ex>n</ex></macron> Bache</name> C<macron>l<ex>er</ex>ic</macron><ex>us</ex>q: q<ex>u</ex><sl>o</sl>nd<macron>a<ex>m</ex></macron> Thesaurari<ex>us</ex>q
+<lb/>hospitii <name>Illustrissimi Principis D<macron><ex>omi</ex>ni</macron> Henr<ex>ici</ex>: Quinti
+<lb/>Reg<brev-es>is</brev-es> Anglie</name> et Canonic<ex>us</ex>q <macron>eccl<ex>es</ex>ie</macron> Cathedralis S<ex>anc</ex><sl>ti</sl> Pauli
+<lb/>
+<lb/>London<ex><unclear>ensis</unclear></ex>: qui obiit .19.die Maii .M. iiii<sup>C</sup> <unclear>ani<ex>us</ex>q</unclear> <unclear>domine</unclear>
+<lb/><unclear>propitietum de<ex>us</ex>q.</unclear>/
+<lb/>
+<lb/>
+<lb/><pb>45r</pb>
+<lb/><heading>
+<lb/>The ffees dewe to the Officers of Armes for
+<lb/><brev-p>p</brev-p><ex>er</ex>formance of a ffunerall by themseluws or by
+<lb/>their deputye. As followeth.
+<lb/>
+<lb/></heading>
+<lb/>Clarencieulx his ffee. -- <amt>.v.<sup>li</sup></amt>
+<lb/>ffor his blackes. -- <amt>v.<sup>li</sup></amt>
+<lb/>Black<brev-es>es</brev-es> for his serv<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es>.-- <amt>xxx<sup>s</sup></amt>.
+<lb/>Transportation money outward<brev-es>es</brev-es> & homewardes aft<brev-er>er</brev-er> . <amt>xii<sup>d</sup></amt>
+<lb/>eche myle./ A Certificat. -- <amt>xx<sup>s</sup></amt>./
+<lb/>
+<lb/>
+<lb/>The Heraulde for his fee. -- <amt>.iii<sup>li</sup>: vi<sup>s</sup>. viii<sup>d</sup></amt>
+<lb/>ffor his black<brev-es>es</brev-es>. -- <amt>.iii.<sup>li</sup>. vi<sup>s</sup>. viii<sup>d</sup></amt>
+<lb/>ffor his servant<brev-es>es</brev-es> black<brev-es>es</brev-es>. -- <amt>.xv.<sup>s</sup></amt>
+<lb/>Transportation money outward<brev-es>es</brev-es> & homward<brev-es>es</brev-es> aft<brev-er>er</brev-er> <amt>vi<sup>d</sup></amt>
+<lb/>eche myle.
+<lb/>A Certificat. -- <amt>.xx<sup>s</sup></amt>./
+<lb/>
+<lb/>
+<lb/><heading>The Hatchment<brev-es>es</brev-es> w<ex>i</ex><sl>th</sl> theire p<ex>ar</ex>ticuler prizes./</heading>
+<lb/>
+<lb/>
+<lb/>
+<lb/>The Coate Armore. -- <amt>.xxvj<sup>s</sup>. viii<sup>d</sup></amt>./
+<lb/>The Pen<macron>o<ex>n</ex></macron> wherin must be inserted the }
+<lb/>Armes of the deffuncte. And must } <amt>.xxvi<sup>s</sup>. viii<sup>d</sup></amt>/
+<lb/>be of the lengthe of Two yardes and }
+<lb/>an halfe. }
+<lb/>The Standarde wherin must be placed }
+<lb/>
+<lb/>the Crosse of S<sl>t</sl>: George, together w<ex>i</ex><sl>th</sl> } <amt>.xl<sup>s</sup>.</amt>/
+<lb/>the Creast & woorde of the defuncte, & }
+<lb/>
+<lb/>must be ffowre yard<brev-es>es</brev-es> longe. }
+<lb/>A Helme. -- <amt>xvi<sup>s</sup></amt>
+<lb/>A Creaste . -- <amt>xiii<sup>s</sup>.iiii<sup>d</sup></amt>
+<lb/>Mantell w<ex>i</ex><sl>th</sl> Knoppes & Tassells. -- <amt>xx<sup>s</sup></amt>./
+<lb/>Escocheons in Mettall vp<macron>o<ex>n</ex></macron> Paper . -- <amt>xvi<sup>d</sup></amt> <brev-y>th</brev-y><sl>e</sl> dozo<ex>n</ex>.
+<lb/>Escocheons in Colo<ex>u</ex><sl>r</sl> vp<macron>o<ex>n</ex></macron> pa<brev-p>p</brev-p><ex>er</ex>. -- <amt>xii<sup>d</sup></amt>/. the dozon.
+<lb/>Halfe a doz<macron>o<ex>n</ex></macron> of Escocheons in Mettall }--.<amt>xii<sup>s</sup></amt>./ .
+<lb/>
+<lb/>vp<macron>o<ex>n</ex></macron> Bucke<macron>ra<ex>m</ex></macron> at .<amt>ii<sup>s</sup></amt>. eche Escoch<macron>eo<ex>n</ex></macron> }
+<lb/>
+<lb/>
+<lb/><heading>The proceadinge at the ffvnerall of a knight</heading>
+<lb/>ffirst .2. Confuctors to goe before w<ex>i</ex><sl>th</sl> blacke staves.
+<lb/>Poore <macron>me<ex>n</ex></macron> in Gownes .2. and .2.
+<lb/>Gentilmens servant<brev-es>es</brev-es> in Cloak<brev-es>es</brev-es>.
+<lb/>Th<macron>e<ex>n</ex></macron> the Standarde borne by a ge<macron>nt<ex>ilman</ex></macron> in a gowne & hoode
+<lb/>Serv<macron>a<ex>n</ex>t</macron>es to the defuncte.
+<lb/>Gentil<macron>me<ex>n</ex></macron> in Cloak<brev-es>es</brev-es>
+<lb/>Gentilm<macron>e<ex>n</ex></macron> in Gownes.
+<lb/>The Preacher.
+<lb/>The Penon of Armes borne by  a Gentil<macron>ma<ex>n</ex></macron> of the
+<lb/>kynred in a Gowne & hoode.
+<lb/><catchword>Helme &</catchword>
+<lb/>
