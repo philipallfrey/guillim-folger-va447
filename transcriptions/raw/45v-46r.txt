@@ -1,0 +1,64 @@
+<lb/>
+<lb/><pb>45v</pb>
+<lb/>The Helme & Creaste. borne by an Heraulde.
+<lb/>The Sworde & Target. borne by an Heraulde.
+<lb/>The Coate Armo<ex>u</ex><sl>r</sl> borne by Clarenti<ex>us</ex>q.
+<lb/><graphic>drawing</graphic> The bodye
+<lb/>Th<macron>e<ex>n</ex></macron> the Principall mowrn<brev-er>er</brev-er> assisted }
+<lb/>by ffowre w<ex>i</ex><sl>th</sl> Gownes & hood<brev-es>es</brev-es> }
+<lb/>Gentil<macron>me<ex>n</ex></macron> w<ex>i</ex><sl>th</sl>out black<brev-es>es</brev-es>./
+<lb/>
+<lb/>
+<lb/><heading>The Offeringe. & man<brev-er>er</brev-er> therof</heading>
+<lb/>ffirst the Chiefe mowrn<brev-er>er</brev-er> to offer alone (for the defuncte)
+<lb/>beinge attended on by the .4. Assistant<brev-es>es</brev-es>: the Chyefe
+<lb/>Mowrn<brev-er>er</brev-er> to tarry stille at the <macron>Com<ex>m</ex></macron>vni<macron>o<ex>n</ex></macron> table to receave
+<lb/>the Hachm<macron>e<ex>n</ex>t</macron><brev-es>es</brev-es>, & the .4. Assistant<brev-es>es</brev-es> to goe backe to theire
+<lb/>plac<brev-es>es</brev-es> w<ex>i</ex><sl>th</sl>in the Herse.
+<lb/>T<macron>he<ex>n</ex></macron> the Coate Armo<ex>u</ex><sl>r</sl> to be first offered
+<lb/>T<macron>he<ex>n</ex></macron> the Sworde.
+<lb/>Nexte aft<brev-er>er</brev-er> that the Targe.
+<lb/>Th<macron>e<ex>n</ex></macron> the Helme & Creaste.
+<lb/>T<macron>he<ex>n</ex></macron> the Penon.
+<lb/>Th<macron>e<ex>n</ex></macron> the Standarde.
+<lb/>T<macron>he<ex>n</ex></macron> the Chiefe Mowrn<brev-er>er</brev-er> to be brought downe to his
+<lb/>place w<ex>i</ex><sl>th</sl>in the Herse, & aft<brev-er>er</brev-er> a little pawse there, to
+<lb/>offer for hymselfe. & so Retorne to his place.
+<lb/>T<macron>he<ex>n</ex></macron> the .4. Assistant<brev-es>es</brev-es> to offer.
+<lb/>Then Gentil<macron>me<ex>n</ex></macron> in Gownes,
+<lb/>The Gentil<macron>me<ex>n</ex></macron> in Cloak<brev-es>es</brev-es>.
+<lb/>--
+<lb/>Th<macron>e<ex>n</ex></macron> to retorne backe in <brev-p>p</brev-p><ex>ro</ex>ceadinge home in order as they
+<lb/>came to Churche . <metamark>flourish</metamark> .
+<lb/>
+<lb/>
+<lb/><heading>An Esquire must have <brev-p>p</brev-p><ex>ro</ex>ceadinge, in
+<lb/>forme as a knighte savinge that they
+<lb/>doe differ in theire Hachmentes and
+<lb/></heading>
+<lb/><heading>Assistant<brev-es>es</brev-es>.</heading>
+<lb/>He is to have a Pe<macron>n<ex>n</ex>on</macron> of his Armes.
+<lb/>A Helme & Creaste.
+<lb/>A Coate of Armes.
+<lb/>An Esquier to be Chiege mowrn<brev-er>er</brev-er> & Two Esquires to be
+<lb/>Assistant<brev-es>es</brev-es>./
+<lb/>
+<lb/>
+<lb/><unclear>Bro</unclear>.
+<lb/>
+<lb/>
+<lb/><pb>46r</pb>
+<lb/><heading>
+<lb/>ffees dewe & payable to his M<macron>a<ex>ies</ex>ties</macron>
+<lb/>officers by eu<brev-er>er</brev-er> Bacheler knighte that
+<lb/>is made./. </heading> As followeth
+<lb/>
+<lb/>To the Earle Marshall for the tyme beinge -- <amt>iii<sup>li</sup> vi<sup>s</sup> viii<sup>d</sup></amt>
+<lb/>To the Herauld<brev-es>es</brev-es> -- <amt>.v.<sup>li</sup></amt>
+<lb/>To the g<macron>e<ex>n</ex>t</macron><ex>illmen</ex>: vshes -- <del> <amt>.v.<sup>li</sup></amt></del>
+<lb/>To the Quarter Wayters -- <amt>.xl<sup>s</sup>.</amt>
+<lb/>To the Sewers of the Chamber -- .<amt>xl<sup>s</sup></amt>.
+<lb/>To the Serg<macron>ea<ex>n</ex>t</macron><brev-es>es</brev-es> at Armes -- <amt>xx<sup>s</sup></amt>
+<lb/>To the yeo<macron>me<ex>n</ex></macron> vshers, groomes & pages -- .<amt>xl<sup>s</sup></amt>
+<lb/>To the porters -- <amt>.xx.<sup>s</sup></amt>
+<lb/>Sum<ex>m</ex>a tot: -- <amt>xxi<sup>li</sup>.xiii<sup>s</sup>.iiii<sup>d</sup></amt>
