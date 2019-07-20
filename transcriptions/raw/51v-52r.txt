@@ -6,7 +6,7 @@
 <lb/>r<macron>eru<ex>m</ex></macron>.
 <lb/>2 Digniorib<ex>us</ex>z digniora loca sunt
 <lb/>danda.
-<lb/>3 Quod breui<ex>us</ex>q est sem<brev-p>p<ex>er</ex></brev-p> delectabilior
+<lb/>3 Quod breui<brev-us>us</brev-us> est sem<brev-p>p<ex>er</ex></brev-p> delectabilior
 <lb/>habet<brev-er>ur</brev-er> <name>Arist</name>: Rhet: 3.
 <lb/>
 <lb/>4 Omnis sermo si sit brevior <unclear>quam</unclear> <unclear>oportet</unclear>
@@ -22,8 +22,8 @@
 <lb/>natura dat sibi loc<macron>u<ex>m</ex></macron> perfectior<macron>e<ex>m</ex></macron>
 <lb/>& nobili<macron>ore<ex>m</ex></macron>. <unclear>Bekrii</unclear>.
 <lb/>7 Omnis primatio p<sl>r</sl><ex>ae</ex>supponit habi<macron>tu<ex>m</ex></macron>.
-<lb/>8 Illud est meli<ex>us</ex>q q<ex>u</ex><sl>o</sl>d optimo est
-<lb/><brev-p>p<ex>ro</ex></brev-p>pinqui<ex>us</ex>q. <name>Arist</name>: 2: de Caelo.
+<lb/>8 Illud est meli<brev-us>us</brev-us> q<ex>u</ex><sl>o</sl>d optimo est
+<lb/><brev-p>p<ex>ro</ex></brev-p>pinqui<brev-us>us</brev-us>. <name>Arist</name>: 2: de Caelo.
 <lb/>9 Res que sunt ead<macron>e<ex>m</ex></macron> specie n<macron>o<ex>n</ex></macron>
 <lb/>reddunt<brev-er>ur</brev-er> Diu<brev-er>er</brev-er>sae <macron>It<ex>e</ex>m</macron> diffe=
 <lb/>rentias. <name>Arist</name>: Phy: 4.
@@ -35,7 +35,7 @@
 <lb/>et n<macron>o<ex>n</ex></macron> alias mutare subiect<macron>u<ex>m</ex></macron>.
 <lb/><name>Arist:</name>
 <lb/>12 Soror est quasi seors<macron>u<ex>m</ex></macron> nata &
-<lb/>a ffamilia se<brev-p>p<ex>ar</ex></brev-p>ata. <name>Sozin<ex>us</ex>q</name>
+<lb/>a ffamilia se<brev-p>p<ex>ar</ex></brev-p>ata. <name>Sozin<brev-us>us</brev-us></name>
 <lb/>13 Priora sunt Compositis incom=
 <lb/>posita. <name>Arist</name>. Metaph: 13.
 <lb/>14 Pluralitas Indiuiduor<ex>um</ex> <del>dimi=</del>
@@ -74,9 +74,9 @@
 <lb/></cb>
 <lb/><cb>22 Soli Col<macron>o<ex>u</ex></macron>res Iridis n<macron>o<ex>n</ex></macron> possunt
 <lb/></cb>
-<lb/><cb>fieri a pictorib<ex>us</ex>q. <name>Arist</name>. Mete:</cb>
+<lb/><cb>fieri a pictorib<brev-us>us</brev-us>. <name>Arist</name>. Mete:</cb>
 <lb/><cb>3tio./</cb>
-<lb/><cb>23 Natura sem<brev-p>p<ex>er</ex></brev-p> <unclear>in</unclear>tendit q<ex>u</ex><sl>o</sl>d meli<ex>us</ex>q
+<lb/><cb>23 Natura sem<brev-p>p<ex>er</ex></brev-p> <unclear>in</unclear>tendit q<ex>u</ex><sl>o</sl>d meli<brev-us>us</brev-us>
 <lb/></cb>
 <lb/><cb>est.
 <lb/></cb>
@@ -87,12 +87,12 @@
 <lb/></cb>
 <lb/><cb>25 Est de natura faciei antecedere.</cb>
 <lb/><cb>26 Dispositio <unclear>lauda</unclear>tissima Animalis</cb>
-<lb/><cb>est, vt in <macron>o<ex>mn</ex>ibusz</macron> dispositi<macron>o<ex>n</ex>ib<ex>us</ex>q</macron> sit</cb>
+<lb/><cb>est, vt in <macron>o<ex>mn</ex>ibusz</macron> dispositi<macron>o<ex>n</ex>ib<brev-us>us</brev-us></macron> sit</cb>
 <lb/><cb>secund<macron>u<ex>m</ex></macron> curs<macron>u<ex>m</ex></macron> naturae. <name>Arist</name></cb>
 <lb/><cb>Phisi:7.</cb>
-<lb/><cb>27 Pars dextra est principi<macron>u<ex>m</ex></macron> mot<ex>us</ex>q
+<lb/><cb>27 Pars dextra est principi<macron>u<ex>m</ex></macron> mot<brev-us>us</brev-us>
 <lb/></cb>
-<lb/><cb><unclear>et</unclear> mot<ex>us</ex>q pedis sinistri A<ex>n</ex><macron>i<ex>m</ex>alis</macron>
+<lb/><cb><unclear>et</unclear> mot<brev-us>us</brev-us> pedis sinistri A<ex>n</ex><macron>i<ex>m</ex>alis</macron>
 <lb/></cb>
 <lb/><cb>est Accidentalis. <name>Arist</name>.
 <lb/></cb>
@@ -105,19 +105,19 @@
 <lb/><cb>potes<unclear>t</unclear>.
 <lb/></cb>
 <lb/>30 In A<ex>n</ex>i<macron><ex>m</ex>aliu<ex>m</ex></macron> ratione, su<brev-p>p<ex>er</ex></brev-p>iora
-<lb/>Inferiorib<ex>us</ex>q nobiliora censeunt<brev-er>ur</brev-er>
+<lb/>Inferiorib<brev-us>us</brev-us> nobiliora censeunt<brev-er>ur</brev-er>
 <lb/>sic <unclear>Antica postiris</unclear>, & sinistris
 <lb/>dextera. <name>Caesii</name> secundi. De Antiq<ex>u</ex><sl>i</sl>=
 <lb/>tate. Lib: 1.
 <lb/>31 Natura c<macron>o<ex>n</ex></macron>stituit r<macron>e<ex>m</ex></macron> nobilior<macron>e<ex>m</ex></macron> in
 <lb/>Loco nobiliori, vt Cor, in medii
-<lb/><name>Arist</name>. d'A<ex>n</ex>i<ex>m</ex>alib<ex>us</ex>q .12. <macron>Lib<ex>er</ex></macron>.
+<lb/><name>Arist</name>. d'A<ex>n</ex>i<ex>m</ex>alib<brev-us>us</brev-us> .12. <macron>Lib<ex>er</ex></macron>.
 <lb/>32 Arma tanto magis laudibilia <unclear>sunt</unclear>
 <lb/>qu<macron>a<ex>n</ex>t</macron>o res in eis signata lauda=
 <lb/>bilior existit. <name>Bartho</name>.
 <lb/>Principi<macron>u<ex>m</ex></macron> agendi in re qualibet
 <lb/>est ipsemet finis, si agentis in=
-<lb/>tention<macron>e<ex>m</ex></macron>, n<macron>o<ex>n</ex></macron> opus spectes. <name>Casi<ex>us</ex>q</name>
+<lb/>tention<macron>e<ex>m</ex></macron>, n<macron>o<ex>n</ex></macron> opus spectes. <name>Casi<brev-us>us</brev-us></name>
 <lb/>de Sphera. Lib: 7.
 <lb/>33 Demonstra<macron>tio<ex>n</ex>es</macron> sunt <brev-p>p<ex>er</ex></brev-p>fectiores
 <lb/>& nobiliores quando induc<macron>u<ex>n</ex>t</macron>

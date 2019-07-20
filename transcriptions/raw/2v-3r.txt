@@ -1,6 +1,6 @@
 <lb/><pb>2v</pb>
 <lb/><metamark>X</metamark> Si illud ex q<ex>u</ex><sl>o</sl> causat<brev-er>ur</brev-er> nobilitas, vt
-<lb/>Regn<macron>u<ex>m</ex></macron> Ducat<unclear> <ex>us</ex></unclear> Comitat<unclear> <ex>us</ex></unclear> &c de=
+<lb/>Regn<macron>u<ex>m</ex></macron> Ducat<brev-us>us</brev-us> Comitat<brev-us>us</brev-us> &c de=
 <lb/>scendit as post<ex>e</ex>ros tunc in infinit<macron>u<ex>m</ex></macron>
 <lb/>erit ille nobilis ad qu<macron>e<ex>m</ex></macron> trans<unclear>i</unclear>t
 <lb/>ipsa nobilitat<brev-es>is</brev-es> causa

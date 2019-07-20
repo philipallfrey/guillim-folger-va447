@@ -6,6 +6,6 @@
 <lb/>Holl
 <lb/><pb>8r</pb>
 <lb/>
-<lb/><graphic>drawing</graphic> <name><del>Edward<ex>us</ex>q Terti<ex>us</ex>q</del></name> <name>Ricard<ex>us</ex>q Secund<ex>us</ex>q</name> <graphic>drawing</graphic> <name>Edw<ex>ardus</ex>: Terti<ex>us</ex>q</name>
-<lb/><graphic>drawing</graphic> <graphic>drawing</graphic> <name><macron>Ric<ex>ardus</ex>q</macron> Terti<ex>us</ex>q</name>
+<lb/><graphic>drawing</graphic> <name><del>Edward<brev-us>us</brev-us> Terti<brev-us>us</brev-us></del></name> <name>Ricard<brev-us>us</brev-us> Secund<brev-us>us</brev-us></name> <graphic>drawing</graphic> <name>Edw<ex>ardus</ex>: Terti<brev-us>us</brev-us></name>
+<lb/><graphic>drawing</graphic> <graphic>drawing</graphic> <name><macron>Ric<ex>ardus</ex>q</macron> Terti<brev-us>us</brev-us></name>
 <lb/>

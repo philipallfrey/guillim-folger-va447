@@ -11,29 +11,29 @@
 <lb/><name>An<macron>na<ex>m</ex></macron></name>. <name>Judith</name> <name>Elizabetham</name> & <name>J<macron>ana<ex>m</ex></macron></name>. vixit quadraginta
 <lb/>Annos. Nobilis, venusta, pia Clara deo et <macron>ho<ex>m</ex>i<ex>n</ex>ibusz:</macron> obiit
 <lb/>mul<macron>tu<ex>m</ex></macron> deplorata. Vltimo ffeb<ex>ruario</ex>: A<ex>nn</ex>o: Salut<brev-es>is</brev-es> .<date>1601</date>. pro
-<lb/>cui<ex>us</ex>q bene acta vita D<macron>eu<ex>m</ex></macron> laudate. utq<ex>ue</ex>z <macron>cu<ex>m</ex></macron> Sanctis ....
+<lb/>cui<brev-us>us</brev-us> bene acta vita D<macron>eu<ex>m</ex></macron> laudate. utq<ex>ue</ex>z <macron>cu<ex>m</ex></macron> Sanctis ....
 <lb/>co<macron>m<ex>m</ex></macron>vnicatis Orate./
 <lb/>
 <lb/>
 <lb/><macron>Ib<ex>ide</ex>m</macron>
 <lb/><graphic>drawing</graphic> <graphic>drawing</graphic> Hic <brev-p>p<ex>ro</ex></brev-p>ce<macron>ru<ex>m</ex></macron> de stirpe satum <macron>cu<ex>m</ex></macron> Coniuge <name>Clara</name>
 <lb/><name>John Hotofte</name> iterum tolluris gleba maritat,
-<lb/>Hospitii Reg<brev-es>is</brev-es> qui Thesaurari<ex>us</ex>q olim
+<lb/>Hospitii Reg<brev-es>is</brev-es> qui Thesaurari<brev-us>us</brev-us> olim
 <lb/><name>Hen<ex>rici</ex>: Sexti</name> merito pollebat honore.
 <lb/>Sic lux <brev-p>p<ex>er</ex></brev-p>petua sibi post h<unclear>e</unclear>c horrida lustra.
-<lb/>Cor<brev-p>p<ex>or</ex></brev-p>a Spiritib<ex>us</ex>q cum Lux su<brev-p>p<ex>r</ex></brev-p>ema rei<unclear><macron>u<ex>n</ex>g</macron></unclear>et./
+<lb/>Cor<brev-p>p<ex>or</ex></brev-p>a Spiritib<brev-us>us</brev-us> cum Lux su<brev-p>p<ex>r</ex></brev-p>ema rei<unclear><macron>u<ex>n</ex>g</macron></unclear>et./
 <lb/>
-<lb/><graphic>drawing</graphic> <graphic>drawing</graphic> <name>Rowland<ex>us</ex>q Lytt<macron>o<ex>n</ex></macron></name> Armig<brev-er>er</brev-er> qui virilit<brev-er>er</brev-er> Arma gessit in bello
-<lb/>Dux fortis in pace optim<ex>us</ex>q magistrat<ex>us</ex>q obiit <date>Julii .1582.</date>
+<lb/><graphic>drawing</graphic> <graphic>drawing</graphic> <name>Rowland<brev-us>us</brev-us> Lytt<macron>o<ex>n</ex></macron></name> Armig<brev-er>er</brev-er> qui virilit<brev-er>er</brev-er> Arma gessit in bello
+<lb/>Dux fortis in pace optim<brev-us>us</brev-us> magistrat<brev-us>us</brev-us> obiit <date>Julii .1582.</date>
 <lb/>Vxores <macron>h<ex>ab</ex>uit</macron> <name>Margaretam Tate</name> & <name>An<macron>na<ex>m</ex></macron> Carleton</name>.
 <lb/>ex prima reliquit <name>M<macron>aria<ex>m</ex></macron></name> ex altera <name>Rowland<macron>u<ex>m</ex></macron></name> et
 <lb/><name>ffrancissc<macron>u<ex>m</ex></macron></name>./
-<lb/>Hic iacet D<macron><ex>omi</ex>n<ex>us</ex>q</macron> <name>Sim<macron>o<ex>n</ex></macron> Bache</name> C<macron>l<ex>er</ex>ic</macron><ex>us</ex>q: q<ex>u</ex><sl>o</sl>nd<macron>a<ex>m</ex></macron> Thesaurari<ex>us</ex>q
+<lb/>Hic iacet D<macron><ex>omi</ex>n<brev-us>us</brev-us></macron> <name>Sim<macron>o<ex>n</ex></macron> Bache</name> C<macron>l<ex>er</ex>ic</macron><brev-us>us</brev-us>: q<ex>u</ex><sl>o</sl>nd<macron>a<ex>m</ex></macron> Thesaurari<brev-us>us</brev-us>
 <lb/>hospitii <name>Illustrissimi Principis D<macron><ex>omi</ex>ni</macron> Henr<ex>ici</ex>: Quinti
-<lb/>Reg<brev-es>is</brev-es> Anglie</name> et Canonic<ex>us</ex>q <macron>eccl<ex>es</ex>ie</macron> Cathedralis S<ex>anc</ex><sl>ti</sl> Pauli
+<lb/>Reg<brev-es>is</brev-es> Anglie</name> et Canonic<brev-us>us</brev-us> <macron>eccl<ex>es</ex>ie</macron> Cathedralis S<ex>anc</ex><sl>ti</sl> Pauli
 <lb/>
-<lb/>London<ex><unclear>ensis</unclear></ex>: qui obiit .19.die Maii .M. iiii<sup>C</sup> <unclear>ani<ex>us</ex>q</unclear> <unclear>domine</unclear>
-<lb/><unclear>propitietum de<ex>us</ex>q.</unclear>/
+<lb/>London<ex><unclear>ensis</unclear></ex>: qui obiit .19.die Maii .M. iiii<sup>C</sup> <unclear>ani<brev-us>us</brev-us></unclear> <unclear>domine</unclear>
+<lb/><unclear>propitietum de<brev-us>us</brev-us>.</unclear>/
 <lb/>
 <lb/>
 <lb/><pb>45r</pb>

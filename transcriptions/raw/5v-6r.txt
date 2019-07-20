@@ -38,12 +38,12 @@
 <lb/>A<ex>nn</ex><sl>o</sl>.<date>13: Hen<ex>rici</ex>:8</date>.
 <lb/><name>Dux: Buckingh<macron>a<ex>m</ex></macron></name> condemnat<brev-er>ur</brev-er> cor<macron>a<ex>m</ex></macron> <name>Tho<ex>mas</ex>: duce Norff<ex>olk</ex>: eo tem<brev-p>p<ex>or</ex></brev-p>e Senescal<unclear>l</unclear>
 <lb/>Anglia</name>
-<lb/> iudicio pari<macron>u<ex>m</ex></macron> suor<ex>um</ex>/ sclz vni<ex>us</ex>q ducis. vni<ex>us</ex>q marchio<ex>n</ex>is .7. Comit<macron>u<ex>m</ex></macron>
+<lb/> iudicio pari<macron>u<ex>m</ex></macron> suor<ex>um</ex>/ sclz vni<brev-us>us</brev-us> ducis. vni<brev-us>us</brev-us> marchio<ex>n</ex>is .7. Comit<macron>u<ex>m</ex></macron>
 <lb/>et.12.Baron<macron>u<ex>m</ex></macron>.
-<lb/><date>Die ven<ex>er</ex>is :17: maii</date> <name>Edw<ex>ardus</ex>: dux Buck<ex>ingham</ex>:</name> decollat<ex>us</ex> est su<brev-p>p<ex>er</ex></brev-p> <place>monte<ex>m</ex> iuxta
-<lb/>Turr<unclear>im</unclear> Londo<unclear>n</unclear></place>. sepult<ex>us</ex> in <place>ecc<macron>l<ex>es</ex>ia</macron> ordinis S<ex>anc</ex><sl>ti</sl> August<unclear>ini</unclear></place>
+<lb/><date>Die ven<ex>er</ex>is :17: maii</date> <name>Edw<ex>ardus</ex>: dux Buck<ex>ingham</ex>:</name> decollat<brev-us>us</brev-us> est su<brev-p>p<ex>er</ex></brev-p> <place>monte<ex>m</ex> iuxta
+<lb/>Turr<unclear>im</unclear> Londo<unclear>n</unclear></place>. sepult<brev-us>us</brev-us> in <place>ecc<macron>l<ex>es</ex>ia</macron> ordinis S<ex>anc</ex><sl>ti</sl> August<unclear>ini</unclear></place>
 <lb/><date>A<ex>nn</ex>o.15:Hen<ex>rici</ex>:8:27:Apr<ex>ilis</ex>:</date> tem<brev-p>p<ex>or</ex></brev-p>e <brev-p>p<ex>ar</ex></brev-p>liam<macron>e<ex>n</ex>t</macron>i <name>Arthurii Plantagenet</name> miles <unclear> <macron>fili<ex>us</ex></macron></unclear>
-<lb/>noth<ex>us</ex> <name>Reg<brev-es>is</brev-es> Edw<ex>ardi</ex>:4</name>: ap<ex>u</ex><sl>d</sl> <place><unclear>font<macron>e<ex>m</ex></macron></unclear> Brigid<unclear>ia</unclear></place>. creat<brev-er>ur</brev-er> vice<macron>co<ex>m</ex>es</macron> de Insula
+<lb/>noth<brev-us>us</brev-us> <name>Reg<brev-es>is</brev-es> Edw<ex>ardi</ex>:4</name>: ap<ex>u</ex><sl>d</sl> <place><unclear>font<macron>e<ex>m</ex></macron></unclear> Brigid<unclear>ia</unclear></place>. creat<brev-er>ur</brev-er> vice<macron>co<ex>m</ex>es</macron> de Insula
 <lb/>iure <name>vxoris relicte. Edm<macron>o<ex>ndi</ex></macron>: Dudley</name> decollati.
 <lb/><date>A<ex>nn</ex><sl>o</sl>.7:Hen<ex>rici</ex>:8:</date> <name>Margareta Regina <place>Scotie</place></name> nupta est <name>Archibaldo Dowglas
 <lb/>C<macron>o<ex>m</ex>iti</macron> de Angois</name> sine assensa Reg<brev-es>is</brev-es> ffratris sui, & aufuge<macron>ru<ex>n</ex>t</macron> in <place>Anglia<unclear>m</unclear></place>
@@ -54,11 +54,11 @@
 <lb/>Edw<ex>ardi</ex>:3:</date> ... <unclear>vnq</unclear> int<brev-er>er</brev-er> caeteros nobiles qui scripserunt ad <unclear>p<macron>apa<ex>m</ex></macron></unclear>
 <lb/>circa negotia <place>ffrancieae</place>./ <name>Math. Paris</name>. fol.1004
 <lb/><heading>Cart<ex>a</ex>: <date>Anno:12:Hen<ex>rici</ex>:3:</date></heading>
-<lb/><name>Rog<brev-er>er</brev-er><ex>us</ex>q de Dant<ex>es</ex>: vel Antes</name> & <name>matildis Comitissa Hereff<ex>ordensis</ex></name>
+<lb/><name>Rog<brev-er>er</brev-er><brev-us>us</brev-us> de Dant<ex>es</ex>: vel Antes</name> & <name>matildis Comitissa Hereff<ex>ordensis</ex></name>
 <lb/><name> vxor eius</name>† soror <name><unclear>W</unclear><macron><unclear>illiumi</unclear></macron>: <del>Comes de</del> mandevill nuper
 <lb/>Comit<brev-es>is</brev-es> Essex<ex>ensis</ex></name>./ † De <macron>Dau<ex>n</ex>t</macron>esia ./
 <lb/><label><date>a<ex>nn</ex><sl>o</sl>.12.h<ex>enrici</ex>:8.</date></label> <name>C<macron>o<ex>m</ex>es</macron> Kyldare</name> <unclear>deputat<brev-er>us</brev-er></unclear> terr<unclear><ex>ae</ex></unclear> <place>Hiberniae </place>exon<brev-er>er</brev-er>at<unclear><brev-er>ur</brev-er></unclear> ab officio, & <name>Tho<ex>mas</ex>
-<lb/>C<macron>o<ex>m</ex>e</macron>s Surreggia</name> eius loco constituit<brev-er>ur</brev-er> Deputat<ex>us</ex> eiu<macron>sde<ex>m</ex></macron> terre
+<lb/>C<macron>o<ex>m</ex>e</macron>s Surreggia</name> eius loco constituit<brev-er>ur</brev-er> Deputat<brev-us>us</brev-us> eiu<macron>sde<ex>m</ex></macron> terre
 <lb/><brev-p>p<ex>ro</ex></brev-p>cura<ex>n</ex><unclear>te</unclear> <name>Wolseo Cardinali</name>, qui <date>in initio Aprilis</date> iter arri<unclear>xiit</unclear>
 <lb/>versus <place>Hiber<macron>nia<ex>m</ex></macron></place>.
 <lb/>

@@ -2,7 +2,7 @@
 <lb/><pb>45v</pb>
 <lb/>The Helme & Creaste. borne by an Heraulde.
 <lb/>The Sworde & Target. borne by an Heraulde.
-<lb/>The Coate Armo<ex>u</ex><sl>r</sl> borne by Clarenti<ex>us</ex>q.
+<lb/>The Coate Armo<ex>u</ex><sl>r</sl> borne by Clarenti<brev-us>us</brev-us>.
 <lb/><graphic>drawing</graphic> The bodye
 <lb/>Th<macron>e<ex>n</ex></macron> the Principall mowrn<brev-er>er</brev-er> assisted }
 <lb/>by ffowre w<ex>i</ex><sl>th</sl> Gownes & hood<brev-es>es</brev-es> }

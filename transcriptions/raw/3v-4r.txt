@@ -228,7 +228,7 @@
 <lb/>king<brev-es>es</brev-es> <unclear>dis<brev-p>p<ex>er</ex></brev-p>asstion</unclear>. And <brev-y>th</brev-y><ex>a</ex><sl>t</sl> it groun/
 <lb/>ded vp<macron>o<ex>n</ex></macron> a maxime in the Cyvile
 <lb/>Lawe <brev-y>th</brev-y><ex>a</ex><sl>t</sl> sayeth Regn<macron>u<ex>m</ex></macron> Ducatus,
-<lb/>Comitat<unclear><ex>us</ex></unclear> Baronatus sunt res in=
+<lb/>Comitat<brev-us><ex>us</brev-us> Baronat<brev-us>us</brev-us> sunt res in=
 <lb/>diuiduae. & cannot abide .2. head<brev-es>es</brev-es>.
 <lb/>Therfore a barony dismembred by
 <lb/>sisterss shifte <del>cannot abide two</del>

@@ -72,7 +72,7 @@
 <lb/>T<macron>he<ex>n</ex></macron> the Pen<macron>o<ex>n</ex></macron> borne by a Genti<macron>llma<ex>n</ex></macron> in a gowne & hoode
 <lb/>Then the Helme & Creast borne by a ....
 <lb/>Then the Coate of Armes borne by a ....
-<lb/>Then Clarenti<ex>us</ex>q kinge of Armes of the <brev-p>p<ex>ro</ex></brev-p>vince.
+<lb/>Then Clarenti<brev-us>us</brev-us> kinge of Armes of the <brev-p>p<ex>ro</ex></brev-p>vince.
 <lb/><graphic>drawing</graphic> The Corps cou<brev-er>er</brev-er>ed w<ex>i</ex><sl>th</sl> a Palle of black vel<unclear>ine</unclear>
 <lb/>borne by .vj. y<macron>eome<ex>n</ex></macron> in Coat<brev-es>es</brev-es>: Assisted by
 <lb/>ffower Gentill<macron>me<ex>n</ex></macron> in Gownes and Hood<brev-es>es</brev-es>
