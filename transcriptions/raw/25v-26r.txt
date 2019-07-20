@@ -1,5 +1,5 @@
 <lb/><pb>25v</pb>
-<lb/><label>Esquire by Creation 3</label> The Thirde sorte are those that by the kinge are
+<lb/><label>Esquire by Creation</label> <label>3</label> The Thirde sorte are those that by the kinge are
 <lb/>Created Esquiers, by the gifte of a Collar of S:S.
 <lb/>& suche bearinge Armes are the pryncipall and
 <lb/>chyefe of that Coate Armo<ex>u</ex><sl>r</sl> & of theyre whole
@@ -16,8 +16,8 @@
 <lb/>them, but (havinge no Armes) that degree dieth
 <lb/>w<ex>i</ex><sl>th</sl> them & theire yssue is not ennoblished therby.
 <lb/>. <metamark>flourish</metamark> . <metamark>flourish</metamark> . <metamark>flourish</metamark> .
-<lb/><label><date>Anno :RR: Jacobi Regis Angl<ex>iae</ex> &c Secundo</date> .~.~.</label> <heading>
-<lb/>Justs holden at <place>white Halle</place> the <date>.24.daye
+<lb/><label><date>Anno :RR: Jacobi Regis Angl<ex>iae</ex> &c Secundo</date> .~.~.</label>
+<lb/> <heading>Justs holden at <place>white Halle</place> the <date>.24.daye
 <lb/>of Marche Anno d<macron><ex>omi</ex>ni</macron> .1603</date>: beinge <brev-y>th</brev-y><sl>e</sl> daye
 <lb/>of his M<macron>a<ex>ies</ex>ties</macron> begynninge of his second
 <lb/>yeare of his highnesse Raigne ou<brev-er>er</brev-er> this
@@ -43,8 +43,8 @@
 <lb/>{ <name>The :Lo<ex>rd</ex>: Wotton</name> . <metamark>flourish</metamark>.
 <lb/>
 <lb/>
-<lb/><pb>26r</pb><heading><del>
-<lb/>The order of p<sl>r</sl><ex>e</ex>cedence of all estat<brev-es>es</brev-es> before
+<lb/><pb>26r</pb>
+<lb/><heading><del>The order of p<sl>r</sl><ex>e</ex>cedence of all estat<brev-es>es</brev-es> before
 <lb/>his Ma<ex>ies</ex>tie throwgh the Cytie of Lond<macron>o<ex>n</ex></macron>
 <lb/>fr<macron>o<ex>m</ex></macron> the Tower to White Halle the .15. daye
 <lb/>of Marche .A<ex>nn</ex>o: D<macron><ex>omi</ex>ni</macron> .1603. Et Anno

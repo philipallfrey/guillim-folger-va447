@@ -39,7 +39,7 @@
 <lb/><pb>45r</pb>
 <lb/><heading>
 <lb/>The ffees dewe to the Officers of Armes for
-<lb/><brev-p>p</brev-p><ex>er</ex>formance of a ffunerall by themseluws or by
+<lb/><brev-p>p</brev-p><ex>er</ex>formance of a ffunerall by themselues or by
 <lb/>their deputye. As followeth.
 <lb/>
 <lb/></heading>

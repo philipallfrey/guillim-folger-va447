@@ -1,9 +1,9 @@
 <lb/>
 <lb/><pb>27v</pb>
-<lb/><date>St Georg<brev-es>es</brev-es> e<macron>ve<ex>n</ex></macron> }
+<lb/><label><date>St Georg<brev-es>es</brev-es> e<macron>ve<ex>n</ex></macron> }
 <lb/>Anno d<macron><ex>omi</ex>ni</macron> .1607. }
 <lb/>et A<ex>nn</ex><sl>o</sl> Jacob<ex>i</ex>. Reg<brev-es>is</brev-es> }
-<lb/>Qinto.</date> at Sup<brev-p>p</brev-p><ex>er</ex>. }
+<lb/>Qinto.</date> at Sup<brev-p>p</brev-p><ex>er</ex>. }</label>
 <lb/>
 <lb/>Sallot<brev-es>es</brev-es> .iii }
 <lb/>Racke. Mut<macron>t<ex>on</ex></macron> } .Co<ex>ld</ex>.

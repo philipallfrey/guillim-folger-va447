@@ -37,7 +37,6 @@
 <lb/>following doe keepe theire places
 <lb/>ordenaryly. whoso is in them. In
 <lb/>this maner.
-<lb/>
 <lb/></heading>
 <lb/>The Archbishoppe of Caunterbury .}
 <lb/>The Archbishoppe of Yorke. }
@@ -53,7 +52,7 @@
 <lb/><label>On S<sl>t</sl>: Georg<brev-es>es</brev-es> feast at Even.</label> <heading>The Dyet appoynted for the</heading> }
 <lb/><heading>Herehawght<brev-es>es</brev-es> at St Georg<brev-es>es</brev-es></heading> } <date>Anno .RR. Jacobi Secundo</date>
 <lb/><heading>ffeaste hold<macron>e<ex>n</ex></macron> at <place>White Halle</place></heading> }
-<lb/><date><heading>the.23.day of Aprill.1604.</heading></date> }
+<lb/><heading><date>the.23.day of Aprill.1604.</date></heading> }
 <lb/><cb>
 <lb/>3 Sallett<brev-es>es</brev-es>
 <lb/>4 Mutton }
@@ -111,4 +110,4 @@
 <lb/>21 Rabett<brev-es>es</brev-es> rost
 <lb/>22 Prawnes
 <lb/>23 Pigeons rost.
-<lb/>24 Tarte. <metamark>flourish</metamark> ./ <metamark>flourish</metamark> 
+<lb/>24 Tarte. <metamark>flourish</metamark> ./ <metamark>flourish</metamark>

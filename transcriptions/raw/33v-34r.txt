@@ -2,9 +2,8 @@
 <lb/><pb>33v</pb>
 <lb/><pb>34r</pb>
 <lb/>
-<lb/><label>A Banner<metamark>flourish</metamark>.</label><heading>
-<lb/>
-<lb/>The Syse of Banners Standard<brev-es>es</brev-es>
+<lb/><label>A Banner<metamark>flourish</metamark>.</label>
+<lb/><heading>The Syse of Banners Standard<brev-es>es</brev-es>
 <lb/>Penons. Gwydons. Pensills & stremers.</heading>
 <lb/><graphic>drawing</graphic> Armes. An Empo<unclear><ex>ure</ex></unclear><sl>rs</sl> Bann<brev-er>er</brev-er> shalbe sixe feete longe & of thesame
 <lb/><label>6</label> breadthe.

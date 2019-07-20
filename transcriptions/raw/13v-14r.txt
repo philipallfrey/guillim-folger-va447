@@ -51,7 +51,7 @@
 <lb/>Gart<brev-er>er</brev-er>: set vp in the Chappell at Whyte
 <lb/>Halle at Sain<sl>t</sl>: Georg<brev-es>es</brev-es> ffeaste there hold<macron>e<ex>n</ex></macron>
 <lb/>the:23:daye of Aprill. Anno d<macron><ex>omi</ex>ni</macron> .1604.
-<lb/>& Anno :RR: Jacobi Regis Angli<ex>ae</ex>: &c. Secund<ex>us</ex>
+<lb/>& Anno :RR: Jacobi Regis Angli<ex>ae</ex>: &c. Secund<ex>o</ex>
 <lb/>As followeth.
 <lb/>A dextris Chore<unclear>a</unclear> ascendendo.
 <lb/><label>
