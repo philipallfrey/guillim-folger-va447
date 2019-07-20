@@ -1,6 +1,6 @@
 <lb/>
 <lb/><pb>38v</pb>
-<lb/>Qu<macron>a<ex>n</ex>t</macron>a est defectio Civitat<brev-es>is</brev-es>, qu<macron>a<ex>n</ex>t</macron>a Ordinis <brev-p>p</brev-p><ex>er</ex>u<brev-er>er</brev-er>sio, <macron>cu<ex>m</ex></macron> Antiquitatis
+<lb/>Qu<macron>a<ex>n</ex>t</macron>a est defectio Civitat<brev-es>is</brev-es>, qu<macron>a<ex>n</ex>t</macron>a Ordinis <brev-p>p<ex>er</ex></brev-p>u<brev-er>er</brev-er>sio, <macron>cu<ex>m</ex></macron> Antiquitatis
 <lb/>monum<macron>e<ex>n</ex>t</macron>a delentur, <macron>cu<ex>m</ex></macron> maio<macron>ru<ex>m</ex></macron> nomina postero<ex>rum</ex> ingratitudine
 <lb/>obliter<macron>a<ex>n</ex>t</macron><ex>ur</ex>. C<macron>u<ex>m</ex></macron> passim Tusculana, Pompeiana aliaq<ex>ue</ex>z vetestissima<ex>rum</ex>
 <lb/>familia<ex>rum</ex> Vexilla et quasi Insignia rvunt, ac deiiciunt<ex>ur</ex>. Casii de

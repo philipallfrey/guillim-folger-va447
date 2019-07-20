@@ -3,7 +3,7 @@
 <lb/>Th<macron>e<ex>n</ex></macron> Alderm<macron>e<ex>n</ex></macron>s wyves havinge no black<brev-es>es</brev-es>
 <lb/>Then the Companyes.
 <lb/>Then the Masters of the Hospitalls w<ex>i</ex><sl>th</sl> greene staves
-<lb/>Then the neighbour<brev-es>es</brev-es> and other <brev-p>p</brev-p><ex>ar</ex>ishioners./
+<lb/>Then the neighbour<brev-es>es</brev-es> and other <brev-p>p<ex>ar</ex></brev-p>ishioners./
 <lb/>
 <lb/>
 <lb/><heading>The Offeringe.</heading>
@@ -32,7 +32,7 @@
 <lb/>
 <lb/>
 <lb/><heading>
-<lb/>Be it noted that in the <brev-p>p</brev-p><ex>ro</ex>ceadinge to the
+<lb/>Be it noted that in the <brev-p>p<ex>ro</ex></brev-p>ceadinge to the
 <lb/>Parlia<macron>me<ex>n</ex>t</macron> these .v. Byshoppes
 <lb/>following doe keepe theire places
 <lb/>ordenaryly. whoso is in them. In

@@ -14,8 +14,8 @@
 <lb/>to one of his knight<brev-es>es</brev-es> if the rest of
 <lb/><brev-y>th</brev-y><sl>e</sl> dowghters in their fathers lyfe
 <lb/>were bestowed.
-<lb/><unclear>Yf</unclear> <brev-y>th</brev-y><sl>e</sl> Em<brev-p>p</brev-p><ex>er</ex>o<unclear> <ex>u</ex></unclear><sl>r</sl> signify his bare plesure
-<lb/><brev-y>th</brev-y><ex>a</ex><sl>t</sl> he will have any <brev-p>p</brev-p><ex>er</ex>son to be a
+<lb/><unclear>Yf</unclear> <brev-y>th</brev-y><sl>e</sl> Em<brev-p>p<ex>er</ex></brev-p>o<unclear> <ex>u</ex></unclear><sl>r</sl> signify his bare plesure
+<lb/><brev-y>th</brev-y><ex>a</ex><sl>t</sl> he will have any <brev-p>p<ex>er</ex></brev-p>son to be a
 <lb/>genttilm<macron>a<ex>n</ex></macron> <brev-y>th</brev-y><ex>a</ex><sl>t</sl> is <del>not</del> none; not
 <lb/>m<macron>e<ex>n</ex></macron>tioning his heir<brev-es>es</brev-es>.yet that
 <lb/>quality shalbe interp<sl>r</sl><ex>e</ex>ted to reache
@@ -91,7 +91,7 @@
 <lb/>in Lawe in Barons & baronies w<ex>hi</ex><sl>ch</sl> in
 <lb/>Lawe worketh a ffeesymple.
 <lb/>feetaile is not an inheritance by <brev-y>th</brev-y><sl>e</sl> demise
-<lb/>of the Lawe: but of <brev-p>p</brev-p><unclear> <ex>ar</ex></unclear>ticuler <brev-p>p</brev-p><ex>er</ex>sons.
+<lb/>of the Lawe: but of <brev-p>p</brev-p><unclear> <ex>ar</ex></unclear>ticuler <brev-p>p<ex>er</ex></brev-p>sons.
 <lb/>Yf <brev-y>th</brev-y><sl>e</sl> dignity of a Baronesse be in <brev-y>th</brev-y><sl>e</sl> wife
 <lb/><metamark>X</metamark> as inheritance, th<macron>e<ex>n</ex></macron> thesame inheritance
 <lb/>must be demed in the husbande in <brev-y>th</brev-y><sl>e</sl> <unclear>right</unclear>
@@ -105,10 +105,10 @@
 <lb/><metamark>X</metamark> There is difference betweene Creation
 <lb/>& restitution
 <lb/>By writte implicatiue inherit<macron>a<ex>n</ex></macron>ce passeth
-<lb/>to the <brev-p>p</brev-p><ex>ar</ex>tie to wh<macron>o<ex>m</ex></macron> thesame is directed w<ex>hi</ex><sl>ch</sl>
+<lb/>to the <brev-p>p<ex>ar</ex></brev-p>tie to wh<macron>o<ex>m</ex></macron> thesame is directed w<ex>hi</ex><sl>ch</sl>
 <lb/><metamark>X</metamark> must be intended a ffeesymple. vnlesse the
 <lb/>woord<brev-es>es</brev-es> or olde vsage enforce <brev-y>th</brev-y><sl>e</sl> co<macron><ex>s</ex>t</macron>om<brev-es>s</brev-es>.
-<lb/>Lib<ex>e</ex>r<unclear><ex>um</ex></unclear> maritagi<macron>u<ex>m</ex></macron> are <brev-p>p</brev-p><ex>ro</ex><brev-p>p</brev-p><ex>er</ex>ly no woord<brev-es>es</brev-es> of
+<lb/>Lib<ex>e</ex>r<unclear><ex>um</ex></unclear> maritagi<macron>u<ex>m</ex></macron> are <brev-p>p<ex>ro</ex></brev-p><brev-p>p<ex>er</ex></brev-p>ly no woord<brev-es>es</brev-es> of
 <lb/>inheritance: neu<brev-er>er</brev-er>thelesse by approved
 <lb/>custome, they are receaved to employ
 <lb/>inheritance.
@@ -136,7 +136,7 @@
 <lb/>vsurpe these Titles: so wold not king<brev-es>es</brev-es>
 <lb/>in all Ages (w<ex>i</ex><sl>th</sl>out iust cawse) have
 <lb/>tollerated it.
-<lb/>Tytle by <brev-p>p</brev-p><ex>re</ex>scripti<macron>o<ex>n</ex></macron> is so stronge <brev-y>th</brev-y><ex>a</ex><sl>t</sl> none
+<lb/>Tytle by <brev-p>p<ex>re</ex></brev-p>scripti<macron>o<ex>n</ex></macron> is so stronge <brev-y>th</brev-y><ex>a</ex><sl>t</sl> none
 <lb/><metamark>X</metamark> learned c<macron>a<ex>n</ex></macron> deny thesame.
 <lb/>Stude<ex>n</ex>t<brev-es>es</brev-es> neede iudgeme<macron><ex>n</ex>t</macron> in reading.
 <lb/>to discerne of speaches spok<macron>e<ex>n</ex></macron> at rand<macron>o<ex>m</ex></macron>
@@ -145,14 +145,14 @@
 <lb/>To trye the trewthe, we must examyne
 <lb/>it by the g<ex>e</ex>n<ex>e</ex>rall Rule & maxime of the
 <lb/>Lawe.
-<lb/><metamark>X</metamark> Eu<brev-er>er</brev-er>y wom<macron>a<ex>n</ex></macron> by her mariage loseth <brev-y>th</brev-y><sl>e</sl> <brev-p>p</brev-p><ex>ro</ex><brev-p>p</brev-p><ex>er</ex>
+<lb/><metamark>X</metamark> Eu<brev-er>er</brev-er>y wom<macron>a<ex>n</ex></macron> by her mariage loseth <brev-y>th</brev-y><sl>e</sl> <brev-p>p<ex>ro</ex></brev-p><brev-p>p<ex>er</ex></brev-p>
 <lb/>name of the ffamily wherin she was
-<lb/>borne: for by that act she incor<brev-p>p</brev-p><unclear> <ex>er</ex></unclear>ateth
+<lb/>borne: for by that act she incor<brev-p>p<ex>or</ex></brev-p>ateth
 <lb/>her selfe in her husband<brev-es>es</brev-es> ffamilye
 <lb/><metamark>X</metamark> In this Realme eu<brev-er>er</brev-er>y wom<macron>a<ex>n</ex></macron> retayneth
 <lb/>her name of dignity she had before
 <lb/>mariage: vnlesse a great<brev-er>er</brev-er> happ<macron>e<ex>n</ex></macron>
-<lb/>vnto her, th<macron>e<ex>n</ex></macron> the great<brev-er>er</brev-er> is <brev-p>p</brev-p><ex>re</ex>ferred
+<lb/>vnto her, th<macron>e<ex>n</ex></macron> the great<brev-er>er</brev-er> is <brev-p>p<ex>re</ex></brev-p>ferred
 <lb/>& that other suppressed, but not extin=
 <lb/>guished.
 <lb/>An Exige<macron><ex>n</ex>t</macron> may <ins>not</ins> be awarded against
@@ -197,7 +197,7 @@
 <lb/><metamark>X</metamark> The writte <brev-y>th</brev-y><ex>a</ex><sl>t</sl> expresseth her no Coun
 <lb/>tesse intendeth her Countesse
 <lb/>The Courte laboureth only to conserve
-<lb/><metamark>X</metamark> forme of <brev-p>p</brev-p><ex>ro</ex>ceadinge & not to determyne
+<lb/><metamark>X</metamark> forme of <brev-p>p<ex>ro</ex></brev-p>ceadinge & not to determyne
 <lb/>
 <lb/>of the meere righte of dignities.
 <lb/>These Woord<brev-es>es</brev-es> Nobilis & ignobilis doe
@@ -231,10 +231,10 @@
 <lb/>Senator, she had favo<ex>u</ex><sl>r</sl>
 <lb/>The Romans aft<brev-er>er</brev-er> x<macron>pia</macron>n faithe <unclear>receve</unclear>
 <lb/><metamark>X</metamark> & publication of mariage (in <brev-y>th</brev-y><sl>e</sl> Lord
-<lb/>to be ho<ex>noura</ex><sl>ble</sl>: to all <brev-p>p</brev-p><ex>er</ex>sons, they soughte
+<lb/>to be ho<ex>noura</ex><sl>ble</sl>: to all <brev-p>p<ex>er</ex></brev-p>sons, they soughte
 <lb/>Godd<brev-es>es</brev-es> childr<macron>e<ex>n</ex></macron> before the childr<macron>e<ex>n</ex></macron> of
 <lb/>king<ex>es</ex> to be their sonnes in Lawe.
-<lb/>By a Romayne constitution it was <brev-p>p</brev-p><ex>ro</ex>
+<lb/>By a Romayne constitution it was <brev-p>p<ex>ro</ex></brev-p>
 <lb/><metamark>X</metamark> vided <brev-y>th</brev-y><ex>a</ex><sl>t</sl> if eu<brev-er>er</brev-er>y noble or g<macron>e<ex>n</ex>t</macron>illwoman
 <lb/>stayned w<ex>i</ex><sl>th</sl> vnchastitye should <del>Sose</del>
 <lb/>lose her Nobility. And this carrieth
@@ -243,7 +243,7 @@
 <lb/>wh<macron>e<ex>n</ex></macron> thother is not only for no fault but
 <lb/>for an honorable action.
 <lb/><metamark>X</metamark> ffeodale dignities are not tyed to the
-<lb/><brev-p>p</brev-p><ex>er</ex>son but to the ffee in theire first
+<lb/><brev-p>p<ex>er</ex></brev-p>son but to the ffee in theire first
 <lb/>creation, that is to the dukedome
 <lb/>Marchionate County or Baronye.
 <lb/>Vnlesse <brev-y>th</brev-y><sl>e</sl> ffee be forfaited there can

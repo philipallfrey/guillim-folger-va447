@@ -16,12 +16,12 @@
 <lb/>
 <lb/>
 <lb/><macron>Ib<ex>ide</ex>m</macron>
-<lb/><graphic>drawing</graphic> <graphic>drawing</graphic> Hic <brev-p>p</brev-p><ex>ro</ex>ce<macron>ru<ex>m</ex></macron> de stirpe satum <macron>cu<ex>m</ex></macron> Coniuge <name>Clara</name>
+<lb/><graphic>drawing</graphic> <graphic>drawing</graphic> Hic <brev-p>p<ex>ro</ex></brev-p>ce<macron>ru<ex>m</ex></macron> de stirpe satum <macron>cu<ex>m</ex></macron> Coniuge <name>Clara</name>
 <lb/><name>John Hotofte</name> iterum tolluris gleba maritat,
 <lb/>Hospitii Reg<brev-es>is</brev-es> qui Thesaurari<ex>us</ex>q olim
 <lb/><name>Hen<ex>rici</ex>: Sexti</name> merito pollebat honore.
-<lb/>Sic lux <brev-p>p</brev-p><ex>er</ex>petua sibi post h<unclear>e</unclear>c horrida lustra.
-<lb/>Cor<brev-p>p</brev-p><ex>or</ex>a Spiritib<ex>us</ex>q cum Lux su<brev-p>p</brev-p><ex>r</ex>ema rei<unclear><macron>u<ex>n</ex>g</macron></unclear>et./
+<lb/>Sic lux <brev-p>p<ex>er</ex></brev-p>petua sibi post h<unclear>e</unclear>c horrida lustra.
+<lb/>Cor<brev-p>p<ex>or</ex></brev-p>a Spiritib<ex>us</ex>q cum Lux su<brev-p>p<ex>r</ex></brev-p>ema rei<unclear><macron>u<ex>n</ex>g</macron></unclear>et./
 <lb/>
 <lb/><graphic>drawing</graphic> <graphic>drawing</graphic> <name>Rowland<ex>us</ex>q Lytt<macron>o<ex>n</ex></macron></name> Armig<brev-er>er</brev-er> qui virilit<brev-er>er</brev-er> Arma gessit in bello
 <lb/>Dux fortis in pace optim<ex>us</ex>q magistrat<ex>us</ex>q obiit <date>Julii .1582.</date>
@@ -39,7 +39,7 @@
 <lb/><pb>45r</pb>
 <lb/><heading>
 <lb/>The ffees dewe to the Officers of Armes for
-<lb/><brev-p>p</brev-p><ex>er</ex>formance of a ffunerall by themselues or by
+<lb/><brev-p>p<ex>er</ex></brev-p>formance of a ffunerall by themselues or by
 <lb/>their deputye. As followeth.
 <lb/>
 <lb/></heading>
@@ -77,7 +77,7 @@
 <lb/>A Creaste . -- <amt>xiii<sup>s</sup>.iiii<sup>d</sup></amt>
 <lb/>Mantell w<ex>i</ex><sl>th</sl> Knoppes & Tassells. -- <amt>xx<sup>s</sup></amt>./
 <lb/>Escocheons in Mettall vp<macron>o<ex>n</ex></macron> Paper . -- <amt>xvi<sup>d</sup></amt> <brev-y>th</brev-y><sl>e</sl> dozo<ex>n</ex>.
-<lb/>Escocheons in Colo<ex>u</ex><sl>r</sl> vp<macron>o<ex>n</ex></macron> pa<brev-p>p</brev-p><ex>er</ex>. -- <amt>xii<sup>d</sup></amt>/. the dozon.
+<lb/>Escocheons in Colo<ex>u</ex><sl>r</sl> vp<macron>o<ex>n</ex></macron> pa<brev-p>p<ex>er</ex></brev-p>. -- <amt>xii<sup>d</sup></amt>/. the dozon.
 <lb/>Halfe a doz<macron>o<ex>n</ex></macron> of Escocheons in Mettall }--.<amt>xii<sup>s</sup></amt>./ .
 <lb/>
 <lb/>vp<macron>o<ex>n</ex></macron> Bucke<macron>ra<ex>m</ex></macron> at .<amt>ii<sup>s</sup></amt>. eche Escoch<macron>eo<ex>n</ex></macron> }

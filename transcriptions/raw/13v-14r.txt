@@ -23,7 +23,7 @@
 <lb/>The Gwarde followinge hym./ <metamark>flourish</metamark>.
 <lb/>.flourish.
 <lb/>The Style of the Duke of yorke
-<lb/>as thesame was <brev-p>p</brev-p><ex>ro</ex>claymed by m<ex>aste</ex><sl>r</sl>
+<lb/>as thesame was <brev-p>p<ex>ro</ex></brev-p>claymed by m<ex>aste</ex><sl>r</sl>
 <lb/>Garter. at the second Course at
 <lb/>dyn<brev-er>er</brev-er> tyme the daye of his graces
 <lb/>Creati<macron>o<ex>n</ex></macron>./
@@ -61,7 +61,7 @@
 <lb/>
 <lb/></label>
 <lb/>Du treshault trespuissant & tresexcellent prince Jaques
-<lb/><brev-p>p</brev-p><ex>ar</ex> la grace de diew Roy d<del>'Angleterre, & d'Escosse.</del> de la grand Brettagne. de
+<lb/><brev-p>p<ex>ar</ex></brev-p> la grace de diew Roy d<del>'Angleterre, & d'Escosse.</del> de la grand Brettagne. de
 <lb/>franc<ex>e</ex>. et d'Irlande. Deffender de la ffo<unclear>ye</unclear> &c
 <lb/>Soveraigne du Tresnoble Order de la Jarretie
 <lb/>2 Du treshault & trespuissant Prynce <del>Henry</del> <del>Charle</del> fitz aisne

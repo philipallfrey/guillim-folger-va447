@@ -31,7 +31,7 @@
 <lb/><heading>Esch<ex>eatriae</ex>:a<ex>nn</ex><sl>o</sl>:2:Ed<ex>wardi</ex>:1./</heading>
 <lb/><name>D<macron><ex>omi</ex>na</macron> Hawisia de London</name> obiit ante <date>.23.Septemb<ex>ris</ex>:a<ex>nn</ex>o.2<sl>o</sl>:Edw<ex>ardi</ex>:1<sl>i</sl></date>
 <lb/>& <name>d<macron><ex>omi</ex>n<ex>us</ex></macron>q Pagan<ex>us</ex>q de Cadurcis</name> fili<ex>us</ex>q et heres eius est plene etat<brev-es>is</brev-es>. <unclear>Tenuit</unclear>
-<lb/>man<brev-er>er</brev-er>i<macron>u<ex>m</ex></macron> de <name>Eastegerston</name> de Rege in Capite <brev-p>p</brev-p><ex>er</ex> serian<macron>tia<ex>m</ex></macron> <macron>vilz</macron> <unclear>tanquam</unclear> <macron>me<ex>m</ex></macron>br<macron>u<ex>m</ex></macron>
+<lb/>man<brev-er>er</brev-er>i<macron>u<ex>m</ex></macron> de <name>Eastegerston</name> de Rege in Capite <brev-p>p<ex>er</ex></brev-p> serian<macron>tia<ex>m</ex></macron> <macron>vilz</macron> <unclear>tanquam</unclear> <macron>me<ex>m</ex></macron>br<macron>u<ex>m</ex></macron>
 <lb/>primus ad Kadwellye. vliz. c<macron>u<ex>m</ex></macron> <unclear>weomestera </unclear>de Kadwelly. Ad conduc<macron>e<ex>n</ex></macron>d<macron>u<ex>m</ex></macron>
 <lb/>Antegardu<unclear> <sl>r</sl></unclear> exercit<ex>us</ex>q D<macron><ex>omi</ex>ni</macron> Regis quotiens d<macron><ex>omi</ex>n<ex>us</ex></macron>q Rex ierit in <place>Westwalliam</place>
 <lb/>c<macron>u<ex>m</ex></macron> Exercitu : et in redeundo: ad conducend<macron>u<ex>m</ex></macron> Retrogard<macron>u<ex>m</ex></macron> dicti Exerci=
@@ -45,6 +45,6 @@
 <lb/><name>Marg<brev-er>er</brev-er>ia</name> Comitissa } <name>Jo<macron>h<ex>ann</ex>es</macron> de Burgo</name>. plene etatis ./
 <lb/>Cantiae. - }
 <lb/><date>A<ex>nn</ex><sl>o</sl>:15:Hen<ex>rici</ex>:7:</date> <name>Edw<ex>ardus</ex>: comes warr<unclear><ex>wickensis</ex></unclear></name> condemnat<ex>us</ex>q coram <name>J<macron>oh<ex>ann</ex>e</macron> de vere</name> co<ex>m</ex>ite
-<lb/>Oxo<ex>niense</ex>: eo tem<brev-p>p</brev-p><ex>or</ex>e Senescallo Angliae<date>:21:die novemb<ex>ris</ex>:</date> ap<ex>u</ex><sl>d</sl>: <place>westm<ex>onast</ex><brev-er>er</brev-er><ex>ium</ex></place> et
+<lb/>Oxo<ex>niense</ex>: eo tem<brev-p>p<ex>or</ex></brev-p>e Senescallo Angliae<date>:21:die novemb<ex>ris</ex>:</date> ap<ex>u</ex><sl>d</sl>: <place>westm<ex>onast</ex><brev-er>er</brev-er><ex>ium</ex></place> et
 <lb/><date>28.die eiusd<macron>e<ex>m</ex></macron> mens<brev-es>is</brev-es></date> capit<unclear>e</unclear> plex<ex>us</ex>q est ad <place>m<macron>o<ex>n</ex>te<ex>m</ex></macron> iuxta Turrim Londi<unclear>=</unclear>
 <lb/>inensem</place> ./

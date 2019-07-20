@@ -40,12 +40,12 @@
 <lb/>Tho<ex>mas</ex>: Viscounte Howard de Byndo<ex>u</ex><sl>n</sl>
 <lb/>C<macron>h<ex>eva</ex>l<ex>ie</ex>r</macron>. de tresnoble ordre &c
 <lb/><pb>16r</pb>
-<lb/><label>Out of <brev-y>th</brev-y><sl>e</sl> <unclear>Paneue</unclear> of the <brev-p>p</brev-p><ex>ar</ex>liam<unclear>e<ex>n</ex>te</unclear> aforesaid as ap<brev-p>p</brev-p><ex>er</ex>eth in <brev-y>th</brev-y><sl>e</sl> office of the Pety bagge.</label>
+<lb/><label>Out of <brev-y>th</brev-y><sl>e</sl> <unclear>Paneue</unclear> of the <brev-p>p<ex>ar</ex></brev-p>liam<unclear>e<ex>n</ex>te</unclear> aforesaid as ap<brev-p>p<ex>er</ex></brev-p>eth in <brev-y>th</brev-y><sl>e</sl> office of the Pety bagge.</label>
 <lb/><heading>The names of suche Noble m<macron>e<ex>n</ex></macron> as were
-<lb/>called by Writte to the <brev-p>p</brev-p><ex>ar</ex>liam<macron>e<ex>n</ex>t</macron> hold<macron>e<ex>n</ex></macron>
+<lb/>called by Writte to the <brev-p>p<ex>ar</ex></brev-p>liam<macron>e<ex>n</ex>t</macron> hold<macron>e<ex>n</ex></macron>
 <lb/>at Westm<ex>inst</ex><brev-er>er</brev-er>. <date>the xi<sl>th</sl> of Septemb<ex>er</ex>: Anno
 <lb/>RR: Elizab<ex>ethae</ex>: xliii<sl>tio</sl></date>
-<lb/></heading><name>Tho<ex>mas</ex>: Egerto<ex>u</ex><sl>n</sl> knighte Lo<ex>rd</ex>: kee<brev-p>p</brev-p><ex>er</ex> of the greate seale of Englande</name>
+<lb/></heading><name>Tho<ex>mas</ex>: Egerto<ex>u</ex><sl>n</sl> knighte Lo<ex>rd</ex>: kee<brev-p>p<ex>er</ex></brev-p> of the greate seale of Englande</name>
 <lb/><name>Edw<ex>ard</ex>: E<ex>arle</ex>: of Oxforde.</name>
 <lb/><name>W<ex>illia</ex><sl>m</sl>: E<ex>arle</ex> of Darby</name>
 <lb/><name>George E<ex>arle</ex>: of Huntingd<macron>o<ex>n</ex></macron></name>

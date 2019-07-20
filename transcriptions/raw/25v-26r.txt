@@ -22,7 +22,7 @@
 <lb/>of his M<macron>a<ex>ies</ex>ties</macron> begynninge of his second
 <lb/>yeare of his highnesse Raigne ou<brev-er>er</brev-er> this
 <lb/>Realme of <place>Englande</place>. <del>As followeth</del>
-<lb/><brev-p>p</brev-p><ex>er</ex>formed by the <brev-p>p</brev-p><ex>er</ex>sonnes vnderwrit<macron>te<ex>n</ex></macron> viz</heading>
+<lb/><brev-p>p<ex>er</ex></brev-p>formed by the <brev-p>p<ex>er</ex></brev-p>sonnes vnderwrit<macron>te<ex>n</ex></macron> viz</heading>
 <lb/><name>The :E<ex>arle</ex>: of Comberlande</name> -- with -- <name>S<ex>i</ex><sl>r</sl> <macron>Rob<ex>er</ex>te</macron> Knowles</name>.
 <lb/><name>The :E<ex>arle</ex>: of Sussex</name> -- <name>M<ex>aste</ex><sl>r</sl> Tho<ex>mas</ex>: Som<brev-er>er</brev-er>sett</name>.
 <lb/><name>The :E<ex>arle</ex>: of Sowtham<macron>pto<ex>n</ex></macron></name> -- <name>S<ex>i</ex><sl>r</sl>: Robte Dudley</name>.
@@ -53,7 +53,7 @@
 <lb/>Gent<ex>illmen</ex>: Harbingers. Serge<macron>a<ex>n</ex>t</macron>e Porter.
 <lb/>Gent<ex>illmen</ex>: & esquiers the Prync<brev-es>es</brev-es> servantes.
 <lb/>
-<lb/><label>Knighte of London<metamark>flourish</metamark></label><heading>The <brev-p>p</brev-p><ex>ro</ex>ceadinge to the ffunerall of
+<lb/><label>Knighte of London<metamark>flourish</metamark></label><heading>The <brev-p>p<ex>ro</ex></brev-p>ceadinge to the ffunerall of
 <lb/>a knighte in London.</heading>
 <lb/>
 <lb/>ffirst the Chil<macron>dre<ex>n</ex></macron> of the Hospitall .2.and.2.
@@ -72,7 +72,7 @@
 <lb/>T<macron>he<ex>n</ex></macron> the Pen<macron>o<ex>n</ex></macron> borne by a Genti<macron>llma<ex>n</ex></macron> in a gowne & hoode
 <lb/>Then the Helme & Creast borne by a ....
 <lb/>Then the Coate of Armes borne by a ....
-<lb/>Then Clarenti<ex>us</ex>q kinge of Armes of the <brev-p>p</brev-p><ex>ro</ex>vince.
+<lb/>Then Clarenti<ex>us</ex>q kinge of Armes of the <brev-p>p<ex>ro</ex></brev-p>vince.
 <lb/><graphic>drawing</graphic> The Corps cou<brev-er>er</brev-er>ed w<ex>i</ex><sl>th</sl> a Palle of black vel<unclear>ine</unclear>
 <lb/>borne by .vj. y<macron>eome<ex>n</ex></macron> in Coat<brev-es>es</brev-es>: Assisted by
 <lb/>ffower Gentill<macron>me<ex>n</ex></macron> in Gownes and Hood<brev-es>es</brev-es>

@@ -1,5 +1,5 @@
 <lb/><pb>20v</pb>
-<lb/><heading>The <brev-p>p</brev-p><ex>ro</ex>ceedinge at a knight<brev-es>es</brev-es>
+<lb/><heading>The <brev-p>p<ex>ro</ex></brev-p>ceedinge at a knight<brev-es>es</brev-es>
 <lb/>
 <lb/>ffunerall.</heading>
 <lb/>
@@ -41,7 +41,7 @@
 <lb/>Two Esquires for Assistant<brev-es>es</brev-es> ./ }
 <lb/>
 <lb/>
-<lb/><pb>21r</pb><heading>The <brev-p>p</brev-p><ex>ro</ex>ceedinge at a Cytezens
+<lb/><pb>21r</pb><heading>The <brev-p>p<ex>ro</ex></brev-p>ceedinge at a Cytezens
 <lb/>ffunerall</heading>
 <lb/>
 <lb/>March<macron>a<ex>n</ex>t</macron> V<macron>e<ex>n</ex>t</macron>erers <graphic>drawing</graphic> God Be our fr<unclear>i</unclear>end Marchcant of Moscovie <graphic>drawing</graphic> March<macron>a<ex>n</ex>t</macron> of <brev-y>th</brev-y><sl>e</sl> Staple <graphic>drawing</graphic>

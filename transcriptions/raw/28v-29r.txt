@@ -7,7 +7,7 @@
 <lb/>yeo<macron>me<ex>n</ex></macron> in blacke Coat<brev-es>es</brev-es>.
 <lb/><macron>It<ex>e</ex>m</macron> poore m<macron>e<ex>n</ex></macron> to have gownes in nomber so manye
 <lb/>as the Executors wyll.
-<lb/>Itm likewise ce<macron>rte<ex>n</ex></macron> g<macron>ent<ex>illmen</ex></macron> to make the <brev-p>p</brev-p><ex>ro</ex>ceadinge.
+<lb/>Itm likewise ce<macron>rte<ex>n</ex></macron> g<macron>ent<ex>illmen</ex></macron> to make the <brev-p>p<ex>ro</ex></brev-p>ceadinge.
 <lb/>besides the before name havinge gownes & hood<brev-es>es</brev-es>
 <lb/>the nomber of th<macron>e<ex>m</ex></macron> to be at the wille of <brev-y>th</brev-y><sl>e</sl> Executo<ex>u</ex><sl>rs</sl>
 <lb/>appoyntm<macron>e<ex>n</ex>t</macron> ./ <metamark>flourish</metamark> .
@@ -53,7 +53,7 @@
 <lb/>tokens of his Armes or Nobility as Standerd<brev-es>es</brev-es>, <del>Penons</del>
 <lb/>Banners, Pennons, or Gwydons. And allwayes (vnto
 <lb/>this daye) they have in any battell where they have
-<lb/>gone & <brev-p>p</brev-p><ex>ro</ex>ceaded had the victory of & against <brev-y>th</brev-y><sl>e</sl> <macron>g<ex>e</ex>n<ex>e</ex>rall</macron>
+<lb/>gone & <brev-p>p<ex>ro</ex></brev-p>ceaded had the victory of & against <brev-y>th</brev-y><sl>e</sl> <macron>g<ex>e</ex>n<ex>e</ex>rall</macron>
 <lb/><label>flagges.</label> flagg<brev-es>es</brev-es> of theyre ennemyes: w<ex>hi</ex><sl>ch</sl> are no higher then a
 <lb/>m<macron>a<ex>n</ex></macron> may holde a little above his heade & doe not
 <lb/>waver in the Wynde, but by the force of his Armes that

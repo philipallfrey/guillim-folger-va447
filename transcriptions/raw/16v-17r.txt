@@ -35,7 +35,7 @@
 <lb/><name>Cecill knighte her pryncipall Secretarye</name>. <metamark>flourish</metamark> . <metamark>flourish</metamark> .
 <lb/><pb>17r</pb>
 <lb/><heading>
-<lb/>The <brev-p>p</brev-p><ex>ro</ex>ceedinge to the Churche for
+<lb/>The <brev-p>p<ex>ro</ex></brev-p>ceedinge to the Churche for
 <lb/>An Earle</heading>
 <lb/>2. Conductors
 <lb/>Poorem<macron>e<ex>n</ex></macron> in gownes.

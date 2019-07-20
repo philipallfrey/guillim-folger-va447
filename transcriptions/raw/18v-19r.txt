@@ -17,7 +17,7 @@
 <lb/>The .2. sydes of the Hearse to be
 <lb/>.12. foote in lengthe and <brev-y>th</brev-y><sl>e</sl> Tymber
 <lb/>to be .4. ynches square.
-<lb/>The breadthe to be a 3<sl>d</sl> <brev-p>p</brev-p><ex>ar</ex>te therof
+<lb/>The breadthe to be a 3<sl>d</sl> <brev-p>p<ex>ar</ex></brev-p>te therof
 <lb/>vilz .9. foote.
 <lb/>This ground sill to be strong<brev-er>er</brev-er> then the rest./
 <lb/><pb>19r</pb>

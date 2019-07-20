@@ -11,7 +11,7 @@
 <lb/><metamark>X</metamark> Consuetudines lori faciunt qu<macron>e<ex>m</ex></macron> nobilem
 <lb/>qui alias n<macron>o<ex>n</ex></macron> esset nobili<unclear>s</unclear>.
 <lb/><metamark>X</metamark> Creations of noble and were before
-<lb/>any <brev-p>p</brev-p><ex>ar</ex>liam<macron>e<ex>n</ex></macron>t, w<ex>hi</ex><sl>ch</sl> beg<macron>a<ex>n</ex></macron> but in <brev-y>th</brev-y><sl>e</sl> tyme
+<lb/>any <brev-p>p<ex>ar</ex></brev-p>liam<macron>e<ex>n</ex></macron>t, w<ex>hi</ex><sl>ch</sl> beg<macron>a<ex>n</ex></macron> but in <brev-y>th</brev-y><sl>e</sl> tyme
 <lb/>of <name>kinge Hen<ex>ry</ex>: 3</name>.
 <lb/><metamark>X</metamark> No Kinge may be depo<unclear>s</unclear>ed for that he
 <lb/>is an infante
@@ -57,9 +57,9 @@
 <lb/><heading> <unclear>Ex liberte</unclear></heading>
 <lb/><metamark>X</metamark> Nobility or dignity coni<del>n</del>oyned to <brev-y>th</brev-y><sl>e</sl>
 <lb/>ffe<unclear>e</unclear> descendeth to wh<macron>o<ex>m</ex></macron> the fe<unclear>e</unclear>
-<lb/>descendeth: but se<brev-p>p</brev-p><ex>ar</ex>ate <del>there</del>from
+<lb/>descendeth: but se<brev-p>p<ex>ar</ex></brev-p>ate <del>there</del>from
 <lb/>the ffeodale, descecendeth as the
-<lb/>custome of eche <brev-p>p</brev-p><ex>ar</ex>ticuler <brev-p>p</brev-p><ex>ro</ex>vince
+<lb/>custome of eche <brev-p>p<ex>ar</ex></brev-p>ticuler <brev-p>p<ex>ro</ex></brev-p>vince
 <lb/>or R<macron>egio<ex>n</ex></macron>
 <lb/><metamark>X</metamark> Barons seeme to have bene the
 <lb/>chiefest Captaines of people habi=
@@ -76,13 +76,13 @@
 <lb/>ffeetaile is but a late Inv<macron>e<ex>n</ex>tio<ex>n</ex></macron>
 <lb/>about<date><name>Edw<ex>ard</ex>: 3<sup>d</sup></name>. tyme</date>,
 <lb/><metamark>X</metamark> Earles & Barons were many
-<lb/>year<brev-es>es</brev-es> before any <brev-p>p</brev-p><ex>ar</ex>liament w<ex>i</ex><sl>th</sl>in
+<lb/>year<brev-es>es</brev-es> before any <brev-p>p<ex>ar</ex></brev-p>liament w<ex>i</ex><sl>th</sl>in
 <lb/>this Realme. especially in sucha
 <lb/>solempne order.
 <lb/>Auncient Barons at <brev-y>th</brev-y><sl>e</sl> Conqueste
 <lb/>of <place>Engl<ex>and</ex></place>:
 <lb/>Baronies gev<macron>e<ex>n</ex></macron> to Religious houses
-<lb/><metamark>X</metamark> <brev-y>th</brev-y><sl>e</sl> dignity abidinge inse<brev-p>p</brev-p><ex>ar</ex>at<macron>u<ex>m</ex></macron> by
+<lb/><metamark>X</metamark> <brev-y>th</brev-y><sl>e</sl> dignity abidinge inse<brev-p>p<ex>ar</ex></brev-p>at<macron>u<ex>m</ex></macron> by
 <lb/>meanes whereof Abbots Bishops
 <lb/>& Priors wh th<macron>e<ex>n</ex></macron> receaved <brev-y>th</brev-y><sl>e</sl> style
 <lb/>of Lord<brev-es>es</brev-es>. who othersise wer in
@@ -90,9 +90,9 @@
 <lb/>&c
 <lb/><metamark>X</metamark> Abbot<brev-es>es</brev-es> & Prio<unclear> <ex>u</ex></unclear><sl>rs</sl>: not endued w<ex>i</ex><sl>th</sl> such
 <lb/>neither vsed style nor
-<lb/>were somoned to <brev-p>p</brev-p><ex>ar</ex>liam<macron>e<ex>n</ex>t</macron>
+<lb/>were somoned to <brev-p>p<ex>ar</ex></brev-p>liam<macron>e<ex>n</ex>t</macron>
 <lb/><metamark>X</metamark> Abbot<brev-es>es</brev-es> & Pryors owe service in
-<lb/><brev-p>p</brev-p><ex>ar</ex>liament in respecte of their
+<lb/><brev-p>p<ex>ar</ex></brev-p>liament in respecte of their
 <lb/><del><metamark>X</metamark></del>Baronies.
 <lb/><metamark>X</metamark> Barons are surnamed of the
 <lb/>chiefe mano<unclear> <ex>u</ex></unclear><sl>r</sl> of theyre Ba=

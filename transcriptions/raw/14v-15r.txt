@@ -34,7 +34,7 @@
 <lb/><metamark>. flourish .</metamark>
 <lb/><heading>A sinistris Chorea Ascendendo</heading>
 <lb/>1 Du treshaulte tresexcell<macron>e<ex>n</ex>t</macron> & tresch<macron>ristie<ex>n</ex></macron> Prynce
-<lb/>Henry le Quatres<unclear>me</unclear> <brev-p>p</brev-p><ex>ar</ex> la grace de Dieu, Roy
+<lb/>Henry le Quatres<unclear>me</unclear> <brev-p>p<ex>ar</ex></brev-p> la grace de Dieu, Roy
 <lb/>de ffra<unclear><macron>n<ex>n</ex></macron></unclear>ce et d'Navare. C<macron>h<ex>eva</ex>l<ex>ie</ex>r</macron>. du tresnoble
 <lb/>Order d'la Jarrettier./
 <lb/><pb>15r</pb>

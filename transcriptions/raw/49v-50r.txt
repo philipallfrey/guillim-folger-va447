@@ -11,14 +11,14 @@
 <lb/>not, but have many shelles & the coloure wilbe the
 <lb/>
 <lb/>better./
-<lb/><heading>To tem<brev-p>p</brev-p><ex>er</ex> fflowrdeluce greene.</heading>
+<lb/><heading>To tem<brev-p>p<ex>er</ex></brev-p> fflowrdeluce greene.</heading>
 <lb/>fflowrdeluce greene beinge once p<sl>r</sl><ex>e</ex>pared mustin no wise
-<lb/>be tem<brev-p>p</brev-p><ex>er</ex>ed in other man<brev-er>er</brev-er> th<macron>e<ex>n</ex></macron> w<ex>i</ex><sl>th</sl> fayre <del>gvme</del> water
+<lb/>be tem<brev-p>p<ex>er</ex></brev-p>ed in other man<brev-er>er</brev-er> th<macron>e<ex>n</ex></macron> w<ex>i</ex><sl>th</sl> fayre <del>gvme</del> water
 <lb/>And of this nature are all youre sappes of what
 <lb/>colo<ex>u</ex><sl>r</sl> soeu<brev-er>er</brev-er> they be of: for that it is gv<macron>m<ex>m</ex><unclear>i</unclear></macron>ye of it selfe
 <lb/>& will agree w<ex>i</ex><sl>th</sl> no G<macron>um<ex>m</ex>e</macron>water:/ His temper is
 <lb/>faire water./
-<lb/><heading>To grynde & tem<brev-p>p</brev-p><ex>er</ex> yo<ex>u</ex><sl>r</sl> greenes.</heading>
+<lb/><heading>To grynde & tem<brev-p>p<ex>er</ex></brev-p> yo<ex>u</ex><sl>r</sl> greenes.</heading>
 <lb/>Severe greene must be grounde & washt as gree and
 <lb/>blewe Byse, but not so muche grounde.
 <lb/><heading>Greene Byse.</heading>
@@ -36,7 +36,7 @@
 <lb/>take <measure>a qu<macron>a<ex>n</ex>t</macron>ity</measure> of <ingredient>Rewe</ingredient> & stape it & strayne the <unclear>iuyce</unclear>
 <lb/>therof throwgh a Lyn<macron>ne<ex>n</ex></macron> clothe & grynde yo<ex>u</ex><sl>r</sl> verdigrece
 <lb/>therw<ex>i</ex><sl>th</sl> not addinge to muche of thesaid <unclear>iuyce</unclear>, w<ex>hi</ex><sl>ch</sl> <unclear>done</unclear>
-<lb/>tem<brev-p>p</brev-p><ex>er</ex> yt w<ex>i</ex><sl>th</sl> <ingredient>wyne vineger</ingredient>, And y<macron>o<ex>u</ex></macron> shall have an
+<lb/>tem<brev-p>p<ex>er</ex></brev-p> yt w<ex>i</ex><sl>th</sl> <ingredient>wyne vineger</ingredient>, And y<macron>o<ex>u</ex></macron> shall have an
 <lb/>oryent greene.
 <lb/><heading>Another way to grinde Verdegrece</heading>
 <lb/>Beate it & searce it as before, t<macron>he<ex>n</ex></macron> grynde yt w<ex>i</ex><sl>th</sl> <ingredient>white
@@ -44,11 +44,11 @@
 <lb/>it of a reasonable thicknesse that the ground<brev-es>es</brev-es> maye
 <lb/>settle to the bottome, the<ex>n</ex> power the thynne colo<ex>u</ex><sl>r</sl> into <unclear>a</unclear>
 <lb/>shelle, & it will thicken Soshall y<macron>o<ex>u</ex></macron> have a fayer ...
-<lb/>glasing greene, w<ex>hi</ex><sl>ch</sl> y<macron>o<ex>u</ex></macron> may tem<brev-p>p</brev-p><ex>er</ex> by discretion. And the
+<lb/>glasing greene, w<ex>hi</ex><sl>ch</sl> y<macron>o<ex>u</ex></macron> may tem<brev-p>p<ex>er</ex></brev-p> by discretion. And the
 <lb/>gro<unclear>un</unclear>de wilbe a good greene likewise./
 <lb/>
 <lb/><pb>50r</pb>
-<lb/><heading>To tem<brev-p>p</brev-p><ex>er</ex> Whit<brev-es>es</brev-es></heading>
+<lb/><heading>To tem<brev-p>p<ex>er</ex></brev-p> Whit<brev-es>es</brev-es></heading>
 <lb/>An orient white. y<macron>o<ex>u</ex></macron> must grynde yo<ex>u</ex><sl>r</sl> <unclear>Ceruce</unclear> w<ex>i</ex><sl>th</sl> the
 <lb/>cleare white of an egge, & yo<ex>u</ex><sl>r</sl> glear must be rotted
 <lb/>vnder the grounde .3. or .4. week<brev-es>es</brev-es> or more And that
@@ -60,14 +60,14 @@
 <lb/>or w<ex>i</ex><sl>th</sl> other mixtur<brev-es>es</brev-es> acordinge to discretion as y<macron>o<ex>u</ex></macron> shall
 <lb/>have the Complexion./
 <lb/><heading>Spanish White</heading>
-<lb/>Y<macron>o<ex>u</ex></macron> must take <ingredient>fyne Chalke</ingredient> & grynde it w<ex>i</ex><sl>th</sl> <measure>the .3<sup>d</sup>. <brev-p>p</brev-p><ex>ar</ex>te</measure>
+<lb/>Y<macron>o<ex>u</ex></macron> must take <ingredient>fyne Chalke</ingredient> & grynde it w<ex>i</ex><sl>th</sl> <measure>the .3<sup>d</sup>. <brev-p>p<ex>ar</ex></brev-p>te</measure>
 <lb/>of <ingredient>Alome</ingredient> & <ingredient>cleane water</ingredient> till it be thicke as pappe.
 <lb/>t<macron>he<ex>n</ex></macron> make a rounde balle therof & let it drye a daye
 <lb/>or two tyll it be throwgh drye. T<macron>he<ex>n</ex></macron> laye it vp<macron>o<ex>n</ex></macron> the
 <lb/>hoate Coales vntill it be as Redde as fyer. Then
 <lb/>let it coole, and grynde it w<ex>i</ex><sl>th</sl> a <ingredient>weake wat<brev-er>er</brev-er> of Gu<macron>m<ex>m</ex></macron>e
 <lb/>Arabik</ingredient>./
-<lb/><heading>To tem<brev-p>p</brev-p><ex>er</ex> your Blackes.</heading>
+<lb/><heading>To tem<brev-p>p<ex>er</ex></brev-p> your Blackes.</heading>
 <lb/>Take <measure>an o<unclear>w</unclear>nce</measure> of <ingredient>galles</ingredient>, & <measure>.2. ounc<brev-es>es</brev-es></measure> of <ingredient>Cepas</ingredient>, & <measure>halfe
 <lb/>an ounce</measure> of <ingredient>g<macron>vm<ex>m</ex>e</macron> Arabik</ingredient>, <del>& put them all into a
 <lb/>pynte of Rayne Water</del> & <measure>a good spoonefulle</measure> of
@@ -80,7 +80,7 @@
 <lb/>the bottome of a Latt<macron>e<ex>n</ex></macron> bason, & of the smoke therof
 <lb/>will arise a qu<macron>a<ex>n</ex>t</macron>ity of the blacke w<ex>hi</ex><sl>ch</sl> w<ex>i</ex><sl>th</sl> a ffether
 <lb/>y<macron>o<ex>u</ex></macron> shall gather into a shell, & so tyll y<macron>o<ex>u</ex></macron> have ynouwgh
-<lb/>t<macron>he<ex>n</ex></macron> tem<brev-p>p</brev-p><ex>er</ex> it w<ex>i</ex><sl>th</sl> weake <ingredient>water of gv<macron>m<ex>m</ex>e</macron> Arabicke</ingredient>
+<lb/>t<macron>he<ex>n</ex></macron> tem<brev-p>p<ex>er</ex></brev-p> it w<ex>i</ex><sl>th</sl> weake <ingredient>water of gv<macron>m<ex>m</ex>e</macron> Arabicke</ingredient>
 <lb/>& worke therw<ex>i</ex><sl>th</sl>.
 <lb/><heading>Smith Coale <macron>al<ex>ia</ex>s</macron> red black for naked<brev-es>es</brev-es>.</heading>
 <lb/>Take of the blackest & softe <ingredient>Smythes coale</ingredient> & grynde it

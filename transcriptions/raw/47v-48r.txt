@@ -2,12 +2,12 @@
 <lb/>
 <lb/><heading>To p<sl>r</sl><ex>e</ex>pare Safron.</heading>
 <lb/>Take good Saffron and steepe it in good whyte wyne
-<lb/>vyneger vntill it cometh to a <brev-p>p</brev-p><ex>er</ex>fect Orenge colo<ex>u</ex><sl>r</sl>. As it
+<lb/>vyneger vntill it cometh to a <brev-p>p<ex>er</ex></brev-p>fect Orenge colo<ex>u</ex><sl>r</sl>. As it
 <lb/>wille veary neere./
 <lb/>
 <lb/>
 <lb/>
-<lb/><heading>The names of all Coloures <brev-p>p</brev-p><ex>er</ex>taining to Ly<macron>m<ex>m</ex></macron>inge</heading>
+<lb/><heading>The names of all Coloures <brev-p>p<ex>er</ex></brev-p>taining to Ly<macron>m<ex>m</ex></macron>inge</heading>
 <lb/>
 <lb/>Blewes .~. { Vltra marine
 <lb/>{ Blewe byre.
@@ -38,9 +38,9 @@
 <lb/>
 <lb/>Reddes .~. { Vermili<macron>o<ex>n</ex></macron>.
 <lb/>{ Redleade.
-<lb/>{ Syna<brev-p>p</brev-p><ex>er</ex>lake.
+<lb/>{ Syna<brev-p>p<ex>er</ex></brev-p>lake.
 <lb/>{ Roset.
-<lb/>{ Syna<brev-p>p</brev-p><ex>er</ex> Toppes.
+<lb/>{ Syna<brev-p>p<ex>er</ex></brev-p> Toppes.
 <lb/>
 <lb/>
 <lb/>Sangwines .~ { Sanguis Dra<macron>co<ex>n</ex>is</macron>
@@ -82,7 +82,7 @@
 <lb/>Take <ingredient>Gv<macron>m<ex>m</ex>e</macron> Armoniak</ingredient>. & <method>grynd it</method> w<ex>i</ex><sl>th</sl> the <ingredient>Juice of garlik</ingredient>
 <lb/>as fyne as maye be, t<macron>he<ex>n</ex></macron> put therto <measure>.2. or .3. droppes</measure> of <ingredient>weake
 <lb/></ingredient>
-<lb/><ingredient>g<macron>um<ex>m</ex>e</macron> water</ingredient> of <ingredient><macron>gom<ex>m</ex>e</macron> Arabike:</ingredient> & <method>tem<brev-p>p</brev-p><ex>er</ex> it</method> so that it be not
+<lb/><ingredient>g<macron>um<ex>m</ex>e</macron> water</ingredient> of <ingredient><macron>gom<ex>m</ex>e</macron> Arabike:</ingredient> & <method>tem<brev-p>p<ex>er</ex></brev-p> it</method> so that it be not
 <lb/>to thicke but that yt may goe currant out of the penne
 <lb/>& t<macron>he<ex>n</ex></macron> write therw<ex>i</ex><sl>th</sl> what y<macron>o<ex>u</ex></macron> will, & let it drye: And <macron>whe<ex>n</ex></macron>
 <lb/>y<macron>o<ex>u</ex></macron> will have it gilte, <method>cut</method> yo<ex>u</ex><sl>r</sl> <ingredient>golde</ingredient> or <ingredient>Syluere</ingredient> vpon a
@@ -128,7 +128,7 @@
 <lb/>into a glasse & let it drye & it will harde lik <del>Am</del>
 <lb/>Amber, & y<macron>o<ex>u</ex></macron> may dissolue it w<macron>he<ex>n</ex></macron> y<macron>o<ex>u</ex></macron> will w<ex>i</ex><sl>th</sl> cleare
 <lb/>water as y<macron>o<ex>u</ex></macron> doe gomme Arabicke. And that is good to
-<lb/>laye may colo<ex>u</ex><sl>rs</sl> as y<macron>o<ex>u</ex></macron> shall fynd in tem<brev-p>p</brev-p><ex>er</ex>inge <macron>the<ex>m</ex></macron>.
+<lb/>laye may colo<ex>u</ex><sl>rs</sl> as y<macron>o<ex>u</ex></macron> shall fynd in tem<brev-p>p<ex>er</ex></brev-p>inge <macron>the<ex>m</ex></macron>.
 <lb/>
 <lb/><heading>Gu<macron>m<ex>m</ex>e</macron> Arabike.</heading>
 <lb/>Take of the whitest & <method>steepe it</method> in water vntill it be

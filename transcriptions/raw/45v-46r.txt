@@ -28,11 +28,11 @@
 <lb/>Then Gentil<macron>me<ex>n</ex></macron> in Gownes,
 <lb/>The Gentil<macron>me<ex>n</ex></macron> in Cloak<brev-es>es</brev-es>.
 <lb/>--
-<lb/>Th<macron>e<ex>n</ex></macron> to retorne backe in <brev-p>p</brev-p><ex>ro</ex>ceadinge home in order as they
+<lb/>Th<macron>e<ex>n</ex></macron> to retorne backe in <brev-p>p<ex>ro</ex></brev-p>ceadinge home in order as they
 <lb/>came to Churche . <metamark>flourish</metamark> .
 <lb/>
 <lb/>
-<lb/><heading>An Esquire must have <brev-p>p</brev-p><ex>ro</ex>ceadinge, in
+<lb/><heading>An Esquire must have <brev-p>p<ex>ro</ex></brev-p>ceadinge, in
 <lb/>forme as a knighte savinge that they
 <lb/>doe differ in theire Hachmentes and
 <lb/></heading>

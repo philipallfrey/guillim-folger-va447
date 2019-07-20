@@ -3,7 +3,7 @@
 <lb/>newe howses, & are acordingly to beare theyre Armes w<ex>i</ex><sl>th</sl>
 <lb/>suche distinctions & differenc<brev-es>es</brev-es> as they maye be know<macron>e<ex>n</ex></macron> from
 <lb/><label>Assigninge of Differences.</label> the elder ffamylies from w<ex>hi</ex><sl>ch</sl> they are descended: The
-<lb/>kinge of Armes of that <brev-p>p</brev-p><ex>ro</ex>vince is ti be consulted w<ex>i</ex><sl>th</sl>all
+<lb/>kinge of Armes of that <brev-p>p<ex>ro</ex></brev-p>vince is ti be consulted w<ex>i</ex><sl>th</sl>all
 <lb/>& suche differenc<brev-es>es</brev-es> of howses are to be assigned & established
 <lb/>by his pryvety & consente that so he may aduise them <ins>to</ins> the
 <lb/>best & keepe Recorde therof. Otherwise, gentill<macron>me<ex>n</ex></macron> may
@@ -14,7 +14,7 @@
 <lb/>regarde that No man beare Armes by his Mother, be
 <lb/><label>Mothers Armes.</label> she neu<brev-er>er</brev-er> so good a Gentilwom<macron>a<ex>n</ex></macron> or neu<brev-er>er</brev-er> so greate an En
 <lb/>heritrix vnlesse he beare Armes also by his ffathers stock
-<lb/>stocke or lyuinge <brev-p>p</brev-p><ex>ro</ex><brev-p>p</brev-p><ex>er</ex>ly belonige to his surname. Quia apud
+<lb/>stocke or lyuinge <brev-p>p<ex>ro</ex></brev-p><brev-p>p<ex>er</ex></brev-p>ly belonige to his surname. Quia apud
 <lb/>nos in Anglia, partus n<macron>o<ex>n</ex></macron> sequitur ventrem.
 <lb/><label>Chaunge of Armes.</label> Likewise he is to see that no g<macron>e<ex>n</ex>t</macron>ill<macron>ma<ex>n</ex></macron> descended of noble
 <lb/>race & bearinge Armes doe alter & chaunge those Armes
@@ -46,7 +46,7 @@
 <lb/><pb>25r</pb>
 <lb/><heading>A Countesse</heading>
 <lb/>ffor herselfe --xii yard<brev-es>es</brev-es>.
-<lb/>ffor her trap<brev-p>p</brev-p><ex>er</ex> -- .v. yard<brev-es>es</brev-es>.
+<lb/>ffor her trap<brev-p>p<ex>er</ex></brev-p> -- .v. yard<brev-es>es</brev-es>.
 <lb/>ffor three gentillwo<macron>me<ex>n</ex></macron> -- .xv yard<brev-es>es</brev-es>.
 <lb/>ffor her three gentill<macron>me<ex>n</ex></macron> -- xv. yardes.
 <lb/>ffore her selfe one mantellet, one Barbe one frontlet
@@ -57,7 +57,7 @@
 <lb/>
 <lb/><heading>A Baronnesse.</heading>
 <lb/>ffor her selge -- xii yard<brev-es>es</brev-es>.
-<lb/>ffor her Trap<brev-p>p</brev-p><ex>er</ex> -- .v. yard<brev-es>es</brev-es>.
+<lb/>ffor her Trap<brev-p>p<ex>er</ex></brev-p> -- .v. yard<brev-es>es</brev-es>.
 <lb/>ffor her two Gentillwo<macron>me<ex>n</ex></macron> -- .x. yard<brev-es>es</brev-es>.
 <lb/>ffor herselfe one mantelet, one barbe one ffrontlet
 <lb/>and two kerchefes

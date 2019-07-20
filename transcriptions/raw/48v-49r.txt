@@ -1,5 +1,5 @@
 <lb/><heading>To make burnishing golde syse</heading>
-<lb/>Take .3. <brev-p>p</brev-p><ex>ar</ex>ts of <ingredient>bole Armoniake</ingredient> & the .4. of <ingredient>fyne
+<lb/>Take .3. <brev-p>p<ex>ar</ex></brev-p>ts of <ingredient>bole Armoniake</ingredient> & the .4. of <ingredient>fyne
 <lb/>Chalke</ingredient>. grynde t<macron>he<ex>m</ex></macron> together so smalle as maye be
 <lb/>w<ex>i</ex><sl>th</sl> <ingredient>cleane water</ingredient>. & at eu<brev-er>er</brev-er>y tyme let it drye, & so grynd
 <lb/>yt .3. or .4. tymes that ther be no gravell or gritt in it
@@ -11,7 +11,7 @@
 <lb/>in horsdunge or vnder the earthe the space of .5. or
 <lb/>6. week<brev-es>es</brev-es> th<macron>e<ex>n</ex></macron> take it vp & let it have ayere for it
 <lb/>will have an <unclear>evill</unclear> savo<ex>u</ex><sl>r</sl>. occupy therof as y<macron>o<ex>u</ex></macron> will
-<lb/>But first trye it vp<macron>o<ex>n</ex></macron> a strawe or thynne <brev-p>p</brev-p><ex>ar</ex>chm<macron>e<ex>n</ex>t</macron> &
+<lb/>But first trye it vp<macron>o<ex>n</ex></macron> a strawe or thynne <brev-p>p<ex>ar</ex></brev-p>chm<macron>e<ex>n</ex>t</macron> &
 <lb/>let it drye: & <macron>the<ex>n</ex></macron> : <unclear>sowe</unclear> it, & if it breake doe therto
 <lb/>a little water to make it weaker: & <measure>a little</measure> <ingredient>Eare
 <lb/>Waxe</ingredient> to take awaye the bubbles, And if it be to
@@ -88,7 +88,7 @@
 <lb/>a faire glasse in redynesse gather yo<ex>u</ex><sl>r</sl> flowres w<macron>he<ex>n</ex></macron> the
 <lb/>deawe is of t<macron>he<ex>m</ex></macron>, & that the sunne hathe somwhat bleached.
 <lb/>T<macron>he<ex>n</ex></macron> take the <ingredient>blewe leaves</ingredient> & <ingredient>purple leaves</ingredient> & nippe
-<lb/>it from the stalk, takinge no <brev-p>p</brev-p><ex>ar</ex>te of the fflowre, but
+<lb/>it from the stalk, takinge no <brev-p>p<ex>ar</ex></brev-p>te of the fflowre, but
 <lb/>only of the fairest of the blewe & of the purple. Let yo<ex>u</ex><sl>r</sl>
 <lb/>glasse be wyde mowthed, & put yo<ex>u</ex><sl>r</sl> fflowr<brev-es>es</brev-es> therinto
 <lb/>Let yo<ex>u</ex><sl>r</sl> fflowr<brev-es>es</brev-es> be full blow<macron>e<ex>n</ex></macron> before y<macron>o<ex>u</ex></macron> gather them

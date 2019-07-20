@@ -16,7 +16,7 @@
 <lb/>Then the .4. Assistant<brev-es>es</brev-es> (if he be a knighte
 <lb/>The Gent<ex>illmen</ex> in Gownes.
 <lb/>Then Gent<ex>illmen</ex> Cloak<brev-es>es</brev-es>
-<lb/>Then to retowrne backe in <brev-p>p</brev-p><ex>ro</ex>ceadinge home in order
+<lb/>Then to retowrne backe in <brev-p>p<ex>ro</ex></brev-p>ceadinge home in order
 <lb/>asthey came to the Churche <metamark>flourish</metamark>.Bro:/
 <lb/>
 <lb/><pb>22r</pb>
@@ -89,7 +89,7 @@
 <lb/>28 { Evers of Ingleby
 <lb/>29 { Wharton
 <lb/>30 { Riche.
-<lb/>31 { Willowghby. <macron><brev-p>p</brev-p><ex>ar</ex>ha<ex>m</ex></macron>
+<lb/>31 { Willowghby. <macron><brev-p>p<ex>ar</ex></brev-p>ha<ex>m</ex></macron>
 <lb/>32 { Sheffield.
 <lb/>33 { Paget of Beawdese<ex>rt</ex>
 <lb/>{ & of Drayton

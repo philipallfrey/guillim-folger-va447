@@ -6,7 +6,7 @@
 <lb/>r<macron>eru<ex>m</ex></macron>.
 <lb/>2 Digniorib<ex>us</ex>z digniora loca sunt
 <lb/>danda.
-<lb/>3 Quod breui<ex>us</ex>q est sem<brev-p>p</brev-p><ex>er</ex> delectabilior
+<lb/>3 Quod breui<ex>us</ex>q est sem<brev-p>p<ex>er</ex></brev-p> delectabilior
 <lb/>habet<brev-er>ur</brev-er> <name>Arist</name>: Rhet: 3.
 <lb/>
 <lb/>4 Omnis sermo si sit brevior <unclear>quam</unclear> <unclear>oportet</unclear>
@@ -18,12 +18,12 @@
 <lb/>irrationabiliter. <name>Arist</name>: 2: de
 <lb/>Caelo.
 <lb/>6 In ordine vniu<brev-er>er</brev-er>si qu<macron>a<ex>n</ex>t</macron>o res est
-<lb/>melior, <brev-p>p</brev-p><ex>er</ex>fectior, & nobilior, t<macron>a<ex>n</ex>t</macron>o
+<lb/>melior, <brev-p>p<ex>er</ex></brev-p>fectior, & nobilior, t<macron>a<ex>n</ex>t</macron>o
 <lb/>natura dat sibi loc<macron>u<ex>m</ex></macron> perfectior<macron>e<ex>m</ex></macron>
 <lb/>& nobili<macron>ore<ex>m</ex></macron>. <unclear>Bekrii</unclear>.
 <lb/>7 Omnis primatio p<sl>r</sl><ex>ae</ex>supponit habi<macron>tu<ex>m</ex></macron>.
 <lb/>8 Illud est meli<ex>us</ex>q q<ex>u</ex><sl>o</sl>d optimo est
-<lb/><brev-p>p</brev-p><ex>ro</ex>pinqui<ex>us</ex>q. <name>Arist</name>: 2: de Caelo.
+<lb/><brev-p>p<ex>ro</ex></brev-p>pinqui<ex>us</ex>q. <name>Arist</name>: 2: de Caelo.
 <lb/>9 Res que sunt ead<macron>e<ex>m</ex></macron> specie n<macron>o<ex>n</ex></macron>
 <lb/>reddunt<brev-er>ur</brev-er> Diu<brev-er>er</brev-er>sae <macron>It<ex>e</ex>m</macron> diffe=
 <lb/>rentias. <name>Arist</name>: Phy: 4.
@@ -35,7 +35,7 @@
 <lb/>et n<macron>o<ex>n</ex></macron> alias mutare subiect<macron>u<ex>m</ex></macron>.
 <lb/><name>Arist:</name>
 <lb/>12 Soror est quasi seors<macron>u<ex>m</ex></macron> nata &
-<lb/>a ffamilia se<brev-p>p</brev-p><ex>ar</ex>ata. <name>Sozin<ex>us</ex>q</name>
+<lb/>a ffamilia se<brev-p>p<ex>ar</ex></brev-p>ata. <name>Sozin<ex>us</ex>q</name>
 <lb/>13 Priora sunt Compositis incom=
 <lb/>posita. <name>Arist</name>. Metaph: 13.
 <lb/>14 Pluralitas Indiuiduor<ex>um</ex> <del>dimi=</del>
@@ -47,7 +47,7 @@
 <lb/><name>ferne</name> .151
 <lb/>16 In primogenito tanq<ex>u</ex><sl>a</sl><ex>m</ex>z in Capite
 <lb/>stat splendor geniturae. <name>Cassa</name>:
-<lb/><unclear>Conclu<macron>ss</macron></unclear>.76. <brev-p>p</brev-p><ex>ar</ex>t<brev-es>es</brev-es>.1.
+<lb/><unclear>Conclu<macron>ss</macron></unclear>.76. <brev-p>p<ex>ar</ex></brev-p>t<brev-es>es</brev-es>.1.
 <lb/>17 Ea q<ex>ua</ex><sl>e</sl> primogenito acquir<macron>u<ex>n</ex>t</macron><brev-er>ur</brev-er>, titulo.
 <lb/>acquirunt<brev-er>ur</brev-er> vniu<brev-er>er</brev-er>sali. <macron>Ib<ex>ide</ex>m</macron>.
 <lb/>18 <macron>It<ex>e</ex>m</macron> acquireunt<brev-er>ur</brev-er> vt constituto in
@@ -70,17 +70,17 @@
 <lb/><cb>ea intelligit<brev-er>ur</brev-er> ab eo in substanci<unclear>=</unclear>
 <lb/></cb>
 <lb/><cb>alib<ex>us</ex>z reces<macron>su<ex>m</ex></macron>. <name>Cassa:</name> Concluss</cb>
-<lb/><cb>49. <brev-p>p</brev-p><ex>ar</ex>t<ex>es</ex>. 1
+<lb/><cb>49. <brev-p>p<ex>ar</ex></brev-p>t<ex>es</ex>. 1
 <lb/></cb>
 <lb/><cb>22 Soli Col<macron>o<ex>u</ex></macron>res Iridis n<macron>o<ex>n</ex></macron> possunt
 <lb/></cb>
 <lb/><cb>fieri a pictorib<ex>us</ex>q. <name>Arist</name>. Mete:</cb>
 <lb/><cb>3tio./</cb>
-<lb/><cb>23 Natura sem<brev-p>p</brev-p><ex>er</ex> <unclear>in</unclear>tendit q<ex>u</ex><sl>o</sl>d meli<ex>us</ex>q
+<lb/><cb>23 Natura sem<brev-p>p<ex>er</ex></brev-p> <unclear>in</unclear>tendit q<ex>u</ex><sl>o</sl>d meli<ex>us</ex>q
 <lb/></cb>
 <lb/><cb>est.
 <lb/></cb>
-<lb/><cb>24 <unclear>Pro<brev-p>p</brev-p><ex>er</ex>t</unclear>  necessita<macron>te<ex>m</ex></macron> non<macron>u<ex>m</ex></macron>quam
+<lb/><cb>24 <unclear>Pro<brev-p>p<ex>er</ex></brev-p>t</unclear>  necessita<macron>te<ex>m</ex></macron> non<macron>u<ex>m</ex></macron>quam
 <lb/></cb>
 <lb/><cb>aliqu<macron>a<ex>n</ex>tu<ex>m</ex></macron> recedend<macron>u<ex>m</ex></macron> est a</cb>
 <lb/><cb>Regalis.
@@ -96,7 +96,7 @@
 <lb/></cb>
 <lb/><cb>est Accidentalis. <name>Arist</name>.
 <lb/></cb>
-<lb/><cb>28 Arma nobilitat<macron>e<ex>m</ex></macron> <unclear>sum<macron>u<ex>n</ex>t</macron></unclear> a <brev-p>p</brev-p><ex>er</ex>sona
+<lb/><cb>28 Arma nobilitat<macron>e<ex>m</ex></macron> <unclear>sum<macron>u<ex>n</ex>t</macron></unclear> a <brev-p>p<ex>er</ex></brev-p>sona
 <lb/></cb>
 <lb/><cb>gestant<brev-es>es</brev-es>
 <lb/></cb>
@@ -104,7 +104,7 @@
 <lb/></cb>
 <lb/><cb>potes<unclear>t</unclear>.
 <lb/></cb>
-<lb/>30 In A<ex>n</ex>i<macron><ex>m</ex>aliu<ex>m</ex></macron> ratione, su<brev-p>p</brev-p><ex>er</ex>iora
+<lb/>30 In A<ex>n</ex>i<macron><ex>m</ex>aliu<ex>m</ex></macron> ratione, su<brev-p>p<ex>er</ex></brev-p>iora
 <lb/>Inferiorib<ex>us</ex>q nobiliora censeunt<brev-er>ur</brev-er>
 <lb/>sic <unclear>Antica postiris</unclear>, & sinistris
 <lb/>dextera. <name>Caesii</name> secundi. De Antiq<ex>u</ex><sl>i</sl>=
@@ -119,13 +119,13 @@
 <lb/>est ipsemet finis, si agentis in=
 <lb/>tention<macron>e<ex>m</ex></macron>, n<macron>o<ex>n</ex></macron> opus spectes. <name>Casi<ex>us</ex>q</name>
 <lb/>de Sphera. Lib: 7.
-<lb/>33 Demonstra<macron>tio<ex>n</ex>es</macron> sunt <brev-p>p</brev-p><ex>er</ex>fectiores
+<lb/>33 Demonstra<macron>tio<ex>n</ex>es</macron> sunt <brev-p>p<ex>er</ex></brev-p>fectiores
 <lb/>& nobiliores quando induc<macron>u<ex>n</ex>t</macron>
 <lb/>post orationes dubitabiles. <name>Arist.</name>
 <lb/>Phys: 7.
 <lb/>34 Natura nil facit frustra, non
 <lb/>deficit in necessariis nec abun=
-<lb/>dat <unclear>in</unclear> su<brev-p>p</brev-p><ex>er</ex>fluis. <name>Arist</name>: 3: de
+<lb/>dat <unclear>in</unclear> su<brev-p>p<ex>er</ex></brev-p>fluis. <name>Arist</name>: 3: de
 <lb/>Anima.
 <lb/>35 Generos<macron>u<ex>m</ex></macron> est illud q<ex>u</ex><sl>o</sl>d a natu<unclear>ra</unclear>
 <lb/>sua n<macron>o<ex>n</ex></macron> degenerauit. <name>Arist</name>
@@ -133,7 +133,7 @@
 <lb/>36 Omnia <macron>a<ex>n</ex>i<ex>m</ex>alia</macron> debent depingi
 <lb/>in suo ferociori acta qui magi
 <lb/>vigor<macron>e<ex>m</ex></macron> su<macron>u<ex>m</ex></macron> demonstra<unclear>t</unclear>
-<lb/>37 Leones non d<macron>u<ex>m</ex></macron> adulti <brev-p>p</brev-p><ex>ar</ex>tici
+<lb/>37 Leones non d<macron>u<ex>m</ex></macron> adulti <brev-p>p<ex>ar</ex></brev-p>tici
 <lb/>pation<macron>e<ex>m</ex></macron> admittere solent.
 <lb/>38 Principes nolunt pares
 <lb/>39 Exempla illustr<macron>a<ex>n</ex>t</macron>

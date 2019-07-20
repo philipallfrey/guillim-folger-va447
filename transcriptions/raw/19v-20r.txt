@@ -8,7 +8,7 @@
 <lb/>3 Assist<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es> 3. Assist<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es>
 <lb/>
 <lb/><pb>20r</pb>
-<lb/>The <brev-p>p</brev-p><ex>ro</ex>ceadinge at the ffun<brev-er>er</brev-er>all
+<lb/>The <brev-p>p<ex>ro</ex></brev-p>ceadinge at the ffun<brev-er>er</brev-er>all
 <lb/>of a Baronnesse.
 <lb/>2. Conductors
 <lb/>Poorew<macron>ome<ex>n</ex></macron>

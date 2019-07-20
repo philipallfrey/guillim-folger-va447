@@ -12,7 +12,7 @@
 <lb/>Take <ingredient>veluet blacke</ingredient> beinge well burnte & grynd it drye
 <lb/>vp<macron>o<ex>n</ex></macron> yo<ex>u</ex><sl>r</sl> stone vntill it be somwhat fyne, then <unclear>brushe</unclear> <measure> a
 <lb/>little</measure> <ingredient>gu<macron>m<ex>m</ex>e</macron></ingredient> in <ingredient>powlder</ingredient> & put to yt, & w<ex>i</ex><sl>th</sl> yo<ex>u</ex><sl>r</sl> <unclear>moller</unclear>
-<lb/>tem<brev-p>p</brev-p><ex>er</ex> yt well together, th<macron>e<ex>n</ex></macron> put <measure>a little</measure> <ingredient>wat<brev-er>er</brev-er></ingredient> vnto it
+<lb/>tem<brev-p>p<ex>er</ex></brev-p> yt well together, th<macron>e<ex>n</ex></macron> put <measure>a little</measure> <ingredient>wat<brev-er>er</brev-er></ingredient> vnto it
 <lb/>& grynde it very fyne, make it not to stronge of the
 <lb/>gv<macron>m<ex>m</ex>e</macron> so will it lye very fayre of yt selfe. But if
 <lb/>it be grounde with g<macron>um<ex>m</ex>e</macron> water prepared it wyll
@@ -25,13 +25,13 @@
 <lb/>a Light Carnation made of vermilion: or else w<ex>i</ex><sl>th</sl>
 <lb/>Red lake & whyte, or Verditer, or Ceder greene.
 <lb/>And for other sorts of Colo<ex>u</ex><sl>rs</sl> that shineth like golde & sylu<brev-er>er</brev-er>
-<lb/>in the sylke, so must y<macron>o<ex>u</ex></macron> tem<brev-p>p</brev-p><ex>er</ex> yt w<ex>i</ex><sl>th</sl> yo<ex>u</ex><sl>r</sl> colours lyquid
+<lb/>in the sylke, so must y<macron>o<ex>u</ex></macron> tem<brev-p>p<ex>er</ex></brev-p> yt w<ex>i</ex><sl>th</sl> yo<ex>u</ex><sl>r</sl> colours lyquid
 <lb/>golde & syluer. And where the principall lighte
 <lb/>cometh like golde <del>& sylu<brev-er>er</brev-er></del> or sylu<brev-er>er</brev-er> lig<macron>hte<ex>n</ex></macron> it w<ex>i</ex><sl>th</sl> gold
 <lb/>or syluer. Vsinge all those sort<brev-es>es</brev-es> of chaungeable silke
 <lb/>to lay the ground like to the saddest of yt & height<macron>e<ex>n</ex></macron> in
 <lb/>chaungeable colour<brev-es>es</brev-es>./
-<lb/><ingredient>Syna<brev-p>p</brev-p><ex>er</ex> toppes</ingredient> must be ground w<ex>i</ex><sl>th</sl> gv<macron>m<ex>m</ex></macron>e water./
+<lb/><ingredient>Syna<brev-p>p<ex>er</ex></brev-p> toppes</ingredient> must be ground w<ex>i</ex><sl>th</sl> gv<macron>m<ex>m</ex></macron>e water./
 <lb/><ingredient>Sanguis Draconis</ingredient> must be grounde w<ex>i</ex><sl>th</sl> a syse of
 <lb/><ingredient>gv<macron>m<ex>m</ex></macron>e water</ingredient>, & yt will have muche gryndinge./
 <lb/>Lay yo<ex>u</ex><sl>r</sl> <ingredient>Turnsole</ingredient> in <measure>a sawcer</measure> of <ingredient>vyneg<brev-er>er</brev-er></ingredient>, & let yt be
@@ -67,7 +67,7 @@
 <lb/><heading>To make Spike Vermix.</heading>
 <lb/>Rx <measure>on pounde</measure> of <ingredient>oyle of Spyke</ingredient> <measure>on halfe pound</measure>
 <lb/>
-<lb/>of <ingredient>Jvni<brev-p>p</brev-p><ex>er</ex> g<macron>v<unclear>um</unclear><ex>m</ex>e</macron></ingredient> al<ex>ia</ex>s <ingredient>Sandrake</ingredient>. beate the <macron>gvm<ex>m</ex>e</macron>
+<lb/>of <ingredient>Jvni<brev-p>p<ex>er</ex></brev-p> g<macron>v<unclear>um</unclear><ex>m</ex>e</macron></ingredient> al<ex>ia</ex>s <ingredient>Sandrake</ingredient>. beate the <macron>gvm<ex>m</ex>e</macron>
 <lb/>& searce yt very fyne, put yo<ex>u</ex><sl>r</sl> <ingredient>oyle</ingredient> into a potte
 <lb/>well leaded, & set yt in balmes & let it boyle
 <lb/>softely, & put in the poulder by lyttle & lyttle, till

@@ -6,8 +6,8 @@
 <lb/>th<macron>e<ex>n</ex></macron> put it inot the fyre th<macron>e<ex>n</ex></macron> holde a plate of Iron over the
 <lb/>potte to receave the vapo<ex>u</ex><sl>r</sl> therof, the first wilbe whyte, then
 <lb/>w<ex>i</ex><sl>th</sl> a fether stryke that of, the next shall yo<unclear><ex>u</ex></unclear> have a perfecte
-<lb/>yellowe of dyuers Colour<brev-es>es</brev-es>. His tem<brev-p>p</brev-p><ex>er</ex>ature is weake gomme
-<lb/>water. yo<ex>u</ex> may tem<brev-p>p</brev-p><ex>er</ex> it in a shelle w<ex>i</ex><sl>th</sl> yo<ex>u</ex><sl>r</sl> fynger./
+<lb/>yellowe of dyuers Colour<brev-es>es</brev-es>. His tem<brev-p>p<ex>er</ex></brev-p>ature is weake gomme
+<lb/>water. yo<ex>u</ex> may tem<brev-p>p<ex>er</ex></brev-p> it in a shelle w<ex>i</ex><sl>th</sl> yo<ex>u</ex><sl>r</sl> fynger./
 <lb/>
 <lb/>
 <lb/><heading>
@@ -25,7 +25,7 @@
 <lb/>w<ex>i</ex><sl>th</sl> a little <ingredient>G<macron>u<ex>m</ex>me</macron> water</ingredient>, th<macron>e<ex>n</ex></macron> styrre yt w<ex>i</ex><sl>th</sl> yo<ex>u</ex><sl>r</sl> fyng<brev-er>er</brev-er> vntill
 <lb/>it become fyne, th<macron>e<ex>n</ex></macron> washe it as aforesaide vntill all the
 <lb/>mother cometh from yt: before y<macron>o<ex>u</ex></macron> washe it you mvst
-<lb/>strayne it throughe a Lyn<macron>ne<ex>n</ex></macron> cloth<macron>e</macron> <macron>the<ex>n</ex></macron> tem<brev-p>p</brev-p><ex>er</ex> it w<ex>i</ex><sl>th</sl> G<macron>um<ex>m</ex></macron>e
+<lb/>strayne it throughe a Lyn<macron>ne<ex>n</ex></macron> cloth<macron>e</macron> <macron>the<ex>n</ex></macron> tem<brev-p>p<ex>er</ex></brev-p> it w<ex>i</ex><sl>th</sl> G<macron>um<ex>m</ex></macron>e
 <lb/>water & so worke w<ex>i</ex><sl>th</sl> it: <del>s</del>So shall y<macron>o<ex>u</ex></macron> have A moste
 <lb/>fayre coloure./
 <lb/><heading>
@@ -44,7 +44,7 @@
 <lb/>
 <lb/><heading>Mastricot & Generall.</heading>
 <lb/>They must not be grounde, but strayned & washed as verdit
-<lb/>& then tem<brev-p>p</brev-p><ex>er</ex>ed w<ex>i</ex><sl>th</sl> <ingredient>G<macron>u<ex>m</ex>m</macron>e water</ingredient>.
+<lb/>& then tem<brev-p>p<ex>er</ex></brev-p>ed w<ex>i</ex><sl>th</sl> <ingredient>G<macron>u<ex>m</ex>m</macron>e water</ingredient>.
 <lb/>
 <lb/><heading>Oker de rowse or Spruce Oker.</heading>
 <lb/>
