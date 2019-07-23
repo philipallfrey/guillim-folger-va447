@@ -18,7 +18,7 @@
 <lb/>In witnesse <del>wherof</del> of all these, yo<sl>u</sl> shall kysse yo<ex>u</ex><sl>r</sl> sworde &
 <lb/>offer it on this holye Aulter ./ &c./
 <lb/><heading>Creatio<macron><ex>n</ex>e<brev-es>s</brev-es></macron> ap<ex>u</ex><sl>d</sl> <place>Lambhith</place><date>:2:feb:a<ex>nn</ex><sl>o</sl>:Hen<ex>rici</ex>:8:5<sl>ti</sl></date></heading>
-<lb/><name>Tho<ex>mas</ex>: C<macron>o<ex>m</ex>es</macron> Surregiae</name>, creat<brev-us>us</brev-us> dux Norff<ex>olciae</ex>: c<macron>u<ex>m</ex></macron> Aug<macron>me<ex>n</ex>t</macron>atione Arm<unclear>o<ex>rum</ex></unclear>
+<lb/><name>Tho<ex>mas</ex>: C<macron>o<ex>m</ex>es</macron> Surregiae</name>, creat<brev-us>us</brev-us> dux Norff<ex>olciae</ex>: c<macron>u<ex>m</ex></macron> Aug<macron>me<ex>n</ex>t</macron>atione Armo<brev-rum>rum</brev-rum>
 <lb/>Scotiae.
 <lb/><name>Carol<brev-us>us</brev-us> Brandon<brev-us>us</brev-us> Vicec<macron>o<ex>m</ex>es</macron> <del>insulae</del> de Insula</name> creat<brev-us>us</brev-us> dux S<macron>uff<ex>olciae</ex>.</macron>
 <lb/><name>Tho<ex>mas</ex>: Howard<brev-es>us</brev-es> Admirall<brev-us>us</brev-us></name>. creat<brev-us>us</brev-us> Comes Surregiae ./
@@ -40,7 +40,7 @@
 <lb/>Rex cepit homagi<del>w</del><macron>u<ex>m</ex></macron> <name>willmi de ffortibz</name> filii. <name>will<macron><ex>el</ex>mi</macron> de ffortibz</name> q<ex>u</ex><sl>o</sl>nd<macron>a<ex>m</ex></macron>
 <lb/>Comit<brev-es>is</brev-es> A<unclear>u</unclear>bemarle. &c: T: R<ex>ex</ex>: ap<ex>u</ex><sl>d</sl> <place>wi<del>d</del>ndelsore</place>.18.Sept<ex>embris</ex>
 <lb/><heading>Esch<ex>eatriae</ex>: <date>A<ex>nn</ex><sl>o</sl>:44:Hen<ex>rici</ex>:3.</date></heading>
-<lb/><name>Willm<brev-us>us</brev-us> de ffortib<brev-us>us</brev-us></name> } <name>Thomas de ffortib<brev-us>us</brev-us></name> } fili<brev-us>us</brev-us>.7.Ann<unclear><ex>orum</ex></unclear>.
+<lb/><name>Willm<brev-us>us</brev-us> de ffortib<brev-us>us</brev-us></name> } <name>Thomas de ffortib<brev-us>us</brev-us></name> } fili<brev-us>us</brev-us>.7.A<macron>nn<ex>orum</ex></macron>.
 <lb/>C<macron>o<ex>m</ex>es</macron> Albemarle } <macron>al<ex>ia</ex>s</macron>. fforde. - }
 <lb/><name>Marg<brev-er>er</brev-er>ia</name> Comitissa } <name>Jo<macron>h<ex>ann</ex>es</macron> de Burgo</name>. plene etatis ./
 <lb/>Cantiae. - }

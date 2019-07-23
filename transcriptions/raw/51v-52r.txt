@@ -58,8 +58,8 @@
 <lb/>litate in al<macron>ia<ex>m</ex></macron>; sed in hoc differ<macron>a<ex>n</ex>t</macron>
 <lb/>q<ex>u</ex><sl>o</sl>d Subs<macron>ta<ex>n</ex>t</macron>ialis mutat nom<macron>e<ex>n</ex></macron> et
 <lb/>definiti<macron>one<ex>m</ex></macron> rei: Accidentalis
-<lb/>ver<unclear>o</unclear> neut<ex>orum</ex> ho<ex>rum</ex> mutat. phyl:1.
-<lb/>Illa different quor<ex>um</ex> deffinitiones
+<lb/>ver<unclear>o</unclear> neut<brev-rum>rum</brev-rum> ho<brev-rum>rum</brev-rum> mutat. phyl:1.
+<lb/>Illa different quo<brev-rum>rum</brev-rum> deffinitiones
 <lb/>differ<unclear>n</unclear>te. <name>Porphy</name>: vniuera: Lib.
 <lb/>
 <lb/>

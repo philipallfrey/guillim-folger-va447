@@ -13,7 +13,7 @@
 <lb/><label>A<ex>nn</ex>o. d<ex>omi</ex>ni: 8</label> Thoroldy. Vicomes Lyncolne. } mentioned in the deede of confirmation of Kenulph<unclear>s</unclear> kinge of mercia to the Abbey of Croyland <macron>Ib<ex>ide</ex>m</macron>
 <lb/>
 <lb/>Exegist<brev-us>us</brev-us> miles validissim<brev-us>us</brev-us> q<ex>u</ex><sl>o</sl>nd<macron>a<ex>m</ex></macron> }
-<lb/>magister <unclear>kenulphi</unclear> Reg<brev-es>is</brev-es> mercio<ex>rum</ex>. }
+<lb/>magister <unclear>kenulphi</unclear> Reg<brev-es>is</brev-es> mercio<brev-rum>rum</brev-rum>. }
 <lb/>Celwall frat<brev-er>er</brev-er> <macron>d<ex>omi</ex>ni</macron> Reg<brev-es>is</brev-es> Kennulphi }
 <lb/>
 <lb/>
