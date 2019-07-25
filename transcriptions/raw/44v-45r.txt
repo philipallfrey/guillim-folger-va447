@@ -11,7 +11,7 @@
 <lb/><name>An<macron>na<ex>m</ex></macron></name>. <name>Judith</name> <name>Elizabetham</name> & <name>J<macron>ana<ex>m</ex></macron></name>. vixit quadraginta
 <lb/>Annos. Nobilis, venusta, pia Clara deo et <macron>ho<ex>m</ex>i<ex>n</ex>ibusz:</macron> obiit
 <lb/>mul<macron>tu<ex>m</ex></macron> deplorata. Vltimo ffeb<ex>ruario</ex>: A<ex>nn</ex>o: Salut<brev-es>is</brev-es> .<date>1601</date>. pro
-<lb/>cui<brev-us>us</brev-us> bene acta vita D<macron>eu<ex>m</ex></macron> laudate. utq<ex>ue</ex>z <macron>cu<ex>m</ex></macron> Sanctis ....
+<lb/>cui<brev-us>us</brev-us> bene acta vita D<macron>eu<ex>m</ex></macron> laudate. utq<brev-z>ue</brev-z> <macron>cu<ex>m</ex></macron> Sanctis ....
 <lb/>co<macron>m<ex>m</ex></macron>vnicatis Orate./
 <lb/>
 <lb/>

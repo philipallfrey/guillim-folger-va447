@@ -2,15 +2,15 @@
 <lb/><pb>38v</pb>
 <lb/>Qu<macron>a<ex>n</ex>t</macron>a est defectio Civitat<brev-es>is</brev-es>, qu<macron>a<ex>n</ex>t</macron>a Ordinis <brev-p>p<ex>er</ex></brev-p>u<brev-er>er</brev-er>sio, <macron>cu<ex>m</ex></macron> Antiquitatis
 <lb/>monum<macron>e<ex>n</ex>t</macron>a delentur, <macron>cu<ex>m</ex></macron> maio<macron>ru<ex>m</ex></macron> nomina postero<brev-rum>rum</brev-rum> ingratitudine
-<lb/>obliter<macron>a<ex>n</ex>t</macron><ex>ur</ex>. C<macron>u<ex>m</ex></macron> passim Tusculana, Pompeiana aliaq<ex>ue</ex>z vetestissima<brev-rum>rum</brev-rum>
+<lb/>obliter<macron>a<ex>n</ex>t</macron><ex>ur</ex>. C<macron>u<ex>m</ex></macron> passim Tusculana, Pompeiana aliaq<brev-z>ue</brev-z> vetestissima<brev-rum>rum</brev-rum>
 <lb/>familia<brev-rum>rum</brev-rum> Vexilla et quasi Insignia rvunt, ac deiiciunt<ex>ur</ex>. Casii de
 <lb/>sphara. Lib<ex>er</ex> :2: fol: 140.
-<lb/>Neq<ex>ue</ex>z magni aut ingenii aut erudicionis vir<macron>u<ex>m</ex></macron> esse censet Galenus, quisquis
+<lb/>Neq<brev-z>ue</brev-z> magni aut ingenii aut erudicionis vir<macron>u<ex>m</ex></macron> esse censet Galenus, quisquis
 <lb/>contra veteres <unclear>ausus</unclear> est dicere. Caii<brev-us>us</brev-us> de Antiqz: Cant: pag: 122./
 <lb/>Non erubescat Antiquitas: si quid meli<brev-us>us</brev-us> ho<macron>ru<ex>m</ex></macron> quae ipsa tradidit novita<unclear>s</unclear>
 <lb/>adiuvenit.
 <lb/>Nom<macron>qua<ex>m</ex></macron> obscurat intelligen<macron>tia<ex>m</ex></macron> Antiquitat<brev-es>is</brev-es> ignoratio, plurima enim
-<lb/>in reb<ex>us</ex>z hvmanis novat aetat<brev-es>is</brev-es> diuturnitas. vt videre licet Psalmus: 126.
+<lb/>in reb<brev-z>us</brev-z> hvmanis novat aetat<brev-es>is</brev-es> diuturnitas. vt videre licet Psalmus: 126.
 <lb/>Aduers<macron>u<ex>m</ex></macron> me loquebantur, qui sedebant in porta: Juxta sen<macron>su<ex>m</ex></macron>: gamatic<unclear><macron>u<ex>m</ex></macron></unclear>
 <lb/>min<brev-us>us</brev-us> liquebit, nisi monito fuerim<brev-us>us</brev-us>, Olim Judeos in portis vrbi<macron>u<ex>m</ex></macron> solitos
 <lb/>reddere Judicia. Sicut <unclear>pat<brev-er>er</brev-er>et</unclear>. Deutero :21. Etiam :2: Reg<macron>u<ex>m</ex></macron> .14. <unclear><macron>It<ex>e</ex>m</macron></unclear>

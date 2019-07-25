@@ -23,7 +23,7 @@
 <lb/>Tarditat<macron>e<ex>m</ex></macron> supplicii, gravitate <unclear>c<macron>o<ex>m</ex></macron>pensat</unclear>
 <lb/>Deus.
 <lb/>Quid t<macron>a<ex>m</ex></macron> penale q<macron>ua<ex>m</ex></macron> sem<brev-p>p<ex>er</ex></brev-p> velle q<ex>u</ex><sl>o</sl>d
-<lb/>nu<ex>m</ex>q<ex>u</ex><sl>a</sl><ex>m</ex>z erit, & sem<brev-p>p<ex>er</ex></brev-p> nolle q<ex>u</ex><sl>o</sl>d n<macron>u<ex>m</ex></macron>q<ex>u</ex><sl>a</sl><ex>m</ex>z non
+<lb/>nu<ex>m</ex>q<ex>u</ex><sl>a</sl><brev-z>m</brev-z> erit, & sem<brev-p>p<ex>er</ex></brev-p> nolle q<ex>u</ex><sl>o</sl>d n<macron>u<ex>m</ex></macron>q<ex>u</ex><sl>a</sl><brev-z>m</brev-z> non
 <lb/>erit? In aetern<macron>u<ex>m</ex></macron> n<macron>o<ex>n</ex></macron> obtinebit q<ex>u</ex><sl>o</sl>d
 <lb/>vult, & q<ex>u</ex><sl>o</sl>d n<macron>o<ex>n</ex></macron> vult in aeter<macron>nu<ex>m</ex></macron> susti=
 <lb/>nebit.

@@ -4,7 +4,7 @@
 <lb/><cb>1 Diu<brev-er>er</brev-er>sitas <macron>no<ex>min</ex>is</macron></cb> inducit diu<brev-er>er</brev-er>sitatem rei
 <lb/>in tant<macron>u<ex>m</ex></macron> q<ex>u</ex><sl>o</sl>d n<macron>o<ex>m</ex>i<ex>n</ex>a</macron> sunt significatina
 <lb/>r<macron>eru<ex>m</ex></macron>.
-<lb/>2 Digniorib<ex>us</ex>z digniora loca sunt
+<lb/>2 Digniorib<brev-z>us</brev-z> digniora loca sunt
 <lb/>danda.
 <lb/>3 Quod breui<brev-us>us</brev-us> est sem<brev-p>p<ex>er</ex></brev-p> delectabilior
 <lb/>habet<brev-er>ur</brev-er> <name>Arist</name>: Rhet: 3.
@@ -45,7 +45,7 @@
 <lb/>15 Latini Differentias voc<macron>a<ex>n</ex>t</macron> dimi
 <lb/>nutiones & doctrinae Armor<macron>u<ex>m</ex></macron>.
 <lb/><name>ferne</name> .151
-<lb/>16 In primogenito tanq<ex>u</ex><sl>a</sl><ex>m</ex>z in Capite
+<lb/>16 In primogenito tanq<ex>u</ex><sl>a</sl><brev-z>m</brev-z> in Capite
 <lb/>stat splendor geniturae. <name>Cassa</name>:
 <lb/><unclear>Conclu<macron>ss</macron></unclear>.76. <brev-p>p<ex>ar</ex></brev-p>t<brev-es>es</brev-es>.1.
 <lb/>17 Ea q<ex>ua</ex><sl>e</sl> primogenito acquir<macron>u<ex>n</ex>t</macron><brev-er>ur</brev-er>, titulo.
@@ -66,10 +66,10 @@
 <lb/><cb>21 Augm<macron>e<ex>n</ex>tu<ex>m</ex></macron> vel diminutio circa Acci=</cb>
 <lb/><cb>dentalia contractu<macron>u<ex>m</ex></macron>, non repon<macron>u<ex>n</ex>t</macron>
 <lb/></cb>
-<lb/><cb>in diu<brev-er>er</brev-er>so <del>specie</del> esse: neq<ex>ue</ex>z per</cb>
+<lb/><cb>in diu<brev-er>er</brev-er>so <del>specie</del> esse: neq<brev-z>ue</brev-z> per</cb>
 <lb/><cb>ea intelligit<brev-er>ur</brev-er> ab eo in substanci<unclear>=</unclear>
 <lb/></cb>
-<lb/><cb>alib<ex>us</ex>z reces<macron>su<ex>m</ex></macron>. <name>Cassa:</name> Concluss</cb>
+<lb/><cb>alib<brev-z>us</brev-z> reces<macron>su<ex>m</ex></macron>. <name>Cassa:</name> Concluss</cb>
 <lb/><cb>49. <brev-p>p<ex>ar</ex></brev-p>t<ex>es</ex>. 1
 <lb/></cb>
 <lb/><cb>22 Soli Col<macron>o<ex>u</ex></macron>res Iridis n<macron>o<ex>n</ex></macron> possunt
@@ -129,7 +129,7 @@
 <lb/>Anima.
 <lb/>35 Generos<macron>u<ex>m</ex></macron> est illud q<ex>u</ex><sl>o</sl>d a natu<unclear>ra</unclear>
 <lb/>sua n<macron>o<ex>n</ex></macron> degenerauit. <name>Arist</name>
-<lb/>de a<ex>n</ex>i<macron><ex>m</ex>alib<ex>us</ex>z</macron> .1.
+<lb/>de a<ex>n</ex>i<macron><ex>m</ex>alib<brev-z>us</brev-z></macron> .1.
 <lb/>36 Omnia <macron>a<ex>n</ex>i<ex>m</ex>alia</macron> debent depingi
 <lb/>in suo ferociori acta qui magi
 <lb/>vigor<macron>e<ex>m</ex></macron> su<macron>u<ex>m</ex></macron> demonstra<unclear>t</unclear>
