@@ -7,7 +7,7 @@
 <lb/><graphic>drawing</graphic> <graphic>drawing</graphic> <graphic>drawing</graphic>
 <lb/>The Hearse <graphic>drawing</graphic> for an Earle.
 <lb/>4. Assist<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es>
-<lb/>4.Assist<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es>
+<lb/>4. Assist<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es>
 <lb/>Chiefe
 <lb/>Mourn<brev-er>er</brev-er>
 <lb/>

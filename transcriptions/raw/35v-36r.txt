@@ -14,7 +14,7 @@
 <lb/>w<macron>he<ex>n</ex></macron> yt shall hap<macron>pe<ex>n</ex></macron> to fall down vnto yo<macron><ex>u</ex></macron>. <metamark>flourish</metamark>.
 <lb/><metamark>scribble</metamark>
 <lb/><heading>
-<lb/>Officers of Armes. Martii.26.1604
+<lb/>Officers of Armes. Martii .26. 1604
 <lb/>& Anno :RR: Jacobi primo.</heading>
 <lb/>
 <lb/><heading>Names of Office.</heading>  <heading>Surnames.</heading>

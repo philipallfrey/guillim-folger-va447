@@ -18,7 +18,7 @@
 <lb/>foote square: & so was the olde forme. But nowe
 <lb/>becawse theire worshippe <ins>and power</ins> is encreased they have it
 <lb/>of three foote
-<lb/><label>.1.elle</label> The vsuall Bann<brev-er>er</brev-er> for the estat<brev-es>es</brev-es> last above named is an
+<lb/><label>.1. elle</label> The vsuall Bann<brev-er>er</brev-er> for the estat<brev-es>es</brev-es> last above named is an
 <lb/>elle Longe, & a yarde broade.
 <lb/>
 <lb/>
@@ -34,7 +34,7 @@
 <lb/><label>
 <lb/>A standarde.
 <lb/>Deuise.</label>
-<lb/><graphic>drawing</graphic> .<label>11. yardes</label> <ins><unclear>xi</unclear> yard<brev-es>es</brev-es></ins> The greate Standard must be placed before the king<brev-es>es</brev-es>
+<lb/><graphic>drawing</graphic> <label>.11. yardes</label> <ins><unclear>xi</unclear> yard<brev-es>es</brev-es></ins> The greate Standard must be placed before the king<brev-es>es</brev-es>
 <lb/>Pavilion. or Tente, & not to be borne in Battell, thesame
 <lb/>to be of the lengthe of Ele<macron>ve<ex>n</ex></macron> yard<brev-es>es</brev-es>.
 <lb/><label>.8.</label> The king<brev-es>es</brev-es> Standard (to be brone) to be of the lengthe of

@@ -1,7 +1,7 @@
 <lb/>
 <lb/><pb>34v</pb>
 <lb/><label>.penon.</label>
-<lb/><graphic>drawing</graphic> .2. yardes.dimid .50. <macron>me<ex>n</ex></macron>. A Pen<macron>no<ex>n</ex></macron> must be Two yard<brev-es>es</brev-es> & an halfe longe, made rounde at
+<lb/><graphic>drawing</graphic> .2. yardes. dimid .50. <macron>me<ex>n</ex></macron>. A Pen<macron>no<ex>n</ex></macron> must be Two yard<brev-es>es</brev-es> & an halfe longe, made rounde at
 <lb/>the ende, & contayneth the Armes of the owner. And serveth for
 <lb/>the conduce of ffyftye <macron>me<ex>n</ex></macron>. <ins>The length of a Penon :2: yardes & an halfe.</ins>
 <lb/>Every knight may have his Penn<macron>o<ex>n</ex></macron> (if he be chiefe Captayne)
@@ -9,7 +9,7 @@
 <lb/>the kinge or the Lievete<macron>na<ex>n</ex>t</macron>e shall make a slitte in the ende of the
 <lb/>Penon and the Heraulde<brev-es>s</brev-es> shall <unclear>r</unclear>aze it out./
 <lb/>And W<macron>he<ex>n</ex></macron> a knight is made Bannerett, the Herauld<brev-es>es</brev-es> shall bringe
-<lb/>hym to his Tente & receave for theire ffees - <amt>iii<sup>li</sup>.vis.viiid.</amt>
+<lb/>hym to his Tente & receave for theire ffees - <amt>iii<sup>li</sup>. vis. viiid.</amt>
 <lb/>ffor eu<brev-er>er</brev-er>y Bacheler knight <ins>made Banneret</ins> And <brev-y>th</brev-y><sl>e</sl> Trompett<brev-es>es</brev-es>
 <lb/>2 <amt>xxs</amt>./
 <lb/>
@@ -50,10 +50,8 @@
 <lb/>
 <lb/>/ / /
 <lb/><pb>35r</pb>
-<lb/><heading>
-<lb/>The makinge of a knighte
-<lb/>Bann<brev-er>er</brev-er>ett in the ffyelde.
-<lb/></heading>
+<lb/><heading>The makinge of a knighte
+<lb/>Bann<brev-er>er</brev-er>ett in the ffyelde.</heading>
 <lb/>The knighte that shalbe made Bann<brev-er>er</brev-er>ett (bearinge hys
 <lb/>Penon of Armes, in his hand) shalbe brought betweene
 <lb/>two other knight<brev-es>es</brev-es>) before the Generall of the ffyelde.

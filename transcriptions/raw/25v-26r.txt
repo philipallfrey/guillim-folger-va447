@@ -17,7 +17,7 @@
 <lb/>w<ex>i</ex><sl>th</sl> them & theire yssue is not ennoblished therby.
 <lb/>. <metamark>flourish</metamark> . <metamark>flourish</metamark> . <metamark>flourish</metamark> .
 <lb/><label><date>Anno :RR: Jacobi Regis Angl<ex>iae</ex> &c Secundo</date> .~.~.</label>
-<lb/> <heading>Justs holden at <place>white Halle</place> the <date>.24.daye
+<lb/> <heading>Justs holden at <place>white Halle</place> the <date>.24. daye
 <lb/>of Marche Anno d<macron><ex>omi</ex>ni</macron> .1603</date>: beinge <brev-y>th</brev-y><sl>e</sl> daye
 <lb/>of his M<macron>a<ex>ies</ex>ties</macron> begynninge of his second
 <lb/>yeare of his highnesse Raigne ou<brev-er>er</brev-er> this
@@ -56,11 +56,11 @@
 <lb/><label>Knighte of London<metamark>flourish</metamark></label><heading>The <brev-p>p<ex>ro</ex></brev-p>ceadinge to the ffunerall of
 <lb/>a knighte in London.</heading>
 <lb/>
-<lb/>ffirst the Chil<macron>dre<ex>n</ex></macron> of the Hospitall .2.and.2.
+<lb/>ffirst the Chil<macron>dre<ex>n</ex></macron> of the Hospitall .2. and .2.
 <lb/>T<macron>he<ex>n</ex></macron> two yeo<macron>me<ex>n</ex></macron> Conductors in blacke Coat<brev-es>es</brev-es> w<ex>i</ex><sl>th</sl> blacke
 <lb/>staves in theire hand<brev-es>es</brev-es>.
-<lb/>T<macron>he<ex>n</ex></macron> poore m<macron>e<ex>n</ex></macron> in gownes .2.ande.2.
-<lb/>th<macron>e<ex>n</ex></macron> poore wo<macron>me<ex>n</ex></macron> in gownes .2.and.2.
+<lb/>T<macron>he<ex>n</ex></macron> poore m<macron>e<ex>n</ex></macron> in gownes .2. ande .2.
+<lb/>th<macron>e<ex>n</ex></macron> poore wo<macron>me<ex>n</ex></macron> in gownes .2. and .2.
 <lb/>T<macron>he<ex>n</ex></macron> the Quier.
 <lb/>T<macron>he<ex>n</ex></macron> the Preacher.
 <lb/>T<macron>he<ex>n</ex></macron> the Standarde borne by a Gentill<macron>ma<ex>n</ex></macron> in gowne

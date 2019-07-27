@@ -17,7 +17,7 @@
 <lb/>The Gent<ex>illmen</ex> in Gownes.
 <lb/>Then Gent<ex>illmen</ex> Cloak<brev-es>es</brev-es>
 <lb/>Then to retowrne backe in <brev-p>p<ex>ro</ex></brev-p>ceadinge home in order
-<lb/>asthey came to the Churche <metamark>flourish</metamark>.Bro:/
+<lb/>asthey came to the Churche <metamark>flourish</metamark> .Bro:/
 <lb/>
 <lb/><pb>22r</pb>
 <lb/><heading>The nobility placed acordinge to theire
@@ -29,7 +29,7 @@
 <lb/>Marquesse of Wynchest<brev-er>er</brev-er>
 <lb/>
 <lb/>
-<lb/>1.E<ex>arle</ex>: of Arondell.
+<lb/>1. E<ex>arle</ex>: of Arondell.
 <lb/>2. E<ex>arle</ex>: of Ox<macron>o<ex>n</ex></macron>.
 <lb/>3. E<ex>arle</ex>: of - Northumberland
 <lb/>4 { Shrewsbury

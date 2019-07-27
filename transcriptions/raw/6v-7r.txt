@@ -29,7 +29,7 @@
 <lb/>co<macron>m<ex>m</ex></macron>ittit<brev-er>ur</brev-er> p<ex>r</ex><sl>i</sl>sone in <place>Turri Londonensi</place>. & cito postea relaxat<ex>ur</ex>: et
 <lb/>Creat<brev-er>ur</brev-er> <macron>Co<ex>m</ex>es</macron> <unclear>Wiltes</unclear>./
 <lb/><heading>Esch<ex>eatriae</ex>:a<ex>nn</ex><sl>o</sl>:2:Ed<ex>wardi</ex>:1./</heading>
-<lb/><name>D<macron><ex>omi</ex>na</macron> Hawisia de London</name> obiit ante <date>.23.Septemb<ex>ris</ex>:a<ex>nn</ex>o.2<sl>o</sl>:Edw<ex>ardi</ex>:1<sl>i</sl></date>
+<lb/><name>D<macron><ex>omi</ex>na</macron> Hawisia de London</name> obiit ante <date>.23. Septemb<ex>ris</ex>:a<ex>nn</ex>o .2<sl>o</sl>: Edw<ex>ardi</ex>: 1<sl>i</sl></date>
 <lb/>& <name>d<macron><ex>omi</ex>n<brev-us>us</brev-us></macron> Pagan<brev-us>us</brev-us> de Cadurcis</name> fili<brev-us>us</brev-us> et heres eius est plene etat<brev-es>is</brev-es>. <unclear>Tenuit</unclear>
 <lb/>man<brev-er>er</brev-er>i<macron>u<ex>m</ex></macron> de <name>Eastegerston</name> de Rege in Capite <brev-p>p<ex>er</ex></brev-p> serian<macron>tia<ex>m</ex></macron> <macron>vilz</macron> <unclear>tanquam</unclear> <macron>me<ex>m</ex></macron>br<macron>u<ex>m</ex></macron>
 <lb/>primus ad Kadwellye. vliz. c<macron>u<ex>m</ex></macron> <unclear>weomestera </unclear>de Kadwelly. Ad conduc<macron>e<ex>n</ex></macron>d<macron>u<ex>m</ex></macron>
@@ -38,13 +38,13 @@
 <lb/>tus. <metamark>flourish</metamark>.
 <lb/><heading>pat<unclear><ex>entes</ex></unclear>:<date>anno:25:Hen<ex>rici</ex>:3:</date></heading>
 <lb/>Rex cepit homagi<del>w</del><macron>u<ex>m</ex></macron> <name>willmi de ffortibz</name> filii. <name>will<macron><ex>el</ex>mi</macron> de ffortibz</name> q<ex>u</ex><sl>o</sl>nd<macron>a<ex>m</ex></macron>
-<lb/>Comit<brev-es>is</brev-es> A<unclear>u</unclear>bemarle. &c: T: R<ex>ex</ex>: ap<ex>u</ex><sl>d</sl> <place>wi<del>d</del>ndelsore</place>.18.Sept<ex>embris</ex>
-<lb/><heading>Esch<ex>eatriae</ex>: <date>A<ex>nn</ex><sl>o</sl>:44:Hen<ex>rici</ex>:3.</date></heading>
-<lb/><name>Willm<brev-us>us</brev-us> de ffortib<brev-us>us</brev-us></name> } <name>Thomas de ffortib<brev-us>us</brev-us></name> } fili<brev-us>us</brev-us>.7.A<macron>nn<ex>orum</ex></macron>.
+<lb/>Comit<brev-es>is</brev-es> A<unclear>u</unclear>bemarle. &c: T: R<ex>ex</ex>: ap<ex>u</ex><sl>d</sl> <place>wi<del>d</del>ndelsore</place>.18. Sept<ex>embris</ex>
+<lb/><heading>Esch<ex>eatriae</ex>: <date>A<ex>nn</ex><sl>o</sl>: 44: Hen<ex>rici</ex>: 3.</date></heading>
+<lb/><name>Willm<brev-us>us</brev-us> de ffortib<brev-us>us</brev-us></name> } <name>Thomas de ffortib<brev-us>us</brev-us></name> } fili<brev-us>us</brev-us>.7. A<macron>nn<ex>orum</ex></macron>.
 <lb/>C<macron>o<ex>m</ex>es</macron> Albemarle } <macron>al<ex>ia</ex>s</macron>. fforde. - }
 <lb/><name>Marg<brev-er>er</brev-er>ia</name> Comitissa } <name>Jo<macron>h<ex>ann</ex>es</macron> de Burgo</name>. plene etatis ./
 <lb/>Cantiae. - }
 <lb/><date>A<ex>nn</ex><sl>o</sl>:15:Hen<ex>rici</ex>:7:</date> <name>Edw<ex>ardus</ex>: comes warr<unclear><ex>wickensis</ex></unclear></name> condemnat<brev-us>us</brev-us> coram <name>J<macron>oh<ex>ann</ex>e</macron> de vere</name> co<ex>m</ex>ite
 <lb/>Oxo<ex>niense</ex>: eo tem<brev-p>p<ex>or</ex></brev-p>e Senescallo Angliae<date>:21:die novemb<ex>ris</ex>:</date> ap<ex>u</ex><sl>d</sl>: <place>westm<ex>onast</ex><brev-er>er</brev-er><ex>ium</ex></place> et
-<lb/><date>28.die eiusd<macron>e<ex>m</ex></macron> mens<brev-es>is</brev-es></date> capit<unclear>e</unclear> plex<brev-us>us</brev-us> est ad <place>m<macron>o<ex>n</ex>te<ex>m</ex></macron> iuxta Turrim Londi<unclear>=</unclear>
+<lb/><date>28. die eiusd<macron>e<ex>m</ex></macron> mens<brev-es>is</brev-es></date> capit<unclear>e</unclear> plex<brev-us>us</brev-us> est ad <place>m<macron>o<ex>n</ex>te<ex>m</ex></macron> iuxta Turrim Londi<unclear>=</unclear>
 <lb/>inensem</place> ./

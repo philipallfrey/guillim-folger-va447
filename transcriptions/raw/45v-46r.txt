@@ -54,11 +54,11 @@
 <lb/>is made./. </heading> As followeth
 <lb/>
 <lb/>To the Earle Marshall for the tyme beinge -- <amt>iii<sup>li</sup> vi<sup>s</sup> viii<sup>d</sup></amt>
-<lb/>To the Herauld<brev-es>es</brev-es> -- <amt>.v.<sup>li</sup></amt>
-<lb/>To the g<macron>e<ex>n</ex>t</macron><ex>illmen</ex>: vshes -- <del> <amt>.v.<sup>li</sup></amt></del>
-<lb/>To the Quarter Wayters -- <amt>.xl<sup>s</sup>.</amt>
+<lb/>To the Herauld<brev-es>es</brev-es> -- <amt>.v. <sup>li</sup></amt>
+<lb/>To the g<macron>e<ex>n</ex>t</macron><ex>illmen</ex>: vshes -- <del> <amt>.v. <sup>li</sup></amt></del>
+<lb/>To the Quarter Wayters -- <amt>.xl <sup>s</sup>.</amt>
 <lb/>To the Sewers of the Chamber -- .<amt>xl<sup>s</sup></amt>.
 <lb/>To the Serg<macron>ea<ex>n</ex>t</macron><brev-es>es</brev-es> at Armes -- <amt>xx<sup>s</sup></amt>
 <lb/>To the yeo<macron>me<ex>n</ex></macron> vshers, groomes & pages -- .<amt>xl<sup>s</sup></amt>
-<lb/>To the porters -- <amt>.xx.<sup>s</sup></amt>
-<lb/>Sum<ex>m</ex>a tot: -- <amt>xxi<sup>li</sup>.xiii<sup>s</sup>.iiii<sup>d</sup></amt>
+<lb/>To the porters -- <amt>.xx. <sup>s</sup></amt>
+<lb/>Sum<ex>m</ex>a tot: -- <amt>xxi<sup>li</sup> .xiii<sup>s</sup> .iiii<sup>d</sup></amt>

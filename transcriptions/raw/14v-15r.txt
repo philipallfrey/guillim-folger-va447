@@ -39,7 +39,7 @@
 <lb/>Order d'la Jarrettier./
 <lb/><pb>15r</pb>
 <lb/><heading>A sinistris Chorea ascendendo</heading>
-<lb/><label>S<sl>t</sl>: Georges feaste.1604.</label> 2 Du treshaulte puissante & tresnoble Prynce ffrederick
+<lb/><label>S<sl>t</sl>: Georges feaste .1604.</label> 2 Du treshaulte puissante & tresnoble Prynce ffrederick
 <lb/>Duc d' Wyrtemberge et Tec. C<macron>ont<ex>e</ex></macron>. d'Montbeliard
 <lb/>Seigneur de Haydenheimb. &c. C<macron><ex>heva</ex>l<ex>ie</ex>r</macron>. du tresnoble
 <lb/>Order d' la Jarretier<unclear><ex>e</ex></unclear>./

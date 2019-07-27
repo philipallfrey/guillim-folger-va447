@@ -70,7 +70,7 @@
 <lb/>life, w<ex>hi</ex><sl>ch</sl> name by second mariage
 <lb/>could not be tak<macron>e<ex>n</ex></macron> awaye.
 <lb/>The widowe of <name>Hen<ex>ry</ex>:5:</name>
-<lb/>maried w<ex>i</ex><sl>th</sl> <name>Ow<macron>e<ex>n</ex></macron> Tewther.</name>}And all of
+<lb/>maried w<ex>i</ex><sl>th</sl> <name>Ow<macron>e<ex>n</ex></macron> Tewther.</name> }And all of
 <lb/>The <name>Countesse of Som<brev-er>er</brev-er>set</name>}th<macron>e<ex>m</ex></macron> <unclear>r</unclear>eteyned
 <lb/><metamark>X</metamark> mar<sl>r</sl><ex>ied</ex>: w<ex>i</ex><sl>th</sl> <name>De la poole</name>.} theire stiles
 <lb/><name>Cicely</name> do<ex>wghter</ex>: of:<name>Ed<ex>ward</ex>:4</name>: mar<ex>ied</ex>:} & dignities

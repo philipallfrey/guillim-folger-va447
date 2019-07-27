@@ -34,7 +34,7 @@
 <lb/>into thesayde Cowrte. <metamark>flourish</metamark>
 <lb/><pb>13r</pb>
 <lb/><heading>Proceedinge to the Parlia<macron>me<ex>n</ex>t</macron>
-<lb/>the<date>.19.of Marche.1603.</date></heading>
+<lb/>the <date>.19. of Marche .1603.</date></heading>
 <lb/>Messengers of the Chamber.
 <lb/>Gent<ex>illmen</ex>: & esquiers the king<brev-es>es</brev-es> servant<brev-es>es</brev-es>.
 <lb/>Clerks of the Chauncery.

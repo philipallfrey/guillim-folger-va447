@@ -32,7 +32,7 @@
 <lb/>hospitii <name>Illustrissimi Principis D<macron><ex>omi</ex>ni</macron> Henr<ex>ici</ex>: Quinti
 <lb/>Reg<brev-es>is</brev-es> Anglie</name> et Canonic<brev-us>us</brev-us> <macron>eccl<ex>es</ex>ie</macron> Cathedralis S<ex>anc</ex><sl>ti</sl> Pauli
 <lb/>
-<lb/>London<ex><unclear>ensis</unclear></ex>: qui obiit .19.die Maii .M. iiii<sup>C</sup> <unclear>ani<brev-us>us</brev-us></unclear> <unclear>domine</unclear>
+<lb/>London<ex><unclear>ensis</unclear></ex>: qui obiit .19. die Maii .M. iiii<sup>C</sup> <unclear>ani<brev-us>us</brev-us></unclear> <unclear>domine</unclear>
 <lb/><unclear>propitietum de<brev-us>us</brev-us>.</unclear>/
 <lb/>
 <lb/>
@@ -43,16 +43,16 @@
 <lb/>their deputye. As followeth.
 <lb/>
 <lb/></heading>
-<lb/>Clarencieulx his ffee. -- <amt>.v.<sup>li</sup></amt>
-<lb/>ffor his blackes. -- <amt>v.<sup>li</sup></amt>
+<lb/>Clarencieulx his ffee. -- <amt>.v. <sup>li</sup></amt>
+<lb/>ffor his blackes. -- <amt>v. <sup>li</sup></amt>
 <lb/>Black<brev-es>es</brev-es> for his serv<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es>.-- <amt>xxx<sup>s</sup></amt>.
 <lb/>Transportation money outward<brev-es>es</brev-es> & homewardes aft<brev-er>er</brev-er> . <amt>xii<sup>d</sup></amt>
 <lb/>eche myle./ A Certificat. -- <amt>xx<sup>s</sup></amt>./
 <lb/>
 <lb/>
 <lb/>The Heraulde for his fee. -- <amt>.iii<sup>li</sup>: vi<sup>s</sup>. viii<sup>d</sup></amt>
-<lb/>ffor his black<brev-es>es</brev-es>. -- <amt>.iii.<sup>li</sup>. vi<sup>s</sup>. viii<sup>d</sup></amt>
-<lb/>ffor his servant<brev-es>es</brev-es> black<brev-es>es</brev-es>. -- <amt>.xv.<sup>s</sup></amt>
+<lb/>ffor his black<brev-es>es</brev-es>. -- <amt>.iii. <sup>li</sup>. vi<sup>s</sup>. viii<sup>d</sup></amt>
+<lb/>ffor his servant<brev-es>es</brev-es> black<brev-es>es</brev-es>. -- <amt>.xv. <sup>s</sup></amt>
 <lb/>Transportation money outward<brev-es>es</brev-es> & homward<brev-es>es</brev-es> aft<brev-er>er</brev-er> <amt>vi<sup>d</sup></amt>
 <lb/>eche myle.
 <lb/>A Certificat. -- <amt>.xx<sup>s</sup></amt>./

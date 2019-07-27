@@ -27,7 +27,7 @@
 <lb/>.2. Conductors.
 <lb/>Poore m<macron>e<ex>n</ex></macron>.
 <lb/>2. Conductors.
-<lb/>Servamtes of { Gent<ex>illmen.</ex> Knight<brev-es>es</brev-es>. Barons. Earles.
+<lb/>Servamtes of { Gent<ex>illmen</ex>. Knight<brev-es>es</brev-es>. Barons. Earles.
 <lb/><graphic>drawing</graphic> The Standard
 <lb/>Serv<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es> of the deffunct in Cloakes
 <lb/>Gent<ex>illmen</ex> serv<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es> of the deffunct in Cloak<brev-es>es</brev-es>.
