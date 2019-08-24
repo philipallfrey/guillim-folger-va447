@@ -8,11 +8,16 @@
 <lb/>forma & principi<macron>u<ex>m</ex></macron>
 <lb/><metamark>X</metamark> Consuetudini stand<macron>u<ex>m</ex></macron> est, disponenti
 <lb/>de Nobilitate.
-<lb/><metamark>X</metamark> Consuetudines lori faciunt qu<macron>e<ex>m</ex></macron> nobilem
+<lb/><metamark>X</metamark> Consuetudines loci faciunt qu<macron>e<ex>m</ex></macron> nobilem
 <lb/>qui alias n<macron>o<ex>n</ex></macron> esset nobili<unclear>s</unclear>.
 <lb/><metamark>X</metamark> Creations of noble and were before
 <lb/>any <brev-p>p<ex>ar</ex></brev-p>liam<macron>e<ex>n</ex></macron>t, w<ex>hi</ex><sl>ch</sl> beg<macron>a<ex>n</ex></macron> but in <brev-y>th</brev-y><sl>e</sl> tyme
-<lb/>of <name>kinge Hen<ex>ry</ex>: 3</name>.
+<lb/>of <name>kinge Hen<ex>ry</ex>: 3<sup>d</sup></name>.
+<lb/><metamark>X</metamark> A m<macron>a<ex>n</ex></macron> vsinge <brev-y>th</brev-y><sl>e</sl> Titles of .2.seu<brev-er>er</brev-er>alle
+<lb/>Baronies: by writte of so<macron>m<ex>m</ex></macron>ons shall have
+<lb/>his denomination only of one of th<macron>e<ex>m</ex></macron>.
+<lb/><metamark>X</metamark> The Dignity of a Baronesse is <brev-p>p<ex>ar</ex></brev-p>cell
+<lb/>of her inheritance.
 <lb/><metamark>X</metamark> No Kinge may be depo<unclear>s</unclear>ed for that he
 <lb/>is an infante
 <lb/><metamark>X</metamark> A kings infancy is supplied by the ripe
@@ -23,14 +28,14 @@
 <lb/><metamark>X</metamark> Wisdome is not denied wom<macron>e<ex>n</ex></macron> by na
 <lb/>ture
 <lb/><metamark>X</metamark> Husbands Ten<macron>a<ex>n</ex>t</macron>s in theire wyves right<unclear> <brev-es>es</brev-es></unclear> -
-<lb/>. <name>John. D<ex>uke</ex>: of Lanc<ex>aster</ex></name>: in his wives right was
+<lb/>. <name>John. D<ex>uke</ex>: of Lanc<ex>aster</ex>:</name> in his wives right was
 <lb/>. Lo<ex>rd</ex>: highe Steward of Engl<ex>and</ex>:
 <lb/>. <name>Sir Lionell dymocke</name> (as Ten<macron>a<ex>n</ex>t</macron>e by
 <lb/>curtes<unclear>y</unclear>) <brev-y>th</brev-y><sl>e</sl> king<brev-es>es</brev-es> Champi<macron>o<ex>n</ex></macron> .
 <lb/><name>Marga<ex>ret</ex>: Countesse of Norf<ex>olk</ex></name>. d<unclear>ow</unclear><ex>ter</ex>: & heire
-<lb/>of <name>Tho<ex>mas</ex>: of Brotherton</name>, Countesse Mar
+<lb/>of <name>Tho<ex>mas</ex>: of Brotherton</name>, Countesse Mar=
 <lb/>shall of <place>Englande</place>.
-<lb/><metamark>X</metamark> Barons take place acordinge to <brev-y>th</brev-y><sl>e</sl> Anci
+<lb/><metamark>X</metamark> Barons take place acordinge to <brev-y>th</brev-y><sl>e</sl> Anci=
 <lb/>enty of theyre Creations: not as they be
 <lb/>Somaned
 <lb/><metamark>X</metamark> Triall at <brev-y>th</brev-y><sl>e</sl> Com<macron>o<ex>n</ex></macron> Lawe is by Juries
@@ -43,7 +48,7 @@
 <lb/>vp<macron>o<ex>n</ex></macron> <brev-y>th</brev-y><sl>e</sl> Customes of Chiualry vsed w<ex>i</ex><sl>th</sl>in
 <lb/>this Realme.
 <lb/><metamark>X</metamark> Wom<macron>e<ex>n</ex></macron> are vncapeable of dignities
-<lb/><unclear>Re z</unclear> adminestration, not of dignities
+<lb/>w<ex>i</ex><sl>th</sl> adminestration, not of dignities
 <lb/> of byrthe
 <lb/><metamark>X</metamark> Duke & Earle (amonge the Roma<unclear>nn</unclear>es)
 <lb/>denote an office & dignity in campe
@@ -52,7 +57,6 @@
 <lb/><metamark>X</metamark> <unclear>Af<ex>te</ex><sl>r</sl></unclear> translation of <brev-y>th</brev-y><sl>e</sl> empire Dignities
 <lb/>of office became dignities of patr<unclear>i</unclear>=
 <lb/>mo<unclear>n</unclear>ye: & so <brev-y>th</brev-y><sl>e</sl> stiles of dignities be=
-<lb/>
 <lb/>came parcell of inherit<ex>ance</ex>. & patr<ex>imony</ex>e.
 <lb/><heading> <unclear>Ex liberte</unclear></heading>
 <lb/><metamark>X</metamark> Nobility or dignity coni<del>n</del>oyned to <brev-y>th</brev-y><sl>e</sl>
@@ -80,7 +84,7 @@
 <lb/>this Realme. especially in sucha
 <lb/>solempne order.
 <lb/>Auncient Barons at <brev-y>th</brev-y><sl>e</sl> Conqueste
-<lb/>of <place>Engl<ex>and</ex></place>:
+<lb/>of <place>Engl<ex>and</ex>:</place>
 <lb/>Baronies gev<macron>e<ex>n</ex></macron> to Religious houses
 <lb/><metamark>X</metamark> <brev-y>th</brev-y><sl>e</sl> dignity abidinge inse<brev-p>p<ex>ar</ex></brev-p>at<macron>u<ex>m</ex></macron> by
 <lb/>meanes whereof Abbots Bishops
@@ -88,14 +92,14 @@
 <lb/>of Lord<brev-es>es</brev-es>. who othersise wer in
 <lb/>capeable of suche seculer style
 <lb/>&c
-<lb/><metamark>X</metamark> Abbot<brev-es>es</brev-es> & Prio<unclear> <ex>u</ex></unclear><sl>rs</sl>: not endued w<ex>i</ex><sl>th</sl> such
+<lb/><metamark>X</metamark> Abbot<brev-es>es</brev-es> & Prio<unclear><ex>u</ex></unclear><sl>rs</sl>: not endued w<ex>i</ex><sl>th</sl> such
 <lb/>neither vsed style nor
 <lb/>were somoned to <brev-p>p<ex>ar</ex></brev-p>liam<macron>e<ex>n</ex>t</macron>
 <lb/><metamark>X</metamark> Abbot<brev-es>es</brev-es> & Pryors owe service in
 <lb/><brev-p>p<ex>ar</ex></brev-p>liament in respecte of their
 <lb/><del><metamark>X</metamark></del>Baronies.
 <lb/><metamark>X</metamark> Barons are surnamed of the
-<lb/>chiefe mano<unclear> <ex>u</ex></unclear><sl>r</sl> of theyre Ba=
+<lb/>chiefe mano<unclear><ex>u</ex></unclear><sl>r</sl> of theyre Ba=
 <lb/>ronye, & so their heir<brev-es>es</brev-es> also.
 <lb/>Almost all Ancient Barons are
 <lb/><metamark>X</metamark> consumed, either by translat<ex>ion</ex>
@@ -106,12 +110,10 @@
 <lb/>became p<sl>r</sl><ex>e</ex>sident<brev-es>es</brev-es> of so<macron>m<ex>m</ex></macron>ons
 <lb/><metamark>X</metamark> The wourde Peeres distinguisheth
 <lb/>Barons created fr<macron>o<ex>m</ex></macron> suche as are
-<lb/>
 <lb/>to be create<unclear>d</unclear>.
 <lb/>Res patrimoniales eu<brev-er>er</brev-er> have
 <lb/>bene & ought to be heritable
 <lb/>Creation of barons is in re
 <lb/>spect of <brev-y>th</brev-y><sl>e</sl> service <brev-y>th</brev-y><ex>a</ex><sl>t</sl> he & hys
 <lb/>heir<brev-es>es</brev-es> are bound to doe to the
-<lb/>
 <lb/>Realme & prynce
