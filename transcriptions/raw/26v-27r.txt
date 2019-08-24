@@ -49,8 +49,8 @@
 <lb/>
 <lb/>
 <lb/><pb>27r</pb>
-<lb/><label>On S<sl>t</sl>: Georg<brev-es>es</brev-es> feast at Even.</label> <heading>The Dyet appoynted for the</heading> }
-<lb/><heading>Herehawght<brev-es>es</brev-es> at St Georg<brev-es>es</brev-es></heading> } <date>Anno .RR. Jacobi Secundo</date>
+<lb/><label place="margin">On S<sl>t</sl>: Georg<brev-es>es</brev-es> feast at Even.</label> <heading>The Dyet appoynted for the</heading> }
+<lb/><heading>Herehawght<brev-es>es</brev-es> at St Georg<brev-es>es</brev-es></heading> } <date>Anno :RR: Jacobi Secundo</date>
 <lb/><heading>ffeaste hold<macron>e<ex>n</ex></macron> at <place>White Halle</place></heading> }
 <lb/><heading><date>the .23. day of Aprill .1604.</date></heading> }
 <lb/><cb>
@@ -82,7 +82,7 @@
 <lb/>27 Dowlcett<brev-es>es</brev-es>.
 <lb/>28 Tarte . <metamark>flourish</metamark> . <metamark>flourish</metamark> .
 <lb/>
-<lb/><label>On <date>S<sl>t</sl> Georg<brev-es>es</brev-es> daye</date> at Dyner.</label> <heading>Theire dyet </heading><date><heading>on the }</heading>
+<lb/><label place="margin">On <date>S<sl>t</sl> Georg<brev-es>es</brev-es> daye</date> at Dyner.</label> <heading>Theire dyet </heading><date><heading>on the }</heading>
 <lb/> morrowe</date> at dyner }
 <lb/>
 <lb/>3 Sallett<brev-es>es</brev-es> .3.

@@ -1,5 +1,5 @@
 <lb/><pb>25v</pb>
-<lb/><label>Esquire by Creation</label> <label>3</label> The Thirde sorte are those that by the kinge are
+<lb/><label place="margin">Esquire by Creation</label> <label place="margin">3</label> The Thirde sorte are those that by the kinge are
 <lb/>Created Esquiers, by the gifte of a Collar of S:S.
 <lb/>& suche bearinge Armes are the pryncipall and
 <lb/>chyefe of that Coate Armo<ex>u</ex><sl>r</sl> & of theyre whole
@@ -7,7 +7,7 @@
 <lb/>howses doe springe & yssue, yet the eldest of that
 <lb/>Coate Armo<ex>u</ex><sl>r</sl> only is an Esquier, and theresydew are
 <lb/>but gentillm<macron>e<ex>n</ex></macron>.
-<lb/><label>Esquiers by Office.</label> <label>4</label> The 4th & last sorte of <del>Gentillm<macron>e<ex>n</ex></macron></del> Esquiers are suche
+<lb/><label place="margin">Esquiers by Office.</label> <label place="margin">4</label> The 4th & last sorte of <del>Gentillm<macron>e<ex>n</ex></macron></del> Esquiers are suche
 <lb/>as bearinge Office in the C<macron>om<ex>m</ex>o</macron>n Wealthe or in the
 <lb/>king<brev-es>es</brev-es> howse, are therfore called & reputed esquiers
 <lb/>as the Serg<macron>ea<ex>n</ex>t</macron>s <del>of</del><ins>at</ins> the Lawe, the Escheators in every
@@ -16,7 +16,7 @@
 <lb/>them, but (havinge no Armes) that degree dieth
 <lb/>w<ex>i</ex><sl>th</sl> them & theire yssue is not ennoblished therby.
 <lb/>. <metamark>flourish</metamark> . <metamark>flourish</metamark> . <metamark>flourish</metamark> .
-<lb/><label><date>Anno :RR: Jacobi Regis Angl<ex>iae</ex> &c Secundo</date> .~.~.</label>
+<lb/><label place="margin"><date>Anno :RR: Jacobi Regis Angl<ex>iae</ex> &c Secundo</date> .~.~.</label>
 <lb/> <heading>Justs holden at <place>white Halle</place> the <date>.24. daye
 <lb/>of Marche Anno d<macron><ex>omi</ex>ni</macron> .1603</date>: beinge <brev-y>th</brev-y><sl>e</sl> daye
 <lb/>of his M<macron>a<ex>ies</ex>ties</macron> begynninge of his second
@@ -38,7 +38,7 @@
 <lb/><name>The :Lo<ex>rd</ex>: Danvers</name> -- <name>S<ex>i</ex><sl>r</sl> Sigismond Alexander</name>
 <lb/><metamark>flourish</metamark> . <metamark>flourish</metamark>. <metamark>flourish</metamark>
 <lb/>{ <name>The :Lo<ex>rd</ex>: Wyndsor</name>
-<lb/><label>Judges at the same Justs.</label>{ <name>The :Lo<ex>rd</ex>: Sheffielde</name>
+<lb/><label place="margin">Judges at the same Justs.</label>{ <name>The :Lo<ex>rd</ex>: Sheffielde</name>
 <lb/>{ <name>The :Lo<ex>rd</ex>: Greye of Grobye</name>
 <lb/>{ <name>The :Lo<ex>rd</ex>: Wotton</name> . <metamark>flourish</metamark>.
 <lb/>
@@ -53,7 +53,7 @@
 <lb/>Gent<ex>illmen</ex>: Harbingers. Serge<macron>a<ex>n</ex>t</macron>e Porter.
 <lb/>Gent<ex>illmen</ex>: & esquiers the Prync<brev-es>es</brev-es> servantes.
 <lb/>
-<lb/><label>Knighte of London<metamark>flourish</metamark></label><heading>The <brev-p>p<ex>ro</ex></brev-p>ceadinge to the ffunerall of
+<lb/><label place="margin">Knighte of London<metamark>flourish</metamark></label><heading>The <brev-p>p<ex>ro</ex></brev-p>ceadinge to the ffunerall of
 <lb/>a knighte in London.</heading>
 <lb/>
 <lb/>ffirst the Chil<macron>dre<ex>n</ex></macron> of the Hospitall .2. and .2.

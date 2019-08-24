@@ -1,12 +1,12 @@
 <lb/><pb>14v</pb>
 <lb/><heading>A dextris Choreae Ascendendo</heading>
-<lb/><label>St: Georgs feaste 1604</label> 6 Du tresnoble & puissant seigneur<ex>e</ex> Henry Conte de
+<lb/><label place="margin">St: Georgs feaste 1604</label> 6 Du tresnoble & puissant seigneur<ex>e</ex> Henry Conte de
 <lb/>Northumberlande Baron Perry seignewr<ex>e</ex> de Lucye
 <lb/>Poynings ffitz Payne & Bryan Capitayne De
 <lb/><unclear>Cinquante</unclear> Gentilz homes Pensionaires d' sa M<macron>a<ex>ies</ex>tie</macron>
 <lb/>C<macron>h<ex>eva</ex>l<ex>ie</ex>r</macron>. Du tresnoble Order d'la Jarrettier<ex>e</ex>.
 <lb/>7 Du tresnoble seigneur<ex>e</ex> Edmonde baro<macron><ex>n</ex></macron> Sheffielde,
-<lb/><label>gou<brev-er>er</brev-er>nor pour sa m<sl>a<ex>ies</ex>ti<ex>e</ex></sl> de la ville et Comit<unclear>te</unclear> <unclear>du</unclear> york</label> President du Conseile estable au pays du Northe.
+<lb/><label place="margin">gou<brev-er>er</brev-er>nor pour sa m<sl>a<ex>ies</ex>ti<ex>e</ex></sl> de la ville et Comit<unclear>te</unclear> <unclear>du</unclear> york</label> President du Conseile estable au pays du Northe.
 <lb/>& Lyveten<macron>a<ex>n</ex>t</macron>e <del>g<macron><ex>e</ex>n<ex>e</ex>rall</macron></del> d'la Conte de Yorke. C<macron>h<ex>eva</ex>l<ex>ie</ex>r</macron>
 <lb/>du tresnoble Order d'la Jarretier<ex>e</ex>.
 <lb/>8 Du tresnoble & puissant seigneure. Charles Conte d'
@@ -39,7 +39,7 @@
 <lb/>Order d'la Jarrettier./
 <lb/><pb>15r</pb>
 <lb/><heading>A sinistris Chorea ascendendo</heading>
-<lb/><label>S<sl>t</sl>: Georges feaste .1604.</label> 2 Du treshaulte puissante & tresnoble Prynce ffrederick
+<lb/><label place="margin">S<sl>t</sl>: Georges feaste .1604.</label> 2 Du treshaulte puissante & tresnoble Prynce ffrederick
 <lb/>Duc d' Wyrtemberge et Tec. C<macron>ont<ex>e</ex></macron>. d'Montbeliard
 <lb/>Seigneur de Haydenheimb. &c. C<macron><ex>heva</ex>l<ex>ie</ex>r</macron>. du tresnoble
 <lb/>Order d' la Jarretier<unclear><ex>e</ex></unclear>./

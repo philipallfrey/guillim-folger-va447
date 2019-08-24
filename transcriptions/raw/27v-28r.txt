@@ -1,6 +1,6 @@
 <lb/>
 <lb/><pb>27v</pb>
-<lb/><label><date>St Georg<brev-es>es</brev-es> e<macron>ve<ex>n</ex></macron> }
+<lb/><label place="margin"><date>St Georg<brev-es>es</brev-es> e<macron>ve<ex>n</ex></macron> }
 <lb/>Anno d<macron><ex>omi</ex>ni</macron> .1607. }
 <lb/>et A<ex>nn</ex><sl>o</sl> Jacob<ex>i</ex>. Reg<brev-es>is</brev-es> }
 <lb/>Qinto.</date> at Sup<brev-p>p<ex>er</ex></brev-p>. }</label>

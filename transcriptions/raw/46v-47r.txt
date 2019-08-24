@@ -1,7 +1,7 @@
 <lb/><pb>46v</pb>
 <lb/>
 <lb/><pb>47r</pb>
-<lb/><label>ffor the Arte of Ly<macron>m<ex>m</ex></macron>inge</label> <heading>To make a good yeolowe of </heading><ingredient><heading>Orpy<macron>me<ex>n</ex>t</macron>e</heading></ingredient>
+<lb/><label place="margin">ffor the Arte of Ly<macron>m<ex>m</ex></macron>inge</label> <heading>To make a good yeolowe of </heading><ingredient><heading>Orpy<macron>me<ex>n</ex>t</macron>e</heading></ingredient>
 <lb/>Take <ingredient>orpim<macron>e<ex>n</ex>t</macron></ingredient> of the fairest & put it into a Gold smithes potte
 <lb/>th<macron>e<ex>n</ex></macron> put it inot the fyre th<macron>e<ex>n</ex></macron> holde a plate of Iron over the
 <lb/>potte to receave the vapo<ex>u</ex><sl>r</sl> therof, the first wilbe whyte, then

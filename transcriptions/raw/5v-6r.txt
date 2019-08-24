@@ -2,7 +2,7 @@
 <lb/>All viscount<brev-es>es</brev-es> yong<brev-er>er</brev-er> sonnes be borne Baro<macron>n<ex>n</ex></macron>et<brev-es>es</brev-es>
 <lb/>& shall weare as many pawldering<brev-es>es</brev-es> as
 <lb/>Baronett<brev-es>es</brev-es> but shall goe belowe them.
-<lb/><label>Baron.</label> A Baron may have his gowne borne vp
+<lb/><label place="margin">Baron.</label> A Baron may have his gowne borne vp
 <lb/>by a m<macron>a<ex>n</ex></macron> in a Viscount<brev-es>es</brev-es> p<sl>r</sl><ex>e</ex>sence & the
 <lb/>Cou<brev-er>er</brev-er> of his cupp helde vnder whilesthe
 <lb/>Drinketh. His eldest sonne shall goeas <del>a</del>
@@ -12,7 +12,7 @@
 <lb/>wyves & knight<brev-es>es</brev-es> wyv<brev-es>es</brev-es>. Except she doe
 <lb/>marry w<ex>i</ex><sl>th</sl> one vnder degree of a
 <lb/>knighte.
-<lb/><label>knight</label> A knight<brev-es>es</brev-es> wyfe may have her kyrtle
+<lb/><label place="margin">knight</label> A knight<brev-es>es</brev-es> wyfe may have her kyrtle
 <lb/>borne vp except in her betters
 <lb/>p<sl>r</sl><ex>e</ex>sence And her foot sheete in like
 <lb/>sorte.
@@ -57,7 +57,7 @@
 <lb/><name>Rog<brev-er>er</brev-er><brev-us>us</brev-us> de Dant<ex>es</ex>: vel Antes</name> & <name>matildis Comitissa Hereff<ex>ordensis</ex></name>
 <lb/><name> vxor eius</name>† soror <name><unclear>W</unclear><macron><unclear>illiumi</unclear></macron>: <del>Comes de</del> mandevill nuper
 <lb/>Comit<brev-es>is</brev-es> Essex<ex>ensis</ex></name>./ † De <macron>Dau<ex>n</ex>t</macron>esia ./
-<lb/><label><date>a<ex>nn</ex><sl>o</sl> .12. h<ex>enrici</ex>: 8.</date></label> <name>C<macron>o<ex>m</ex>es</macron> Kyldare</name> <unclear>deputat<brev-er>us</brev-er></unclear> terr<unclear><ex>ae</ex></unclear> <place>Hiberniae </place>exon<brev-er>er</brev-er>at<unclear><brev-er>ur</brev-er></unclear> ab officio, & <name>Tho<ex>mas</ex>
+<lb/><label place="margin"><date>a<ex>nn</ex><sl>o</sl> .12. h<ex>enrici</ex>: 8.</date></label> <name>C<macron>o<ex>m</ex>es</macron> Kyldare</name> <unclear>deputat<brev-er>us</brev-er></unclear> terr<unclear><ex>ae</ex></unclear> <place>Hiberniae </place>exon<brev-er>er</brev-er>at<unclear><brev-er>ur</brev-er></unclear> ab officio, & <name>Tho<ex>mas</ex>
 <lb/>C<macron>o<ex>m</ex>e</macron>s Surreggia</name> eius loco constituit<brev-er>ur</brev-er> Deputat<brev-us>us</brev-us> eiu<macron>sde<ex>m</ex></macron> terre
 <lb/><brev-p>p<ex>ro</ex></brev-p>cura<ex>n</ex><unclear>te</unclear> <name>Wolseo Cardinali</name>, qui <date>in initio Aprilis</date> iter arri<unclear>xiit</unclear>
 <lb/>versus <place>Hiber<macron>nia<ex>m</ex></macron></place>.

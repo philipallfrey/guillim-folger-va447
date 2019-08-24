@@ -12,30 +12,30 @@
 <lb/>
 <lb/>{ The Office of a Kinge of Armes
 <lb/>{ w<ex>i</ex><sl>th</sl> his Authority w<ex>i</ex><sl>th</sl>in his <brev-p>p<ex>ro</ex></brev-p>vince.</heading>
-<lb/><label>Notice & keping of Recordes</label> ffirst, as nighe as he can he shall take knowledge and keepe
+<lb/><label place="margin">Notice & keping of Recordes</label> ffirst, as nighe as he can he shall take knowledge and keepe
 <lb/>Recorde of the Armes, Creast<brev-es>es</brev-es>, Cognisanc<brev-es>es</brev-es> and Auncieant
 <lb/>vsed woord<brev-es>es</brev-es>: As also of the Lyne Discente or pedegre
 <lb/>of eu<brev-er>er</brev-er>y Gentill<macron>ma<ex>n</ex></macron> w<ex>i</ex><sl>th</sl>in his <brev-p>p<ex>ro</ex></brev-p>vince of what estate
 <lb/>or degree soeu<brev-er>er</brev-er> he be./
 <lb/><macron>It<ex>e</ex>m</macron> he shall enter into all Churches Chappells Oratories
 <lb/>Castles howses or Aunci<macron>e<ex>n</ex>t</macron> building<brev-es>es</brev-es> to take knowledge
-<lb/><label>Notice of foundac<macron><ex>i</ex>on</macron>s of Churches. &c.</label> of theire ffoundacions, & of the noble Estat<brev-es>es</brev-es> buried in them
+<lb/><label place="margin">Notice of foundac<macron><ex>i</ex>on</macron>s of Churches. &c.</label> of theire ffoundacions, & of the noble Estat<brev-es>es</brev-es> buried in them
 <lb/>as also of thiere Armes & Armes of the places theire head
 <lb/>and their Anci<macron>e<ex>n</ex>t</macron> Records./
-<lb/><label>false Armes.</label> <macron>It<ex>e</ex>m</macron> he shall <brev-p>p<ex>ro</ex></brev-p>hibite any Gentill<macron>ma<ex>n</ex></macron> to beare the Armes
+<lb/><label place="margin">false Armes.</label> <macron>It<ex>e</ex>m</macron> he shall <brev-p>p<ex>ro</ex></brev-p>hibite any Gentill<macron>ma<ex>n</ex></macron> to beare the Armes
 <lb/>of another or suche as be not trewe Armory, & as he ough<unclear>t</unclear>
 <lb/>accordinge to the Lawe of Armes .//
 <lb/>
 <lb/><macron>It<ex>e</ex>m</macron> he shall <brev-p>p<ex>ro</ex></brev-p>hibite any March<macron>a<ex>n</ex>t</macron>e notary or other, to
-<lb/><label>March<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es> marke</label> put theyre names mark<brev-es>es</brev-es> or deuises w<ex>i</ex><sl>th</sl>in Esc<unclear>o</unclear>cheons
+<lb/><label place="margin">March<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es> marke</label> put theyre names mark<brev-es>es</brev-es> or deuises w<ex>i</ex><sl>th</sl>in Esc<unclear>o</unclear>cheons
 <lb/>or Shield<brev-es>es</brev-es> w<ex>hi</ex><sl>ch</sl> <brev-p>p<ex>er</ex></brev-p>tayne to Gentill<macron>me<ex>n</ex></macron> only bearinge Armes
 <lb/>& to none other ./
 <lb/>Itm he shall make diligent searche if any beare Armes
 <lb/>w<ex>i</ex><sl>th</sl>out Authoritye or good ri<unclear>g</unclear>hte, & fyndinge suche although
-<lb/><label>Armes borne w<ex>i</ex><sl>th</sl>out authority</label> they be trewe Armorye, he shall <brev-p>p<ex>ro</ex></brev-p>hibite them.
+<lb/><label place="margin">Armes borne w<ex>i</ex><sl>th</sl>out authority</label> they be trewe Armorye, he shall <brev-p>p<ex>ro</ex></brev-p>hibite them.
 <lb/><macron>It<ex>e</ex>m</macron> thesaide kinge of Armes in his <brev-p>p<ex>ro</ex></brev-p>vince hathe fullpower &
 <lb/>authoritye by the king<brev-es>es</brev-es> graunte & by vertue of his Office to geve
-<lb/><label>Graunting of Confir<ex>mations</ex>: of Armes. Creast<brev-es>es</brev-es> &c</label>
+<lb/><label place="margin">Graunting of Confir<ex>mations</ex>: of Armes. Creast<brev-es>es</brev-es> &c</label>
 <lb/>
 <lb/> confirmations to all noble<macron>me<ex>n</ex></macron> & Genti<macron>llme<ex>n</ex></macron> ignor<macron>a<ex>n</ex>t</macron>e of theire
 <lb/>Armes or Creast<brev-es>es</brev-es>: for w<ex>hi</ex><sl>ch</sl> he ought to have the ffee belonginge
@@ -44,17 +44,17 @@
 <lb/>habilitye deservinge well of the Prynce & Co<macron>m<ex>m</ex>o</macron>n weale, by
 <lb/>
 <lb/>reason of Office, Authority, Wisdome, Learninge good maner
-<lb/><label>Geving Armes</label> & sober governem<macron>e<ex>n</ex>t</macron>./ They to have suche graunted by
+<lb/><label place="margin">Geving Armes</label> & sober governem<macron>e<ex>n</ex>t</macron>./ They to have suche graunted by
 <lb/>patent vnder the seale of Office of thesaide kinge of Armes
 <lb/>& to paye therfore the ffees accustomed.
 <lb/><macron>It<ex>e</ex>m</macron> no Gentill<macron>ma<ex>n</ex></macron> or others may erect & set vp in any churche
 <lb/>at any funeralles, either Banners, Standard<brev-es>es</brev-es> or Coates
-<lb/><label>None may erecte Standard<brev-es>es</brev-es> B<macron>an<ex>n</ex>ers</macron> Coate Armo<ex>u</ex><sl>r</sl>. &c</label> of Armes, helmes, Creast<brev-es>es</brev-es>, or Swrde, or any othe hatch<macron>me<ex>n</ex>t</macron>
+<lb/><label place="margin">None may erecte Standard<brev-es>es</brev-es> B<macron>an<ex>n</ex>ers</macron> Coate Armo<ex>u</ex><sl>r</sl>. &c</label> of Armes, helmes, Creast<brev-es>es</brev-es>, or Swrde, or any othe hatch<macron>me<ex>n</ex>t</macron>
 <lb/>w<ex>i</ex><sl>th</sl>out the licence of thesaide kinge of Armes of the <brev-p>p<ex>ro</ex></brev-p>vince
 <lb/>Or by the allowance of his marshall or deputy./ Because
 <lb/>the Armes of the noble Estate deceassed the daye of his deathe
 <lb/>the place of his buriall his Mariag<brev-es>es</brev-es> & his yssues owghte
 <lb/>to be tak<macron>e<ex>n</ex></macron> by Certificat & Recorded in the Office of thesaid
 <lb/>kinge of Armes for his <brev-p>p<ex>er</ex></brev-p>petuall memorye
-<lb/><label>Bearing of differ<macron>e<ex>n</ex></macron>ce<unclear>s</unclear></label> <macron>It<ex>e</ex>m</macron> no Gentill<macron>me<ex>n</ex></macron> owght to beare theire difference in Armory
+<lb/><label place="margin">Bearing of differ<macron>e<ex>n</ex></macron>ce<unclear>s</unclear></label> <macron>It<ex>e</ex>m</macron> no Gentill<macron>me<ex>n</ex></macron> owght to beare theire difference in Armory
 <lb/>otherwise t<macron>he<ex>n</ex></macron> the order of Armes requireth ./

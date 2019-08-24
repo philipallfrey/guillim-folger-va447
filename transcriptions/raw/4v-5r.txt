@@ -2,7 +2,7 @@
 <lb/><pb>5r</pb>
 <lb/><heading>Who may haue a Clothe of Estate
 <lb/>and who not.</heading>
-<lb/><label>Duke</label> A Duke may haue a Clothe of Estate in all places
+<lb/><label place="margin">Duke</label> A Duke may haue a Clothe of Estate in all places
 <lb/>out of <brev-y>th</brev-y><sl>e</sl> king<unclear><brev-es>es</brev-es></unclear> p<sl>r</sl><ex>e</ex>sence so that it come not to <brev-y>th</brev-y><sl>e</sl> grounde
 <lb/>by <measure>halfe a yarde.</measure> And no Earle to walke with
 <lb/>hym.
@@ -12,7 +12,7 @@
 <lb/>A Duk<brev-es>es</brev-es> eldest Daught<brev-er>er</brev-er> is borne a Marchionesse./
 <lb/>A Duk<brev-es>es</brev-es> yong<brev-er>er</brev-er> sonnes are borne Earles. But shall
 <lb/>goe after them./
-<lb/><label>Marques</label> A Marquesse hathe a Clothe of Estate but it
+<lb/><label place="margin">Marques</label> A Marquesse hathe a Clothe of Estate but it
 <lb/>must hange <measure>a yarde</measure> fr<macron>o<ex>m</ex></macron> the grounde But in the
 <lb/>Dukes howse or kinges presence he hathe
 <lb/>none.
@@ -26,7 +26,7 @@
 <lb/>heires.
 <lb/>A Marquises dawght<brev-er>er</brev-er> is borne a Countesse but
 <lb/>shall goes beneathe all Countesses.
-<lb/><label>Earle</label> An Earle in his howse may have a clothe of Estate
+<lb/><label place="margin">Earle</label> An Earle in his howse may have a clothe of Estate
 <lb/>fringed round about w<ex>i</ex><sl>th</sl>out any pendante.
 <lb/>An Earle shall have no <unclear>Assaies</unclear> in a Marques=
 <lb/>ses p<sl>r</sl><ex>e</ex>sence but his C<unclear>a</unclear>ppe cou<brev-er>er</brev-er>ed.
@@ -37,7 +37,7 @@
 <lb/>but shall goe beneathe all viscount<brev-es>es</brev-es>.
 <lb/>An Earles yong<brev-er>er</brev-er> sonnes be borne as Barons.
 <lb/>but shall goe belowe all Barons./
-<lb/><label>Viscont.</label> A Viscount his eldest sonne is borne a Bar<macron>o<ex>n</ex></macron>
+<lb/><label place="margin">Viscont.</label> A Viscount his eldest sonne is borne a Bar<macron>o<ex>n</ex></macron>
 <lb/>but shall goe belowe all Barons except Earles
 <lb/>yong<brev-er>er</brev-er> sonnes./
 <lb/>

@@ -34,9 +34,9 @@
 <lb/>Masters of the Chauncerye.
 <lb/>Bacheler knight<ex>es</ex>.
 <lb/>Secretaries for the ffrenche & Latyne tongues & <brev-y>th</brev-y><sl>e</sl> Quene
-<lb/><label>quer whether</label> Solicitor.
-<lb/><label>it should not</label> Esquiers for the bodye, Se<unclear>w</unclear>ers Carvers & Cupp bearers
-<lb/><label>be Secretary</label> ordynarye.
+<lb/><label place="margin">quer whether</label> Solicitor.
+<lb/><label place="margin">it should not</label> Esquiers for the bodye, Se<unclear>w</unclear>ers Carvers & Cupp bearers
+<lb/><label place="margin">be Secretary</label> ordynarye.
 <lb/>Masters of standinge Offic<brev-es>es</brev-es> beinge no Counsello<ex>u</ex><sl>rs</sl> vilz. <unclear>Tent</unclear><ex>s</ex>
 <lb/>Revells. Armory. Wardrobe. & Ordynance.
 <lb/>Masters of the Request<brev-es>es</brev-es>.

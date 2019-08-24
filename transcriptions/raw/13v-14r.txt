@@ -42,7 +42,7 @@
 <lb/>of yorke & Albanye Marquis of Ormo<unclear>n</unclear>t, Earle of Ros
 <lb/>& Lorde of Ardmanach<unclear>e</unclear>./ Largesse. Largesse.
 <lb/><pb>14r</pb>
-<lb/><label>
+<lb/><label place="margin">
 <lb/>At the ffeaste of
 <lb/>St George.</label>
 <lb/>The Styles Tytles & dignities of his
@@ -54,7 +54,7 @@
 <lb/>& Anno :RR: Jacobi Regis Angli<ex>ae</ex>: &c. Secund<ex>o</ex>
 <lb/>As followeth.
 <lb/>A dextris Chore<unclear>a</unclear> ascendendo.
-<lb/><label>
+<lb/><label place="margin">
 <lb/>de la grand
 <lb/>Brittayne ffran
 <lb/>& Irelande
@@ -66,7 +66,7 @@
 <lb/>Soveraigne du Tresnoble Order de la Jarretie
 <lb/>2 Du treshault & trespuissant Prynce <del>Henry</del> <del>Charle</del> fitz aisne
 <lb/>du Roy. Prynce d'la Grannd Brittayne & d'Irland
-<lb/><label>Chevalier du tresnoble order de la Jartier</label> Duc de Cornwaile, et Seigneu<unclear>r</unclear> Des Isles en Escosse
+<lb/><label place="margin">Chevalier du tresnoble order de la Jartier</label> Duc de Cornwaile, et Seigneu<unclear>r</unclear> Des Isles en Escosse
 <lb/><macron>Ch<ex>eva</ex>l<ex>ie</ex>r</macron>. du tresnoble Order d'la Jarretier<ex>e</ex>.
 <lb/>3 Du tresnoble & puissant Seigneur. Charles Cont<ex>e</ex> de
 <lb/>Nottingh<macron>a<ex>m</ex></macron> Baron Howarde de Effingh<macron>a<ex>m</ex></macron> gran<unclear>e</unclear>d <del>Admir</del>

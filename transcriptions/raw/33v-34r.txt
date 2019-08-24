@@ -2,14 +2,14 @@
 <lb/><pb>33v</pb>
 <lb/><pb>34r</pb>
 <lb/>
-<lb/><label>A Banner<metamark>flourish</metamark>.</label>
+<lb/><label place="margin">A Banner<metamark>flourish</metamark>.</label>
 <lb/><heading>The Syse of Banners Standard<brev-es>es</brev-es>
 <lb/>Penons. Gwydons. Pensills & stremers.</heading>
 <lb/><graphic>drawing</graphic> Armes. An Empo<unclear><ex>ure</ex></unclear><sl>rs</sl> Bann<brev-er>er</brev-er> shalbe sixe feete longe & of thesame
-<lb/><label>6</label> breadthe.
-<lb/><label>5</label> A king<brev-es>es</brev-es> Banner of ffyve foote.
-<lb/><label>4</label> A Princes & a duk<brev-es>es</brev-es> Banner of ffowre foote.
-<lb/><label>.3.</label> A Marquesses } Bann<brev-er>er</brev-er> shalbe but Three ffoote square and so was the olde forme. <ins>see after <brev-y>th</brev-y><sl>e</sl> Standard ::::/</ins>
+<lb/><label place="margin">6</label> breadthe.
+<lb/><label place="margin">5</label> A king<brev-es>es</brev-es> Banner of ffyve foote.
+<lb/><label place="margin">4</label> A Princes & a duk<brev-es>es</brev-es> Banner of ffowre foote.
+<lb/><label place="margin">.3.</label> A Marquesses } Bann<brev-er>er</brev-er> shalbe but Three ffoote square and so was the olde forme. <ins>see after <brev-y>th</brev-y><sl>e</sl> Standard ::::/</ins>
 <lb/>A Viscount<brev-es>es</brev-es> . }
 <lb/>A Barons. & }
 <lb/>
@@ -18,7 +18,7 @@
 <lb/>foote square: & so was the olde forme. But nowe
 <lb/>becawse theire worshippe <ins>and power</ins> is encreased they have it
 <lb/>of three foote
-<lb/><label>.1. elle</label> The vsuall Bann<brev-er>er</brev-er> for the estat<brev-es>es</brev-es> last above named is an
+<lb/><label place="margin">.1. elle</label> The vsuall Bann<brev-er>er</brev-er> for the estat<brev-es>es</brev-es> last above named is an
 <lb/>elle Longe, & a yarde broade.
 <lb/>
 <lb/>
@@ -31,25 +31,25 @@
 <lb/>{ Duke.
 <lb/>{ Prynce. <graphic>drawing</graphic>
 <lb/>place vnder a Baron <ins>Banner</ins>. an hundreth <macron>me<ex>n</ex></macron>
-<lb/><label>
+<lb/><label place="margin">
 <lb/>A standarde.
 <lb/>Deuise.</label>
-<lb/><graphic>drawing</graphic> <label>.11. yardes</label> <ins><unclear>xi</unclear> yard<brev-es>es</brev-es></ins> The greate Standard must be placed before the king<brev-es>es</brev-es>
+<lb/><graphic>drawing</graphic> <label place="margin">.11. yardes</label> <ins><unclear>xi</unclear> yard<brev-es>es</brev-es></ins> The greate Standard must be placed before the king<brev-es>es</brev-es>
 <lb/>Pavilion. or Tente, & not to be borne in Battell, thesame
 <lb/>to be of the lengthe of Ele<macron>ve<ex>n</ex></macron> yard<brev-es>es</brev-es>.
-<lb/><label>.8.</label> The king<brev-es>es</brev-es> Standard (to be brone) to be of the lengthe of
+<lb/><label place="margin">.8.</label> The king<brev-es>es</brev-es> Standard (to be brone) to be of the lengthe of
 <lb/>eighte or Nyne yard<brev-es>es</brev-es>.
 <lb/>A Dukes Standarde (to be borne) to be slitte at the ende
-<lb/><label>.7.</label> & to be Sev<macron><ex>en</ex></macron> yard<brev-es>es</brev-es> longe.
+<lb/><label place="margin">.7.</label> & to be Sev<macron><ex>en</ex></macron> yard<brev-es>es</brev-es> longe.
 <lb/>
-<lb/><label>.6.</label> And Earles Standard <del>viii</del>Sixe yard<brev-es>es</brev-es> longe.
-<lb/><label>.5.</label> A Barons ffyve yard<brev-es>es</brev-es> longe.
-<lb/><label>.4. <brev-es>d<ex>em</ex>i</brev-es></label> A Bann<brev-er>er</brev-er>ett<brev-es>es</brev-es> Standard ffowre yard<brev-es>es</brev-es> & an halfe.
+<lb/><label place="margin">.6.</label> And Earles Standard <del>viii</del>Sixe yard<brev-es>es</brev-es> longe.
+<lb/><label place="margin">.5.</label> A Barons ffyve yard<brev-es>es</brev-es> longe.
+<lb/><label place="margin">.4. <brev-es>d<ex>em</ex>i</brev-es></label> A Bann<brev-er>er</brev-er>ett<brev-es>es</brev-es> Standard ffowre yard<brev-es>es</brev-es> & an halfe.
 <lb/>.4. A knight<brev-es>es</brev-es> Standard ffowre yard<brev-es>es</brev-es> longe.
-<lb/><label>Note what they shall containe</label> Eu<brev-er>er</brev-er>y Standard & Gwydon to have in the
+<lb/><label place="margin">Note what they shall containe</label> Eu<brev-er>er</brev-er>y Standard & Gwydon to have in the
 <lb/>Chiefe, the Crosse of St: George to be slitt
 <lb/>at the ende, & to contayne the Creaste of
 <lb/>Supporter w<ex>i</ex><sl>th</sl> the Poesy worde or deuise
 <lb/>of the owner./
-<lb/><label>100 <macron>me<ex>n</ex></macron>.</label> Place vnder a Standard. one Hundreth <macron>me<ex>n</ex></macron>./
+<lb/><label place="margin">100 <macron>me<ex>n</ex></macron>.</label> Place vnder a Standard. one Hundreth <macron>me<ex>n</ex></macron>./
 <lb/>

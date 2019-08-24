@@ -43,6 +43,6 @@
 <lb/>Ladies gentilw<macron>ome<ex>n</ex></macron>
 <lb/><graphic>flourish</graphic> Yeomen in Coates./ <graphic>flourish</graphic>
 <lb/><metamark>scribble</metamark>
-<lb/><label>The outwarde Raile of the frame of the herse nexte follow<unclear>in</unclear>ge</label> <graphic>drawing</graphic> A dore .4. foote at eche ende w<ex>i</ex><sl>th</sl> a Raile to lifte vp & downe ./ <graphic>drawing</graphic>
+<lb/><label place="margin">The outwarde Raile of the frame of the herse nexte follow<unclear>in</unclear>ge</label> <graphic>drawing</graphic> A dore .4. foote at eche ende w<ex>i</ex><sl>th</sl> a Raile to lifte vp & downe ./ <graphic>drawing</graphic>
 <lb/>The .2. endes of <brev-y>th</brev-y><sl>e</sl> Hearse to be .9. foote ./ <metamark>flourish</metamark>
 <lb/>

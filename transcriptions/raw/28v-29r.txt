@@ -31,7 +31,7 @@
 <lb/>or Captayne, to be know<macron>e<ex>n</ex></macron> therby to all his <macron>me<ex>n</ex></macron> to followe
 <lb/>in theire order in tymes of Musters & battailes vnder eche
 <lb/>of t<macron>he<ex>m</ex></macron> ffifty <macron>me<ex>n</ex></macron>.
-<lb/><label>The necessity of these Ensig<ex>nes</ex>: }</label> W<ex>i</ex><sl>th</sl>out Standard<brev-es>es</brev-es> Pennons & Gwydons the kinge in tyme
+<lb/><label place="margin">The necessity of these Ensig<ex>nes</ex>: }</label> W<ex>i</ex><sl>th</sl>out Standard<brev-es>es</brev-es> Pennons & Gwydons the kinge in tyme
 <lb/>of battaile cannot make Bannerett<brev-es>es</brev-es> as is accustomed in this
 <lb/>Noble Realme of England tyme out of mynde.
 <lb/>Also w<ex>i</ex><sl>th</sl>out the <ins>viewe and</ins> knowledge of these Ensignes & tokens
@@ -47,14 +47,14 @@
 <lb/>
 <lb/>Captaynes fr<macron>o<ex>m</ex></macron> theyre ennemyes in tyme of fforra<unclear>g</unclear>inge <unclear>or</unclear>
 <lb/>of Battayle./
-<lb/><label>Losse of Ensignes</label> Also it hathe bene the Custome & observed in this noble
+<lb/><label place="margin">Losse of Ensignes</label> Also it hathe bene the Custome & observed in this noble
 <lb/>Realme of Englande that eu<brev-er>er</brev-er>y Captayne wold rather dy
 <lb/>in the ffielde th<macron>e<ex>n</ex></macron> lose any of the aforesayd Ensignes or
 <lb/>tokens of his Armes or Nobility as Standerd<brev-es>es</brev-es>, <del>Penons</del>
 <lb/>Banners, Pennons, or Gwydons. And allwayes (vnto
 <lb/>this daye) they have in any battell where they have
 <lb/>gone & <brev-p>p<ex>ro</ex></brev-p>ceaded had the victory of & against <brev-y>th</brev-y><sl>e</sl> <macron>g<ex>e</ex>n<ex>e</ex>rall</macron>
-<lb/><label>flagges.</label> flagg<brev-es>es</brev-es> of theyre ennemyes: w<ex>hi</ex><sl>ch</sl> are no higher then a
+<lb/><label place="margin">flagges.</label> flagg<brev-es>es</brev-es> of theyre ennemyes: w<ex>hi</ex><sl>ch</sl> are no higher then a
 <lb/>m<macron>a<ex>n</ex></macron> may holde a little above his heade & doe not
 <lb/>waver in the Wynde, but by the force of his Armes that
 <lb/>beareth them: Whereas Banners, Standard<brev-es>es</brev-es>. Pennons and
@@ -76,7 +76,7 @@
 <lb/>To the pages of the Chamber -- <amt>xs</amt>.
 <lb/>Su<macron>m<ex>m</ex></macron>a -- <amt>iii<sup>li</sup>. x<sup>s</sup></amt>./
 <lb/>
-<lb/><label>Lawes for Justs Royall: in peace.</label> The Ordynanc<brev-es>es</brev-es> Statut<brev-es>es</brev-es> & Rules made by <name>John Lord
+<lb/><label place="margin">Lawes for Justs Royall: in peace.</label> The Ordynanc<brev-es>es</brev-es> Statut<brev-es>es</brev-es> & Rules made by <name>John Lord
 <lb/>Typtoft :E<ex>arle</ex>: of Worcest<macron><ex>er</ex></macron> & Constable of England</name>by the
 <lb/>Co<macron>m<ex>m</ex></macron>andem<macron>e<ex>n</ex>t</macron> of the kinge at <place>Wyndsor</place> the <date>.29. of Maye
 <lb/>Ann<sl>o</sl>:RR:Edw<ex>ardi</ex>: 4<sup>ti</sup> sexto.</date> to be observed & kept in all man<ex>ner</ex>

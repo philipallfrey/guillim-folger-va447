@@ -2,7 +2,7 @@
 <lb/><macron>It<ex>e</ex>m </macron>w<macron>he<ex>n</ex></macron> yong<brev-er>er</brev-er> bretherne doe marry & erecte and establishe
 <lb/>newe howses, & are acordingly to beare theyre Armes w<ex>i</ex><sl>th</sl>
 <lb/>suche distinctions & differenc<brev-es>es</brev-es> as they maye be know<macron>e<ex>n</ex></macron> from
-<lb/><label>Assigninge of Differences.</label> the elder ffamylies from w<ex>hi</ex><sl>ch</sl> they are descended: The
+<lb/><label place="margin">Assigninge of Differences.</label> the elder ffamylies from w<ex>hi</ex><sl>ch</sl> they are descended: The
 <lb/>kinge of Armes of that <brev-p>p<ex>ro</ex></brev-p>vince is ti be consulted w<ex>i</ex><sl>th</sl>all
 <lb/>& suche differenc<brev-es>es</brev-es> of howses are to be assigned & established
 <lb/>by his pryvety & consente that so he may aduise them <ins>to</ins> the
@@ -12,18 +12,18 @@
 <lb/>may p<sl>r</sl><ex>e</ex>iudice the chiefe howse from w<ex>hi</ex><sl>ch</sl> they are descended.
 <lb/>The kinge of Armes of <del>that</del> <ins>the</ins> Province is to have speciall
 <lb/>regarde that No man beare Armes by his Mother, be
-<lb/><label>Mothers Armes.</label> she neu<brev-er>er</brev-er> so good a Gentilwom<macron>a<ex>n</ex></macron> or neu<brev-er>er</brev-er> so greate an En
+<lb/><label place="margin">Mothers Armes.</label> she neu<brev-er>er</brev-er> so good a Gentilwom<macron>a<ex>n</ex></macron> or neu<brev-er>er</brev-er> so greate an En
 <lb/>heritrix vnlesse he beare Armes also by his ffathers stock
 <lb/>stocke or lyuinge <brev-p>p<ex>ro</ex></brev-p><brev-p>p<ex>er</ex></brev-p>ly belonige to his surname. Quia apud
 <lb/>nos in Anglia, partus n<macron>o<ex>n</ex></macron> sequitur ventrem.
-<lb/><label>Chaunge of Armes.</label> Likewise he is to see that no g<macron>e<ex>n</ex>t</macron>ill<macron>ma<ex>n</ex></macron> descended of noble
+<lb/><label place="margin">Chaunge of Armes.</label> Likewise he is to see that no g<macron>e<ex>n</ex>t</macron>ill<macron>ma<ex>n</ex></macron> descended of noble
 <lb/>race & bearinge Armes doe alter & chaunge those Armes
 <lb/>w<ex>i</ex><sl>th</sl>out his knowledge allowance & consente/
 <lb/><macron>It<ex>e</ex>m</macron> if any doe vse the ARmes of others or suche as they
 <lb/>owght not, & will not be reformed: he is (vnder a cert<unclear> <ex>en</ex></unclear>
 <lb/>payne & at a cer<macron>te<ex>n</ex></macron> daye to warne suche offendo<ex>u</ex><sl>r</sl> to be
 <lb/>& a<unclear>xx</unclear>eare before the Earle Marshall of Englande or
-<lb/><label>Conventing before <brev-y>th</brev-y><sl>e</sl> :E<ex>arle</ex>: Marshall.</label> his Deputy before whom thesame is to be ordered heard
+<lb/><label place="margin">Conventing before <brev-y>th</brev-y><sl>e</sl> :E<ex>arle</ex>: Marshall.</label> his Deputy before whom thesame is to be ordered heard
 <lb/>& reformed./ <metamark>flourish</metamark> .<metamark>flourish</metamark> . <metamark>flourish</metamark> ./
 <lb/>
 <lb/><heading>Lyu<brev-er>er</brev-er>eys for Noble wo<macron>me<ex>n</ex></macron> at <brev-y>th</brev-y><sl>e</sl> Entere<macron>me<ex>n</ex>t</macron>
@@ -70,7 +70,7 @@
 <lb/>
 <lb/>An Esquier called in Latyne Armiger. Scutifer, &
 <lb/>homo ad Arm<macron>a</macron>. is he that in tymes past was <unclear>Costrell</unclear>
-<lb/><label>Costrelles</label> to a knighte the bearer of his shielde & helme a faith=
+<lb/><label place="margin">Costrelles</label> to a knighte the bearer of his shielde & helme a faith=
 <lb/>full compaign<unclear>i</unclear>on & associate vnto hym in <brev-y>th</brev-y><sl>e</sl> warres
 <lb/>servinge on horsbacke, whereof eu<brev-er>er</brev-er>y knighte had two
 <lb/>at the leaste attendant vpon hym in respect of his
@@ -78,9 +78,9 @@
 <lb/>knighte as the knight helde his of the kinge by <del>knigh</del>
 <lb/><del>ffee</del> knight service./ At this daye, that <del>service</del>
 <lb/>vocation is gro<macron>we<ex>n</ex></macron> to be the first degree of Gentrye
-<lb/><label>Esquiers by byrthe</label>{taken out of the service in the warr<brev-es>es</brev-es> from whence
+<lb/><label place="margin">Esquiers by byrthe</label>{taken out of the service in the warr<brev-es>es</brev-es> from whence
 <lb/>{all the other degrees of Nobility are borrowed./
-<lb/><label>Eldest sonnes of knight<brev-es>es</brev-es>.</label> The ffirst sorte of them & <ins>the</ins> most Auncyent are <brev-y>th</brev-y><sl>e</sl> eldest sonnes of the yonger
+<lb/><label place="margin">Eldest sonnes of knight<brev-es>es</brev-es>.</label> The ffirst sorte of them & <ins>the</ins> most Auncyent are <brev-y>th</brev-y><sl>e</sl> eldest sonnes of the yonger
 <lb/>sonnes of Baronnes & Noble<macron>me<ex>n</ex></macron> of higher degree
 <lb/>w<ex>hi</ex><sl>ch</sl> taketh ende & are determyned wh<macron>e<ex>n</ex></macron> the chiefe
 <lb/>males of suche elder sonnes doe fayle & that the In=

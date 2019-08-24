@@ -1,6 +1,6 @@
 <lb/>
 <lb/><pb>52v</pb>
-<lb/><label>Kinge</label>
+<lb/><label place="margin">Kinge</label>
 <lb/>Priuata mala, publica bona
 <lb/>Sanguis martyri<macron>u<ex>m</ex></macron> sem<macron>e<ex>n</ex></macron> eccl<ex>es</ex>iae
 <lb/>Mal<brev-us>us</brev-us> miles est qui Im<brev-p>p<ex>er</ex></brev-p>atorem

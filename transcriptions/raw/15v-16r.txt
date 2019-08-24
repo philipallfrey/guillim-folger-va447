@@ -1,8 +1,8 @@
 <lb/><pb>15v</pb>
 <lb/><heading>A sinistris Chorea<unclear>e</unclear> ascendendo</heading>
-<lb/><label>St: Georges feaste .1604.</label> 6 Du tresnoble & puissante seigneu<macron>r<ex>e</ex></macron> Thomas Con<macron>t<ex>e</ex></macron>
+<lb/><label place="margin">St: Georges feaste .1604.</label> 6 Du tresnoble & puissante seigneu<macron>r<ex>e</ex></macron> Thomas Con<macron>t<ex>e</ex></macron>
 <lb/>d'Suffolke. Bar<macron>o<ex>n</ex></macron> de Wald<macron>e<ex>n</ex></macron> Chamberlayne d
-<lb/><label> <ins>et Capitaine d' cinq<macron>ua<ex>n</ex>t</macron> <macron>ge<ex>n</ex>t</macron><ex>ill</ex> homes Pension<brev-er>er</brev-er>s de sa Ma<ex>ies</ex>tie</ins></label> la Maison du Roy <macron>n<ex>ot</ex>re</macron> Seigneur <ins>^</ins> C<macron>h<ex>eva</ex>l<ex>ie</ex>r</macron> du tres=
+<lb/><label place="margin"> <ins>et Capitaine d' cinq<macron>ua<ex>n</ex>t</macron> <macron>ge<ex>n</ex>t</macron><ex>ill</ex> homes Pension<brev-er>er</brev-er>s de sa Ma<ex>ies</ex>tie</ins></label> la Maison du Roy <macron>n<ex>ot</ex>re</macron> Seigneur <ins>^</ins> C<macron>h<ex>eva</ex>l<ex>ie</ex>r</macron> du tres=
 <lb/>noble Order d'la Jarretier.
 <lb/>7 Du treshonorable C<macron>h<ex>eva</ex>l<ex>ie</ex>r</macron>. Henry Lea C<macron>h<ex>eva</ex>l<ex>ie</ex>r</macron> du
 <lb/>tresnoble Order d'la Jarretie<macron>r<ex>e</ex></macron>.
@@ -20,7 +20,7 @@
 <lb/>Parr. & Roos de kendale Marmion et S<ex>ain</ex><sl>te</sl> <unclear>Qu<macron>inty</macron>.</unclear>
 <lb/>Gard<macron>ie<ex>n</ex></macron> de lestaiguery. et C<macron>h<ex>eva</ex>l<ex>ie</ex>r</macron>. du tresnoble
 <lb/>Order d'la Jarrettie<macron>r<ex>e</ex></macron>./ <metamark>flourish</metamark> . <metamark>flourish</metamark> . <metamark>flourish</metamark>
-<lb/><label>A Sinist<ex>ris</ex></label> Du teshaulte trespuissante et tresexcellent prince Henry
+<lb/><label place="margin">A Sinist<ex>ris</ex></label> Du teshaulte trespuissante et tresexcellent prince Henry
 <lb/>quatriesme Roy Treschristien de ffraunc et du Navarr
 <lb/>Cheualier du tresnoble ordre de la Jartierre./
 <lb/><del>Du treshault puissante et tresnoble Prynce fred<unclear>r</unclear>ik Duc de
@@ -32,7 +32,7 @@
 <lb/>Holst Stormanche et detzmarch conte de Olden=
 <lb/>burge et delmenhorst Cheualier Du tres=
 <lb/>noble order &c./
-<lb/><label>A sinistris</label> Du tresnoble et puissante seigneur Henry Conte du
+<lb/><label place="margin">A sinistris</label> Du tresnoble et puissante seigneur Henry Conte du
 <lb/>Northampton. Bar<macron>o<ex>n</ex></macron> howard de Marnhill Constab. de
 <lb/>Chasteau du <unclear>dounrs</unclear> seigneur gardi<macron>e<ex>n</ex></macron> Charcliere
 <lb/>et Admirall de<unclear>s</unclear> Cinq<brev-es>es</brev-es> Port<ex>es</ex> C<macron>h<ex>eva</ex>l<ex>ie</ex>r</macron>. du tresnoble.
@@ -40,7 +40,7 @@
 <lb/>Tho<ex>mas</ex>: Viscounte Howard de Byndo<ex>u</ex><sl>n</sl>
 <lb/>C<macron>h<ex>eva</ex>l<ex>ie</ex>r</macron>. de tresnoble ordre &c
 <lb/><pb>16r</pb>
-<lb/><label>Out of <brev-y>th</brev-y><sl>e</sl> <unclear>Paneue</unclear> of the <brev-p>p<ex>ar</ex></brev-p>liam<unclear>e<ex>n</ex>te</unclear> aforesaid as ap<brev-p>p<ex>er</ex></brev-p>eth in <brev-y>th</brev-y><sl>e</sl> office of the Pety bagge.</label>
+<lb/><label place="margin">Out of <brev-y>th</brev-y><sl>e</sl> <unclear>Paneue</unclear> of the <brev-p>p<ex>ar</ex></brev-p>liam<unclear>e<ex>n</ex>te</unclear> aforesaid as ap<brev-p>p<ex>er</ex></brev-p>eth in <brev-y>th</brev-y><sl>e</sl> office of the Pety bagge.</label>
 <lb/><heading>The names of suche Noble m<macron>e<ex>n</ex></macron> as were
 <lb/>called by Writte to the <brev-p>p<ex>ar</ex></brev-p>liam<macron>e<ex>n</ex>t</macron> hold<macron>e<ex>n</ex></macron>
 <lb/>at Westm<ex>inst</ex><brev-er>er</brev-er>. <date>the xi<sl>th</sl> of Septemb<ex>er</ex>: Anno

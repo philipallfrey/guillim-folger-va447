@@ -14,7 +14,7 @@
 <lb/>
 <lb/><heading>Justic<brev-es>es</brev-es> called by writte
 <lb/>to thesame Parliam<macron>e<ex>n</ex>t</macron>e.</heading>
-<lb/><label>
+<lb/><label place="margin">
 <lb/>Out of the before
 <lb/>m<macron>e<ex>n</ex>t</macron>ioned <unclear>Pawne</unclear>.</label> <name>Joh<unclear><macron>n<ex>n</ex></macron></unclear> Popham Lo<ex>rd</ex>: Chiefe Justice of Englande.</name>
 <lb/><name>Edmonde Anderson knighte Lo<ex>rd</ex>: chiefe Justice of <brev-y>th</brev-y><sl>e</sl> Co<macron>m<ex>m</ex></macron><ex>on</ex>: pleas</name>

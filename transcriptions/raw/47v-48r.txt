@@ -78,7 +78,7 @@
 <lb/>
 <lb/>
 <lb/><pb>48r</pb>
-<lb/><label>The dissoluinge of Gu<macron>m<ex>m</ex>es</macron></label> <heading>Gu<macron>m<ex>m</ex></macron>e Armoniake</heading>
+<lb/><label place="margin">The dissoluinge of Gu<macron>m<ex>m</ex>es</macron></label> <heading>Gu<macron>m<ex>m</ex></macron>e Armoniake</heading>
 <lb/>Take <ingredient>Gv<macron>m<ex>m</ex>e</macron> Armoniak</ingredient>. & <method>grynd it</method> w<ex>i</ex><sl>th</sl> the <ingredient>Juice of garlik</ingredient>
 <lb/>as fyne as maye be, t<macron>he<ex>n</ex></macron> put therto <measure>.2. or .3. droppes</measure> of <ingredient>weake
 <lb/></ingredient>

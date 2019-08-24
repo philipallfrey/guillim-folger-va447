@@ -19,13 +19,13 @@
 <lb/>
 <lb/><heading>Names of Office.</heading>  <heading>Surnames.</heading>
 <lb/>{ Garter -- <name>W<ex>illia</ex><sl>m</sl>: Segar</name>.
-<lb/><label>Kinges of Armes</label> { Clarentieulx. -- <name>W<ex>illia</ex><sl>m</sl>: Camden</name>.
+<lb/><label place="margin">Kinges of Armes</label> { Clarentieulx. -- <name>W<ex>illia</ex><sl>m</sl>: Camden</name>.
 <lb/>{ Norroye. -- <name>Rich<ex>ard</ex>: St: George</name>.
 <lb/>
 <lb/>{ Yorke. -- <name><ins>Raphe</ins> Brookes<ins>mowthe</ins></name>
 <lb/>{ Richmond: -- <name>Raven</name>.
 <lb/>
-<lb/><label>Herauldes.</label>{ Som<brev-er>er</brev-er>set -- <name><ins>Rob<ex>er</ex>t</ins> Treswell</name>.
+<lb/><label place="margin">Herauldes.</label>{ Som<brev-er>er</brev-er>set -- <name><ins>Rob<ex>er</ex>t</ins> Treswell</name>.
 <lb/>{ Lancaster. -- <name>Thynne</name>.
 <lb/>{ Chester. -- <name><ins>Tho</ins> Knighte</name>.
 <lb/>{ Wyndsore. -- <name><ins>Sam<ex>uel</ex>:</ins> Tomson</name>.
@@ -33,7 +33,7 @@
 <lb/>
 <lb/>{ Rowgdrag<macron>o<ex>n</ex></macron> -- <name>W<ex>illia</ex><sl>m</sl>: Smyth</name>
 <lb/>{ Blewmantell. -- <name>Mercury Patey</name>
-<lb/><label>Purcevant<brev-es>es</brev-es></label> { Portcullys. -- <name>Phillippe Holland</name>
+<lb/><label place="margin">Purcevant<brev-es>es</brev-es></label> { Portcullys. -- <name>Phillippe Holland</name>
 <lb/>{ Rowgcrosse. -- <name>W<ex>illia</ex><sl>m</sl> Wyrley</name>.
 <lb/>{ Portesmowthe. -- <name>John Gwyllym</name>.
 <lb/><metamark>flourish</metamark> <metamark>scribble</metamark> . <metamark>flourish</metamark> <metamark>scribble</metamark>

@@ -1,6 +1,6 @@
 <lb/>
 <lb/><pb>34v</pb>
-<lb/><label>.penon.</label>
+<lb/><label place="margin">.penon.</label>
 <lb/><graphic>drawing</graphic> .2. yardes. dimid .50. <macron>me<ex>n</ex></macron>. A Pen<macron>no<ex>n</ex></macron> must be Two yard<brev-es>es</brev-es> & an halfe longe, made rounde at
 <lb/>the ende, & contayneth the Armes of the owner. And serveth for
 <lb/>the conduce of ffyftye <macron>me<ex>n</ex></macron>. <ins>The length of a Penon :2: yardes & an halfe.</ins>
@@ -14,7 +14,7 @@
 <lb/>2 <amt>xxs</amt>./
 <lb/>
 <lb/>
-<lb/><label>A Gwydon</label>
+<lb/><label place="margin">A Gwydon</label>
 <lb/><graphic>drawing</graphic> .4. yardes./ .50. men Note that an Esquier shall not have his Armes displayed in the
 <lb/>ffielde. but he may weare his Coate Armo<ex>u</ex><sl>r</sl>.
 <lb/>A Guidon must be two yard<brev-es>es</brev-es> and a halde or three yard<brev-es>es</brev-es> longe
@@ -40,7 +40,7 @@
 <lb/>belongine. <macron>vilz</macron> if it be the king<brev-es>es</brev-es> Banner - <amt>ffortye
 <lb/></amt>
 <lb/><amt> pound<brev-es>es</brev-es></amt>. for a duk<brev-es>es</brev-es> Banner - Twenty pound<brev-es>es</brev-es>
-<lb/><label>fees dewe to the Heraulde</label> Et sic de ceteris accordine to theire estat<brev-es>es</brev-es>.
+<lb/><label place="margin">fees dewe to the Heraulde</label> Et sic de ceteris accordine to theire estat<brev-es>es</brev-es>.
 <lb/>And to make hym knighte that shall beare that Banner
 <lb/>if he be not one before, co<macron>m<ex>m</ex></macron>andinge hym to hould faste &
 <lb/>ryde forth in the Name of God./
@@ -55,21 +55,21 @@
 <lb/>The knighte that shalbe made Bann<brev-er>er</brev-er>ett (bearinge hys
 <lb/>Penon of Armes, in his hand) shalbe brought betweene
 <lb/>two other knight<brev-es>es</brev-es>) before the Generall of the ffyelde.
-<lb/><label>Officer of Armes</label> one Officer of Armes goinge before hym. And being<unclear>e</unclear>
+<lb/><label place="margin">Officer of Armes</label> one Officer of Armes goinge before hym. And being<unclear>e</unclear>
 <lb/>come into his p<sl>r</sl><ex>e</ex>sence (whom he shall fynde accompanied
 <lb/>w<ex>i</ex><sl>th</sl> the Nobilitye & Captaynes of the ffield: the Herauld
 <lb/>shall saye as ffolloweth./
 <lb/>It may like your grace to vnderstande: that this knight here
-<lb/><label>His Speache</label> p<sl>r</sl><ex>e</ex>sent hathe shewed hymselfe valiant in the ffyelde
+<lb/><label place="margin">His Speache</label> p<sl>r</sl><ex>e</ex>sent hathe shewed hymselfe valiant in the ffyelde
 <lb/>for w<ex>hi</ex><sl>ch</sl> he hathe meryted to be exalted to the degree of
 <lb/>a knight Bannerett. And so herafter to levey his Bann<brev-er>er</brev-er>
 <lb/>in <brev-y>th</brev-y><sl>e</sl> fielde./
-<lb/><label>Speache of <brev-y>th</brev-y><sl>e</sl> Generall<metamark>flourish</metamark>}</label> This done, the G<macron><ex>e</ex>n<ex>e</ex>ra</macron>ll shall Cutte of the poynt<brev-es>es</brev-es> of hys
+<lb/><label place="margin">Speache of <brev-y>th</brev-y><sl>e</sl> Generall<metamark>flourish</metamark>}</label> This done, the G<macron><ex>e</ex>n<ex>e</ex>ra</macron>ll shall Cutte of the poynt<brev-es>es</brev-es> of hys
 <lb/>Penn<macron>o<ex>n</ex></macron> or Gwydon, & saye vnto hym. <unclear>Aua<macron>n<ex>c</ex></macron>es</unclear> toy Banne=
 <lb/>rett./ w<ex>i</ex><sl>th</sl> that the Trumpett<brev-es>es</brev-es> to sounde. That done,
 <lb/>he to be conveighed to his Tent w<ex>i</ex><sl>th</sl> the Herauldes the
 <lb/>Trumpett<brev-es>es</brev-es> soundinge before hym. ffor w<ex>hi</ex><sl>ch</sl> ther<unclear>e</unclear> ys
-<lb/><label>Heraldes fee.</label> dewe to the Heraulde for his ffee - <amt>iii<sup>li</sup> vis viiid</amt>/
+<lb/><label place="margin">Heraldes fee.</label> dewe to the Heraulde for his ffee - <amt>iii<sup>li</sup> vis viiid</amt>/
 <lb/>Every Bann<brev-er>er</brev-er>ette & eu<brev-er>er</brev-er>y estate above hym
 <lb/>shall have his bann<brev-er>er</brev-er> displayed in the ffield
 <lb/>if he be Chiefe Captayne. And in a Banner
