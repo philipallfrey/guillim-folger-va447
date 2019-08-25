@@ -2,7 +2,7 @@
 <lb/><heading>A sinistris Chorea<unclear>e</unclear> ascendendo</heading>
 <lb/><label place="margin">St: Georges feaste .1604.</label> 6 Du tresnoble & puissante seigneu<macron>r<ex>e</ex></macron> Thomas Con<macron>t<ex>e</ex></macron>
 <lb/>d'Suffolke. Bar<macron>o<ex>n</ex></macron> de Wald<macron>e<ex>n</ex></macron> Chamberlayne d
-<lb/><label place="margin"> <ins>et Capitaine d' cinq<macron>ua<ex>n</ex>t</macron> <macron>ge<ex>n</ex>t</macron><ex>ill</ex> homes Pension<brev-er>er</brev-er>s de sa Ma<ex>ies</ex>tie</ins></label> la Maison du Roy <macron>n<ex>ot</ex>re</macron> Seigneur <ins>^</ins> C<macron>h<ex>eva</ex>l<ex>ie</ex>r</macron> du tres=
+<lb/><label place="margin"> <ins>et Capitaine d' cinq<macron>ua<ex>n</ex>t</macron> <macron>ge<ex>n</ex>t</macron><ex>ill</ex> homes Pension<brev-er>er</brev-er>s de sa Ma<ex>ies</ex>tie</ins></label> la Maison du Roy <macron>n<ex>ot</ex>re</macron> Seigneur <metamark_function=''insertion''>^</metamark> C<macron>h<ex>eva</ex>l<ex>ie</ex>r</macron> du tres=
 <lb/>noble Order d'la Jarretier.
 <lb/>7 Du treshonorable C<macron>h<ex>eva</ex>l<ex>ie</ex>r</macron>. Henry Lea C<macron>h<ex>eva</ex>l<ex>ie</ex>r</macron> du
 <lb/>tresnoble Order d'la Jarretie<macron>r<ex>e</ex></macron>.
@@ -13,7 +13,7 @@
 <lb/>Burleighe. C<macron>h<ex>eva</ex>l<ex>ie</ex>r</macron>. Du tresnoble Order d'la Jarretier.
 <lb/>10 Du tresnoble & puissant seignieure Henry Co<macron>nt<ex>e</ex></macron> de
 <lb/>Sowthampton Bar<macron>o<ex>n</ex></macron> Writhowsley de Tychefielde
-<lb/>gou<brev-er>er</brev-er>no<ex>u</ex><sl>r</sl> <ins>^ et Capitain pour sa ma<ex>ies</ex>tie</ins> de le Isle de Wighte .C<macron>h<ex>eva</ex>l<ex>ie</ex>r</macron>. du tresnoble
+<lb/>gou<brev-er>er</brev-er>no<ex>u</ex><sl>r</sl> <metamark function="insertion">^</metamark><ins> et Capitain pour sa ma<ex>ies</ex>tie</ins> de le Isle de Wighte .C<macron>h<ex>eva</ex>l<ex>ie</ex>r</macron>. du tresnoble
 <lb/>Order de la Jarrettie<unclear> <macron>r<ex>e</ex></macron></unclear>.
 <lb/>11 Du tresnoble & puissante seignieu<macron>r<ex>e</ex></macron>: Gwylla<unclear> <macron>m</macron></unclear> Con<macron>t<ex>e</ex></macron>
 <lb/>de Penbrooke Bar<macron>o<ex>n</ex></macron> Harbart d'Cardiffe, seignieur
