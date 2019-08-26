@@ -12,7 +12,7 @@
 <lb/>Th<macron>e<ex>n</ex></macron> the Coate of Armes by.
 <lb/>Th<macron>e<ex>n</ex></macron> the Sworde by .
 <lb/>Th<macron>e<ex>n</ex></macron> the Targe.
-<lb/>Then the helme & Creaste.
+<lb/>Then the helme &amp; Creaste.
 <lb/>Then the Pennon.
 <lb/>The the Standarde.
 <lb/>Th<macron>e<ex>n</ex></macron> the Chiefe Mowrn<brev-er>er</brev-er> to offer alone for hymselfe
@@ -21,7 +21,7 @@
 <lb/>Then the Alderm<macron>e<ex>n</ex></macron> havinge black<brev-es>es</brev-es>.
 <lb/>Then the Alderm<macron>e<ex>n</ex></macron> havinge no black<brev-es>es</brev-es>.
 <lb/>Th<macron>e<ex>n</ex></macron> the Executors
-<lb/>Then the Chamberlayne & Towne Clerke.
+<lb/>Then the Chamberlayne &amp; Towne Clerke.
 <lb/>Then the Gentillm<macron>e<ex>n</ex></macron> in black<brev-es>es</brev-es>.
 <lb/>Then the Masters of the Hospitalls.
 <lb/>Then the Companyes.

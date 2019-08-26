@@ -23,7 +23,7 @@
 <lb/>4 Assist<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es> <graphic>drawing</graphic> to the Bodye
 <lb/><graphic>drawing</graphic> The Bodye <graphic>drawing</graphic>
 <lb/><graphic>drawing</graphic> <graphic>drawing</graphic>
-<lb/>Garter. & a <macron>ge<ex>n</ex>t</macron><ex>illman</ex>: Vsher.
+<lb/>Garter. &amp; a <macron>ge<ex>n</ex>t</macron><ex>illman</ex>: Vsher.
 <lb/>A Lady Chiefe Mo<unclear>w</unclear>rner supported
 <lb/>by .2. Knight<brev-es>es</brev-es> he Trayne borne by
 <lb/>a gentilwo<macron>ma<ex>n</ex></macron>
@@ -34,5 +34,5 @@
 <lb/>The Ladies <macron>ge<ex>n</ex>t</macron>ill<macron>wome<ex>n</ex></macron>
 <lb/>Yeo<macron>me<ex>n</ex></macron> in Cloak<brev-es>es</brev-es>
 <lb/>
-<lb/><metamark>flourish</metamark> The parishe & others. <metamark>flourish</metamark> .
+<lb/><metamark>flourish</metamark> The parishe &amp; others. <metamark>flourish</metamark> .
 <lb/><metamark>scribble</metamark>

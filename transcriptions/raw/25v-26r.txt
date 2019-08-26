@@ -1,20 +1,20 @@
 <lb/><pb>25v</pb>
 <lb/><label place="margin">Esquire by Creation</label> <label place="margin">3</label> The Thirde sorte are those that by the kinge are
 <lb/>Created Esquiers, by the gifte of a Collar of S:S.
-<lb/>& suche bearinge Armes are the pryncipall and
-<lb/>chyefe of that Coate Armo<ex>u</ex><sl>r</sl> & of theyre whole
+<lb/> &amp; suche bearinge Armes are the pryncipall and
+<lb/>chyefe of that Coate Armo<ex>u</ex><sl>r</sl> &amp; of theyre whole
 <lb/>race. Out of whose ffamylies althowgh dyu<brev-er>er</brev-er>se
-<lb/>howses doe springe & yssue, yet the eldest of that
+<lb/>howses doe springe &amp; yssue, yet the eldest of that
 <lb/>Coate Armo<ex>u</ex><sl>r</sl> only is an Esquier, and theresydew are
 <lb/>but gentillm<macron>e<ex>n</ex></macron>.
-<lb/><label place="margin">Esquiers by Office.</label> <label place="margin">4</label> The 4th & last sorte of <del>Gentillm<macron>e<ex>n</ex></macron></del> Esquiers are suche
+<lb/><label place="margin">Esquiers by Office.</label> <label place="margin">4</label> The 4th &amp; last sorte of <del>Gentillm<macron>e<ex>n</ex></macron></del> Esquiers are suche
 <lb/>as bearinge Office in the C<macron>om<ex>m</ex>o</macron>n Wealthe or in the
-<lb/>king<brev-es>es</brev-es> howse, are therfore called & reputed esquiers
+<lb/>king<brev-es>es</brev-es> howse, are therfore called &amp; reputed esquiers
 <lb/>as the Serg<macron>ea<ex>n</ex>t</macron>s <del>of</del><ins>at</ins> the Lawe, the Escheators in every
 <lb/>shiere. And <unclear>in</unclear> the king<brev-es>es</brev-es> howse, the Serg<macron>ea<ex>n</ex>t</macron>s of
 <lb/>every Office, who have the Collar of S.S. geven
 <lb/>them, but (havinge no Armes) that degree dieth
-<lb/>w<ex>i</ex><sl>th</sl> them & theire yssue is not ennoblished therby.
+<lb/>w<ex>i</ex><sl>th</sl> them &amp; theire yssue is not ennoblished therby.
 <lb/>. <metamark>flourish</metamark> . <metamark>flourish</metamark> . <metamark>flourish</metamark> .
 <lb/><label place="margin"><date>Anno :RR: Jacobi Regis Angl<ex>iae</ex> &c Secundo</date> .~.~.</label>
 <lb/> <heading>Justs holden at <place>white Halle</place> the <date>.24. daye
@@ -51,7 +51,7 @@
 <lb/>RR: Jacobi Regis Angliae Primo ./<metamark>flourish</metamark> .</del></heading>
 <lb/>Messengers of the Chamber
 <lb/>Gent<ex>illmen</ex>: Harbingers. Serge<macron>a<ex>n</ex>t</macron>e Porter.
-<lb/>Gent<ex>illmen</ex>: & esquiers the Prync<brev-es>es</brev-es> servantes.
+<lb/>Gent<ex>illmen</ex>: &amp; esquiers the Prync<brev-es>es</brev-es> servantes.
 <lb/>
 <lb/><label place="margin">Knighte of London<metamark>flourish</metamark></label><heading>The <brev-p>p<ex>ro</ex></brev-p>ceadinge to the ffunerall of
 <lb/>a knighte in London.</heading>
@@ -69,8 +69,8 @@
 <lb/>Then all the Alder<macron>me<ex>n</ex></macron> of the Cytie that weare black<brev-es>es</brev-es>.
 <lb/>Th<macron>e<ex>n</ex></macron> the Excecutors to the defuncte.
 <lb/>Th<macron>e<ex>n</ex></macron> the Preacher if he be a deane.
-<lb/>T<macron>he<ex>n</ex></macron> the Pen<macron>o<ex>n</ex></macron> borne by a Genti<macron>llma<ex>n</ex></macron> in a gowne & hoode
-<lb/>Then the Helme & Creast borne by a ....
+<lb/>T<macron>he<ex>n</ex></macron> the Pen<macron>o<ex>n</ex></macron> borne by a Genti<macron>llma<ex>n</ex></macron> in a gowne &amp; hoode
+<lb/>Then the Helme &amp; Creast borne by a ....
 <lb/>Then the Coate of Armes borne by a ....
 <lb/>Then Clarenti<brev-us>us</brev-us> kinge of Armes of the <brev-p>p<ex>ro</ex></brev-p>vince.
 <lb/><graphic>drawing</graphic> The Corps cou<brev-er>er</brev-er>ed w<ex>i</ex><sl>th</sl> a Palle of black vel<unclear>ine</unclear>
@@ -84,7 +84,7 @@
 <lb/>
 <lb/><graphic>drawing</graphic> T<macron>he<ex>n</ex></macron> next aft<brev-er>er</brev-er> the Corps followeth the Chiefe Mowrner
 <lb/>T<macron>he<ex>n</ex></macron> other two Mowrners.
-<lb/>T<macron>he<ex>n</ex></macron> the Chamberlayne & Towne clarke of Lond<macron>o<ex>n</ex></macron>.
+<lb/>T<macron>he<ex>n</ex></macron> the Chamberlayne &amp; Towne clarke of Lond<macron>o<ex>n</ex></macron>.
 <lb/>Th<macron>e<ex>n</ex> </macron>the Swordbearer.
 <lb/>Then the Lorde Maio<ex>u</ex><sl>r</sl> in blacke.
 <lb/>Th<macron>e<ex>n</ex></macron> the Alder<macron>me<ex>n</ex></macron> havinge no black<brev-es>es</brev-es>.

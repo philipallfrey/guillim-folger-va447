@@ -1,12 +1,12 @@
 <lb/><pb>24v</pb>
-<lb/><macron>It<ex>e</ex>m </macron>w<macron>he<ex>n</ex></macron> yong<brev-er>er</brev-er> bretherne doe marry & erecte and establishe
-<lb/>newe howses, & are acordingly to beare theyre Armes w<ex>i</ex><sl>th</sl>
-<lb/>suche distinctions & differenc<brev-es>es</brev-es> as they maye be know<macron>e<ex>n</ex></macron> from
+<lb/><macron>It<ex>e</ex>m </macron>w<macron>he<ex>n</ex></macron> yong<brev-er>er</brev-er> bretherne doe marry &amp; erecte and establishe
+<lb/>newe howses, &amp; are acordingly to beare theyre Armes w<ex>i</ex><sl>th</sl>
+<lb/>suche distinctions &amp; differenc<brev-es>es</brev-es> as they maye be know<macron>e<ex>n</ex></macron> from
 <lb/><label place="margin">Assigninge of Differences.</label> the elder ffamylies from w<ex>hi</ex><sl>ch</sl> they are descended: The
 <lb/>kinge of Armes of that <brev-p>p<ex>ro</ex></brev-p>vince is ti be consulted w<ex>i</ex><sl>th</sl>all
-<lb/>& suche differenc<brev-es>es</brev-es> of howses are to be assigned & established
-<lb/>by his pryvety & consente that so he may aduise them <ins>to</ins> the
-<lb/>best & keepe Recorde therof. Otherwise, gentill<macron>me<ex>n</ex></macron> may
+<lb/> &amp; suche differenc<brev-es>es</brev-es> of howses are to be assigned &amp; established
+<lb/>by his pryvety &amp; consente that so he may aduise them <ins>to</ins> the
+<lb/>best &amp; keepe Recorde therof. Otherwise, gentill<macron>me<ex>n</ex></macron> may
 <lb/>eyther hurte themselues by takinge suche a difference as
 <lb/>shall p<sl>r</sl><ex>e</ex>iudice <macron>the<ex>m</ex></macron> or els by taking too neere a difference
 <lb/>may p<sl>r</sl><ex>e</ex>iudice the chiefe howse from w<ex>hi</ex><sl>ch</sl> they are descended.
@@ -17,14 +17,14 @@
 <lb/>stocke or lyuinge <brev-p>p<ex>ro</ex></brev-p><brev-p>p<ex>er</ex></brev-p>ly belonige to his surname. Quia apud
 <lb/>nos in Anglia, partus n<macron>o<ex>n</ex></macron> sequitur ventrem.
 <lb/><label place="margin">Chaunge of Armes.</label> Likewise he is to see that no g<macron>e<ex>n</ex>t</macron>ill<macron>ma<ex>n</ex></macron> descended of noble
-<lb/>race & bearinge Armes doe alter & chaunge those Armes
-<lb/>w<ex>i</ex><sl>th</sl>out his knowledge allowance & consente/
+<lb/>race &amp; bearinge Armes doe alter &amp; chaunge those Armes
+<lb/>w<ex>i</ex><sl>th</sl>out his knowledge allowance &amp; consente/
 <lb/><macron>It<ex>e</ex>m</macron> if any doe vse the ARmes of others or suche as they
-<lb/>owght not, & will not be reformed: he is (vnder a cert<unclear> <ex>en</ex></unclear>
-<lb/>payne & at a cer<macron>te<ex>n</ex></macron> daye to warne suche offendo<ex>u</ex><sl>r</sl> to be
-<lb/>& a<unclear>xx</unclear>eare before the Earle Marshall of Englande or
+<lb/>owght not, &amp; will not be reformed: he is (vnder a cert<unclear> <ex>en</ex></unclear>
+<lb/>payne &amp; at a cer<macron>te<ex>n</ex></macron> daye to warne suche offendo<ex>u</ex><sl>r</sl> to be
+<lb/> &amp; a<unclear>xx</unclear>eare before the Earle Marshall of Englande or
 <lb/><label place="margin">Conventing before <brev-y>th</brev-y><sl>e</sl> :E<ex>arle</ex>: Marshall.</label> his Deputy before whom thesame is to be ordered heard
-<lb/>& reformed./ <metamark>flourish</metamark> .<metamark>flourish</metamark> . <metamark>flourish</metamark> ./
+<lb/> &amp; reformed./ <metamark>flourish</metamark> .<metamark>flourish</metamark> . <metamark>flourish</metamark> ./
 <lb/>
 <lb/><heading>Lyu<brev-er>er</brev-er>eys for Noble wo<macron>me<ex>n</ex></macron> at <brev-y>th</brev-y><sl>e</sl> Entere<macron>me<ex>n</ex>t</macron>
 <lb/>of any greate Estate
@@ -37,7 +37,7 @@
 <lb/>ffor her selge one Mantelett, one Barbe, one ffrontlet
 <lb/> and ffowre kerchefes.
 <lb/>ffor her <ins>three</ins> Gentillw<macron>ome<ex>n</ex></macron> .3. Mantellet<brev-es>es</brev-es>, three Barbes three
-<lb/> frontlett<brev-es>es</brev-es> & sixe <unclear> <del>C</del></unclear><ins>k</ins>erchefes.
+<lb/> frontlett<brev-es>es</brev-es> &amp; sixe <unclear> <del>C</del></unclear><ins>k</ins>erchefes.
 <lb/>And Lyvery for Twelue serv<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es>.
 <lb/>/ / /
 <lb/><catchword>A Countesse</catchword>
@@ -50,7 +50,7 @@
 <lb/>ffor three gentillwo<macron>me<ex>n</ex></macron> -- .xv yard<brev-es>es</brev-es>.
 <lb/>ffor her three gentill<macron>me<ex>n</ex></macron> -- xv. yardes.
 <lb/>ffore her selfe one mantellet, one Barbe one frontlet
-<lb/>& two kercheffes.
+<lb/> &amp; two kercheffes.
 <lb/>ffor her gentillwom<macron>e<ex>n</ex></macron> of lyn<macron>ne<ex>n</ex></macron> all poynt<brev-es>es</brev-es> as before
 <lb/>And lyverey as for eighte Servant<brev-es>es</brev-es>.
 <lb/>
@@ -66,12 +66,12 @@
 <lb/><heading>
 <lb/>The Diffinition of an Esquier and the
 <lb/>severall sort<brev-es>es</brev-es> of th<macron>e<ex>m</ex></macron> accordinge to the
-<lb/>Custome & vsage of Englande.</heading>
+<lb/>Custome &amp; vsage of Englande.</heading>
 <lb/>
 <lb/>An Esquier called in Latyne Armiger. Scutifer, &
 <lb/>homo ad Arm<macron>a</macron>. is he that in tymes past was <unclear>Costrell</unclear>
-<lb/><label place="margin">Costrelles</label> to a knighte the bearer of his shielde & helme a faith=
-<lb/>full compaign<unclear>i</unclear>on & associate vnto hym in <brev-y>th</brev-y><sl>e</sl> warres
+<lb/><label place="margin">Costrelles</label> to a knighte the bearer of his shielde &amp; helme a faith=
+<lb/>full compaign<unclear>i</unclear>on &amp; associate vnto hym in <brev-y>th</brev-y><sl>e</sl> warres
 <lb/>servinge on horsbacke, whereof eu<brev-er>er</brev-er>y knighte had two
 <lb/>at the leaste attendant vpon hym in respect of his
 <lb/>ffee. ffor they helde theyre Land<brev-es>es</brev-es> in Scutage of the
@@ -80,9 +80,9 @@
 <lb/>vocation is gro<macron>we<ex>n</ex></macron> to be the first degree of Gentrye
 <lb/><label place="margin">Esquiers by byrthe</label>{taken out of the service in the warr<brev-es>es</brev-es> from whence
 <lb/>{all the other degrees of Nobility are borrowed./
-<lb/><label place="margin">Eldest sonnes of knight<brev-es>es</brev-es>.</label> The ffirst sorte of them & <ins>the</ins> most Auncyent are <brev-y>th</brev-y><sl>e</sl> eldest sonnes of the yonger
-<lb/>sonnes of Baronnes & Noble<macron>me<ex>n</ex></macron> of higher degree
-<lb/>w<ex>hi</ex><sl>ch</sl> taketh ende & are determyned wh<macron>e<ex>n</ex></macron> the chiefe
-<lb/>males of suche elder sonnes doe fayle & that the In=
+<lb/><label place="margin">Eldest sonnes of knight<brev-es>es</brev-es>.</label> The ffirst sorte of them &amp; <ins>the</ins> most Auncyent are <brev-y>th</brev-y><sl>e</sl> eldest sonnes of the yonger
+<lb/>sonnes of Baronnes &amp; Noble<macron>me<ex>n</ex></macron> of higher degree
+<lb/>w<ex>hi</ex><sl>ch</sl> taketh ende &amp; are determyned wh<macron>e<ex>n</ex></macron> the chiefe
+<lb/>males of suche elder sonnes doe fayle &amp; that the In=
 <lb/>heritance goeth awaye w<ex>i</ex><sl>th</sl> the heires ffemale ./
 <lb/>

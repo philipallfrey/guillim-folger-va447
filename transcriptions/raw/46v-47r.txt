@@ -2,7 +2,7 @@
 <lb/>
 <lb/><pb>47r</pb>
 <lb/><label place="margin">ffor the Arte of Ly<macron>m<ex>m</ex></macron>inge</label> <heading>To make a good yeolowe of </heading><ingredient><heading>Orpy<macron>me<ex>n</ex>t</macron>e</heading></ingredient>
-<lb/>Take <ingredient>orpim<macron>e<ex>n</ex>t</macron></ingredient> of the fairest & put it into a Gold smithes potte
+<lb/>Take <ingredient>orpim<macron>e<ex>n</ex>t</macron></ingredient> of the fairest &amp; put it into a Gold smithes potte
 <lb/>th<macron>e<ex>n</ex></macron> put it inot the fyre th<macron>e<ex>n</ex></macron> holde a plate of Iron over the
 <lb/>potte to receave the vapo<ex>u</ex><sl>r</sl> therof, the first wilbe whyte, then
 <lb/>w<ex>i</ex><sl>th</sl> a fether stryke that of, the next shall yo<unclear><ex>u</ex></unclear> have a perfecte
@@ -13,7 +13,7 @@
 <lb/><heading>
 <lb/>To make a fayre coloure of vermili<macron>o<ex>n</ex></macron> that
 <lb/>shall never fade.</heading>
-<lb/>Take <ingredient>vermilion</ingredient> & grynde it w<ex>i</ex><sl>th</sl> <ingredient>fat <del>gvmme</del> G<macron>u<ex>m</ex></macron>me water</ingredient>
+<lb/>Take <ingredient>vermilion</ingredient> &amp; grynde it w<ex>i</ex><sl>th</sl> <ingredient>fat <del>gvmme</del> G<macron>u<ex>m</ex></macron>me water</ingredient>
 <lb/>very fyne, th<macron>e<ex>n</ex></macron> washe it in <ingredient>cleane water</ingredient> tyll all the mother
 <lb/>cometh awaye, t<macron>he<ex>n</ex></macron> let it stande vntill it be drye, then put
 <lb/>to it a quantity of G<macron>u<ex>m</ex></macron>me water to work w<ex>i</ex><sl>th</sl>all so shall y<macron>o<ex>u</ex></macron>
@@ -21,30 +21,30 @@
 <lb/>
 <lb/>
 <lb/><heading>To make a fayre Colo<ex>u</ex><sl>r</sl> of Redleade.</heading>
-<lb/>Take a q<macron>ua<ex>n</ex>t</macron>ity of the fairest <ingredient>redleade</ingredient> & put it into a shelle
+<lb/>Take a q<macron>ua<ex>n</ex>t</macron>ity of the fairest <ingredient>redleade</ingredient> &amp; put it into a shelle
 <lb/>w<ex>i</ex><sl>th</sl> a little <ingredient>G<macron>u<ex>m</ex>me</macron> water</ingredient>, th<macron>e<ex>n</ex></macron> styrre yt w<ex>i</ex><sl>th</sl> yo<ex>u</ex><sl>r</sl> fyng<brev-er>er</brev-er> vntill
 <lb/>it become fyne, th<macron>e<ex>n</ex></macron> washe it as aforesaide vntill all the
 <lb/>mother cometh from yt: before y<macron>o<ex>u</ex></macron> washe it you mvst
 <lb/>strayne it throughe a Lyn<macron>ne<ex>n</ex></macron> cloth<macron>e</macron> <macron>the<ex>n</ex></macron> tem<brev-p>p<ex>er</ex></brev-p> it w<ex>i</ex><sl>th</sl> G<macron>um<ex>m</ex></macron>e
-<lb/>water & so worke w<ex>i</ex><sl>th</sl> it: <del>s</del>So shall y<macron>o<ex>u</ex></macron> have A moste
+<lb/>water &amp; so worke w<ex>i</ex><sl>th</sl> it: <del>s</del>So shall y<macron>o<ex>u</ex></macron> have A moste
 <lb/>fayre coloure./
 <lb/><heading>
 <lb/>A fayre yelowe Orpim<macron>e<ex>n</ex>t</macron> like Golde in
 <lb/>substance.</heading>
 <lb/>
-<lb/>Take of the best glisteninge <ingredient>Orpiment</ingredient> & the <ingredient>Galles of
+<lb/>Take of the best glisteninge <ingredient>Orpiment</ingredient> &amp; the <ingredient>Galles of
 <lb/>Hares or of Pykes</ingredient>; for it is best to grynde any yelowe
 <lb/>
 <lb/>colo<ex>u</ex><sl>r</sl> w<ex>i</ex><sl>th</sl> theyre galles (it will aske good gryndinge)
-<lb/>t<macron>he<ex>n</ex></macron> put it in a vyoll & set it vnder <ingredient>horsdunge</ingredient> by the space
-<lb/>of xiiii. dayes: t<macron>he<ex>n</ex></macron> take it vp & grynde it <ins>well</ins> with good
-<lb/>gleare, or w<ex>i</ex><sl>th</sl> good <ingredient>G<macron>u<ex>m</ex>m</macron>e water</ingredient>, & y<macron>o<ex>u</ex></macron> shall have therof
+<lb/>t<macron>he<ex>n</ex></macron> put it in a vyoll &amp; set it vnder <ingredient>horsdunge</ingredient> by the space
+<lb/>of xiiii. dayes: t<macron>he<ex>n</ex></macron> take it vp &amp; grynde it <ins>well</ins> with good
+<lb/>gleare, or w<ex>i</ex><sl>th</sl> good <ingredient>G<macron>u<ex>m</ex>m</macron>e water</ingredient>, &amp; y<macron>o<ex>u</ex></macron> shall have therof
 <lb/>a Colo<ex>u</ex><sl>r</sl> like golde./
 <lb/>
 <lb/>
-<lb/><heading>Mastricot & Generall.</heading>
-<lb/>They must not be grounde, but strayned & washed as verdit
-<lb/>& then tem<brev-p>p<ex>er</ex></brev-p>ed w<ex>i</ex><sl>th</sl> <ingredient>G<macron>u<ex>m</ex>m</macron>e water</ingredient>.
+<lb/><heading>Mastricot &amp; Generall.</heading>
+<lb/>They must not be grounde, but strayned &amp; washed as verdit
+<lb/> &amp; then tem<brev-p>p<ex>er</ex></brev-p>ed w<ex>i</ex><sl>th</sl> <ingredient>G<macron>u<ex>m</ex>m</macron>e water</ingredient>.
 <lb/>
 <lb/><heading>Oker de rowse or Spruce Oker.</heading>
 <lb/>
@@ -56,7 +56,7 @@
 <lb/>Take of the fairest <ingredient>dogge beryes</ingredient> wh<macron>e<ex>n</ex></macron> they be greene and
 <lb/>not ripe, Laye them where they maye drye. And w<macron>he<ex>n</ex></macron>
 <lb/>y<macron>o<ex>u</ex></macron> purpose to occupy them, boyle <measure>.x. or xii</measure> of <macron>the<ex>m</ex></macron> in faire
-<lb/>water & a little <ingredient>Alome</ingredient> (the beryes beinge first brushed. It is
+<lb/>water &amp; a little <ingredient>Alome</ingredient> (the beryes beinge first brushed. It is
 <lb/>a yellow muche to be vsed in washing of pryntes and
 <lb/>Mappes./
 <lb/>

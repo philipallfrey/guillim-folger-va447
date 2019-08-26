@@ -5,10 +5,10 @@
 <lb/>John de Blet<unclear>ne</unclear>sho</name>. prmis nuptiis iuncta <name>Ro<macron>b<ex>er</ex>to</macron> Corbet de
 <lb/>Morton Corbet</name> Armig<brev-er>er</brev-er>o ex q<ex>u</ex><sl>o</sl> suscepit <name>Elizab<macron>etha<ex>m</ex></macron></name> vx<macron>ore<ex>m</ex></macron> <name>He<macron>nr<ex>ici</ex></macron>
 <lb/></name>
-<lb/><name>Walloppe milit<brev-es>is</brev-es></name> & <name>An<macron>na<ex>m</ex></macron></name> nupt<macron>a<ex>m</ex></macron> <name>Adulpho Carye Armig<brev-er>er</brev-er>o</name>
-<lb/>& altero marito <name>Rowlande Lytt<macron>o<ex>n</ex></macron> de knebworth Armigero</name>
+<lb/><name>Walloppe milit<brev-es>is</brev-es></name> &amp; <name>An<macron>na<ex>m</ex></macron></name> nupt<macron>a<ex>m</ex></macron> <name>Adulpho Carye Armig<brev-er>er</brev-er>o</name>
+<lb/> &amp; altero marito <name>Rowlande Lytt<macron>o<ex>n</ex></macron> de knebworth Armigero</name>
 <lb/>reliquit filios <name>Gwiliel<macron>mu<ex>m</ex></macron></name> <name>Rowland<macron>u<ex>m</ex></macron></name> et <name>Philip<macron>pu<ex>m</ex></macron></name>. ffilias
-<lb/><name>An<macron>na<ex>m</ex></macron></name>. <name>Judith</name> <name>Elizabetham</name> & <name>J<macron>ana<ex>m</ex></macron></name>. vixit quadraginta
+<lb/><name>An<macron>na<ex>m</ex></macron></name>. <name>Judith</name> <name>Elizabetham</name> &amp; <name>J<macron>ana<ex>m</ex></macron></name>. vixit quadraginta
 <lb/>Annos. Nobilis, venusta, pia Clara deo et <macron>ho<ex>m</ex>i<ex>n</ex>ibusz:</macron> obiit
 <lb/>mul<macron>tu<ex>m</ex></macron> deplorata. Vltimo ffeb<ex>ruario</ex>: A<ex>nn</ex>o: Salut<brev-es>is</brev-es> .<date>1601</date>. pro
 <lb/>cui<brev-us>us</brev-us> bene acta vita D<macron>eu<ex>m</ex></macron> laudate. utq<brev-z>ue</brev-z> <macron>cu<ex>m</ex></macron> Sanctis ....
@@ -25,7 +25,7 @@
 <lb/>
 <lb/><graphic>drawing</graphic> <graphic>drawing</graphic> <name>Rowland<brev-us>us</brev-us> Lytt<macron>o<ex>n</ex></macron></name> Armig<brev-er>er</brev-er> qui virilit<brev-er>er</brev-er> Arma gessit in bello
 <lb/>Dux fortis in pace optim<brev-us>us</brev-us> magistrat<brev-us>us</brev-us> obiit <date>Julii .1582.</date>
-<lb/>Vxores <macron>h<ex>ab</ex>uit</macron> <name>Margaretam Tate</name> & <name>An<macron>na<ex>m</ex></macron> Carleton</name>.
+<lb/>Vxores <macron>h<ex>ab</ex>uit</macron> <name>Margaretam Tate</name> &amp; <name>An<macron>na<ex>m</ex></macron> Carleton</name>.
 <lb/>ex prima reliquit <name>M<macron>aria<ex>m</ex></macron></name> ex altera <name>Rowland<macron>u<ex>m</ex></macron></name> et
 <lb/><name>ffrancissc<macron>u<ex>m</ex></macron></name>./
 <lb/>Hic iacet D<macron><ex>omi</ex>n<brev-us>us</brev-us></macron> <name>Sim<macron>o<ex>n</ex></macron> Bache</name> C<macron>l<ex>er</ex>ic</macron><brev-us>us</brev-us>: q<ex>u</ex><sl>o</sl>nd<macron>a<ex>m</ex></macron> Thesaurari<brev-us>us</brev-us>
@@ -46,14 +46,14 @@
 <lb/>Clarencieulx his ffee. -- <amt>.v. <sup>li</sup></amt>
 <lb/>ffor his blackes. -- <amt>v. <sup>li</sup></amt>
 <lb/>Black<brev-es>es</brev-es> for his serv<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es>.-- <amt>xxx<sup>s</sup></amt>.
-<lb/>Transportation money outward<brev-es>es</brev-es> & homewardes aft<brev-er>er</brev-er> . <amt>xii<sup>d</sup></amt>
+<lb/>Transportation money outward<brev-es>es</brev-es> &amp; homewardes aft<brev-er>er</brev-er> . <amt>xii<sup>d</sup></amt>
 <lb/>eche myle./ A Certificat. -- <amt>xx<sup>s</sup></amt>./
 <lb/>
 <lb/>
 <lb/>The Heraulde for his fee. -- <amt>.iii<sup>li</sup>: vi<sup>s</sup>. viii<sup>d</sup></amt>
 <lb/>ffor his black<brev-es>es</brev-es>. -- <amt>.iii. <sup>li</sup>. vi<sup>s</sup>. viii<sup>d</sup></amt>
 <lb/>ffor his servant<brev-es>es</brev-es> black<brev-es>es</brev-es>. -- <amt>.xv. <sup>s</sup></amt>
-<lb/>Transportation money outward<brev-es>es</brev-es> & homward<brev-es>es</brev-es> aft<brev-er>er</brev-er> <amt>vi<sup>d</sup></amt>
+<lb/>Transportation money outward<brev-es>es</brev-es> &amp; homward<brev-es>es</brev-es> aft<brev-er>er</brev-er> <amt>vi<sup>d</sup></amt>
 <lb/>eche myle.
 <lb/>A Certificat. -- <amt>.xx<sup>s</sup></amt>./
 <lb/>
@@ -70,12 +70,12 @@
 <lb/>The Standarde wherin must be placed }
 <lb/>
 <lb/>the Crosse of S<sl>t</sl>: George, together w<ex>i</ex><sl>th</sl> } <amt>.xl<sup>s</sup>.</amt>/
-<lb/>the Creast & woorde of the defuncte, & }
+<lb/>the Creast &amp; woorde of the defuncte, &amp; }
 <lb/>
 <lb/>must be ffowre yard<brev-es>es</brev-es> longe. }
 <lb/>A Helme. -- <amt>xvi<sup>s</sup></amt>
 <lb/>A Creaste . -- <amt>xiii<sup>s</sup>.iiii<sup>d</sup></amt>
-<lb/>Mantell w<ex>i</ex><sl>th</sl> Knoppes & Tassells. -- <amt>xx<sup>s</sup></amt>./
+<lb/>Mantell w<ex>i</ex><sl>th</sl> Knoppes &amp; Tassells. -- <amt>xx<sup>s</sup></amt>./
 <lb/>Escocheons in Mettall vp<macron>o<ex>n</ex></macron> Paper . -- <amt>xvi<sup>d</sup></amt> <brev-y>th</brev-y><sl>e</sl> dozo<ex>n</ex>.
 <lb/>Escocheons in Colo<ex>u</ex><sl>r</sl> vp<macron>o<ex>n</ex></macron> pa<brev-p>p<ex>er</ex></brev-p>. -- <amt>xii<sup>d</sup></amt>/. the dozon.
 <lb/>Halfe a doz<macron>o<ex>n</ex></macron> of Escocheons in Mettall }--.<amt>xii<sup>s</sup></amt>./ .
@@ -87,12 +87,12 @@
 <lb/>ffirst .2. Confuctors to goe before w<ex>i</ex><sl>th</sl> blacke staves.
 <lb/>Poore <macron>me<ex>n</ex></macron> in Gownes .2. and .2.
 <lb/>Gentilmens servant<brev-es>es</brev-es> in Cloak<brev-es>es</brev-es>.
-<lb/>Th<macron>e<ex>n</ex></macron> the Standarde borne by a ge<macron>nt<ex>ilman</ex></macron> in a gowne & hoode
+<lb/>Th<macron>e<ex>n</ex></macron> the Standarde borne by a ge<macron>nt<ex>ilman</ex></macron> in a gowne &amp; hoode
 <lb/>Serv<macron>a<ex>n</ex>t</macron>es to the defuncte.
 <lb/>Gentil<macron>me<ex>n</ex></macron> in Cloak<brev-es>es</brev-es>
 <lb/>Gentilm<macron>e<ex>n</ex></macron> in Gownes.
 <lb/>The Preacher.
 <lb/>The Penon of Armes borne by  a Gentil<macron>ma<ex>n</ex></macron> of the
-<lb/>kynred in a Gowne & hoode.
+<lb/>kynred in a Gowne &amp; hoode.
 <lb/><catchword>Helme &</catchword>
 <lb/>

@@ -1,6 +1,6 @@
 <lb/><pb>15v</pb>
 <lb/><heading>A sinistris Chorea<unclear>e</unclear> ascendendo</heading>
-<lb/><label place="margin">St: Georges feaste .1604.</label> 6 Du tresnoble & puissante seigneu<macron>r<ex>e</ex></macron> Thomas Con<macron>t<ex>e</ex></macron>
+<lb/><label place="margin">St: Georges feaste .1604.</label> 6 Du tresnoble &amp; puissante seigneu<macron>r<ex>e</ex></macron> Thomas Con<macron>t<ex>e</ex></macron>
 <lb/>d'Suffolke. Bar<macron>o<ex>n</ex></macron> de Wald<macron>e<ex>n</ex></macron> Chamberlayne d
 <lb/><label place="margin"> <ins>et Capitaine d' cinq<macron>ua<ex>n</ex>t</macron> <macron>ge<ex>n</ex>t</macron><ex>ill</ex> homes Pension<brev-er>er</brev-er>s de sa Ma<ex>ies</ex>tie</ins></label> la Maison du Roy <macron>n<ex>ot</ex>re</macron> Seigneur <metamark_function=''insertion''>^</metamark> C<macron>h<ex>eva</ex>l<ex>ie</ex>r</macron> du tres=
 <lb/>noble Order d'la Jarretier.
@@ -11,13 +11,13 @@
 <lb/>C<macron>h<ex>eva</ex>l<ex>ie</ex>r</macron>. du tresnoble Order d'la Jarretier.
 <lb/>9 Du' tresnoble seignieure Thomas Cecyll Bar<macron>o<ex>n</ex></macron> de
 <lb/>Burleighe. C<macron>h<ex>eva</ex>l<ex>ie</ex>r</macron>. Du tresnoble Order d'la Jarretier.
-<lb/>10 Du tresnoble & puissant seignieure Henry Co<macron>nt<ex>e</ex></macron> de
+<lb/>10 Du tresnoble &amp; puissant seignieure Henry Co<macron>nt<ex>e</ex></macron> de
 <lb/>Sowthampton Bar<macron>o<ex>n</ex></macron> Writhowsley de Tychefielde
 <lb/>gou<brev-er>er</brev-er>no<ex>u</ex><sl>r</sl> <metamark function="insertion">^</metamark><ins> et Capitain pour sa ma<ex>ies</ex>tie</ins> de le Isle de Wighte .C<macron>h<ex>eva</ex>l<ex>ie</ex>r</macron>. du tresnoble
 <lb/>Order de la Jarrettie<unclear> <macron>r<ex>e</ex></macron></unclear>.
-<lb/>11 Du tresnoble & puissante seignieu<macron>r<ex>e</ex></macron>: Gwylla<unclear> <macron>m</macron></unclear> Con<macron>t<ex>e</ex></macron>
+<lb/>11 Du tresnoble &amp; puissante seignieu<macron>r<ex>e</ex></macron>: Gwylla<unclear> <macron>m</macron></unclear> Con<macron>t<ex>e</ex></macron>
 <lb/>de Penbrooke Bar<macron>o<ex>n</ex></macron> Harbart d'Cardiffe, seignieur
-<lb/>Parr. & Roos de kendale Marmion et S<ex>ain</ex><sl>te</sl> <unclear>Qu<macron>inty</macron>.</unclear>
+<lb/>Parr. &amp; Roos de kendale Marmion et S<ex>ain</ex><sl>te</sl> <unclear>Qu<macron>inty</macron>.</unclear>
 <lb/>Gard<macron>ie<ex>n</ex></macron> de lestaiguery. et C<macron>h<ex>eva</ex>l<ex>ie</ex>r</macron>. du tresnoble
 <lb/>Order d'la Jarrettie<macron>r<ex>e</ex></macron>./ <metamark>flourish</metamark> . <metamark>flourish</metamark> . <metamark>flourish</metamark>
 <lb/><label place="margin">A Sinist<ex>ris</ex></label> Du teshaulte trespuissante et tresexcellent prince Henry

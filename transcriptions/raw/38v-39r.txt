@@ -33,7 +33,7 @@
 <lb/>{ Anglia, Mercurium Normania, Gallia Martem }
 <lb/>Memorat<brev-us>us</brev-us> Wil<macron>l<ex>el</ex>m</macron><brev-us>us</brev-us> <unclear>vtpote</unclear> bellicos<brev-us>us</brev-us> et <unclear>strenu<brev-us>us</brev-us></unclear>, dict<brev-us>us</brev-us> Marescallus: quasi Martis Senescall<brev-us>us</brev-us>
 <lb/>Ib<ex>ide</ex>m .pag<ex>ina</ex>: 931. p<sl>r</sl><ex>ae</ex>dict<ex>a</ex>./ De isto W<macron>ill<ex>el</ex>mo</macron> qui<macron>da<ex>m</ex></macron> E<macron>p<ex>itaphius</ex>q</macron>, dixit In gen<brev-er>er</brev-er>ati<macron>o<ex>n</ex>e</macron> vna delebit nom<macron>e<ex>n</ex></macron> eius
-<lb/>& ffilii ei<brev-us>us</brev-us> exortes er<macron>u<ex>n</ex>t</macron> illi<brev-us>us</brev-us> dominici benedictionis. Crescite et multiplicamini. Mori ent<brev-er>er</brev-er><unclear>ibusz</unclear> <unclear>eam</unclear> aliq<ex>u</ex><sl>i</sl>
+<lb/> &amp; ffilii ei<brev-us>us</brev-us> exortes er<macron>u<ex>n</ex>t</macron> illi<brev-us>us</brev-us> dominici benedictionis. Crescite et multiplicamini. Mori ent<brev-er>er</brev-er><unclear>ibusz</unclear> <unclear>eam</unclear> aliq<ex>u</ex><sl>i</sl>
 <lb/>moret Lamentabili et haereditas eor<ex>um</ex> discipa<unclear>p</unclear>itus. Math: Par: pag <del>904</del> 912./
 <lb/>
 <lb/>

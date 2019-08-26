@@ -23,14 +23,14 @@
 <lb/>politica est haereditaria
 <lb/><metamark>X</metamark> Wom<macron>e<ex>n</ex></macron> are capeable of Duchies
 <lb/>Counties Baronies. &c in their
-<lb/>owne righte, & may transmitte
+<lb/>owne righte, &amp; may transmitte
 <lb/>thesame to theire heir<brev-es>es</brev-es>.
 <lb/><metamark>X</metamark> Theire husband<brev-es>es</brev-es> also are capeable
 <lb/>of thesame in their wives right
-<lb/><metamark>X</metamark> Armes & styles are thing<brev-es>es</brev-es> inhe=
+<lb/><metamark>X</metamark> Armes &amp; styles are thing<brev-es>es</brev-es> inhe=
 <lb/>ritable
 <lb/><metamark>X</metamark> Queene Eliz<ex>abeth's</ex>: mother was created
-<lb/>Marchionesse of Pembrokke & her
+<lb/>Marchionesse of Pembrokke &amp; her
 <lb/>sonne (if he had married a subiect)
 <lb/>should have been marq<unclear> <ex>uess</ex></unclear> .
 <lb/><metamark>X</metamark> Yf any say <brev-y>th</brev-y><ex>a</ex><sl>t</sl> dignities descend not vnto
@@ -38,20 +38,20 @@
 <lb/>doe away theire Tytles
 <lb/>Some have had .2. Baronees descende
 <lb/><metamark>X</metamark> vnto th<macron>e<ex>m</ex></macron> at once: as <brev-y>th</brev-y><sl>e</sl>: E<ex>arle</ex>: of Lyncolne
-<lb/>had Clynt<macron>o<ex>n</ex></macron> & Saye./ Rich<ex>ard</ex>: Hasting<brev-es>es</brev-es>
-<lb/>had welles & willoughby
+<lb/>had Clynt<macron>o<ex>n</ex></macron> &amp; Saye./ Rich<ex>ard</ex>: Hasting<brev-es>es</brev-es>
+<lb/>had welles &amp; willoughby
 <lb/>This is a principle <brev-y>th</brev-y><ex>a</ex><sl>t</sl> the name of a
-<lb/><metamark>X</metamark> kinge, duke, Earle, Baron & suche
+<lb/><metamark>X</metamark> kinge, duke, Earle, Baron &amp; suche
 <lb/>like is Res indiuidua. Therfore <brev-y>th</brev-y><sl>e</sl>
 <lb/>style of Visco<macron><ex>un</ex>t</macron> Lisle descended to <unclear>sisters</unclear>
-<lb/>was extinct & at the Prync<brev-es>es</brev-es> disposi=
+<lb/>was extinct &amp; at the Prync<brev-es>es</brev-es> disposi=
 <lb/>tion.
-<lb/><metamark>X</metamark> Viscount<brev-es>es</brev-es> are of lat<brev-er>er</brev-er> tyme & have their
+<lb/><metamark>X</metamark> Viscount<brev-es>es</brev-es> are of lat<brev-er>er</brev-er> tyme &amp; have their
 <lb/>Creations by patent w<ex>i</ex><sl>th</sl> Anuitye
 <lb/>The Co<macron>m<ex>m</ex></macron>on lawe dealeth little w<ex>i</ex><sl>th</sl>
-<lb/>ryts & customes of Chiualry: but such
+<lb/>ryts &amp; customes of Chiualry: but such
 <lb/>questions have beene alwayes decyded
-<lb/>before <brev-y>th</brev-y><sl>e</sl> Constab<ex>le</ex>: & Marshall of Engl<ex>and</ex><unclear>:</unclear>
+<lb/>before <brev-y>th</brev-y><sl>e</sl> Constab<ex>le</ex>: &amp; Marshall of Engl<ex>and</ex><unclear>:</unclear>
 <lb/><metamark>X</metamark> in ffrance wom<macron>e<ex>n</ex></macron> succeed their Ancesto<unclear> <ex>u</ex></unclear><sl>rs</sl>
 <lb/>aswell in dignities as in patrimonies
 <lb/><metamark>X</metamark> The Custome of eu<brev-er>er</brev-er>y Region is the Rule
@@ -68,7 +68,7 @@
 <lb/>Wyves inheritance but only in respect
 <lb/>he is a husbande: but having a childe
 <lb/>he hath acquired an estate in Lawe
-<lb/>& is admitted to doe homage & not before
+<lb/> &amp; is admitted to doe homage &amp; not before
 <lb/><metamark>X</metamark> The Crowne of England is out of the
 <lb/>curtesye.
 <lb/>None may vse his wives style but suche as
@@ -78,32 +78,32 @@
 <lb/>heire.
 <lb/><metamark>X</metamark> The Lawe requireth the seruice of the
 <lb/>wom<macron>a<ex>n</ex></macron> of her husbande.
-<lb/>Land<brev-es>es</brev-es> gev<macron>e<ex>n</ex></macron> to a m<macron>a<ex>n</ex></macron> & his heir<brev-es>es</brev-es> male of his
-<lb/>body who hathe heire female & no make
-<lb/>& she hathe a sonne: he shall not inherite
+<lb/>Land<brev-es>es</brev-es> gev<macron>e<ex>n</ex></macron> to a m<macron>a<ex>n</ex></macron> &amp; his heir<brev-es>es</brev-es> male of his
+<lb/>body who hathe heire female &amp; no make
+<lb/> &amp; she hathe a sonne: he shall not inherite
 <lb/>because he cannot deryve hymselfe from
 <lb/><brev-y>th</brev-y><sl>e</sl> male but by the wom<macron>a<ex>n</ex></macron>
-<lb/>The Com<macron><ex>m</ex>o<ex>n</ex></macron> Lawe is Custome & in these
+<lb/>The Com<macron><ex>m</ex>o<ex>n</ex></macron> Lawe is Custome &amp; in these
 <lb/><metamark>X</metamark> thing<brev-es>es</brev-es> c<macron>o<ex>n</ex></macron>trary to <brev-y>th</brev-y><sl>e</sl> customes of other Regions
 <lb/>The Co<macron>m<ex>m</ex></macron>on Lawe taketh no knowledge
 <lb/><metamark>X</metamark> of questions of chivalry.
 <lb/><metamark>X</metamark> Prescription worketh a state of inheritance
-<lb/>in Lawe in Barons & baronies w<ex>hi</ex><sl>ch</sl> in
+<lb/>in Lawe in Barons &amp; baronies w<ex>hi</ex><sl>ch</sl> in
 <lb/>Lawe worketh a ffeesymple.
 <lb/>feetaile is not an inheritance by <brev-y>th</brev-y><sl>e</sl> demise
 <lb/>of the Lawe: but of <brev-p>p</brev-p><unclear> <ex>ar</ex></unclear>ticuler <brev-p>p<ex>er</ex></brev-p>sons.
 <lb/>Yf <brev-y>th</brev-y><sl>e</sl> dignity of a Baronesse be in <brev-y>th</brev-y><sl>e</sl> wife
 <lb/><metamark>X</metamark> as inheritance, th<macron>e<ex>n</ex></macron> thesame inheritance
 <lb/>must be demed in the husbande in <brev-y>th</brev-y><sl>e</sl> <unclear>right</unclear>
-<lb/>of his wife: & her name must be vsed
+<lb/>of his wife: &amp; her name must be vsed
 <lb/>in theu<brev-er>er</brev-er>y writte, <unclear>vp<macron>o<ex>n</ex></macron></unclear> suite for thesame in=
 <lb/>heritance
 <lb/>An Auncient <unclear> <del>peace</del></unclear> Barony may be geven
 <lb/>to a Bar<macron>o<ex>n</ex></macron> of newe creation the place
-<lb/>beinge voyde & in the king<brev-es>es</brev-es> handes by
+<lb/>beinge voyde &amp; in the king<brev-es>es</brev-es> handes by
 <lb/>attaynder.
 <lb/><metamark>X</metamark> There is difference betweene Creation
-<lb/>& restitution
+<lb/> &amp; restitution
 <lb/>By writte implicatiue inherit<macron>a<ex>n</ex></macron>ce passeth
 <lb/>to the <brev-p>p<ex>ar</ex></brev-p>tie to wh<macron>o<ex>m</ex></macron> thesame is directed w<ex>hi</ex><sl>ch</sl>
 <lb/><metamark>X</metamark> must be intended a ffeesymple. vnlesse the
@@ -113,7 +113,7 @@
 <lb/>custome, they are receaved to employ
 <lb/>inheritance.
 <lb/>In a gifte of ffranke mariage there must
-<lb/>be kynred betweene the dono<sl>r</sl> & <brev-y>th</brev-y><sl>e</sl> wom<macron>a<ex>n</ex></macron>
+<lb/>be kynred betweene the dono<sl>r</sl> &amp; <brev-y>th</brev-y><sl>e</sl> wom<macron>a<ex>n</ex></macron>
 <lb/>donee.
 <lb/>And it is called ffranke because it is free
 <lb/>fr<macron>o<ex>m</ex></macron> all seruice except ffealty. vntill the
@@ -121,7 +121,7 @@
 <lb/><metamark>X</metamark> Service of Barons is imediatly dewe
 <lb/>vpon his creation.
 <lb/><metamark>X</metamark> A Barony descendinge to more th<unclear>e</unclear>n one
-<lb/>dowght<brev-er>er</brev-er> & heire is exti<unclear>n</unclear>cte
+<lb/>dowght<brev-er>er</brev-er> &amp; heire is exti<unclear>n</unclear>cte
 <lb/><metamark>X</metamark> A m<macron>a<ex>n</ex></macron> marryinge the sole heire of a Baro<ex>n</ex><sl>y</sl>
 <lb/>may use the style of dignity by the g<unclear><macron><ex>e</ex>n<ex>e</ex></macron></unclear>rall
 <lb/>cust<unclear>o</unclear>me of this Realme.
@@ -143,7 +143,7 @@
 <lb/>fr<macron>o<ex>m</ex></macron> those that be grouwnded vp<macron>o<ex>n</ex></macron> the
 <lb/>Co<macron>m<ex>m</ex></macron>on Lawes of the Realme./
 <lb/>To trye the trewthe, we must examyne
-<lb/>it by the g<ex>e</ex>n<ex>e</ex>rall Rule & maxime of the
+<lb/>it by the g<ex>e</ex>n<ex>e</ex>rall Rule &amp; maxime of the
 <lb/>Lawe.
 <lb/><metamark>X</metamark> Eu<brev-er>er</brev-er>y wom<macron>a<ex>n</ex></macron> by her mariage loseth <brev-y>th</brev-y><sl>e</sl> <brev-p>p<ex>ro</ex></brev-p><brev-p>p<ex>er</ex></brev-p>
 <lb/>name of the ffamily wherin she was
@@ -153,7 +153,7 @@
 <lb/>her name of dignity she had before
 <lb/>mariage: vnlesse a great<brev-er>er</brev-er> happ<macron>e<ex>n</ex></macron>
 <lb/>vnto her, th<macron>e<ex>n</ex></macron> the great<brev-er>er</brev-er> is <brev-p>p<ex>re</ex></brev-p>ferred
-<lb/>& that other suppressed, but not extin=
+<lb/> &amp; that other suppressed, but not extin=
 <lb/>guished.
 <lb/>An Exige<macron><ex>n</ex>t</macron> may <ins>not</ins> be awarded against
 <lb/>an Earle: for the dignity of hys
@@ -168,7 +168,7 @@
 <lb/><metamark>X</metamark> Earle in respect only he is a duk<brev-es>es</brev-es>
 <lb/>sonne may clayme <brev-y>th</brev-y><ex>a</ex><sl>t</sl> <ins>benefite of</ins> priueledge.
 <lb/>To doubte whether awom<macron>a<ex>n</ex></macron> may use
-<lb/><metamark>X</metamark> <brev-y>th</brev-y><sl>e</sl> name & dignity <del>of the</del> she <ins>receave<unclear>d</unclear> from</ins> husbande
+<lb/><metamark>X</metamark> <brev-y>th</brev-y><sl>e</sl> name &amp; dignity <del>of the</del> she <ins>receave<unclear>d</unclear> from</ins> husbande
 <lb/>is to doubte of the equitie of the
 <lb/>Lawe.
 <lb/>The Lawe <brev-y>th</brev-y><ex>a</ex><sl>t</sl> bereaveth the wife of her
@@ -179,31 +179,31 @@
 <lb/><metamark>X</metamark> husband<brev-es>s</brev-es> dignities <brev-y>th</brev-y><ex>a</ex><sl>t</sl> are annexed
 <lb/>to administration.
 <lb/>Yf names of dignities are extincte
-<lb/>in wom<macron>e<ex>n</ex></macron>: th<macron>e<ex>n</ex></macron> conveighanc<brev-es>es</brev-es> & ffyines
+<lb/>in wom<macron>e<ex>n</ex></macron>: th<macron>e<ex>n</ex></macron> conveighanc<brev-es>es</brev-es> &amp; ffyines
 <lb/>passed by those names should be vtterly
 <lb/>voyde: but in deede are not./
 <lb/>In makinge of writt<brev-es>es</brev-es>: <brev-y>th</brev-y><sl>e</sl> co<macron>m<ex>m</ex>o<ex>n</ex></macron> Lawe
 <lb/>determyneth not of right<brev-es>es</brev-es> of names
 <lb/><metamark>X</metamark> of nobility. but only of the vse of them
-<lb/>& to avoid confusion of names in writt<brev-es>es</brev-es>
+<lb/> &amp; to avoid confusion of names in writt<brev-es>es</brev-es>
 <lb/>and pleaes, w<ex>hi</ex><sl>ch</sl> require eu<brev-er>er</brev-er>y thinge cert<unclear><macron>e<ex>n</ex></macron></unclear>
 <lb/>These woord<brev-es>es</brev-es> quae fuit Vxor Comit<brev-es>is</brev-es>: <unclear>Ar<macron>o<ex>n</ex></macron></unclear>:del;
 <lb/><metamark>X</metamark> determineth not or taketh awaye her
 <lb/>Dignitye: but declare a determination
 <lb/>of the mariage betwixt the Earle
-<lb/>& her.
+<lb/> &amp; her.
 <lb/><metamark>X</metamark> Wom<macron>e<ex>n</ex></macron> may vse names of dignities and
 <lb/>they are not loste by non vse in Courte.
 <lb/><metamark>X</metamark> The writte <brev-y>th</brev-y><ex>a</ex><sl>t</sl> expresseth her no Coun
 <lb/>tesse intendeth her Countesse
 <lb/>The Courte laboureth only to conserve
-<lb/><metamark>X</metamark> forme of <brev-p>p<ex>ro</ex></brev-p>ceadinge & not to determyne
+<lb/><metamark>X</metamark> forme of <brev-p>p<ex>ro</ex></brev-p>ceadinge &amp; not to determyne
 <lb/>
 <lb/>of the meere righte of dignities.
-<lb/>These Woord<brev-es>es</brev-es> Nobilis & ignobilis doe
+<lb/>These Woord<brev-es>es</brev-es> Nobilis &amp; ignobilis doe
 <lb/><metamark>X</metamark> not alwaies signify (as in o<ex>u</ex><sl>r</sl> English)
-<lb/>noble & not noble; but somtyme, g<macron>e<ex>n</ex>t</macron><ex>ill</ex>:=
-<lb/>m<macron>a<ex>n</ex></macron> or g<macron>e<ex>n</ex>t</macron><ex>ill</ex>:wo<macron>ma<ex>n</ex></macron>, & no gent<ex>ill</ex>:man or no
+<lb/>noble &amp; not noble; but somtyme, g<macron>e<ex>n</ex>t</macron><ex>ill</ex>:=
+<lb/>m<macron>a<ex>n</ex></macron> or g<macron>e<ex>n</ex>t</macron><ex>ill</ex>:wo<macron>ma<ex>n</ex></macron>, &amp; no gent<ex>ill</ex>:man or no
 <lb/> gent<ex>ill</ex> wo<macron>ma<ex>n</ex></macron>. Therfore this sayinge in
 <lb/>the Ciuile Lawe . Quod mulier nobilis
 <lb/>nubens viro ignobili desinit esse no=
@@ -214,12 +214,12 @@
 <lb/><metamark>X</metamark> o<ex>u</ex><sl>r</sl> lawe a wo<macron>ma<ex>n</ex></macron> so marryinge loseth
 <lb/>no dignity.
 <lb/>Men lyvinge at <place>Roome</place> are subiecte to
-<lb/><metamark>X</metamark> Romish Customes, & in <place>Englande</place> to En=
+<lb/><metamark>X</metamark> Romish Customes, &amp; in <place>Englande</place> to En=
 <lb/>glishe. /
 <lb/>Aunciently in <place>Roome</place> the husbandes dig=
 <lb/>nity was co<macron>m<ex>m</ex></macron>unicable to the wife and
-<lb/>from the ffather to the sonne & nephew
-<lb/>& no farther th<macron>e<ex>n</ex></macron> vsqz Pronepotem ./
+<lb/>from the ffather to the sonne &amp; nephew
+<lb/> &amp; no farther th<macron>e<ex>n</ex></macron> vsqz Pronepotem ./
 <lb/>The dowghter: of a Senator marryinge w<ex>i</ex><sl>th</sl>
 <lb/>
 <lb/>a co<macron>m<ex>m</ex></macron>oner lost her nobility or gene=
@@ -230,7 +230,7 @@
 <lb/>a one as by his qualitye might be chos<macron>e<ex>n</ex></macron>
 <lb/>Senator, she had favo<ex>u</ex><sl>r</sl>
 <lb/>The Romans aft<brev-er>er</brev-er> x<macron>pia</macron>n faithe <unclear>receve</unclear>
-<lb/><metamark>X</metamark> & publication of mariage (in <brev-y>th</brev-y><sl>e</sl> Lord
+<lb/><metamark>X</metamark> &amp; publication of mariage (in <brev-y>th</brev-y><sl>e</sl> Lord
 <lb/>to be ho<ex>noura</ex><sl>ble</sl>: to all <brev-p>p<ex>er</ex></brev-p>sons, they soughte
 <lb/>Godd<brev-es>es</brev-es> childr<macron>e<ex>n</ex></macron> before the childr<macron>e<ex>n</ex></macron> of
 <lb/>king<ex>es</ex> to be their sonnes in Lawe.
@@ -239,7 +239,7 @@
 <lb/>stayned w<ex>i</ex><sl>th</sl> vnchastitye should <del>Sose</del>
 <lb/>lose her Nobility. And this carrieth
 <lb/>greate reason w<ex>i</ex><sl>th</sl> it; for the forfaiture
-<lb/>is for a most filthy & vnnoble fault
+<lb/>is for a most filthy &amp; vnnoble fault
 <lb/>wh<macron>e<ex>n</ex></macron> thother is not only for no fault but
 <lb/>for an honorable action.
 <lb/><metamark>X</metamark> ffeodale dignities are not tyed to the
@@ -251,7 +251,7 @@
 <lb/>No g<macron>e<ex>n</ex>t</macron>ilman beinge called to serve th<unclear>e</unclear>
 <lb/><metamark>X</metamark> Kinge a Latere sclz in neerest place
 <lb/>of service is therby made a g<macron>e<ex>n</ex>t</macron>ill man./
-<lb/><name>Hostiens<ex>es</ex></name>: saieth <brev-y>th</brev-y><ex>a</ex><sl>t</sl> somtymes & <brev-y>th</brev-y><ex>a</ex><sl>t</sl> by custom
+<lb/><name>Hostiens<ex>es</ex></name>: saieth <brev-y>th</brev-y><ex>a</ex><sl>t</sl> somtymes &amp; <brev-y>th</brev-y><ex>a</ex><sl>t</sl> by custom
 <lb/><metamark>X</metamark> the husband shyneth w<ex>i</ex><sl>th</sl> his wyves ~
 <lb/>beames. As wh<macron>e<ex>n</ex></macron> a symple soldio<ex>u</ex><sl>r</sl> <del>mar</del>
 <lb/>marieth w<ex>i</ex><sl>th</sl> a Countesse

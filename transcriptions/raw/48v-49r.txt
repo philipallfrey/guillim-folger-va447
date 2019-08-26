@@ -1,53 +1,53 @@
 <lb/><heading>To make burnishing golde syse</heading>
-<lb/>Take .3. <brev-p>p<ex>ar</ex></brev-p>ts of <ingredient>bole Armoniake</ingredient> & the .4. of <ingredient>fyne
+<lb/>Take .3. <brev-p>p<ex>ar</ex></brev-p>ts of <ingredient>bole Armoniake</ingredient> &amp; the .4. of <ingredient>fyne
 <lb/>Chalke</ingredient>. grynde t<macron>he<ex>m</ex></macron> together so smalle as maye be
-<lb/>w<ex>i</ex><sl>th</sl> <ingredient>cleane water</ingredient>. & at eu<brev-er>er</brev-er>y tyme let it drye, & so grynd
+<lb/>w<ex>i</ex><sl>th</sl> <ingredient>cleane water</ingredient>. &amp; at eu<brev-er>er</brev-er>y tyme let it drye, &amp; so grynd
 <lb/>yt .3. or .4. tymes that ther be no gravell or gritt in it
-<lb/>& let it be through drye: <macron>the<ex>n</ex></macron> take the <ingredient>gleare of egges</ingredient>
-<lb/>& grynde thesame stuffe therw<ex>i</ex><sl>th</sl>. & in the gryndinge
-<lb/>add therto <measure>a little qu<macron>a<ex>n</ex>t</macron>ity</measure> of <ingredient>g<macron>vm<ex>m</ex>e</macron> Hedere</ingredient>. & <measure>fyve or
-<lb/>.6. blad<brev-es>es</brev-es></measure> of Saffr<macron>o<ex>n</ex></macron> & let it be so small grounde
-<lb/>as y<macron>o<ex>u</ex></macron> can. Th<macron>e<ex>n</ex></macron> put it into an Oxehorne & rotte
+<lb/> &amp; let it be through drye: <macron>the<ex>n</ex></macron> take the <ingredient>gleare of egges</ingredient>
+<lb/> &amp; grynde thesame stuffe therw<ex>i</ex><sl>th</sl>. &amp; in the gryndinge
+<lb/>add therto <measure>a little qu<macron>a<ex>n</ex>t</macron>ity</measure> of <ingredient>g<macron>vm<ex>m</ex>e</macron> Hedere</ingredient>. &amp; <measure>fyve or
+<lb/>.6. blad<brev-es>es</brev-es></measure> of Saffr<macron>o<ex>n</ex></macron> &amp; let it be so small grounde
+<lb/>as y<macron>o<ex>u</ex></macron> can. Th<macron>e<ex>n</ex></macron> put it into an Oxehorne &amp; rotte
 <lb/>in horsdunge or vnder the earthe the space of .5. or
-<lb/>6. week<brev-es>es</brev-es> th<macron>e<ex>n</ex></macron> take it vp & let it have ayere for it
+<lb/>6. week<brev-es>es</brev-es> th<macron>e<ex>n</ex></macron> take it vp &amp; let it have ayere for it
 <lb/>will have an <unclear>evill</unclear> savo<ex>u</ex><sl>r</sl>. occupy therof as y<macron>o<ex>u</ex></macron> will
 <lb/>But first trye it vp<macron>o<ex>n</ex></macron> a strawe or thynne <brev-p>p<ex>ar</ex></brev-p>chm<macron>e<ex>n</ex>t</macron> &
-<lb/>let it drye: & <macron>the<ex>n</ex></macron> : <unclear>sowe</unclear> it, & if it breake doe therto
-<lb/>a little water to make it weaker: & <measure>a little</measure> <ingredient>Eare
+<lb/>let it drye: &amp; <macron>the<ex>n</ex></macron> : <unclear>sowe</unclear> it, &amp; if it breake doe therto
+<lb/>a little water to make it weaker: &amp; <measure>a little</measure> <ingredient>Eare
 <lb/>Waxe</ingredient> to take awaye the bubbles, And if it be to
 <lb/>weake mend it agayne w<ex>i</ex><sl>th</sl> <ingredient>gleare</ingredient>.
 <lb/><heading>
 <lb/>To set gold or sylu<brev-er>er</brev-er>, but into yo<ex>u</ex><sl>r</sl>
 <lb/>syluer syse y<macron>o<ex>u</ex></macron> shall put no saffr<macron>o<ex>n</ex></macron></heading>
-<lb/>Take <measure>a peece</measure> of <ingredient><macron>gvm<ex>m</ex>e</macron> Lake</ingredient> & <method>dissolue it</method> into a
-<lb/><ingredient>stiffe wat<brev-er>er</brev-er></ingredient> & <macron>the<ex>n</ex></macron> grynde <measure>a blade </measure>of <ingredient>Saffr<macron>o<ex>n</ex></macron></ingredient> amongst
-<lb/>it & y<macron>o<ex>u</ex></macron> shall have a cleare burnished <unclear> <del>pr</del></unclear> golde
+<lb/>Take <measure>a peece</measure> of <ingredient><macron>gvm<ex>m</ex>e</macron> Lake</ingredient> &amp; <method>dissolue it</method> into a
+<lb/><ingredient>stiffe wat<brev-er>er</brev-er></ingredient> &amp; <macron>the<ex>n</ex></macron> grynde <measure>a blade </measure>of <ingredient>Saffr<macron>o<ex>n</ex></macron></ingredient> amongst
+<lb/>it &amp; y<macron>o<ex>u</ex></macron> shall have a cleare burnished <unclear> <del>pr</del></unclear> golde
 <lb/>so that y<macron>o<ex>u</ex></macron> burnishe thesame <ins>a little</ins> w<ex>i</ex><sl>th</sl> a Toothe wh<macron>e<ex>n</ex></macron> it
 <lb/>is drye./
 <lb/><heading>
 <lb/>To lay syse on Leaves or any
 <lb/>other woorke.</heading>
-<lb/>Take a pensill & laye on yo<ex>u</ex><sl>r</sl> Sise somwhat thynne, &
+<lb/>Take a pensill &amp; laye on yo<ex>u</ex><sl>r</sl> Sise somwhat thynne, &
 <lb/>wh<macron>e<ex>n</ex></macron> it is drye coate it over agayine vntill it be
-<lb/>as thicke & as highe as y<macron>o<ex>u</ex></macron> will have it, t<macron>he<ex>n</ex></macron> beinge dry
-<lb/>wett it lightly w<ex>i</ex><sl>th</sl> yo<ex>u</ex><sl>r</sl> spittle, & w<ex>i</ex><sl>th</sl> a fyne knife shave
-<lb/>it smoothe, & if any thinge hap<macron>pe<ex>n</ex></macron> to falle in it or that
+<lb/>as thicke &amp; as highe as y<macron>o<ex>u</ex></macron> will have it, t<macron>he<ex>n</ex></macron> beinge dry
+<lb/>wett it lightly w<ex>i</ex><sl>th</sl> yo<ex>u</ex><sl>r</sl> spittle, &amp; w<ex>i</ex><sl>th</sl> a fyne knife shave
+<lb/>it smoothe, &amp; if any thinge hap<macron>pe<ex>n</ex></macron> to falle in it or that
 <lb/>there be more sise in one place t<macron>he<ex>n</ex></macron> in another laye ou<brev-er>er</brev-er>
-<lb/>more, that beinge dry & made smoothe y<macron>o<ex>u</ex></macron> shalle
-<lb/>burnishe it w<ex>i</ex><sl>th</sl> an Oxetoothe & <macron>the<ex>n</ex></macron> is it readye to
+<lb/>more, that beinge dry &amp; made smoothe y<macron>o<ex>u</ex></macron> shalle
+<lb/>burnishe it w<ex>i</ex><sl>th</sl> an Oxetoothe &amp; <macron>the<ex>n</ex></macron> is it readye to
 <lb/>laye on your golde or sylver./
 <lb/>
 <lb/><heading>To make Sape greene of </heading><ingredient> <heading>dogberies</heading></ingredient>
 <lb/>These beryes must be gathered alittle before Mighelma<unclear>s</unclear>
 <lb/>(for th<macron>e<ex>n</ex></macron> they wax rype, th<macron>e<ex>n</ex></macron> keepe t<macron>he<ex>m</ex></macron> in a paile or <method> <unclear>firth</unclear></method>
-<lb/>a weeke, eu<brev-er>er</brev-er>y daye brushinge & stampinge th<macron>e<ex>m</ex></macron> that they
-<lb/>maye rotte: th<macron>e<ex>n</ex></macron> put th<macron>e<ex>m</ex></macron> in a kettle over the ffuer & le<unclear>t</unclear>
+<lb/>a weeke, eu<brev-er>er</brev-er>y daye brushinge &amp; stampinge th<macron>e<ex>m</ex></macron> that they
+<lb/>maye rotte: th<macron>e<ex>n</ex></macron> put th<macron>e<ex>m</ex></macron> in a kettle over the ffuer &amp; le<unclear>t</unclear>
 <lb/>them seethe moderatly puttinge therto <measure>a little</measure> <ingredient>Alome</ingredient>
 <lb/>havinge a peece of paper to trye how y<macron>o<ex>u</ex></macron> like the Coloure
 <lb/>stirre it w<ex>i</ex><sl>th</sl> a trvncheon that it burne not, let it not seethe
-<lb/>to longe. Th<macron>e<ex>n</ex></macron> take it from the ffyer, & strayne it throughe
-<lb/>a goog thicke Canvas & wringe it oute & let it Coole.
-<lb/>th<macron>e<ex>n</ex></macron> put it in bladders & bynde it close & hange th<macron>e<ex>m</ex></macron> vp and
+<lb/>to longe. Th<macron>e<ex>n</ex></macron> take it from the ffyer, &amp; strayne it throughe
+<lb/>a goog thicke Canvas &amp; wringe it oute &amp; let it Coole.
+<lb/>th<macron>e<ex>n</ex></macron> put it in bladders &amp; bynde it close &amp; hange th<macron>e<ex>m</ex></macron> vp and
 <lb/>it will hard<macron>e<ex>n</ex></macron>. y<macron>o<ex>u</ex></macron> may also occupy therof p<sl>r</sl><ex>e</ex>sently./
 <lb/>
 <lb/>
@@ -58,45 +58,45 @@
 <lb/>
 <lb/>it height<macron>e<ex>n</ex></macron> very lighte w<ex>i</ex><sl>th</sl> white./
 <lb/><heading>Crymsin satten</heading>
-<lb/>Red Lake & white, & deeped w<ex>i</ex><sl>th</sl> thesame.
+<lb/>Red Lake &amp; white, &amp; deeped w<ex>i</ex><sl>th</sl> thesame.
 <lb/><heading>Russet Taffeta</heading>
-<lb/>Take fayre Lake, & white, deeped w<ex>i</ex><sl>th</sl> thesame.
+<lb/>Take fayre Lake, &amp; white, deeped w<ex>i</ex><sl>th</sl> thesame.
 <lb/><heading>Purple Silke.</heading>
-<lb/>Roset of Paris & Indebandias, & white, deeped w<ex>i</ex><sl>th</sl>
+<lb/>Roset of Paris &amp; Indebandias, &amp; white, deeped w<ex>i</ex><sl>th</sl>
 <lb/>thesame; To make it changeable, height<macron>e<ex>n</ex></macron> it w<ex>i</ex><sl>th</sl> a
 <lb/>Lighte Carnation made w<ex>i</ex><sl>th</sl> Vermilion or els w<ex>i</ex><sl>th</sl>
 <lb/>
-<lb/>Red lae & white. or Verditer, or sadder greene./
+<lb/>Red lae &amp; white. or Verditer, or sadder greene./
 <lb/><heading>Crymson Veluet</heading>
 <lb/>Yo<ex>u</ex><sl>r</sl> grounde must be vermilion, th<macron>e<ex>n</ex></macron> glase it over w<ex>i</ex><sl>th</sl>
 <lb/>Lake, th<macron>e<ex>n</ex></macron> hard<macron>e<ex>n</ex></macron> it w<ex>i</ex><sl>th</sl> a little Redde, blacke, and
 <lb/>Lake; t<macron>he<ex>n</ex></macron> w<ex>i</ex><sl>th</sl> light vermilion heig<macron>hte<ex>n</ex></macron> it.
 <lb/><heading>Greene Veluet</heading>
-<lb/>Verdigrece & R<unclear>ewe</unclear> glased ou<brev-er>er</brev-er> w<ex>i</ex><sl>th</sl> flowedeluce green<unclear>e</unclear>
-<lb/>& hardened w<ex>i</ex><sl>th</sl> thesame./
+<lb/>Verdigrece &amp; R<unclear>ewe</unclear> glased ou<brev-er>er</brev-er> w<ex>i</ex><sl>th</sl> flowedeluce green<unclear>e</unclear>
+<lb/> &amp; hardened w<ex>i</ex><sl>th</sl> thesame./
 <lb/><heading>Purple Veluet</heading>
-<lb/>Indebandias & darke Lake, makinge darke & light
+<lb/>Indebandias &amp; darke Lake, makinge darke &amp; light
 <lb/>out of thesayd Colour<unclear><brev-es>es</brev-es></unclear> w<ex>i</ex><sl>th</sl> whyte.
 <lb/><heading>Yellowe Veluet.</heading>
 <lb/>Masticot, Deepe yt w<ex>i</ex><sl>th</sl> browne Ocket and a little
 <lb/>Pynke./
 <lb/><heading>White Veluet</heading>
-<lb/>ffayre white w<ex>i</ex><sl>th</sl> a very little masticot, & deeped
-<lb/>Redd, blacke, & whyte./
+<lb/>ffayre white w<ex>i</ex><sl>th</sl> a very little masticot, &amp; deeped
+<lb/>Redd, blacke, &amp; whyte./
 <lb/><heading>To make fflowrdeluce greene.</heading>
-<lb/>Gather yo<ex>u</ex><sl>r</sl> <ingredient>fflowrdeluc<brev-es>es</brev-es></ingredient> <seasonality>ffortnight before mydsom<brev-er>er</brev-er></seasonality> & havinge
+<lb/>Gather yo<ex>u</ex><sl>r</sl> <ingredient>fflowrdeluc<brev-es>es</brev-es></ingredient> <seasonality>ffortnight before mydsom<brev-er>er</brev-er></seasonality> &amp; havinge
 <lb/>a faire glasse in redynesse gather yo<ex>u</ex><sl>r</sl> flowres w<macron>he<ex>n</ex></macron> the
-<lb/>deawe is of t<macron>he<ex>m</ex></macron>, & that the sunne hathe somwhat bleached.
-<lb/>T<macron>he<ex>n</ex></macron> take the <ingredient>blewe leaves</ingredient> & <ingredient>purple leaves</ingredient> & nippe
+<lb/>deawe is of t<macron>he<ex>m</ex></macron>, &amp; that the sunne hathe somwhat bleached.
+<lb/>T<macron>he<ex>n</ex></macron> take the <ingredient>blewe leaves</ingredient> &amp; <ingredient>purple leaves</ingredient> &amp; nippe
 <lb/>it from the stalk, takinge no <brev-p>p<ex>ar</ex></brev-p>te of the fflowre, but
-<lb/>only of the fairest of the blewe & of the purple. Let yo<ex>u</ex><sl>r</sl>
-<lb/>glasse be wyde mowthed, & put yo<ex>u</ex><sl>r</sl> fflowr<brev-es>es</brev-es> therinto
+<lb/>only of the fairest of the blewe &amp; of the purple. Let yo<ex>u</ex><sl>r</sl>
+<lb/>glasse be wyde mowthed, &amp; put yo<ex>u</ex><sl>r</sl> fflowr<brev-es>es</brev-es> therinto
 <lb/>Let yo<ex>u</ex><sl>r</sl> fflowr<brev-es>es</brev-es> be full blow<macron>e<ex>n</ex></macron> before y<macron>o<ex>u</ex></macron> gather them
 <lb/>gatheringe asmany as y<macron>o<ex>u</ex></macron> can get, for many of t<macron>he<ex>m</ex></macron> make
 <lb/>but a little Colo<ex>u</ex><sl>r</sl> y<macron>o<ex>u</ex></macron> must stoppe yo<ex>u</ex><sl>r</sl> glasse c<macron>o<ex>n</ex>t</macron>ynually very
 <lb/>close settinge it in a shadowe place, lest the force of the
 <lb/>Sune drye vp the moisture therof. And so keepinge t<macron>he<ex>m</ex></macron>
-<lb/>fast stopped let th<macron>e<ex>m</ex></macron> cons<del>m</del>vme & rotte tyll they become wat<brev-er>er</brev-er>
-<lb/>& the liquor a darke greene. Then strayne it through a lyn<macron>e<ex>n</ex></macron>
+<lb/>fast stopped let th<macron>e<ex>m</ex></macron> cons<del>m</del>vme &amp; rotte tyll they become wat<brev-er>er</brev-er>
+<lb/> &amp; the liquor a darke greene. Then strayne it through a lyn<macron>e<ex>n</ex></macron>
 <lb/><catchword>clothe</catchword>.
 <lb/>

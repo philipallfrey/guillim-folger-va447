@@ -8,10 +8,10 @@
 <lb/>ffirst to be offered the Coate of Armes.
 <lb/>Then the Sworde.
 <lb/>The the Targe.
-<lb/>Then the Helme & Creaste.
+<lb/>Then the Helme &amp; Creaste.
 <lb/>The then Pen<macron>o<ex>n</ex></macron>
 <lb/>Then the Standarde.
-<lb/>Then the Chiee Mowrn<brev-er>er</brev-er> to be broought downe & after
+<lb/>Then the Chiee Mowrn<brev-er>er</brev-er> to be broought downe &amp; after
 <lb/>a little pawse to offer for hymselfe.
 <lb/>Then the .4. Assistant<brev-es>es</brev-es> (if he be a knighte
 <lb/>The Gent<ex>illmen</ex> in Gownes.
@@ -21,7 +21,7 @@
 <lb/>
 <lb/><pb>22r</pb>
 <lb/><heading>The nobility placed acordinge to theire
-<lb/><del>Creati<macron>o<ex>n</ex></macron></del> degrees & aft<brev-er>er</brev-er> the Auncienty of
+<lb/><del>Creati<macron>o<ex>n</ex></macron></del> degrees &amp; aft<brev-er>er</brev-er> the Auncienty of
 <lb/>theire Creati<macron>o<ex>n</ex>s</macron> .1577.</heading>
 <lb/>
 <lb/>
@@ -92,7 +92,7 @@
 <lb/>31 { Willowghby. <macron><brev-p>p<ex>ar</ex></brev-p>ha<ex>m</ex></macron>
 <lb/>32 { Sheffield.
 <lb/>33 { Paget of Beawdese<ex>rt</ex>
-<lb/>{ & of Drayton
+<lb/>{ &amp; of Drayton
 <lb/>34 { Darcy of Chiche
 <lb/>35 { Howard of Essingh<macron>a<ex>m</ex></macron>
 <lb/>36 { Northe of <unclear>Carthelegon</unclear>

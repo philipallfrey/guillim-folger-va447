@@ -35,14 +35,14 @@
 <lb/><graphic>drawing</graphic> <graphic>drawing</graphic>
 <lb/>A gent<ex>illman</ex> Vsher. Garter. A gent<ex>illman</ex>: Vsher.
 <lb/>A Lady Chiefe Mowrner. assisted by
-<lb/>two Earles & her Trayne borne.
+<lb/>two Earles &amp; her Trayne borne.
 <lb/>.8. other Ladyes Assistant<ex>es</ex>
 <lb/>2. in Cloak<brev-es>es</brev-es>
-<lb/>All other Ladyes & Gent<macron>ilwome<ex>n</ex></macron>
+<lb/>All other Ladyes &amp; Gent<macron>ilwome<ex>n</ex></macron>
 <lb/>Gentilwo<macron>me<ex>n</ex></macron> to the Defuncte.
 <lb/>Ladies gentilw<macron>ome<ex>n</ex></macron>
 <lb/><graphic>flourish</graphic> Yeomen in Coates./ <graphic>flourish</graphic>
 <lb/><metamark>scribble</metamark>
-<lb/><label place="margin">The outwarde Raile of the frame of the herse nexte follow<unclear>in</unclear>ge</label> <graphic>drawing</graphic> A dore .4. foote at eche ende w<ex>i</ex><sl>th</sl> a Raile to lifte vp & downe ./ <graphic>drawing</graphic>
+<lb/><label place="margin">The outwarde Raile of the frame of the herse nexte follow<unclear>in</unclear>ge</label> <graphic>drawing</graphic> A dore .4. foote at eche ende w<ex>i</ex><sl>th</sl> a Raile to lifte vp &amp; downe ./ <graphic>drawing</graphic>
 <lb/>The .2. endes of <brev-y>th</brev-y><sl>e</sl> Hearse to be .9. foote ./ <metamark>flourish</metamark>
 <lb/>

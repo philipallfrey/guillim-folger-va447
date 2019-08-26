@@ -79,59 +79,59 @@
 <lb/>
 <lb/><pb>48r</pb>
 <lb/><label place="margin">The dissoluinge of Gu<macron>m<ex>m</ex>es</macron></label> <heading>Gu<macron>m<ex>m</ex></macron>e Armoniake</heading>
-<lb/>Take <ingredient>Gv<macron>m<ex>m</ex>e</macron> Armoniak</ingredient>. & <method>grynd it</method> w<ex>i</ex><sl>th</sl> the <ingredient>Juice of garlik</ingredient>
+<lb/>Take <ingredient>Gv<macron>m<ex>m</ex>e</macron> Armoniak</ingredient>. &amp; <method>grynd it</method> w<ex>i</ex><sl>th</sl> the <ingredient>Juice of garlik</ingredient>
 <lb/>as fyne as maye be, t<macron>he<ex>n</ex></macron> put therto <measure>.2. or .3. droppes</measure> of <ingredient>weake
 <lb/></ingredient>
-<lb/><ingredient>g<macron>um<ex>m</ex>e</macron> water</ingredient> of <ingredient><macron>gom<ex>m</ex>e</macron> Arabike:</ingredient> & <method>tem<brev-p>p<ex>er</ex></brev-p> it</method> so that it be not
+<lb/><ingredient>g<macron>um<ex>m</ex>e</macron> water</ingredient> of <ingredient><macron>gom<ex>m</ex>e</macron> Arabike:</ingredient> &amp; <method>tem<brev-p>p<ex>er</ex></brev-p> it</method> so that it be not
 <lb/>to thicke but that yt may goe currant out of the penne
-<lb/>& t<macron>he<ex>n</ex></macron> write therw<ex>i</ex><sl>th</sl> what y<macron>o<ex>u</ex></macron> will, & let it drye: And <macron>whe<ex>n</ex></macron>
+<lb/> &amp; t<macron>he<ex>n</ex></macron> write therw<ex>i</ex><sl>th</sl> what y<macron>o<ex>u</ex></macron> will, &amp; let it drye: And <macron>whe<ex>n</ex></macron>
 <lb/>y<macron>o<ex>u</ex></macron> will have it gilte, <method>cut</method> yo<ex>u</ex><sl>r</sl> <ingredient>golde</ingredient> or <ingredient>Syluere</ingredient> vpon a
 <lb/>Cushinge (or a leather made for that purpose) acordinge
 <lb/>to the woorke that y<macron>o<ex>u</ex></macron> have dra<macron>we<ex>n</ex></macron>, th<macron>e<ex>n</ex></macron> take a little <ingredient>bombaste</ingredient>
-<lb/>& drawe it into the quille of a Swanne: & w<macron>he<ex>n</ex></macron> y<macron>o<ex>u</ex></macron> will
+<lb/> &amp; drawe it into the quille of a Swanne: &amp; w<macron>he<ex>n</ex></macron> y<macron>o<ex>u</ex></macron> will
 <lb/>take vp yo<ex>u</ex><sl>r</sl> <ingredient>golde</ingredient> w<ex>i</ex><sl>th</sl> thesame, touche it a little vp<macron>o<ex>n</ex></macron> your
-<lb/>tonge or breathe vp<macron>o<ex>n</ex></macron> it, & so it will take vp. T<macron>he<ex>n</ex></macron> breathe
-<lb/>vp<macron>o<ex>n</ex></macron> yo<ex>u</ex><sl>r</sl> worke that y<macron>o<ex>u</ex></macron> have draw<macron>e<ex>n</ex></macron> w<ex>i</ex><sl>th</sl> yo<ex>u</ex><sl>r</sl> syse, & so set yo<ex>u</ex><sl>r</sl>
+<lb/>tonge or breathe vp<macron>o<ex>n</ex></macron> it, &amp; so it will take vp. T<macron>he<ex>n</ex></macron> breathe
+<lb/>vp<macron>o<ex>n</ex></macron> yo<ex>u</ex><sl>r</sl> worke that y<macron>o<ex>u</ex></macron> have draw<macron>e<ex>n</ex></macron> w<ex>i</ex><sl>th</sl> yo<ex>u</ex><sl>r</sl> syse, &amp; so set yo<ex>u</ex><sl>r</sl>
 <lb/>
-<lb/>golde thervp<macron>o<ex>n</ex></macron> harde: & so let it drye; T<macron>he<ex>n</ex></macron> strike awaye
+<lb/>golde thervp<macron>o<ex>n</ex></macron> harde: &amp; so let it drye; T<macron>he<ex>n</ex></macron> strike awaye
 <lb/>the loose golde w<ex>i</ex><sl>th</sl> a fyne Lyn<macron>ne<ex>n</ex></macron> clothe. And by experie<macron><ex>n</ex>ce</macron>
 <lb/>if it be done w<ex>i</ex><sl>th</sl> a smalle qu<macron>a<ex>n</ex>t</macron>ity of bristles bound together
-<lb/>first, & t<macron>he<ex>n</ex></macron> if any place doe wante or doe not take, <unclear>newe</unclear>
+<lb/>first, &amp; t<macron>he<ex>n</ex></macron> if any place doe wante or doe not take, <unclear>newe</unclear>
 <lb/>
-<lb/>breathe, & breathe, & set the <unclear><del>stow</del></unclear> stewynge (that is <brev-y>th</brev-y><sl>e</sl> loose
+<lb/>breathe, &amp; breathe, &amp; set the <unclear><del>stow</del></unclear> stewynge (that is <brev-y>th</brev-y><sl>e</sl> loose
 <lb/>golde harde theron, t<macron>he<ex>n</ex></macron> being full drye, clense yt as
-<lb/>before. And that is called Armnoniake & is taken for
+<lb/>before. And that is called Armnoniake &amp; is taken for
 <lb/>liquide golde./
 <lb/>
 <lb/><heading>Gu<macron>m<ex>m</ex></macron>e Hedere</heading>./
 <lb/>To make G<macron>um<ex>m</ex></macron>e hedere take a <ingredient>Tree</ingredient> that hathe a greate
-<lb/>braunche or Arme of Ivye. & <method>hewe yt asonder</method> in the
+<lb/>braunche or Arme of Ivye. &amp; <method>hewe yt asonder</method> in the
 <lb/>
-<lb/>myddest, & t<macron>he<ex>n</ex> </macron><method>bruise</method> bothe the end<brev-es>es</brev-es> w<ex>i</ex><sl>th</sl> yo<ex>u</ex><sl>r</sl> Axe heade
-<lb/>& let it stande .3. or .4. week<brev-es>es</brev-es> & <macron>the<ex>n</ex></macron> y<macron>o<ex>u</ex></macron> shall fynde a
+<lb/>myddest, &amp; t<macron>he<ex>n</ex> </macron><method>bruise</method> bothe the end<brev-es>es</brev-es> w<ex>i</ex><sl>th</sl> yo<ex>u</ex><sl>r</sl> Axe heade
+<lb/> &amp; let it stande .3. or .4. week<brev-es>es</brev-es> &amp; <macron>the<ex>n</ex></macron> y<macron>o<ex>u</ex></macron> shall fynde a
 <lb/>pure gu<macron>m<ex>m</ex></macron>e muche like to oyle issuinge out of the end<brev-es>es</brev-es>
-<lb/>therof, gather thesame, & it wilbe good to put to yo<ex>u</ex><sl>r</sl> goldn
-<lb/>syse & other Colo<ex>u</ex><sl>rs</sl>. for .3. Causes. thone is it shallslea
-<lb/>the taste & odoure of yo<ex>u</ex><sl>r</sl> syse, 2<sup>d</sup>. is it shall d<unclear>o</unclear> awaye <brev-y>th</brev-y><sl>e</sl>
-<lb/>bubbles <brev-y>th</brev-y><ex>a</ex><sl>t</sl> rise vp<macron>o<ex>n</ex></macron> yo<ex>u</ex><sl>r</sl> golde syse & other Colo<ex>u</ex><sl>rs</sl>. the .3<unclear><sup>d</sup></unclear>.
+<lb/>therof, gather thesame, &amp; it wilbe good to put to yo<ex>u</ex><sl>r</sl> goldn
+<lb/>syse &amp; other Colo<ex>u</ex><sl>rs</sl>. for .3. Causes. thone is it shallslea
+<lb/>the taste &amp; odoure of yo<ex>u</ex><sl>r</sl> syse, 2<sup>d</sup>. is it shall d<unclear>o</unclear> awaye <brev-y>th</brev-y><sl>e</sl>
+<lb/>bubbles <brev-y>th</brev-y><ex>a</ex><sl>t</sl> rise vp<macron>o<ex>n</ex></macron> yo<ex>u</ex><sl>r</sl> golde syse &amp; other Colo<ex>u</ex><sl>rs</sl>. the .3<unclear><sup>d</sup></unclear>.
 <lb/>is it shall matte yo<ex>u</ex><sl>r</sl> colour<brev-es>es</brev-es> that they shall not be fatte
-<lb/>& cla<macron>m<ex>m</ex>y</macron>e./
+<lb/> &amp; cla<macron>m<ex>m</ex>y</macron>e./
 <lb/>
 <lb/>
 <lb/><heading>Gu<macron>m<ex>m</ex></macron> Lake.</heading>
-<lb/>Take the <ingredient>gleare of Egges</ingredient> & <method>strayne <macron>the<ex>m</ex></macron> throwgh a sponge</method>
+<lb/>Take the <ingredient>gleare of Egges</ingredient> &amp; <method>strayne <macron>the<ex>m</ex></macron> throwgh a sponge</method>
 <lb/>to make th<macron>e<ex>m</ex></macron> thynne, put to th<macron>e<ex>m</ex></macron> <measure>a good sponefull</measure> of <ingredient>hony<unclear>e</unclear></ingredient>
-<lb/>& so muche of yo<ex>u</ex><sl>r</sl> <ingredient>g<macron>um<ex>m</ex>e</macron> hedere</ingredient> as an <measure>hasell nvtte</measure>. and
-<lb/><measure>.4. good spoonefulles</measure> of the best <ingredient>worte</ingredient>, & <macron>the<ex>n</ex></macron> <method>strayne
+<lb/> &amp; so muche of yo<ex>u</ex><sl>r</sl> <ingredient>g<macron>um<ex>m</ex>e</macron> hedere</ingredient> as an <measure>hasell nvtte</measure>. and
+<lb/><measure>.4. good spoonefulles</measure> of the best <ingredient>worte</ingredient>, &amp; <macron>the<ex>n</ex></macron> <method>strayne
 <lb/>them agayne w<ex>i</ex><sl>th</sl> a spunge</method> so thynne as y<macron>o<ex>u</ex></macron> ca<macron>n<ex>n</ex></macron> strayne
-<lb/>th<macron>e<ex>m</ex></macron> vntill they become a cleare oyle, & <macron>the<ex>n</ex></macron> put the<unclear>m</unclear>
-<lb/>into a glasse & let it drye & it will harde lik <del>Am</del>
-<lb/>Amber, & y<macron>o<ex>u</ex></macron> may dissolue it w<macron>he<ex>n</ex></macron> y<macron>o<ex>u</ex></macron> will w<ex>i</ex><sl>th</sl> cleare
+<lb/>th<macron>e<ex>m</ex></macron> vntill they become a cleare oyle, &amp; <macron>the<ex>n</ex></macron> put the<unclear>m</unclear>
+<lb/>into a glasse &amp; let it drye &amp; it will harde lik <del>Am</del>
+<lb/>Amber, &amp; y<macron>o<ex>u</ex></macron> may dissolue it w<macron>he<ex>n</ex></macron> y<macron>o<ex>u</ex></macron> will w<ex>i</ex><sl>th</sl> cleare
 <lb/>water as y<macron>o<ex>u</ex></macron> doe gomme Arabicke. And that is good to
 <lb/>laye may colo<ex>u</ex><sl>rs</sl> as y<macron>o<ex>u</ex></macron> shall fynd in tem<brev-p>p<ex>er</ex></brev-p>inge <macron>the<ex>m</ex></macron>.
 <lb/>
 <lb/><heading>Gu<macron>m<ex>m</ex>e</macron> Arabike.</heading>
-<lb/>Take of the whitest & <method>steepe it</method> in water vntill it be
+<lb/>Take of the whitest &amp; <method>steepe it</method> in water vntill it be
 <lb/>dissolued. y<macron>o<ex>u</ex></macron> shall make it stronge or weake by moder<macron>atio<ex>n</ex></macron>
 <lb/>of yo<ex>u</ex><sl>r</sl> qu<macron>a<ex>n</ex>t</macron>ity of yo<ex>u</ex><sl>r</sl> gv<macron>m<ex>m</ex>e</macron> more, or lesse.
 <lb/>

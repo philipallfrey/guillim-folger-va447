@@ -30,7 +30,7 @@
 <lb/><name><ex>Christ</ex>ofer <unclear>Y</unclear>elverto<ex>u</ex><sl>n</sl>. her M<macron>a<ex>ies</ex>ties</macron> Sergeante at Lawe</name>
 <lb/><name>Edwarde Cooke. her highnesse Attorney g<macron><ex>e</ex>n<ex>e</ex>rall</macron>.</name>
 <lb/><name>Tho<ex>mas</ex>: ffleminge her highnesse solicito<ex>u</ex><sl>r</sl> g<macron><ex>e</ex>n<ex>e</ex>rall</macron></name>
-<lb/>Her M<macron>a<ex>ies</ex>ties</macron> welbeloved & faithfull Counsellor. <name>Robert
+<lb/>Her M<macron>a<ex>ies</ex>ties</macron> welbeloved &amp; faithfull Counsellor. <name>Robert
 <lb/></name>
 <lb/><name>Cecill knighte her pryncipall Secretarye</name>. <metamark>flourish</metamark> . <metamark>flourish</metamark> .
 <lb/><pb>17r</pb>
@@ -40,7 +40,7 @@
 <lb/>2. Conductors
 <lb/>Poorem<macron>e<ex>n</ex></macron> in gownes.
 <lb/>7. Conductors.
-<lb/>Serv<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es> of gentilm<macron>e<ex>n</ex></macron> knight<brev-es>es</brev-es> Lord<brev-es>es</brev-es> & Earles
+<lb/>Serv<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es> of gentilm<macron>e<ex>n</ex></macron> knight<brev-es>es</brev-es> Lord<brev-es>es</brev-es> &amp; Earles
 <lb/>Trompeto<ex>u</ex><sl>r</sl>
 <lb/><graphic>drawing</graphic> The Standarde
 <lb/>
@@ -58,8 +58,8 @@
 <lb/><unclear>K</unclear>night<brev-es>es</brev-es>
 <lb/>Steward. Treasourer. Comptroller.
 <lb/>The greate banner borne by a knight. <graphic>drawing</graphic>
-<lb/>{ The Helme & Creast
-<lb/>3 Herehaught<ex>es</ex> { Sworde & Target.
+<lb/>{ The Helme &amp; Creast
+<lb/>3 Herehaught<ex>es</ex> { Sworde &amp; Target.
 <lb/>{ Coate
 <lb/><graphic>drawing</graphic> { 4. knight<brev-es>es</brev-es> Assistant<brev-es>es</brev-es> to the body <graphic>drawing</graphic> { To beare <graphic>drawing</graphic>
 <lb/><graphic>drawing</graphic> Bodye <graphic>drawing</graphic>

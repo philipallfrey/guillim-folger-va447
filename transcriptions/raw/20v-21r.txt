@@ -4,7 +4,7 @@
 <lb/>ffunerall.</heading>
 <lb/>
 <lb/>2. Conductors.
-<lb/>poorm<macron>e<ex>n</ex></macron> in gownes .2. & .2.
+<lb/>poorm<macron>e<ex>n</ex></macron> in gownes .2. &amp; .2.
 <lb/>Yeom<macron>e<ex>n</ex></macron> in Cloak<brev-es>es</brev-es>.
 <lb/><graphic>drawing</graphic> The Standarde.
 <lb/>Servant<brev-es>es</brev-es> of gentilm<macron>e<ex>n</ex></macron>
@@ -16,28 +16,28 @@
 <lb/>{ Knight<brev-es>es</brev-es>
 <lb/>The preacher.
 <lb/><graphic>drawing</graphic> The pennon.
-<lb/>Helme & Creaste.
-<lb/>Sworde & Targ.
+<lb/>Helme &amp; Creaste.
+<lb/>Sworde &amp; Targ.
 <lb/>Coate of Armes
 <lb/><graphic>drawing</graphic>
 <lb/><graphic>drawing</graphic> Assisstants Assistants Chiefe morn<brev-er>er</brev-er>
 <lb/>Chiefe Mourner.
 <lb/>4 Assisst<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es> Knight<brev-es>es</brev-es>
-<lb/>knight<brev-es>es</brev-es> & Lord<brev-es>es</brev-es> on horse
+<lb/>knight<brev-es>es</brev-es> &amp; Lord<brev-es>es</brev-es> on horse
 <lb/>yf there be anye.
 <lb/>2. yeom<macron>e<ex>n</ex></macron>.
 <lb/>Gentillwo<macron>me<ex>n</ex></macron> in black<brev-es>es</brev-es>
 <lb/>Yeom<macron>e<ex>n</ex></macron> in Coat<brev-es>es</brev-es>.
 <lb/>The g<macron>e<ex>n</ex>t</macron>ilwo<macron>me<ex>n</ex></macron> w<ex>i</ex><sl>th</sl>out black<brev-es>es</brev-es>.
-<lb/>The parrishe & others./ <metamark>flourish</metamark>.
+<lb/>The parrishe &amp; others./ <metamark>flourish</metamark>.
 <lb/><metamark>scribble</metamark>
 <lb/>The funerall. of an Esquire in all poynt<brev-es>es</brev-es>.
 <lb/>as a knight<brev-es>es</brev-es> funerall except the
-<lb/>Dowble Rayle; the hach<macron>me<ex>n</ex>t</macron><brev-es>es</brev-es> & Assist<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es>.
+<lb/>Dowble Rayle; the hach<macron>me<ex>n</ex>t</macron><brev-es>es</brev-es> &amp; Assist<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es>.
 <lb/>He is to have a Pen<macron>o<ex>n</ex></macron> of his Armes }
 <lb/>An helme, and Creaste. }
 <lb/>A Coate Armo<ex>u</ex><sl>r</sl> } <unclear>Bro:</unclear>
-<lb/>An Esquier to be Chiefe Mowrn<brev-er>er</brev-er> & }
+<lb/>An Esquier to be Chiefe Mowrn<brev-er>er</brev-er> &amp; }
 <lb/>Two Esquires for Assistant<brev-es>es</brev-es> ./ }
 <lb/>
 <lb/>
@@ -54,7 +54,7 @@
 <lb/>Alder<macron>me<ex>n</ex></macron> in black<brev-es>es</brev-es>
 <lb/>The p<sl>r</sl><ex>e</ex>cher.
 <lb/><graphic>drawing</graphic> His penn<macron>o<ex>n</ex></macron>
-<lb/>Helme & Creast.
+<lb/>Helme &amp; Creast.
 <lb/>Coate.
 <lb/><graphic>drawing</graphic> <graphic>drawing</graphic> <graphic>drawing</graphic>
 <lb/>A penn<macron>o<ex>n</ex></macron> of the March<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es> A pen<macron>no<ex>n</ex></macron> of his Company.

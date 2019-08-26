@@ -21,7 +21,7 @@
 <lb/><heading>Here followeth how Spear<brev-es>es</brev-es> bro<macron>ke<ex>n</ex></macron>
 <lb/>shalbe allowed</heading>
 <lb/>1 ffirst whoso breaketh a speare betwene the Saddle
-<lb/>& the Charnell of the Helme shalb allowed for
+<lb/> &amp; the Charnell of the Helme shalb allowed for
 <lb/>one.
 <lb/>2 <macron>It<ex>e</ex>m</macron> whoso breaketh a speare from the Charnelle
 <lb/>
@@ -54,7 +54,7 @@
 <lb/><heading>ffor the pryze to be ge<macron>ve<ex>n</ex></macron>.</heading>
 <lb/>
 <lb/>1 ffirst whoso beareth a <macron>ma<ex>n</ex></macron> downe <del>be</del> out of the Saddle
-<lb/>or putteth hym to the earthe horse & <macron>ma<ex>n</ex></macron>, shall have
+<lb/>or putteth hym to the earthe horse &amp; <macron>ma<ex>n</ex></macron>, shall have
 <lb/>the pryze before hym that stryketh Cournalle to Cournall twyce./
 <lb/>2 <macron>It<ex>e</ex>m</macron> he that striketh Cournall twice shall have the
 <lb/>pryze before hym that striketh the sighte three tymes
@@ -62,8 +62,8 @@
 <lb/>pryze before hym that breaketh most speares.
 <lb/>4 <macron>It<ex>e</ex>m</macron> yf there be any <macron>ma<ex>n</ex></macron> that fortuneth in this wyse
 <lb/>w<ex>hi</ex><sl>ch</sl> shalbe demmed to have abyd<macron>e<ex>n</ex></macron> longest in the field
-<lb/>healmed & to have rvnne the fayrest Cowrse & to
-<lb/>have gev<macron>e<ex>n</ex></macron> the greatest strokes, & to have holpen
+<lb/>healmed &amp; to have rvnne the fayrest Cowrse &amp; to
+<lb/>have gev<macron>e<ex>n</ex></macron> the greatest strokes, &amp; to have holpen
 <lb/>hym selfe best w<ex>i</ex><sl>th</sl> his speare he shall have the
 <lb/>pryze ./ <metamark>flourish</metamark> . Subscribed John Worcester<metamark>flourish</metamark>./
 <lb/><graphic>drawing</graphic>

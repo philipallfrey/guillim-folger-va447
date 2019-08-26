@@ -26,39 +26,39 @@
 <lb/>Barons yonger sonnes wyves. <metamark>flourish</metamark> <metamark>flourish</metamark> <metamark>flourish</metamark>
 <lb/>The Capt<macron>e<ex>n</ex></macron> of the Garde.
 <lb/>The Gwarde.
-<lb/>Note. that when the messengers of the Chamber & others
+<lb/>Note. that when the messengers of the Chamber &amp; others
 <lb/>(before m<macron>e<ex>n</ex></macron>tioned to be formoste in this p<sl>r</sl><ex>e</ex>cedence) came to <brev-y>th</brev-y><sl>e</sl>
 <lb/>gate of the Cowrte at White Halle they made a stande
-<lb/>devidinge themselues halfe on the one syde & halfe on thother &
+<lb/>devidinge themselues halfe on the one syde &amp; halfe on thother &
 <lb/>making (as it were a Lane for his M<macron>a<ex>ies</ex>tie</macron> to passe throwgh
 <lb/>into thesayde Cowrte. <metamark>flourish</metamark>
 <lb/><pb>13r</pb>
 <lb/><heading>Proceedinge to the Parlia<macron>me<ex>n</ex>t</macron>
 <lb/>the <date>.19. of Marche .1603.</date></heading>
 <lb/>Messengers of the Chamber.
-<lb/>Gent<ex>illmen</ex>: & esquiers the king<brev-es>es</brev-es> servant<brev-es>es</brev-es>.
+<lb/>Gent<ex>illmen</ex>: &amp; esquiers the king<brev-es>es</brev-es> servant<brev-es>es</brev-es>.
 <lb/>Clerks of the Chauncery.
 <lb/>Clerks of the Signet.
 <lb/>Clerks of the Pryvey seale.
 <lb/>Clerks of the Counsell.
 <lb/>Clerks of the Parlia<macron>me<ex>n</ex>t</macron>e.
-<lb/>The king<brev-es>es</brev-es> Attorney & Solicitor.
+<lb/>The king<brev-es>es</brev-es> Attorney &amp; Solicitor.
 <lb/>Sergeants of the Lawe.
 <lb/>The king<ex>es</ex> Sergeante.
 <lb/>Masters of the Chaun<del>y</del>cery.
 <lb/>knight<ex>es</ex> Bachelers.
-<lb/>Secretaries of the ffrenche & Latyne tongues.
+<lb/>Secretaries of the ffrenche &amp; Latyne tongues.
 <lb/>Esquiers for the bodye in Ordynarye.
 <lb/>Masters of Request<brev-es>es</brev-es>.
 <lb/>Chamberlayne of the Exchecquer.
 <lb/>Barons of the Exchecquer
 <lb/>Judg<brev-es>es</brev-es> of the Lawe.
-<lb/>Lo<ex>rd</ex>: Chiefe Bar<macron>o<ex>n</ex></macron> of <brev-y>th</brev-y><sl>e</sl> Excheq<ex>ue</ex><sl>r</sl>z. & Lo<ex>rd</ex>: Chiefe Just<ex>ice</ex>: of <brev-y>th</brev-y><sl>e</sl> <macron>co<ex>m</ex>mo<ex>n</ex></macron>ples
+<lb/>Lo<ex>rd</ex>: Chiefe Bar<macron>o<ex>n</ex></macron> of <brev-y>th</brev-y><sl>e</sl> Excheq<ex>ue</ex><sl>r</sl>z. &amp; Lo<ex>rd</ex>: Chiefe Just<ex>ice</ex>: of <brev-y>th</brev-y><sl>e</sl> <macron>co<ex>m</ex>mo<ex>n</ex></macron>ples
 <lb/>Trompett<ex>es</ex>.
 <lb/>knight<ex>es</ex> of the Bathe.
 <lb/>knight<ex>es</ex> that have bene Lord<ex>es</ex> Ambassado<ex>u</ex><sl>rs</sl>. p<sl>r</sl><ex>e</ex>sidentes &
 <lb/>Deputies.
-<lb/>knight Marshall. the M<ex>aste</ex><sl>r</sl> of the Jewell howse & <name>S<ex>i</ex><sl>r</sl> Tho<ex>mas</ex>:
+<lb/>knight Marshall. the M<ex>aste</ex><sl>r</sl> of the Jewell howse &amp; <name>S<ex>i</ex><sl>r</sl> Tho<ex>mas</ex>:
 <lb/>Chalyno<ex>u</ex><sl>r</sl></name> the Prync<brev-es>es</brev-es> gou<brev-er>er</brev-er>no<ex>u</ex><sl>r</sl>.
 <lb/>The deane of the king<brev-es>es</brev-es> Chappell
 <lb/>Barons yong<brev-er>er</brev-er> sonnes.

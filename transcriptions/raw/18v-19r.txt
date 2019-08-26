@@ -7,7 +7,7 @@
 <lb/>This poste
 <lb/>standeth in the
 <lb/>middle to beare
-<lb/>the toppe & goeth
+<lb/>the toppe &amp; goeth
 <lb/>no lower th<macron>e<ex>n</ex></macron> the .2.<sl>d</sl>
 <lb/>Raile and is borne by
 <lb/>a crosse beame <brev-y>th</brev-y><ex>a</ex><sl>t</sl> goeth
@@ -42,8 +42,8 @@
 <lb/><ins>The Preacher</ins>
 <lb/><ins>The greate Banner</ins> <graphic>drawing</graphic>
 <lb/>The Executors.
-<lb/>{ Helme & Creaste.
-<lb/>3 Heroldes { Sworde & Target.
+<lb/>{ Helme &amp; Creaste.
+<lb/>3 Heroldes { Sworde &amp; Target.
 <lb/>{ Coate Armo<ex>u</ex><sl>r</sl>
 <lb/>
 <lb/><graphic>drawing</graphic> 4. Assist<macron>a<ex>n</ex>t</macron>es <graphic>drawing</graphic> vilz .at <graphic>drawing</graphic>
@@ -53,8 +53,8 @@
 <lb/>Chiefe Mourn<brev-er>er</brev-er>
 <lb/>6. Assistant<ex>es</ex>.
 <lb/>2. <macron>ge<ex>n</ex>t</macron><ex>illman</ex> vshers bareheaded.
-<lb/>Lord<brev-es>es</brev-es> & knight<ex>es</ex> on horsbacke.
+<lb/>Lord<brev-es>es</brev-es> &amp; knight<ex>es</ex> on horsbacke.
 <lb/>Then yeo<macron>me<ex>n</ex></macron> in Coates.
-<lb/>Then all other knight<brev-es>es</brev-es> & gen<macron>tilme<ex>n</ex></macron>
+<lb/>Then all other knight<brev-es>es</brev-es> &amp; gen<macron>tilme<ex>n</ex></macron>
 <lb/><graphic>flourish</graphic> not beinge in black<brev-es>es</brev-es> <graphic>flourish</graphic> .
 <lb/><graphic>scribble</graphic>

@@ -6,7 +6,7 @@
 <lb/>out of <brev-y>th</brev-y><sl>e</sl> king<unclear><brev-es>es</brev-es></unclear> p<sl>r</sl><ex>e</ex>sence so that it come not to <brev-y>th</brev-y><sl>e</sl> grounde
 <lb/>by <measure>halfe a yarde.</measure> And no Earle to walke with
 <lb/>hym.
-<lb/>A Duk<brev-es>es</brev-es> eldest sonne is borne a Marques & shall
+<lb/>A Duk<brev-es>es</brev-es> eldest sonne is borne a Marques &amp; shall
 <lb/>have asmany <unclear>pauldering<brev-es>es</brev-es></unclear> as a Marques. But
 <lb/>shall goe belowe hym./
 <lb/>A Duk<brev-es>es</brev-es> eldest Daught<brev-er>er</brev-er> is borne a Marchionesse./
@@ -21,7 +21,7 @@
 <lb/>by a gentillwo<macron>ma<ex>n</ex></macron>./
 <lb/>A Marquises eldest sonne is borne an Earle but goeth
 <lb/>aft<brev-er>er</brev-er> all Earles, And before a Dukes yongest sonne.
-<lb/>His wife goeth beneathe all Countesses & above
+<lb/>His wife goeth beneathe all Countesses &amp; above
 <lb/>all Marquises daughters. but dawghters and
 <lb/>heires.
 <lb/>A Marquises dawght<brev-er>er</brev-er> is borne a Countesse but

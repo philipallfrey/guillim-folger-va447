@@ -11,8 +11,8 @@
 <lb/>Et Anno RR Jacobi Primo ./ </heading> <metamark>flourish</metamark>
 <lb/>Messengers of the Chamber.
 <lb/>Gent<ex>illman</ex> Harbengers. Seriant Porter.
-<lb/>Gent<ex>illman</ex> & Esquiers the Prync<brev-es>es</brev-es> servants.
-<lb/>Gent<ex>illman</ex> & Esquiers the Queenes servants.
+<lb/>Gent<ex>illman</ex> &amp; Esquiers the Prync<brev-es>es</brev-es> servants.
+<lb/>Gent<ex>illman</ex> &amp; Esquiers the Queenes servants.
 <lb/>Sewers the king<brev-es>es</brev-es> servant<brev-es>es</brev-es>.
 <lb/>Quart<brev-er>er</brev-er> Wayters
 <lb/>Gent<ex>illmen</ex> vshers in Ordynarye.
@@ -26,26 +26,26 @@
 <lb/>The Prync<brev-es>es</brev-es> Cownsell {Nota. <brev-y>th</brev-y><sl>e</sl> prynce Serge<macron>a<ex>n</ex>t</macron>e to sorte
 <lb/> {w<ex>i</ex><sl>th</sl> sergeant<brev-es>es</brev-es> ./
 <lb/>The Queenes Counsell at Lawe.
-<lb/>The king<brev-es>es</brev-es> Aduocate & Remembrancer.
-<lb/>The king<brev-es>es</brev-es> Attorney & Solicito<ex>u</ex><sl>r</sl> Sir ffraunc<ex>is</ex> Bacon the
+<lb/>The king<brev-es>es</brev-es> Aduocate &amp; Remembrancer.
+<lb/>The king<brev-es>es</brev-es> Attorney &amp; Solicito<ex>u</ex><sl>r</sl> Sir ffraunc<ex>is</ex> Bacon the
 <lb/>king<brev-es>es</brev-es> Counsell at Lawe.
 <lb/>Sergeant<brev-es>es</brev-es> at Lawe.
 <lb/>The king<brev-es>es</brev-es> Serge<macron>a<ex>n</ex>t</macron>e.
 <lb/>Masters of the Chauncerye.
 <lb/>Bacheler knight<ex>es</ex>.
-<lb/>Secretaries for the ffrenche & Latyne tongues & <brev-y>th</brev-y><sl>e</sl> Quene
+<lb/>Secretaries for the ffrenche &amp; Latyne tongues &amp; <brev-y>th</brev-y><sl>e</sl> Quene
 <lb/><label place="margin">quer whether</label> Solicitor.
-<lb/><label place="margin">it should not</label> Esquiers for the bodye, Se<unclear>w</unclear>ers Carvers & Cupp bearers
+<lb/><label place="margin">it should not</label> Esquiers for the bodye, Se<unclear>w</unclear>ers Carvers &amp; Cupp bearers
 <lb/><label place="margin">be Secretary</label> ordynarye.
 <lb/>Masters of standinge Offic<brev-es>es</brev-es> beinge no Counsello<ex>u</ex><sl>rs</sl> vilz. <unclear>Tent</unclear><ex>s</ex>
-<lb/>Revells. Armory. Wardrobe. & Ordynance.
+<lb/>Revells. Armory. Wardrobe. &amp; Ordynance.
 <lb/>Masters of the Request<brev-es>es</brev-es>.
 <lb/>The Chamberlayne of the Exchecquer.
-<lb/>Barons of the Exchecquer. & Judges of the Lawe.
-<lb/>The Lorde Chiefe Bar<macron>o<ex>n</ex></macron>, & Lo<ex>rd</ex>: Chiefe Justice of the Co<macron>m<ex>m</ex>on</macron>
+<lb/>Barons of the Exchecquer. &amp; Judges of the Lawe.
+<lb/>The Lorde Chiefe Bar<macron>o<ex>n</ex></macron>, &amp; Lo<ex>rd</ex>: Chiefe Justice of the Co<macron>m<ex>m</ex>on</macron>
 <lb/>pleaes.
 <lb/>Trompett<brev-es>es</brev-es>.
-<lb/>Gentillm<macron>e<ex>n</ex></macron> of the pryvey Chamber, & Bedchamber.
+<lb/>Gentillm<macron>e<ex>n</ex></macron> of the pryvey Chamber, &amp; Bedchamber.
 <lb/>knight<brev-es>es</brev-es> of the Bathe.
 <lb/>knight<brev-es>es</brev-es> that have bene Lord<brev-es>es</brev-es> Ambassado<ex>u</ex><sl>rs</sl> Lord<brev-es>es</brev-es> p<sl>r</sl><ex>e</ex>sident<brev-es>es</brev-es>
-<lb/>& Lord<brev-es>es</brev-es> deputies.
+<lb/> &amp; Lord<brev-es>es</brev-es> deputies.

@@ -18,16 +18,16 @@
 <lb/>irrationabiliter. <name>Arist</name>: 2: de
 <lb/>Caelo.
 <lb/>6 In ordine vniu<brev-er>er</brev-er>si qu<macron>a<ex>n</ex>t</macron>o res est
-<lb/>melior, <brev-p>p<ex>er</ex></brev-p>fectior, & nobilior, t<macron>a<ex>n</ex>t</macron>o
+<lb/>melior, <brev-p>p<ex>er</ex></brev-p>fectior, &amp; nobilior, t<macron>a<ex>n</ex>t</macron>o
 <lb/>natura dat sibi loc<macron>u<ex>m</ex></macron> perfectior<macron>e<ex>m</ex></macron>
-<lb/>& nobili<macron>ore<ex>m</ex></macron>. <unclear>Bekrii</unclear>.
+<lb/> &amp; nobili<macron>ore<ex>m</ex></macron>. <unclear>Bekrii</unclear>.
 <lb/>7 Omnis primatio p<sl>r</sl><ex>ae</ex>supponit habi<macron>tu<ex>m</ex></macron>.
 <lb/>8 Illud est meli<brev-us>us</brev-us> q<ex>u</ex><sl>o</sl>d optimo est
 <lb/><brev-p>p<ex>ro</ex></brev-p>pinqui<brev-us>us</brev-us>. <name>Arist</name>: 2: de Caelo.
 <lb/>9 Res que sunt ead<macron>e<ex>m</ex></macron> specie n<macron>o<ex>n</ex></macron>
 <lb/>reddunt<brev-er>ur</brev-er> Diu<brev-er>er</brev-er>sae <macron>It<ex>e</ex>m</macron> diffe=
 <lb/>rentias. <name>Arist</name>: Phy: 4.
-<lb/>10 Accidens est q<ex>u</ex><sl>o</sl>d adest & abest <unclear><del>sic</del></unclear>
+<lb/>10 Accidens est q<ex>u</ex><sl>o</sl>d adest &amp; abest <unclear><del>sic</del></unclear>
 <lb/>
 <lb/>p<sl>r</sl><ex>ae</ex>ter subiecti corruption<macron>e<ex>m</ex></macron>.
 <lb/><name>Porphy:</name> Vniu<brev-er>er</brev-er>sal: lib:
@@ -43,7 +43,7 @@
 <lb/>dimintio<macron>ne<ex>m</ex></macron> arguit. <name>Arist</name>. de
 <lb/>Caelo.
 <lb/>15 Latini Differentias voc<macron>a<ex>n</ex>t</macron> dimi
-<lb/>nutiones & doctrinae Armor<macron>u<ex>m</ex></macron>.
+<lb/>nutiones &amp; doctrinae Armor<macron>u<ex>m</ex></macron>.
 <lb/><name>ferne</name> .151
 <lb/>16 In primogenito tanq<ex>u</ex><sl>a</sl><brev-z>m</brev-z> in Capite
 <lb/>stat splendor geniturae. <name>Cassa</name>:
@@ -52,7 +52,7 @@
 <lb/>acquirunt<brev-er>ur</brev-er> vniu<brev-er>er</brev-er>sali. <macron>Ib<ex>ide</ex>m</macron>.
 <lb/>18 <macron>It<ex>e</ex>m</macron> acquireunt<brev-er>ur</brev-er> vt constituto in
 <lb/>Dignitate. <macron>Ib<ex>ide</ex>m</macron>.
-<lb/>19 Tranmutatio substantialis & Acci=
+<lb/>19 Tranmutatio substantialis &amp; Acci=
 <lb/>dentalis in hoc c<macron>o<ex>n</ex></macron>veni<macron>u<ex>n</ex>t</macron>, q<ex>u</ex><sl>o</sl>d sunt
 <lb/>alteratio rei eiusd<macron>e<ex>m</ex></macron> de vna qua=
 <lb/>litate in al<macron>ia<ex>m</ex></macron>; sed in hoc differ<macron>a<ex>n</ex>t</macron>
@@ -106,7 +106,7 @@
 <lb/></cb>
 <lb/>30 In A<ex>n</ex>i<macron><ex>m</ex>aliu<ex>m</ex></macron> ratione, su<brev-p>p<ex>er</ex></brev-p>iora
 <lb/>Inferiorib<brev-us>us</brev-us> nobiliora censeunt<brev-er>ur</brev-er>
-<lb/>sic <unclear>Antica postiris</unclear>, & sinistris
+<lb/>sic <unclear>Antica postiris</unclear>, &amp; sinistris
 <lb/>dextera. <name>Caesii</name> secundi. De Antiq<ex>u</ex><sl>i</sl>=
 <lb/>tate. Lib: 1.
 <lb/>31 Natura c<macron>o<ex>n</ex></macron>stituit r<macron>e<ex>m</ex></macron> nobilior<macron>e<ex>m</ex></macron> in
@@ -120,7 +120,7 @@
 <lb/>tention<macron>e<ex>m</ex></macron>, n<macron>o<ex>n</ex></macron> opus spectes. <name>Casi<brev-us>us</brev-us></name>
 <lb/>de Sphera. Lib: 7.
 <lb/>33 Demonstra<macron>tio<ex>n</ex>es</macron> sunt <brev-p>p<ex>er</ex></brev-p>fectiores
-<lb/>& nobiliores quando induc<macron>u<ex>n</ex>t</macron>
+<lb/> &amp; nobiliores quando induc<macron>u<ex>n</ex>t</macron>
 <lb/>post orationes dubitabiles. <name>Arist.</name>
 <lb/>Phys: 7.
 <lb/>34 Natura nil facit frustra, non

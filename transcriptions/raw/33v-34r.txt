@@ -4,22 +4,22 @@
 <lb/>
 <lb/><label place="margin">A Banner<metamark>flourish</metamark>.</label>
 <lb/><heading>The Syse of Banners Standard<brev-es>es</brev-es>
-<lb/>Penons. Gwydons. Pensills & stremers.</heading>
-<lb/><graphic>drawing</graphic> Armes. An Empo<unclear><ex>ure</ex></unclear><sl>rs</sl> Bann<brev-er>er</brev-er> shalbe sixe feete longe & of thesame
+<lb/>Penons. Gwydons. Pensills &amp; stremers.</heading>
+<lb/><graphic>drawing</graphic> Armes. An Empo<unclear><ex>ure</ex></unclear><sl>rs</sl> Bann<brev-er>er</brev-er> shalbe sixe feete longe &amp; of thesame
 <lb/><label place="margin">6</label> breadthe.
 <lb/><label place="margin">5</label> A king<brev-es>es</brev-es> Banner of ffyve foote.
-<lb/><label place="margin">4</label> A Princes & a duk<brev-es>es</brev-es> Banner of ffowre foote.
+<lb/><label place="margin">4</label> A Princes &amp; a duk<brev-es>es</brev-es> Banner of ffowre foote.
 <lb/><label place="margin">.3.</label> A Marquesses } Bann<brev-er>er</brev-er> shalbe but Three ffoote square and so was the olde forme. <ins>see after <brev-y>th</brev-y><sl>e</sl> Standard ::::/</ins>
 <lb/>A Viscount<brev-es>es</brev-es> . }
-<lb/>A Barons. & }
+<lb/>A Barons. &amp; }
 <lb/>
 <lb/>A Bannerett<brev-es>es</brev-es> }
 <lb/>Some hold that the Bann<brev-er>er</brev-er> of a Bann<brev-er>er</brev-er>ett shalbe by two
-<lb/>foote square: & so was the olde forme. But nowe
+<lb/>foote square: &amp; so was the olde forme. But nowe
 <lb/>becawse theire worshippe <ins>and power</ins> is encreased they have it
 <lb/>of three foote
 <lb/><label place="margin">.1. elle</label> The vsuall Bann<brev-er>er</brev-er> for the estat<brev-es>es</brev-es> last above named is an
-<lb/>elle Longe, & a yarde broade.
+<lb/>elle Longe, &amp; a yarde broade.
 <lb/>
 <lb/>
 <lb/>A Bann<brev-er>er</brev-er> serveth .for. a. { A knight of the Gart<brev-er>er</brev-er>.
@@ -35,20 +35,20 @@
 <lb/>A standarde.
 <lb/>Deuise.</label>
 <lb/><graphic>drawing</graphic> <label place="margin">.11. yardes</label> <ins><unclear>xi</unclear> yard<brev-es>es</brev-es></ins> The greate Standard must be placed before the king<brev-es>es</brev-es>
-<lb/>Pavilion. or Tente, & not to be borne in Battell, thesame
+<lb/>Pavilion. or Tente, &amp; not to be borne in Battell, thesame
 <lb/>to be of the lengthe of Ele<macron>ve<ex>n</ex></macron> yard<brev-es>es</brev-es>.
 <lb/><label place="margin">.8.</label> The king<brev-es>es</brev-es> Standard (to be brone) to be of the lengthe of
 <lb/>eighte or Nyne yard<brev-es>es</brev-es>.
 <lb/>A Dukes Standarde (to be borne) to be slitte at the ende
-<lb/><label place="margin">.7.</label> & to be Sev<macron><ex>en</ex></macron> yard<brev-es>es</brev-es> longe.
+<lb/><label place="margin">.7.</label> &amp; to be Sev<macron><ex>en</ex></macron> yard<brev-es>es</brev-es> longe.
 <lb/>
 <lb/><label place="margin">.6.</label> And Earles Standard <del>viii</del>Sixe yard<brev-es>es</brev-es> longe.
 <lb/><label place="margin">.5.</label> A Barons ffyve yard<brev-es>es</brev-es> longe.
-<lb/><label place="margin">.4. <brev-es>d<ex>em</ex>i</brev-es></label> A Bann<brev-er>er</brev-er>ett<brev-es>es</brev-es> Standard ffowre yard<brev-es>es</brev-es> & an halfe.
+<lb/><label place="margin">.4. <brev-es>d<ex>em</ex>i</brev-es></label> A Bann<brev-er>er</brev-er>ett<brev-es>es</brev-es> Standard ffowre yard<brev-es>es</brev-es> &amp; an halfe.
 <lb/>.4. A knight<brev-es>es</brev-es> Standard ffowre yard<brev-es>es</brev-es> longe.
-<lb/><label place="margin">Note what they shall containe</label> Eu<brev-er>er</brev-er>y Standard & Gwydon to have in the
+<lb/><label place="margin">Note what they shall containe</label> Eu<brev-er>er</brev-er>y Standard &amp; Gwydon to have in the
 <lb/>Chiefe, the Crosse of St: George to be slitt
-<lb/>at the ende, & to contayne the Creaste of
+<lb/>at the ende, &amp; to contayne the Creaste of
 <lb/>Supporter w<ex>i</ex><sl>th</sl> the Poesy worde or deuise
 <lb/>of the owner./
 <lb/><label place="margin">100 <macron>me<ex>n</ex></macron>.</label> Place vnder a Standard. one Hundreth <macron>me<ex>n</ex></macron>./

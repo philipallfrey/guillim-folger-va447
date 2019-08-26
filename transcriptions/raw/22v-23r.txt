@@ -19,7 +19,7 @@
 <lb/>The Chiefe mo<unclear>w</unclear>rner supprted.
 <lb/>w<ex>i</ex><sl>th</sl> a gent<ex>ilman</ex>: Close Mowrner.
 <lb/>ffowre gentilwo<macron>me<ex>n</ex></macron> Assistant<brev-es>es</brev-es>
-<lb/>The Parishe & other Company.
+<lb/>The Parishe &amp; other Company.
 <lb/><heading>The offeringe.</heading>
 <lb/>The Mynist<brev-er>er</brev-er> taketh the Bason }
 <lb/>The Chiefe Mowrn<brev-er>er</brev-er> supported w<ex>i</ex><sl>th</sl> }

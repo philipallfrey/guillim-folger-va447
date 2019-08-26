@@ -1,11 +1,11 @@
 <lb/><date>A<ex>nn</ex><sl>o</sl>: d<ex>omi</ex><macron>n</macron>i: 1559</date>
-<lb/><label place="margin">Restituti<macron>o<ex>n</ex></macron> of <brev-y>th</brev-y><sl>e</sl> Title of Sup<sl>r</sl><ex>e</ex>me heade</label> In this <brev-p>p<ex>ar</ex></brev-p>liam<macron>e</macron><ex>n</ex>t the ffirst fruit<brev-es>es</brev-es> & Tenthes were restored
+<lb/><label place="margin">Restituti<macron>o<ex>n</ex></macron> of <brev-y>th</brev-y><sl>e</sl> Title of Sup<sl>r</sl><ex>e</ex>me heade</label> In this <brev-p>p<ex>ar</ex></brev-p>liam<macron>e</macron><ex>n</ex>t the ffirst fruit<brev-es>es</brev-es> &amp; Tenthes were restored
 <lb/>to the Crowne. And also the su<brev-p>p<ex>er</ex></brev-p>eame gou<brev-er>er</brev-er>nem<macron>e<ex>n</ex>t</macron> over
 <lb/>the estate ecclesiasticall. w<ex>hi</ex><sl>ch</sl> <name>Quene Mary</name> had gev<macron>e<ex>n</ex></macron>
 <lb/>to the Pope. <date>A<ex>nn</ex><sl>o</sl>: R<ex>egni</ex>R<ex>eginae</ex>: Elizab<ex>ethae</ex>: 1<sup>mo</sup></date> ./ <bibl><name><del>p</del><ins>H</ins>olling<ex>shed</ex></name>: pag:
 <lb/>1180.</bibl>
 <lb/><label place="margin"><name>Cardinal wolsei</name> his Heraulde</label>
-<lb/><name>Cardynall Wolsey</name> (beside many other his serv<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es> & officers
+<lb/><name>Cardynall Wolsey</name> (beside many other his serv<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es> &amp; officers
 <lb/>had .4. ffootm<macron>e<ex>n</ex></macron> w<ex>hi</ex><sl>ch</sl> were garnished in riche Rvnninge
 <lb/>Coat<brev-es>es</brev-es> w<macron>he<ex>n</ex></macron>soeu<brev-er>er</brev-er> he rode in any iourney. Th<macron>e<ex>n</ex></macron> had he
 <lb/>also an Heraulde of Armes. &c <bibl><macron>Ib<ex>ide</ex>m</macron>: pag: 920. </bibl><date>A<ex>nn</ex><sl>o</sl>
@@ -15,16 +15,16 @@
 <lb/>for hym a wonderfull sepulchre, w<ex>hi</ex><sl>ch</sl> was tak<macron>e<ex>n</ex></macron> for one of the
 <lb/>goodly work<brev-es>es</brev-es> of the worlde. Of w<ex>hi</ex><sl>ch</sl> all goodly monu<macron>me<ex>n</ex>t</macron>s of
 <lb/>Deade m<macron>e<ex>n</ex></macron> are called Mawseola. <bibl>Chro: Cow<brev-p>p<ex>er</ex></brev-p>i: fol: 53</bibl>./
-<lb/><label place="margin"> <graphic>Drawing of the columns of Hercules</graphic></label> <name>Hercules</name> the Sonne of <name>Amphitrio</name> & <name>Alcmena</name> was a defender
-<lb/>of Justice a chastiser of iniustyce & a relyver of the oppressed
-<lb/>& of greate leuity towards th<macron>e<ex>m</ex></macron> that he had succoured. ffor
+<lb/><label place="margin"> <graphic>Drawing of the columns of Hercules</graphic></label> <name>Hercules</name> the Sonne of <name>Amphitrio</name> &amp; <name>Alcmena</name> was a defender
+<lb/>of Justice a chastiser of iniustyce &amp; a relyver of the oppressed
+<lb/> &amp; of greate leuity towards th<macron>e<ex>m</ex></macron> that he had succoured. ffor
 <lb/>w<ex>hi</ex><sl>ch</sl> vertues he obtayned as greate renowne as eu<brev-er>er</brev-er> Prynce had
 <lb/>done before his time <bibl><macron>Ib<ex>ide</ex>m</macron> fol:24</bibl>.
 <lb/><label place="margin"> <date>A<ex>nn</ex>o. Mundi. 8712.</date> <date>A<ex>nn</ex>o ante Christ .1251.</date></label>
-<lb/>ffurthermore he delyu<brev-er>er</brev-er>ed the Sea about<brev-es>es</brev-es> <place>Italye</place> & <place>Spayne</place> fr<macron>o<ex>m</ex></macron>
-<lb/>Pyrat<brev-es>es</brev-es> & Robbers: & for a <brev-p>p<ex>er</ex></brev-p>petuall memory therof he co<macron>m<ex>m</ex>and</macron>ed
+<lb/>ffurthermore he delyu<brev-er>er</brev-er>ed the Sea about<brev-es>es</brev-es> <place>Italye</place> &amp; <place>Spayne</place> fr<macron>o<ex>m</ex></macron>
+<lb/>Pyrat<brev-es>es</brev-es> &amp; Robbers: &amp; for a <brev-p>p<ex>er</ex></brev-p>petuall memory therof he co<macron>m<ex>m</ex>and</macron>ed
 <lb/>two greate Rocks to be set vp in the vttermost Corners of
-<lb/><place>Spayne</place> & <place>Affricke</place> w<ex>hi</ex><sl>ch</sl> at this daye are called <brev-y>th</brev-y><sl>e</sl> Colvmns
+<lb/><place>Spayne</place> &amp; <place>Affricke</place> w<ex>hi</ex><sl>ch</sl> at this daye are called <brev-y>th</brev-y><sl>e</sl> Colvmns
 <lb/>of Hercules. <bibl> <macron>Ib<ex>ide</ex>m</macron></bibl> ./
 <lb/>
 <lb/><add>13150Ph</add>
