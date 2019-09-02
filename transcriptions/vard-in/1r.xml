@@ -1,0 +1,147 @@
+<TEI_xmlns=''http://www.tei-c.org/ns/1.0''>
+<teiHeader>
+<calendarDesc>
+<calendar_xml:id=''julianMar''>
+<p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p>
+</calendar>
+<calendar_xml:id=''annoMundi3962''>
+<p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p>
+</calendar>
+<calendar_xml:id=''beforeBritain''>
+<p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p>
+</calendar>
+</calendarDesc>
+</teiHeader>
+<sourceDoc_corresp=''Va447''>
+<surface_xml:id=''151465''_n=''1r''>
+<media_url=''https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229345~224984/full/!1024,1024/0/default.jpg''_mimeType=''image/jpeg''/>
+</surface>
+</sourceDoc>
+<text>
+<body>
+<p/>
+<ab>
+<pb_n=''1r''/>
+<lb/>
+<heading><date_calendar=''#julianMar''_datingMethod=''#julianMar''_when-custom=''1559''_xml:lang=''la''>A<ex>nn</ex><hi_rend=''sl''>o</hi>: d<ex>omi</ex><abbr_type=''macron''>n</abbr>i: 1559</date></heading>
+<lb/>
+<label_place=''margin''>Restituti<abbr_type=''macron''>o<ex>n</ex></abbr> of <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> Title of Sup<hi_rend=''sl''>r</hi><ex>e</ex>me heade</label> In this <abbr_type=''brevigraph''_subtype=''brev-p''>p<ex>ar</ex></abbr>liam<abbr_type=''macron''>e</abbr><ex>n</ex>t the ffirst fruit<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> &amp; Tenthes were restored
+<lb/>
+to the Crowne. And also the su<abbr_type=''brevigraph''_subtype=''brev-p''>p<ex>er</ex></abbr>eame gou<abbr_type=''brevigraph''_subtype=''brev-er''>er</abbr>nem<abbr_type=''macron''>e<ex>n</ex>t</abbr> over
+<lb/>
+the estate ecclesiasticall. w<ex>hi</ex><hi_rend=''sl''>ch</hi> <c/>
+<name>
+Quene Mary
+</name>
+<c/> had gev<abbr_type=''macron''>e<ex>n</ex></abbr>
+<lb/>
+to the Pope. <date_calendar=''#regnal''_datingMethod=''#julianMar''_notBefore-custom=''1558-11-17''_notAfter-custom=''1559-11-16''_xml:lang=''la''>A<ex>nn</ex><hi_rend=''sl''>o</hi>: R<ex>egni</ex>R<abbr_type=''truncation''_subtype=''colon''><ex>eginae</ex>:</abbr> Elizab<abbr_type=''truncation''_subtype=''colon''><ex>ethae</ex>:</abbr> 1<hi_rend=''sup''>mo</hi></date> ./ <bibl_id=''HolinshedChronicles''>
+<name>
+<c/>
+<del>
+p
+</del>
+<c/><add_type=''authorial''>H</add>olling<ex>shed</ex>
+</name>
+: pag:
+<lb/>
+1180.</bibl>
+<lb/>
+<label_place=''margin''>
+<name>
+Cardinal wolsei
+</name>
+<c/> his Heraulde</label>
+<lb/>
+<name>
+Cardynall Wolsey
+</name>
+<c/> (beside many other his serv<abbr_type=''macron''>a<ex>n</ex>t</abbr><abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> &amp; officers
+<lb/>
+had .4. ffootm<abbr_type=''macron''>e<ex>n</ex></abbr> w<ex>hi</ex><hi_rend=''sl''>ch</hi> were garnished in riche Rvnninge
+<lb/>
+Coat<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> w<abbr_type=''macron''>he<ex>n</ex></abbr>soeu<abbr_type=''brevigraph''_subtype=''brev-er''>er</abbr> he rode in any iourney. Th<abbr_type=''macron''>e<ex>n</ex></abbr> had he
+<lb/>
+also an Heraulde of Armes. &amp;c <bibl_xml:lang=''la''><ref_target=''#HolinshedChronicles''><abbr_type=''macron''>Ib<ex>ide</ex>m</abbr>:</ref> pag: 920. </bibl><date_calendar=''#regnal''_datingMethod=''#julianMar''_notBefore-custom=''1531-04-22''_notAfter-custom=''1532-04-21''_xml:lang=''la''>A<ex>nn</ex><hi_rend=''sl''>o</hi>
+<lb/>
+R<ex>egni</ex>R<abbr_type=''truncation''_subtype=''colon''><ex>egis</ex>:</abbr> Hen<abbr_type=''truncation''_subtype=''colon''><ex>rici</ex>:</abbr> 8: 23.</date>
+<lb/>
+<label_place=''margin''><date_calendar=''#annoMundi3962''_datingMethod=''#julianMar''_when-custom=''-377''>A<ex>nn</ex><hi_rend=''sl''>o</hi>: Mundi .3586.</date><date_calendar=''#julianMar''_datingMethod=''julianMar''_when-custom=''-377''_xml:lang=''la''>A<ex>nn</ex><hi_rend=''sl''>o</hi>: ante Christ<abbr_type=''truncation''_subtype=''colon''><ex>um</ex>:</abbr> 377.</date><date_calendar=''#beforeBritain''_datingMethod=''#julianMar''_when-custom=''-377''>A<ex>nn</ex>o ant Brit<abbr_type=''macron''>an<ex>n</ex>i</abbr>a cognitam. - 327</date></label>
+<lb/>
+<name>
+Mausolus
+</name>
+<c/> kinge of <c/>
+<placeName>
+Carda
+</placeName>
+<c/> raigned, whose wife <c/>
+<name>
+Artemesia
+</name>
+<c/> builded
+<lb/>
+for hym a wonderfull sepulchre, w<ex>hi</ex><hi_rend=''sl''>ch</hi> was tak<abbr_type=''macron''>e<ex>n</ex></abbr> for one of the
+<lb/>
+goodly work<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> of the worlde. Of w<ex>hi</ex><hi_rend=''sl''>ch</hi> all goodly monu<abbr_type=''macron''>me<ex>n</ex>t</abbr>s of
+<lb/>
+Deade m<abbr_type=''macron''>e<ex>n</ex></abbr> are called Mawseola. <bibl_xml:lang=''la''_id=''CooperChronicles''>Chro: Cow<abbr_type=''brevigraph''_subtype=''brev-p''>p<ex>er</ex></abbr>i: fol: 58</bibl>./
+<lb/>
+<label_place=''margin''>
+<figure>
+<desc>
+Drawing of the columns of Hercules
+</desc>
+</figure>
+</label> <c/>
+<name>
+Hercules
+</name>
+<c/> the Sonne of <c/>
+<name>
+Amphitrio
+</name>
+<c/> &amp; <c/>
+<name>
+Alcmena
+</name>
+<c/> was a defender
+<lb/>
+of Justice a chastiser of iniustyce &amp; a relyver of the oppressed
+<lb/>
+&amp; of greate leuity towards th<abbr_type=''macron''>e<ex>m</ex></abbr> that he had succoured. ffor
+<lb/>
+w<ex>hi</ex><hi_rend=''sl''>ch</hi> vertues he obtayned as greate renowne as eu<abbr_type=''brevigraph''_subtype=''brev-er''>er</abbr> Prynce had
+<lb/>
+done before his time <bibl_xml:lang=''la''><ref_target=''#CooperChronicles''><abbr_type=''macron''>Ib<ex>ide</ex>m</abbr></ref> fol:24</bibl>.
+<lb/>
+<label_place=''margin''><date_calendar=''#annoMundi3962''_datingMethod=''#julianMar''_when-custom=''-1251''_xml:lang=''la''>A<ex>nn</ex>o. Mundi. 8712.</date><date_calendar=''#julianMar''_datingMethod=''julianMar''_when-custom=''-1251''_xml:lang=''la''>A<ex>nn</ex>o ante Christ .1251.</date></label>
+<lb/>
+ffurthermore he delyu<abbr_type=''brevigraph''_subtype=''brev-er''>er</abbr>ed the Sea about<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> <c/>
+<placeName>
+Italye
+</placeName>
+<c/> &amp; <c/>
+<placeName>
+Spayne
+</placeName>
+<c/> fr<abbr_type=''macron''>o<ex>m</ex></abbr>
+<lb/>
+Pyrat<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> &amp; Robbers: &amp; for a <abbr_type=''brevigraph''_subtype=''brev-p''>p<ex>er</ex></abbr>petuall memory therof he co<abbr_type=''macron''>m<ex>m</ex>and</abbr>ed
+<lb/>
+two greate Rocks to be set vp in the vttermost Corners of
+<lb/>
+<placeName>
+Spayne
+</placeName>
+<c/> &amp; <c/>
+<placeName>
+Affricke
+</placeName>
+<c/> w<ex>hi</ex><hi_rend=''sl''>ch</hi> at this daye are called <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> Colvmns
+<lb/>
+of Hercules. <bibl_xml:lang=''la''><ref_target=''#CooperChronicles''><abbr_type=''macron''>Ib<ex>ide</ex>m</abbr></ref></bibl> ./
+</ab>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,145 @@
+<TEI_xmlns=''http://www.tei-c.org/ns/1.0''>
+<teiHeader>
+<calendarDesc>
+<calendar_xml:id=''julianMar''>
+<p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p>
+</calendar>
+<calendar_xml:id=''annoMundi3962''>
+<p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p>
+</calendar>
+<calendar_xml:id=''beforeBritain''>
+<p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p>
+</calendar>
+</calendarDesc>
+</teiHeader>
+<sourceDoc_corresp=''Va447''>
+<surface_xml:id=''151465''_n=''1r''>
+<media_url=''https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229345~224984/full/!1024,1024/0/default.jpg''_mimeType=''image/jpeg''/>
+</surface>
+</sourceDoc>
+<text>
+<body>
+<p/>
+<ab>
+<pb_n=''1r''/>
+<lb/>
+<heading><date_calendar=''#julianMar''_datingMethod=''#julianMar''_when-custom=''1559''_xml:lang=''la''>A<ex>nn</ex><hi_rend=''sl''>o</hi>: d<ex>omi</ex><abbr_type=''macron''>n</abbr>i: 1559</date></heading>
+<lb/>
+<label_place=''margin''>Restituti<abbr_type=''macron''>o<ex>n</ex></abbr> of <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> Title of Sup<hi_rend=''sl''>r</hi><ex>e</ex>me <normalised orig="heade" auto="false">head</normalised></label> In this <abbr_type=''brevigraph''_subtype=''brev-p''>p<ex>ar</ex></abbr>liam<abbr_type=''macron''>e</abbr><ex>n</ex>t the <normalised orig="ffirst" auto="false">First</normalised> <join original="fruit&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="fruites" auto="false">fruits</join></normalised></abbr> &amp; <normalised orig="Tenthes" auto="false">Tenths</normalised> were restored
+<lb/>
+to the <normalised orig="Crowne" auto="false">Crown</normalised>. And also the <join original="su&lt;abbr_type=''brevigraph''_subtype=''brev-p''&gt;p&lt;ex&gt;er&lt;/ex&gt;&lt;/abbr&gt;eame"><normalised orig="supereame" auto="false">supreme</join></normalised> <join original="gou&lt;abbr_type=''brevigraph''_subtype=''brev-er''&gt;er&lt;/abbr&gt;nem&lt;abbr_type=''macron''&gt;e&lt;ex&gt;n&lt;/ex&gt;t"><normalised orig="gouernement" auto="false">government</join></normalised></abbr> over
+<lb/>
+the estate <normalised orig="ecclesiasticall" auto="false">ecclesiastical</normalised>. w<ex>hi</ex><hi_rend=''sl''>ch</hi> <c/>
+<name>
+<normalised orig="Quene" auto="false">Queen</normalised> Mary
+</name>
+<c/> had <join original="gev&lt;abbr_type=''macron''&gt;e&lt;ex&gt;n"><normalised orig="geven" auto="false">given</join></normalised></ex></abbr>
+<lb/>
+to the Pope. <date_calendar=''#regnal''_datingMethod=''#julianMar''_notBefore-custom=''1558-11-17''_notAfter-custom=''1559-11-16''_xml:lang=''la''>A<ex>nn</ex><hi_rend=''sl''>o</hi>: R<ex>egni</ex>R<abbr_type=''truncation''_subtype=''colon''><ex>eginae</ex>:</abbr> Elizab<abbr_type=''truncation''_subtype=''colon''><ex>ethae</ex>:</abbr> 1<hi_rend=''sup''>mo</hi></date> ./ <bibl_id=''HolinshedChronicles''>
+<name>
+<c/>
+<del>
+<join original="p[lb]&lt;/del&gt;[lb]&lt;c/&gt;&lt;add_type=''authorial''&gt;H&lt;/add&gt;olling&lt;ex&gt;shed"><normalised orig="pHollingshed" auto="false">Holinshed</join></normalised></ex>
+</name>
+: pag:
+<lb/>
+1180.</bibl>
+<lb/>
+<label_place=''margin''>
+<name>
+Cardinal <normalised orig="wolsei" auto="false">Wolsey</normalised>
+</name>
+<c/> his <normalised orig="Heraulde" auto="false">Herald</normalised></label>
+<lb/>
+<name>
+<normalised orig="Cardynall" auto="false">Cardinal</normalised> Wolsey
+</name>
+<c/> (beside many other his <join original="serv&lt;abbr_type=''macron''&gt;a&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="servantes" auto="false">servants</join></normalised></abbr> &amp; officers
+<lb/>
+had .4. <join original="ffootm&lt;abbr_type=''macron''&gt;e&lt;ex&gt;n"><normalised orig="ffootmen" auto="false">Footmen</join></normalised></ex></abbr> w<ex>hi</ex><hi_rend=''sl''>ch</hi> were garnished in <normalised orig="riche" auto="false">rich</normalised> <normalised orig="Rvnninge" auto="false">Running</normalised>
+<lb/>
+<join original="Coat&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Coates" auto="false">Coats</join></normalised></abbr> <join original="w&lt;abbr_type=''macron''&gt;he&lt;ex&gt;n&lt;/ex&gt;&lt;/abbr&gt;soeu&lt;abbr_type=''brevigraph''_subtype=''brev-er''&gt;er"><normalised orig="whensoeuer" auto="false">whensoever</join></normalised></abbr> he rode in any <normalised orig="iourney" auto="false">journey</normalised>. Th<abbr_type=''macron''>e<ex>n</ex></abbr> had he
+<lb/>
+also an <normalised orig="Heraulde" auto="false">Herald</normalised> of <normalised orig="Armes" auto="false">Arms</normalised>. &amp;c <bibl_xml:lang=''la''><ref_target=''#HolinshedChronicles''><abbr_type=''macron''>Ib<ex>ide</ex>m</abbr>:</ref> pag: 920. </bibl><date_calendar=''#regnal''_datingMethod=''#julianMar''_notBefore-custom=''1531-04-22''_notAfter-custom=''1532-04-21''_xml:lang=''la''>A<ex>nn</ex><hi_rend=''sl''>o</hi>
+<lb/>
+R<ex>egni</ex>R<abbr_type=''truncation''_subtype=''colon''><ex>egis</ex>:</abbr> Hen<abbr_type=''truncation''_subtype=''colon''><ex>rici</ex>:</abbr> 8: 23.</date>
+<lb/>
+<label_place=''margin''><date_calendar=''#annoMundi3962''_datingMethod=''#julianMar''_when-custom=''-377''>A<ex>nn</ex><hi_rend=''sl''>o</hi>: Mundi .3586.</date><date_calendar=''#julianMar''_datingMethod=''julianMar''_when-custom=''-377''_xml:lang=''la''>A<ex>nn</ex><hi_rend=''sl''>o</hi>: ante Christ<abbr_type=''truncation''_subtype=''colon''><ex>um</ex>:</abbr> 377.</date><date_calendar=''#beforeBritain''_datingMethod=''#julianMar''_when-custom=''-377''>A<ex>nn</ex>o <normalised orig="ant" auto="false">ante</normalised> <join original="Brit&lt;abbr_type=''macron''&gt;an&lt;ex&gt;n&lt;/ex&gt;i&lt;/abbr&gt;a"><normalised orig="Britannia" auto="false">Britanniam</join></normalised> cognitam. - 327</date></label>
+<lb/>
+<name>
+Mausolus
+</name>
+<c/> <normalised orig="kinge" auto="false">king</normalised> of <c/>
+<placeName>
+Carda
+</placeName>
+<c/> <normalised orig="raigned" auto="false">reigned</normalised>, whose wife <c/>
+<name>
+Artemesia
+</name>
+<c/> builded
+<lb/>
+for <normalised orig="hym" auto="false">him</normalised> a <normalised orig="wonderfull" auto="false">wonderful</normalised> sepulchre, w<ex>hi</ex><hi_rend=''sl''>ch</hi> was tak<abbr_type=''macron''>e<ex>n</ex></abbr> for one of the
+<lb/>
+goodly <join original="work&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="workes" auto="false">works</join></normalised></abbr> of the <normalised orig="worlde" auto="false">world</normalised>. Of w<ex>hi</ex><hi_rend=''sl''>ch</hi> all goodly monu<abbr_type=''macron''>me<ex>n</ex>t</abbr>s of
+<lb/>
+<normalised orig="Deade" auto="false">Dead</normalised> m<abbr_type=''macron''>e<ex>n</ex></abbr> are called <normalised orig="Mawseola" auto="false">Mauseola</normalised>. <bibl_xml:lang=''la''_id=''CooperChronicles''>Chro: Cow<abbr_type=''brevigraph''_subtype=''brev-p''>p<ex>er</ex></abbr>i: fol: 58</bibl>./
+<lb/>
+<label_place=''margin''>
+<figure>
+<desc>
+Drawing of the columns of Hercules
+</desc>
+</figure>
+</label> <c/>
+<name>
+Hercules
+</name>
+<c/> the <normalised orig="Sonne" auto="false">Son</normalised> of <c/>
+<name>
+Amphitrio
+</name>
+<c/> &amp; <c/>
+<name>
+Alcmena
+</name>
+<c/> was a defender
+<lb/>
+of Justice a chastiser of <normalised orig="iniustyce" auto="false">injustice</normalised> &amp; a <normalised orig="relyver" auto="false">reliever</normalised> of the oppressed
+<lb/>
+&amp; of <normalised orig="greate" auto="false">great</normalised> <normalised orig="leuity" auto="false">levity</normalised> towards th<abbr_type=''macron''>e<ex>m</ex></abbr> that he had succoured. <normalised orig="ffor" auto="false">For</normalised>
+<lb/>
+w<ex>hi</ex><hi_rend=''sl''>ch</hi> <normalised orig="vertues" auto="false">virtues</normalised> he <normalised orig="obtayned" auto="false">obtained</normalised> as <normalised orig="greate" auto="false">great</normalised> <normalised orig="renowne" auto="false">renown</normalised> as <join original="eu&lt;abbr_type=''brevigraph''_subtype=''brev-er''&gt;er"><normalised orig="euer" auto="false">ever</join></normalised></abbr> <normalised orig="Prynce" auto="false">Prince</normalised> had
+<lb/>
+done before his time <bibl_xml:lang=''la''><ref_target=''#CooperChronicles''><abbr_type=''macron''>Ib<ex>ide</ex>m</abbr></ref> fol:24</bibl>.
+<lb/>
+<label_place=''margin''><date_calendar=''#annoMundi3962''_datingMethod=''#julianMar''_when-custom=''-1251''_xml:lang=''la''>A<ex>nn</ex>o. Mundi. 8712.</date><date_calendar=''#julianMar''_datingMethod=''julianMar''_when-custom=''-1251''_xml:lang=''la''>A<ex>nn</ex>o ante <normalised orig="Christ" auto="false">Christum</normalised> .1251.</date></label>
+<lb/>
+<normalised orig="ffurthermore" auto="false">furthermore</normalised> he <join original="delyu&lt;abbr_type=''brevigraph''_subtype=''brev-er''&gt;er&lt;/abbr&gt;ed"><normalised orig="delyuered" auto="false">delivered</join></normalised> the Sea <join original="about&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="aboutes" auto="false">abouts</join></normalised></abbr> <c/>
+<placeName>
+<normalised orig="Italye" auto="false">Italy</normalised>
+</placeName>
+<c/> &amp; <c/>
+<placeName>
+<normalised orig="Spayne" auto="false">Spain</normalised>
+</placeName>
+<c/> fr<abbr_type=''macron''>o<ex>m</ex></abbr>
+<lb/>
+<join original="Pyrat&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Pyrates" auto="false">Pirates</join></normalised></abbr> &amp; Robbers: &amp; for a <abbr_type=''brevigraph''_subtype=''brev-p''><join original="p&lt;ex&gt;er&lt;/ex&gt;&lt;/abbr&gt;petuall">perpetuall</join> memory <normalised orig="therof" auto="false">thereof</normalised> he co<abbr_type=''macron''>m<ex>m</ex>and</abbr>ed
+<lb/>
+two <normalised orig="greate" auto="false">great</normalised> Rocks to be set <normalised orig="vp" auto="false">up</normalised> in the <normalised orig="vttermost" auto="false">uttermost</normalised> Corners of
+<lb/>
+<placeName>
+<normalised orig="Spayne" auto="false">Spain</normalised>
+</placeName>
+<c/> &amp; <c/>
+<placeName>
+<normalised orig="Affricke" auto="false">Africa</normalised>
+</placeName>
+<c/> w<ex>hi</ex><hi_rend=''sl''>ch</hi> at this <normalised orig="daye" auto="false">day</normalised> are called <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> <normalised orig="Colvmns" auto="false">Columns</normalised>
+<lb/>
+of Hercules. <bibl_xml:lang=''la''><ref_target=''#CooperChronicles''><abbr_type=''macron''>Ib<ex>ide</ex>m</abbr></ref></bibl> ./
+</ab>
+</body>
+</text>
+</TEI>
