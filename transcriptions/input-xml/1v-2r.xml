@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+		<calendarDesc>
+ 			<calendar xml:id="julianMar">
+  			<p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p>
+ 			</calendar>
+			<calendar xml:id="annoMundi3962">
+				<p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p>
+			</calendar>
+			<calendar xml:id="beforeBritain">
+				<p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p>
+			</calendar>
+		</calendarDesc>
+	</teiHeader>
+	<sourceDoc corresp="Va447">
+    <surface xml:id="151466" n="1r-2v">
+      <media url="https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229346~224983/full/!1024,1024/0/default.jpg" mimeType="image/jpeg"/>
+			<zone resp="#Vet-PhilipAllfrey">
+				<pb n="leaf 1 verso" />
+<lb/><pb n="leaf 2 recto" />
+<cb/><list rend="bullet">
+<lb/><item>Custome is <brev-y>th</brev-y><sl>e</sl> chiefest Rule to deter<pc force="weak">=</pc>
+<lb break="no"/>myne matters of hono<sl><ex>u</ex>r</sl></item>
+<lb/><item rend="bullet" xml:lang="la">Consuetudo in vnaquaq<ex>ue</ex> Regione, est
+<lb/>omni<macron>u<ex>m</ex></macron> dignitat<macron>u<ex>m</ex></macron> &amp; iurisdiction<macron>u<ex>m</ex></macron> origo
+<lb/>forma &amp; principi<macron>u<ex>m</ex></macron></item>
+<lb/><item rend="bullet" xml:lang="la">Consuetudini stand<macron>u<ex>m</ex></macron> est, disponenti
+<lb/>de Nobilitate.</item>
+<lb/><item rend="bullet" xml:lang="la">Consuetudines loci faciunt qu<macron>e<ex>m</ex></macron> nobilem
+<lb/>qui alias n<macron>o<ex>n</ex></macron> esset nobilis.</item>
+<lb/><item>Creations of noble m<macron>e<ex>n</ex></macron> were before
+<lb/>any <brev-p>p<ex>ar</ex></brev-p>liam<macron>e<ex>n</ex></macron>t, w<ex>hi</ex><sl>ch</sl> beg<macron>a<ex>n</ex></macron> but in <brev-y>th</brev-y><sl>e</sl> tyme
+<lb/>of <name>kinge Hen<ex>ry</ex>: 3<sup>d</sup></name>.</item>
+<lb/><item>A m<macron>a<ex>n</ex></macron> vsinge <brev-y>th</brev-y><sl>e</sl> Titles of .2. seu<brev-er>er</brev-er>alle
+<lb/>Baronies: by writte of so<macron>m<ex>m</ex></macron>ons shall have
+<lb/>his denomination only of one of th<macron>e<ex>m</ex></macron>.</item>
+<lb/><item>The Dignity of a Baronesse is <brev-p>p<ex>ar</ex></brev-p>cell
+<lb/>of her inheritance.</item>
+<lb/><item>No Kinge may be deposed for that he
+<lb/>is an infante</item>
+<lb/><item>A kings infancy is supplied by the ripe
+<lb/>age of Counsello<ex>u</ex><sl>rs</sl>. &amp; womens weak
+<lb/>sexe by theire husbands discretion.</item>
+<lb/><item>Wom<macron>e<ex>n</ex></macron> hold Lands by knight service
+<lb/> &amp; Grand Serg<macron>ea<ex>n</ex>t</macron>ye</item>
+<lb/><item>Wisdome is not denied wom<macron>e<ex>n</ex></macron> by na<pc force="weak">=</pc>
+<lb break="no"/>ture</item>
+<lb/><item>Husbands Ten<macron>a<ex>n</ex>t</macron>s in theire wyves right<brev-es>es</brev-es> -
+<lb/><list rend="inline"><item><name>John. D<ex>uke</ex>: of Lanc<ex>aster</ex>:</name> in his wives right was
+<lb/>Lo<ex>rd</ex>: highe Steward of Engl<ex>and</ex>:</item>
+<lb/><item><name>Sir Lionell dymocke</name> (as Ten<macron>a<ex>n</ex>t</macron>e by
+<lb/>curtesy) <brev-y>th</brev-y><sl>e</sl> king<brev-es>es</brev-es> Champi<macron>o<ex>n</ex></macron>.</item>
+<lb/><item><name>Marga<ex>ret</ex>: Countesse of Norf<abbr type="truncation"><ex>olk</ex></abbr></name>. dow<ex>ghter</ex>: &amp; heire
+<lb/>of <name>Tho<ex>mas</ex>: of Brotherton</name>, Countesse Mar<pc force="weak">=</pc>
+<lb break="no"/>shall of Englande.</item></list></item>
+<lb/><item>Barons take place acordinge to <brev-y>th</brev-y><sl>e</sl> Anci<pc force="weak">=</pc>
+<lb break="no"/>enty of theyre Creations: not as they be
+<lb/>Somaned</item>
+<lb/><item style="list-style-type: none">Triall at <brev-y>th</brev-y><sl>e</sl> Com<macron>o<ex>n</ex></macron> Lawe is by Juries
+<lb/>At the Ciuile Lawe by depositions
+<lb/>Doctors of <brev-y>th</brev-y><sl>e</sl> Cyuile Lawe called to
+<lb/>assist <brev-y>th</brev-y><sl>e</sl> Constab<ex>le</ex>: &amp; marshalle in
+<lb/>trialls of matters of nobilitye and
+<lb/>Chiualry.</item>
+<lb/><item style="list-style-type: none">The issues in these causes must relie
+<lb/>vp<macron>o<ex>n</ex></macron> <brev-y>th</brev-y><sl>e</sl> Customes of Chiualry vsed w<ex>i</ex><sl>th</sl>in
+<lb/>this Realme.</item>
+<lb/><item>Wom<macron>e<ex>n</ex></macron> are vncapeable of dignities
+<lb/>w<ex>i</ex><sl>th</sl> adminestration, not of dignities
+<lb/>of byrthe</item>
+<lb/><item>Duke &amp; Earle (amonge the Romaynes)
+<lb/>denote an office &amp; dignity in campe
+<lb/>&amp; <brev-y>th</brev-y><ex>a</ex><sl>t</sl> of Earle abased to <brev-y>th</brev-y><sl>e</sl> office of m<ex>aste</ex><sl>r</sl>
+<lb/>of mettalls.</item>
+<lb/><item>Aft<brev-er>er</brev-er> translation of <brev-y>th</brev-y><sl>e</sl> empire Dignities
+<lb/>of office became dignities of patri<pc force="weak">=</pc><lb break="no"/>monye: &amp; so <brev-y>th</brev-y><sl>e</sl> stiles of dignities be<pc force="weak">=</pc>
+<lb break="no"/>came parcell of inherit<ex>ance</ex>. &amp; patr<ex>imony</ex>e.</item>
+<lb/><add>Ex liberte</add>
+<cb/>
+<lb/><item>Nobility or dignity coni<del>n</del>oyned to <brev-y>th</brev-y><sl>e</sl>
+<lb/>ffeee descendeth to wh<macron>o<ex>m</ex></macron> the fee
+<lb/>descendeth: but se<brev-p>p<ex>ar</ex></brev-p>ate <del>there</del>from
+<lb/>the ffeodale, descendeth as the
+<lb/>custome of eche <brev-p>p<ex>ar</ex></brev-p>ticuler <brev-p>p<ex>ro</ex></brev-p>vince
+<lb/>or R<macron>egio<ex>n</ex></macron></item>
+<lb/><item>Barons seeme to have bene the
+<lb/>chiefest Captaines of people habi<pc force="weak">=</pc>
+<lb break="no"/>tation or Conquest.</item>
+<lb/><item>Nobleme<macron> <ex>n</ex></macron> are called peers <foreign xml:lang="la">quasi
+<lb/>pares</foreign> because for the most parte
+<lb/>they are of equall authority</item>
+<lb/><item>In this Realme Earldomes &amp; Ba<pc force="weak">=</pc>
+<lb break="no"/>ronies before the Conquest were
+<lb/>Inheritanc<brev-es>es</brev-es> in ffesimple &amp; descen<pc force="weak">=</pc>
+<lb break="no"/>ded to ffemales aswell as to <del>m</del>
+<lb/>Males: &amp; theire dignities were
+<lb/>anexed to the ffees.</item>
+<lb/><item>ffeetaile is but a late Inv<macron>e<ex>n</ex>tio<ex>n</ex></macron>
+<lb/>about<date calendar="#julianMar" datingMethod="#julianMar" notBefore-custom="1327-01-25" notAfter-custom="1377-06-21"><name>Edw<ex>ard</ex>: 3<sup>d</sup></name>. tyme</date>.</item>
+<lb/><item>Earles &amp; Barons were many
+<lb/>year<brev-es>es</brev-es> before any <brev-p>p<ex>ar</ex></brev-p>liament w<ex>i</ex><sl>th</sl>in
+<lb/>this Realme. especially in suche
+<lb/>solempne order.</item>
+<lb/><item style="list-style-type: none;">Auncient Barons at <brev-y>th</brev-y><sl>e</sl> Conqueste
+<lb/>of <place>Engl<ex>and</ex>:</place>
+<lb/><item>Baronies gev<macron>e<ex>n</ex></macron> to Religious houses
+<lb/><brev-y>th</brev-y><sl>e</sl> dignity abidinge inse<brev-p>p<ex>ar</ex></brev-p>ate. by
+<lb/>meanes whereof Abbot<brev-es>es</brev-es> Bishops
+<lb/> &amp; Priors w<ex>hi</ex><sl>ch</sl> th<macron>e<ex>n</ex></macron> receaved <brev-y>th</brev-y><sl>e</sl> style
+<lb/>of Lord<brev-es>es</brev-es>. who otherwise wer in
+<lb break="no"/>capeable of suche seculer style
+<lb/>&amp;c</item>
+<lb/><item>Abbot<brev-es>es</brev-es> &amp; Prio<ex>u</ex><sl>rs</sl>: not endued w<ex>i</ex><sl>th</sl> such
+<lb/>neither vsed such style nor
+<lb/>were somoned to <brev-p>p<ex>ar</ex></brev-p>liam<macron>e<ex>n</ex>t</macron></item>
+<lb/><item>Abbot<brev-es>es</brev-es> &amp; Pryors owe service in
+<lb/><brev-p>p<ex>ar</ex></brev-p>liament in respecte of their
+<lb/>Baronies.</item>
+<lb/><item>Barons are surnamed of the
+<lb/>chiefe mano<ex>u</ex><sl>r</sl> of theyre Ba<pc force="weak">=</pc>
+<lb break="no"/>ronye, &amp; so their heir<brev-es>es</brev-es> also.</item>
+<lb/><item>Almost all Ancient Barons are
+<lb/>consumed, either by translat<ex>ion</ex>
+<lb/>to great<brev-er>er</brev-er> dignities or by the
+<lb/>Barons warr<brev-es>es</brev-es>: <date calendar="#julianMar" datingMethod="#julianMar" notBefore-custom="1261-10-28" notAfter-custom="1262-10-27">46: Hen<ex>ry</ex>: 3</date>.</item>
+<lb/><item>Writts of Creation throughe Decay
+<lb/>of old Barons &amp; plenty of newe
+<lb/>became p<sl>r</sl><ex>e</ex>sident<brev-es>es</brev-es> of so<macron>m<ex>m</ex></macron>ons.</item>
+<lb/><item>The woorde Peeres distinguisheth
+<lb/>Barons created fr<macron>o<ex>m</ex></macron> suche as are
+<lb/>to be created.</item>
+<lb/><item style="list-style-type:none;"><foreign xml:lang="la">Res patrimoniales</foreign> eu<brev-er>er</brev-er> have
+<lb/>bene &amp; ought to be heritable.</item>
+<lb/><item>Creation of barons is in re<pc force="weak">=</pc>
+<lb break="no"/>spect of <brev-y>th</brev-y><sl>e</sl> service <brev-y>th</brev-y><ex>a</ex><sl>t</sl> he &amp; hys
+<lb/>heir<brev-es>es</brev-es> are bound to doe to the
+<lb/>Realme &amp; prynce</item>
+</zone>
+</surface>
+</sourceDoc>
+<text>
+<body>
+	<p/>
+</body>
+</text>
+</TEI>
