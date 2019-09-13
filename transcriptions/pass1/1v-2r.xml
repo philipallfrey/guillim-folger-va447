@@ -13,10 +13,10 @@
     </calendarDesc>
   </teiHeader>
   <sourceDoc corresp="Va447"><surface xml:id="151466" n="1r-2v"><media url="https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229346~224983/full/!1024,1024/0/default.jpg" mimeType="image/jpeg"/><text><body><p/><ab><pb n="1r-2v"/><pb n="leaf 1 verso"/><lb/><pb n="leaf 2 recto"/><cb/><list rend="bullet"><lb/><item>Custome is <g ref="#thorn">th</g><hi rend="sl">e</hi> chiefest Rule to deter<pc force="weak">=</pc>
-<lb break="no"/>myne matters of hono<hi rend="sl"><ex>u</ex>r</hi></item><lb/><item rend="bullet" xml:lang="la">Consuetudo in vnaquaq<ex>ue</ex> Regione, est
+<lb break="no"/>myne matters of hono<hi rend="sl"><ex>u</ex>r</hi></item><lb/><item xml:lang="la">Consuetudo in vnaquaq<ex>ue</ex> Regione, est
 <lb/>omni<abbr type="macron">u<ex>m</ex></abbr> dignitat<abbr type="macron">u<ex>m</ex></abbr> &amp; iurisdiction<abbr type="macron">u<ex>m</ex></abbr> origo
-<lb/>forma &amp; principi<abbr type="macron">u<ex>m</ex></abbr></item><lb/><item rend="bullet" xml:lang="la">Consuetudini stand<abbr type="macron">u<ex>m</ex></abbr> est, disponenti
-<lb/>de Nobilitate.</item><lb/><item rend="bullet" xml:lang="la">Consuetudines loci faciunt qu<abbr type="macron">e<ex>m</ex></abbr> nobilem
+<lb/>forma &amp; principi<abbr type="macron">u<ex>m</ex></abbr></item><lb/><item xml:lang="la">Consuetudini stand<abbr type="macron">u<ex>m</ex></abbr> est, disponenti
+<lb/>de Nobilitate.</item><lb/><item xml:lang="la">Consuetudines loci faciunt qu<abbr type="macron">e<ex>m</ex></abbr> nobilem
 <lb/>qui alias n<abbr type="macron">o<ex>n</ex></abbr> esset nobilis.</item><lb/><item>Creations of noble m<abbr type="macron">e<ex>n</ex></abbr> were before
 <lb/>any <abbr type="brevigraph" subtype="brev-p">p<ex>ar</ex></abbr>liam<abbr type="macron">e<ex>n</ex></abbr>t, w<ex>hi</ex><hi rend="sl">ch</hi> beg<abbr type="macron">a<ex>n</ex></abbr> but in <g ref="#thorn">th</g><hi rend="sl">e</hi> tyme
 <lb/>of <name>kinge Hen<ex>ry</ex>: 3<hi rend="sup">d</hi></name>.</item><lb/><item>A m<abbr type="macron">a<ex>n</ex></abbr> vsinge <g ref="#thorn">th</g><hi rend="sl">e</hi> Titles of .2. seu<abbr type="brevigraph" subtype="brev-er">er</abbr>alle
@@ -103,3 +103,4 @@
 </item></list></ab></body></text></surface>
 </sourceDoc>
 </TEI>
+
