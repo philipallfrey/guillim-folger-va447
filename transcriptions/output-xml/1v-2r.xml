@@ -41,7 +41,7 @@
 <w><choice><orig>hono<abbr type="superscription"><ex>u</ex>r</abbr></orig><reg>honour</reg></choice></w>
 </item>
 <lb/>
-<w><choice><orig><item rend="bullet" xml:lang="la">Consuetudo</orig><reg>Consuetudo</reg></choice></w>
+<w><choice><orig><item xml:lang="la">Consuetudo</orig><reg>Consuetudo</reg></choice></w>
 <c> </c>
 <w>in</w>
 <c> </c>
@@ -69,7 +69,7 @@
 <w><choice><orig>principi<abbr type="macron">u<ex>m</ex></abbr></orig><reg>principium</reg></choice></w>
 </item>
 <lb/>
-<w><choice><orig><item rend="bullet" xml:lang="la">Consuetudini</orig><reg>Consuetudini</reg></choice></w>
+<w><choice><orig><item xml:lang="la">Consuetudini</orig><reg>Consuetudini</reg></choice></w>
 <c> </c>
 <w><choice><orig>stand<abbr type="macron">u<ex>m</ex></abbr></orig><reg>standum</reg></choice></w>
 <c> </c>
@@ -84,7 +84,7 @@
 <pc>.</pc>
 </item>
 <lb/>
-<w><choice><orig><item rend="bullet" xml:lang="la">Consuetudines</orig><reg>Consuetudines</reg></choice></w>
+<w><choice><orig><item xml:lang="la">Consuetudines</orig><reg>Consuetudines</reg></choice></w>
 <c> </c>
 <w>loci</w>
 <c> </c>
