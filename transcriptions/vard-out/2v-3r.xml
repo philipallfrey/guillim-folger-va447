@@ -1,0 +1,577 @@
+<TEI_xmlns=''http://www.tei-c.org/ns/1.0''>
+<teiHeader>
+<calendarDesc>
+<calendar_xml:id=''julianMar''>
+<p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p>
+</calendar>
+<calendar_xml:id=''annoMundi3962''>
+<p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p>
+</calendar>
+<calendar_xml:id=''beforeBritain''>
+<p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p>
+</calendar>
+</calendarDesc>
+</teiHeader>
+<sourceDoc_corresp=''Va447''><surface_xml:id=''151467''_n=''2r-3v''><media_url=''https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229347~224982/full/!1024,1024/0/default.jpg''_mimeType=''image/jpeg''/><text><body><p/><ab>
+<pb_n=''2r-3v''/>
+<lb/>
+<pb_n=''leaf_2_verso''/>
+<cb/><list_rend=''bullet''>
+<lb/>
+<item_xml:lang=''la''>Si illud ex q<ex>u</ex><hi_rend=''sl''>o</hi> causat<abbr_type=''brevigraph''_subtype=''brev-er''>ur</abbr> nobilitas, <normalised orig="vt" auto="false">ut</normalised>
+<lb/>
+Regn<abbr_type=''macron''>u<ex>m</ex></abbr> Ducat<abbr_type=''brevigraph''_subtype=''brev-us''>us</abbr> Comitat<abbr_type=''brevigraph''_subtype=''brev-us''>us</abbr> &amp;c <join original="de&lt;pc_force=''weak''&gt;=&lt;/pc&gt;[lb][lb]&lt;lb_break=''no''/&gt;scendit"><normalised orig="de=scendit" auto="false">descendit</join></normalised> ad post<ex>e</ex>ros tunc in infinit<abbr_type=''macron''>u<ex>m</ex></abbr>
+<lb/>
+erit ille nobilis ad qu<abbr_type=''macron''>e<ex>m</ex></abbr> transit
+<lb/>
+ipsa nobilitat<abbr_type=''brevigraph''_subtype=''brev-es''>is</abbr> causa</item>
+<lb/>
+<item>The <normalised orig="heade" auto="false">head</normalised> <join original="mano&lt;ex&gt;u&lt;/ex&gt;&lt;hi_rend=''sl''&gt;r"><normalised orig="manour" auto="false">manor</join></normalised></hi> of a <normalised orig="Baronye" auto="false">Barony</normalised>
+<lb/>
+(in <c/>
+<name>
+<normalised orig="Bractons" auto="false">Bracton's</normalised>
+</name>
+<c/> <normalised orig="tyme" auto="false">time</normalised>) could not be
+<lb/>
+<normalised orig="dismembred" auto="false">dismembered</normalised> by dower if there were
+<lb/>
+sufficient besid<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> because it was
+<lb/>
+the counten<abbr_type=''macron''>a<ex>n</ex></abbr>ce of a Baron.</item>
+<lb/>
+<item>The <normalised orig="kinge" auto="false">king</normalised> may <normalised orig="geve" auto="false">give</normalised> the <normalised orig="yongest" auto="false">youngest</normalised> <join original="dow&lt;abbr_type=''truncation''_subtype=''colon''&gt;&lt;ex&gt;ghter"><normalised orig="dowghter" auto="false">daughter</join></normalised></ex>:</abbr>
+<lb/>
+in <normalised orig="Mariage" auto="false">Marriage</normalised> (w<ex>i</ex><hi_rend=''sl''>th</hi> the whole Barony
+<lb/>
+to one of his <join original="knight&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="knightes" auto="false">knights</join></normalised></abbr> if the rest of
+<lb/>
+<g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> <normalised orig="dowghters" auto="false">daughters</normalised> in their fathers <normalised orig="lyfe" auto="false">life</normalised>
+<lb/>
+were bestowed.</item>
+<lb/>
+<item><normalised orig="Yf" auto="false">If</normalised> <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> <join original="Em&lt;abbr_type=''brevigraph''_subtype=''brev-p''&gt;p&lt;ex&gt;er&lt;/ex&gt;&lt;/abbr&gt;o&lt;ex&gt;u&lt;/ex&gt;&lt;hi_rend=''sl''&gt;r"><normalised orig="Emperour" auto="false">Emperor</join></normalised></hi> signify his bare <normalised orig="plesure" auto="false">pleasure</normalised>
+<lb/>
+<g_ref=''#thorn''>th</g><ex>a</ex><hi_rend=''sl''>t</hi> he will have any <abbr_type=''brevigraph''_subtype=''brev-p''>p<ex>er</ex></abbr>son to be a
+<lb/>
+<join original="genttilm&lt;abbr_type=''macron''&gt;a&lt;ex&gt;n"><normalised orig="genttilman" auto="false">gentleman</join></normalised></ex></abbr> <g_ref=''#thorn''>th</g><ex>a</ex><hi_rend=''sl''>t</hi> is <c/>
+<del>
+not
+</del>
+<c/> none; not
+<lb/>
+m<abbr_type=''macron''>e<ex>n</ex></abbr>tioning his <join original="heir&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="heires" auto="false">heirs</join></normalised></abbr>. yet that
+<lb/>
+quality <normalised orig="shalbe" auto="false">shall be</normalised> interp<hi_rend=''sl''>r</hi><ex>e</ex>ted to <normalised orig="reache" auto="false">reach</normalised>
+<lb/>
+to his childr<abbr_type=''macron''>e<ex>n</ex></abbr> <foreign_xml:lang=''la''>Quia nobilitas
+<lb/>
+politica est haereditaria</foreign></item>
+<lb/>
+<item>Wom<abbr_type=''macron''>e<ex>n</ex></abbr> are <normalised orig="capeable" auto="false">capable</normalised> of Duchies
+<lb/>
+Counties Baronies. &amp;c in their
+<lb/>
+<normalised orig="owne" auto="false">own</normalised> <normalised orig="righte" auto="false">right</normalised>, &amp; may <normalised orig="transmitte" auto="false">transmit</normalised>
+<lb/>
+<normalised orig="thesame" auto="false">the same</normalised> to <normalised orig="theire" auto="false">their</normalised> <join original="heir&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="heires" auto="false">heirs</join></normalised></abbr>.</item>
+<lb/>
+<item><normalised orig="Theire" auto="false">Their</normalised> <join original="husband&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="husbandes" auto="false">husbands</join></normalised></abbr> also are <normalised orig="capeable" auto="false">capable</normalised>
+<lb/>
+of <normalised orig="thesame" auto="false">the same</normalised> in their wives <normalised orig="righte" auto="false">right</normalised></item>
+<lb/>
+<item><normalised orig="Armes" auto="false">Arms</normalised> &amp; styles are <join original="thing&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="thinges" auto="false">things</join></normalised></abbr> <join original="inhe&lt;pc_force=''weak''&gt;=&lt;/pc&gt;[lb][lb]&lt;lb_break=''no''/&gt;ritable"><normalised orig="inhe=ritable" auto="false">inheritable</join></normalised></item>
+<lb/>
+<item>
+<name>
+<normalised orig="Queene" auto="false">Queen</normalised> Eliz<abbr_type=''truncation''_subtype=''colon''><ex>abeth's</ex>:</abbr>
+</name>
+<c/> mother was created
+<lb/>
+<normalised orig="Marchionesse" auto="false">Marchioness</normalised> of <normalised orig="Pembrooke" auto="false">Pembroke</normalised> &amp; her
+<lb/>
+<normalised orig="sonne" auto="false">son</normalised> (if he had married a <normalised orig="subiect" auto="false">subject</normalised>)
+<lb/>
+should have been marq<abbr_type=''brevigraph''_subtype=''truncation-z''><ex>uess</ex></abbr>.</item>
+<lb/>
+<item><normalised orig="Yf" auto="false">If</normalised> any say <g_ref=''#thorn''>th</g><ex>a</ex><hi_rend=''sl''>t</hi> dignities descend not <normalised orig="vnto" auto="false">unto</normalised>
+<lb/>
+wom<abbr_type=''macron''>e<ex>n</ex></abbr>, th<abbr_type=''macron''>e<ex>n</ex></abbr> must the most <join original="Auncie&lt;abbr_type=''macron''&gt;&lt;ex&gt;n&lt;/ex&gt;t"><normalised orig="Auncient" auto="false">Ancient</join></normalised></abbr> <normalised orig="Earles" auto="false">Earls</normalised>
+<lb/>
+<normalised orig="doe" auto="false">do</normalised> away <normalised orig="theire" auto="false">their</normalised> <normalised orig="Tytles" auto="false">Titles</normalised></item>
+<lb/>
+<item>Some have had .2. Baronies <normalised orig="descende" auto="false">descend</normalised>
+<lb/>
+<normalised orig="vnto" auto="false">unto</normalised> th<abbr_type=''macron''>e<ex>m</ex></abbr> at once: as <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi>: <join original="E&lt;abbr_type=''truncation''_subtype=''colon''&gt;&lt;ex&gt;arle"><normalised orig="Earle" auto="false">Earl</join></normalised></ex>:</abbr> of <normalised orig="Lyncolne" auto="false">Lincoln</normalised>
+<lb/>
+had <join original="Clynt&lt;abbr_type=''macron''&gt;o&lt;ex&gt;n"><normalised orig="Clynton" auto="false">Clinton</join></normalised></ex></abbr> &amp; Saye./ <c/>
+<name>
+Rich<abbr_type=''truncation''_subtype=''colon''><ex>ard</ex>:</abbr> <join original="Hasting&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Hastinges" auto="false">Hastings</join></normalised></abbr>
+</name>
+<lb/>
+had <normalised orig="welles" auto="false">Welles</normalised> &amp; <normalised orig="willoughby" auto="false">Willoughby</normalised></item>
+<lb/>
+<item>This is a principle <g_ref=''#thorn''>th</g><ex>a</ex><hi_rend=''sl''>t</hi> the name of a
+<lb/>
+<normalised orig="kinge" auto="false">king</normalised>, duke, <normalised orig="Earle" auto="false">Earl</normalised>, Baron &amp; <normalised orig="suche" auto="false">such</normalised>
+<lb/>
+like is <foreign_xml:lang=''la''>Res indiuidua</foreign>. <normalised orig="Therfore" auto="false">Therefore</normalised> <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi>
+<lb/>
+style of Visco<abbr_type=''macron''><ex>un</ex>t</abbr> Lisle descended to sisters
+<lb/>
+was extinct &amp; at the <join original="Prync&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Prynces" auto="false">Prince's</join></normalised></abbr> <join original="disposi&lt;pc_force=''weak''&gt;=&lt;/pc&gt;[lb][lb]&lt;lb_break=''no''/&gt;tion"><normalised orig="disposi=tion" auto="false">disposition</join></normalised>.</item>
+<lb/>
+<item><join original="Viscount&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Viscountes" auto="false">Viscounts</join></normalised></abbr> are of lat<abbr_type=''brevigraph''_subtype=''brev-er''>er</abbr> <normalised orig="tyme" auto="false">time</normalised> &amp; have their
+<lb/>
+Creations by patent w<ex>i</ex><hi_rend=''sl''>th</hi> <normalised orig="Anuitye" auto="false">Annuity</normalised></item>
+<lb/>
+<item>The Co<abbr_type=''macron''>m<ex>m</ex></abbr>on <normalised orig="lawe" auto="false">law</normalised> dealeth little w<ex>i</ex><hi_rend=''sl''>th</hi>
+<lb/>
+<join original="ryt&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="rytes" auto="false">rights</join></normalised></abbr> &amp; <normalised orig="customes" auto="false">customs</normalised> of <normalised orig="Chiualry" auto="false">Chivalry</normalised>: but such
+<lb/>
+questions have <normalised orig="beene" auto="false">been</normalised> <normalised orig="alwayes" auto="false">always</normalised> <normalised orig="decyded" auto="false">decided</normalised>
+<lb/>
+before <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> Constab<abbr_type=''truncation''_subtype=''colon''><ex>le</ex>:</abbr> &amp; Marshall of Engl<abbr_type=''truncation''_subtype=''colon''><ex>and</ex>:</abbr></item>
+<lb/>
+<item>in <c/>
+<placeName>
+<normalised orig="ffrance" auto="false">France</normalised>
+</placeName>
+<c/> wom<abbr_type=''macron''>e<ex>n</ex></abbr> succeed their <join original="Ancesto&lt;ex&gt;u&lt;/ex&gt;&lt;hi_rend=''sl''&gt;rs"><normalised orig="Ancestours" auto="false">Ancestors</join></normalised></hi>
+<lb/>
+<normalised orig="aswell" auto="false">as well</normalised> in dignities as in patrimonies</item>
+<lb/>
+<item>The <normalised orig="Custome" auto="false">Custom</normalised> of <join original="eu&lt;abbr_type=''brevigraph''_subtype=''brev-er''&gt;er&lt;/abbr&gt;y"><normalised orig="euery" auto="false">every</join></normalised> Region is the Rule
+<lb/>
+of those <join original="thing&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="thinges" auto="false">things</join></normalised></abbr></item>
+<lb/>
+<item>By the <normalised orig="custome" auto="false">custom</normalised> of <c/>
+<placeName>
+England
+</placeName>
+<c/> <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> husband
+<lb/>
+of a <normalised orig="Baronesse" auto="false">Baroness</normalised> by <normalised orig="byrthe" auto="false">birth</normalised> shall <normalised orig="vse" auto="false">use</normalised> <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi>
+<lb/>
+<normalised orig="stile" auto="false">style</normalised> of her Barony <normalised orig="duringe" auto="false">during</normalised> her life.
+<lb/>
+And if he be Ten<abbr_type=''macron''>a<ex>n</ex>t</abbr> by <normalised orig="Curtesy" auto="false">Courtesy</normalised>. then
+<lb/>
+for <normalised orig="terme" auto="false">term</normalised> of his <normalised orig="owne" auto="false">own</normalised> life.</item><cb/>
+<lb/>
+<item>The <normalised orig="Lawe" auto="false">Law</normalised> <normalised orig="grantinge" auto="false">granting</normalised> the more w<ex>hi</ex><hi_rend=''sl''>ch</hi> is <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi>
+<lb/>
+Barony, denieth not the <normalised orig="lesse" auto="false">less</normalised> w<ex>hi</ex><hi_rend=''sl''>ch</hi> is the
+<lb/>
+dignity. a <normalised orig="thinge" auto="false">thing</normalised> incident <normalised orig="vnto" auto="false">unto</normalised> it.</item>
+<lb/>
+<item>The <normalised orig="husbande" auto="false">husband</normalised> by <normalised orig="Lawe" auto="false">Law</normalised> hath no right in his
+<lb/>
+<normalised orig="wyves" auto="false">wife's</normalised> inheritance but only in respect
+<lb/>
+he is a <normalised orig="husbande" auto="false">husband</normalised>: but having a <normalised orig="childe" auto="false">child</normalised>
+<lb/>
+he hath acquired an estate in <normalised orig="Lawe" auto="false">Law</normalised>
+<lb/>
+&amp; is admitted to <normalised orig="doe" auto="false">do</normalised> homage &amp; not before</item>
+<lb/>
+<item>The <normalised orig="Crowne" auto="false">Crown</normalised> of <c/>
+<placeName>
+England
+</placeName>
+<c/> is out of the
+<lb/>
+<normalised orig="curtesye" auto="false">courtesy</normalised>.</item>
+<lb/>
+<item>None may <normalised orig="vse" auto="false">use</normalised> his wives style but <normalised orig="suche" auto="false">such</normalised> as
+<lb/>
+by the <normalised orig="curtesy" auto="false">courtesy</normalised> of <c/>
+<placeName>
+Engl<abbr_type=''truncation''_subtype=''colon''><ex>and</ex>:</abbr>
+</placeName>
+<c/> hath right to her
+<lb/>
+<normalised orig="posessions" auto="false">possessions</normalised> for <normalised orig="terme" auto="false">term</normalised> of <normalised orig="lyfe" auto="false">life</normalised>.</item>
+<lb/>
+<item>The Title cannot descend to a <normalised orig="collaterall" auto="false">collateral</normalised>
+<lb/>
+<normalised orig="heire" auto="false">heir</normalised>.</item>
+<lb/>
+<item>The <normalised orig="Lawe" auto="false">Law</normalised> requireth the <normalised orig="seruice" auto="false">service</normalised> of the
+<lb/>
+wom<abbr_type=''macron''>a<ex>n</ex></abbr>: of her <normalised orig="husbande" auto="false">husband</normalised>.</item>
+<lb/>
+<item_style=''list-style-type:_none;''><join original="Land&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Landes" auto="false">Lands</join></normalised></abbr> <join original="gev&lt;abbr_type=''macron''&gt;e&lt;ex&gt;n"><normalised orig="geven" auto="false">given</join></normalised></ex></abbr> to a m<abbr_type=''macron''>a<ex>n</ex></abbr> &amp; his <join original="heir&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="heires" auto="false">heirs</join></normalised></abbr> male of his
+<lb/>
+body who <normalised orig="hathe" auto="false">hath</normalised> <normalised orig="heire" auto="false">heir</normalised> female &amp; no male
+<lb/>
+&amp; she <normalised orig="hathe" auto="false">hath</normalised> a <normalised orig="sonne" auto="false">son</normalised>: he shall not <normalised orig="inherite" auto="false">inherit</normalised>
+<lb/>
+because he cannot <normalised orig="deryve" auto="false">derive</normalised> <normalised orig="hymselfe" auto="false">himself</normalised> from
+<lb/>
+<g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> male but by the wom<abbr_type=''macron''>a<ex>n</ex></abbr>.</item>
+<lb/>
+<item>The Com<abbr_type=''macron''><ex>m</ex>o<ex>n</ex></abbr> <normalised orig="Lawe" auto="false">Law</normalised> is <normalised orig="Custome" auto="false">Custom</normalised> &amp; in these
+<lb/>
+<join original="thing&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="thinges" auto="false">things</join></normalised></abbr> c<abbr_type=''macron''>o<ex>n</ex></abbr>trary to <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> <normalised orig="customes" auto="false">customs</normalised> of other Regions</item>
+<lb/>
+<item>The Co<abbr_type=''macron''>m<ex>m</ex></abbr>on <normalised orig="Lawe" auto="false">Law</normalised> taketh no knowledge
+<lb/>
+of questions of chivalry.</item>
+<lb/>
+<item>Prescription worketh a state of inheritance
+<lb/>
+in <normalised orig="Lawe" auto="false">Law</normalised> in Barons &amp; baronies w<ex>hi</ex><hi_rend=''sl''>ch</hi> in
+<lb/>
+<normalised orig="Lawe" auto="false">Law</normalised> worketh a <normalised orig="ffeesymple" auto="false">fee simple</normalised>.</item>
+<lb/>
+<item_style=''list-style-type:_none''><normalised orig="feetaile" auto="false">fee tail</normalised> is not an inheritance by <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> demise
+<lb/>
+of the <normalised orig="Lawe" auto="false">Law</normalised>: but of <abbr_type=''brevigraph''_subtype=''brev-p''><join original="p&lt;ex&gt;ar&lt;/ex&gt;&lt;/abbr&gt;ticuler"><normalised orig="particuler" auto="false">particular</join></normalised> <abbr_type=''brevigraph''_subtype=''brev-p''>p<ex>er</ex></abbr>sons.</item>
+<lb/>
+<item><normalised orig="Yf" auto="false">If</normalised> <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> dignity of a <normalised orig="Baronesse" auto="false">Baroness</normalised> be in <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> wife
+<lb/>
+as inheritance, th<abbr_type=''macron''>e<ex>n</ex></abbr> <normalised orig="thesame" auto="false">the same</normalised> inheritance
+<lb/>
+must be denied in the <normalised orig="husbande" auto="false">husband</normalised> in <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> <normalised orig="righte" auto="false">right</normalised>
+<lb/>
+of his wife: &amp; her name must be <normalised orig="vsed" auto="false">used</normalised>
+<lb/>
+in <join original="theu&lt;abbr_type=''brevigraph''_subtype=''brev-er''&gt;er&lt;/abbr&gt;y"><normalised orig="theuery" auto="false">the every</join></normalised> <normalised orig="writte" auto="false">writ</normalised>, <join original="vp&lt;abbr_type=''macron''&gt;o&lt;ex&gt;n"><normalised orig="vpon" auto="false">upon</join></normalised></ex></abbr> suite for <normalised orig="thesame" auto="false">the same</normalised> <join original="in&lt;pc_force=''weak''&gt;=&lt;/pc&gt;[lb][lb]&lt;lb_break=''no''/&gt;heritance"><normalised orig="in=heritance" auto="false">inheritance</join></normalised></item>
+<lb/>
+An <normalised orig="Auncient" auto="false">Ancient</normalised> <c/>
+<del>
+place
+</del>
+<c/> Barony may be <normalised orig="geven" auto="false">given</normalised>
+<lb/>
+to a Bar<abbr_type=''macron''>o<ex>n</ex></abbr> of <normalised orig="newe" auto="false">new</normalised> creation the place
+<lb/>
+<normalised orig="beinge" auto="false">being</normalised> <normalised orig="voyde" auto="false">void</normalised> &amp; in the <join original="king&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="kinges" auto="false">king's</join></normalised></abbr> <normalised orig="handes" auto="false">hands</normalised> by
+<lb/>
+<normalised orig="attaynder" auto="false">attainder</normalised>.</list>
+<lb/>
+<item>There is difference <normalised orig="betweene" auto="false">between</normalised> Creation
+<lb/>
+restitution</item>
+<lb/>
+<item>By <normalised orig="writte" auto="false">writ</normalised> <normalised orig="implicatiue" auto="false">implicative</normalised> inherit<abbr_type=''macron''>a<ex>n</ex></abbr>ce passeth
+<lb/>
+to the <abbr_type=''brevigraph''_subtype=''brev-p''><join original="p&lt;ex&gt;ar&lt;/ex&gt;&lt;/abbr&gt;tie"><normalised orig="partie" auto="false">party</join></normalised> to wh<abbr_type=''macron''>o<ex>m</ex></abbr> <normalised orig="thesame" auto="false">the same</normalised> is directed w<ex>hi</ex><hi_rend=''sl''>ch</hi>
+<lb/>
+must be intended a <normalised orig="ffeesymple" auto="false">Fee simple</normalised>. <normalised orig="vnlesse" auto="false">unless</normalised> the
+<lb/>
+<join original="woord&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="woordes" auto="false">words</join></normalised></abbr> or <normalised orig="olde" auto="false">old</normalised> <normalised orig="vsage" auto="false">usage</normalised> enforce <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> <join original="co&lt;abbr_type=''macron''&gt;&lt;ex&gt;s&lt;/ex&gt;t&lt;/abbr&gt;om&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="costoms" auto="false">customs</join></normalised></abbr>.</item>
+<lb/>
+<item><foreign_xml:lang=''la''>Libe<abbr_type=''brevigraph''_subtype=''brev-rum''>rum</abbr> maritagi<abbr_type=''macron''>u<ex>m</ex></abbr></foreign> are <abbr_type=''brevigraph''_subtype=''brev-p''>p<ex>ro</ex></abbr><abbr_type=''brevigraph''_subtype=''brev-p''>p<ex>er</ex></abbr>ly no <join original="woord&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="woordes" auto="false">words</join></normalised></abbr> of
+<lb/>
+inheritance: <join original="neu&lt;abbr_type=''brevigraph''_subtype=''brev-er''&gt;er&lt;/abbr&gt;thelesse"><normalised orig="neuerthelesse" auto="false">nevertheless</join></normalised> by approved
+<lb/>
+<normalised orig="custome" auto="false">custom</normalised>, they are <normalised orig="receaved" auto="false">received</normalised> to employ
+<lb/>
+inheritance.</item>
+<lb/>
+<item_style=''list-style-type:_none''>In a <normalised orig="gifte" auto="false">gift</normalised> of <normalised orig="ffranke" auto="false">Frank</normalised> <normalised orig="mariage" auto="false">marriage</normalised> there must
+<lb/>
+be <normalised orig="kynred" auto="false">kindred</normalised> <normalised orig="betweene" auto="false">between</normalised> the dono<hi_rend=''sl''>r</hi>  <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> wom<abbr_type=''macron''>a<ex>n</ex></abbr>
+<lb/>
+donee.</item>
+<lb/>
+<item_style=''list-style-type:_none''>And it is called <normalised orig="ffranke" auto="false">Franke</normalised> because it is free
+<lb/>
+fr<abbr_type=''macron''>o<ex>m</ex></abbr> all <normalised orig="seruice" auto="false">service</normalised> except <normalised orig="ffealty" auto="false">Fealty</normalised>. <normalised orig="vntill" auto="false">until</normalised> the
+<lb/>
+4<hi_rend=''sl''>th</hi> degree.</item>
+<lb/>
+<item>Service of Barons is <normalised orig="imediatly" auto="false">immediately</normalised> <normalised orig="dewe" auto="false">due</normalised>
+<lb/>
+<normalised orig="vpon" auto="false">upon</normalised> his creation.</item>
+<lb/>
+<item>A Barony <normalised orig="descendinge" auto="false">descending</normalised> to more then one
+<lb/>
+<join original="dowght&lt;abbr_type=''brevigraph''_subtype=''brev-er''&gt;er"><normalised orig="dowghter" auto="false">daughter</join></normalised></abbr>  <normalised orig="heire" auto="false">heir</normalised> is <normalised orig="extincte" auto="false">extinct</normalised></item>
+<lb/>
+<item>A m<abbr_type=''macron''>a<ex>n</ex></abbr> <normalised orig="marryinge" auto="false">marrying</normalised> the sole <normalised orig="heire" auto="false">heir</normalised> of a Baro<ex>n</ex>
+<lb/>
+may <normalised orig="vse" auto="false">use</normalised> the style of dignity by the <join original="g&lt;abbr_type=''macron''&gt;&lt;ex&gt;e&lt;/ex&gt;n&lt;ex&gt;e&lt;/ex&gt;&lt;/abbr&gt;rall"><normalised orig="generall" auto="false">general</join></normalised>
+<lb/>
+<normalised orig="custome" auto="false">custom</normalised> of this <normalised orig="Realme" auto="false">Realm</normalised>.</item>
+<lb/>
+<item>If a m<abbr_type=''macron''>a<ex>n</ex></abbr> <abbr_type=''brevigraph''_subtype=''brev-p''>p<ex>ro</ex></abbr>hibited by the <normalised orig="kinge" auto="false">king</normalised> forbeareth to
+<lb/>
+<normalised orig="vse" auto="false">use</normalised> the style. yet the right <normalised orig="remayneth" auto="false">remaineth</normalised>.</item>
+<pb_n=''leaf_3_recto''/>
+<cb/>
+<lb/>
+<item>The <normalised orig="Lawes" auto="false">Laws</normalised> of this <normalised orig="Realme" auto="false">Realm</normalised> <normalised orig="enhableth" auto="false">enableth</normalised>
+<lb/>
+the husband (by the wom<abbr_type=''macron''>a<ex>n</ex></abbr>) to <normalised orig="vse" auto="false">use</normalised> the
+<lb/>
+stiles of dignity.</item>
+<lb/>
+<item>As for <normalised orig="theire" auto="false">their</normalised> hono<ex>u</ex><hi_rend=''sl''>rs</hi> sake they <normalised orig="wolde" auto="false">would</normalised> not
+<lb/>
+<normalised orig="vsurpe" auto="false">usurp</normalised> these Titles: so <normalised orig="wold" auto="false">would</normalised> not <join original="king&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="kinges" auto="false">king's</join></normalised></abbr>
+<lb/>
+in all Ages (w<ex>i</ex><hi_rend=''sl''>th</hi>out <normalised orig="iust" auto="false">just</normalised> <normalised orig="cawse" auto="false">cause</normalised>) have
+<lb/>
+<normalised orig="tollerated" auto="false">tolerated</normalised> it.</item>
+<lb/>
+<item><normalised orig="Tytle" auto="false">Title</normalised> by <abbr_type=''brevigraph''_subtype=''brev-p''>p<ex>re</ex></abbr>scripti<abbr_type=''macron''>o<ex>n</ex></abbr> is so <normalised orig="stronge" auto="false">strong</normalised> <g_ref=''#thorn''>th</g><ex>a</ex><hi_rend=''sl''>t</hi> none
+<lb/>
+learned c<abbr_type=''macron''>a<ex>n</ex></abbr> deny <normalised orig="thesame" auto="false">the same</normalised>.</item>
+<lb/>
+<item_style=''list-style-type:_none''><join original="Stude&lt;ex&gt;n&lt;/ex&gt;t&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Studentes" auto="false">Students</join></normalised></abbr> <normalised orig="neede" auto="false">need</normalised> <join original="iudgeme&lt;abbr_type=''macron''&gt;&lt;ex&gt;n&lt;/ex&gt;t"><normalised orig="iudgement" auto="false">judgement</join></normalised></abbr> in reading.
+<lb/>
+to <normalised orig="discerne" auto="false">discern</normalised> of <normalised orig="speaches" auto="false">speeches</normalised> spok<abbr_type=''macron''>e<ex>n</ex></abbr> at rand<abbr_type=''macron''>o<ex>m</ex></abbr>
+<lb/>
+fr<abbr_type=''macron''>o<ex>m</ex></abbr> those that be grounded <join original="vp&lt;abbr_type=''macron''&gt;o&lt;ex&gt;n"><normalised orig="vpon" auto="false">upon</join></normalised></ex></abbr> the
+<lb/>
+<normalised orig="Comon" auto="false">Common</normalised> <normalised orig="Lawes" auto="false">Laws</normalised> of the <normalised orig="Realme" auto="false">Realm</normalised>./</item>
+<lb/>
+<item_style=''list-style-type:_none''>To <normalised orig="trye" auto="false">try</normalised> the <normalised orig="trewthe" auto="false">truth</normalised>, we must <normalised orig="examyne" auto="false">examine</normalised>
+<lb/>
+it by the <join original="g&lt;abbr_type=''macron''&gt;&lt;ex&gt;e&lt;/ex&gt;n&lt;ex&gt;e&lt;/ex&gt;&lt;/abbr&gt;rall"><normalised orig="generall" auto="false">general</join></normalised> Rule  <normalised orig="maxime" auto="false">maxim</normalised> of the
+<lb/>
+<normalised orig="Lawe" auto="false">Law</normalised>.</item>
+<lb/>
+<item><join original="Eu&lt;abbr_type=''brevigraph''_subtype=''brev-er''&gt;er&lt;/abbr&gt;y"><normalised orig="Euery" auto="false">Every</join></normalised> wom<abbr_type=''macron''>a<ex>n</ex></abbr> by her <normalised orig="mariage" auto="false">marriage</normalised> loseth <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> <abbr_type=''brevigraph''_subtype=''brev-p''>p<ex>ro</ex></abbr><abbr_type=''brevigraph''_subtype=''brev-p''>p<ex>er</ex></abbr>
+<lb/>
+name of the <normalised orig="ffamily" auto="false">Family</normalised> <normalised orig="wherin" auto="false">wherein</normalised> she was
+<lb/>
+<normalised orig="borne" auto="false">born</normalised>: for by that act she incor<abbr_type=''brevigraph''_subtype=''brev-p''>p<ex>or</ex></abbr>ateth
+<lb/>
+<join original="her selfe"><normalised orig="herselfe" auto="false">herself</join></normalised> in her <join original="husband&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="husbandes" auto="false">husband's</join></normalised></abbr> <normalised orig="ffamilye" auto="false">Family</normalised></item>
+<lb/>
+<item>In this <normalised orig="Realme" auto="false">Realm</normalised> <join original="eu&lt;abbr_type=''brevigraph''_subtype=''brev-er''&gt;er&lt;/abbr&gt;y"><normalised orig="euery" auto="false">every</join></normalised> wom<abbr_type=''macron''>a<ex>n</ex></abbr> <normalised orig="retayneth" auto="false">retaineth</normalised>
+<lb/>
+her name of dignity she had before
+<lb/>
+<normalised orig="mariage" auto="false">marriage</normalised>: <normalised orig="vnlesse" auto="false">unless</normalised> a great<abbr_type=''brevigraph''_subtype=''brev-er''>er</abbr> happ<abbr_type=''macron''>e<ex>n</ex></abbr>
+<lb/>
+<normalised orig="vnto" auto="false">unto</normalised> her, th<abbr_type=''macron''>e<ex>n</ex></abbr> the great<abbr_type=''brevigraph''_subtype=''brev-er''>er</abbr> is <abbr_type=''brevigraph''_subtype=''brev-p''>p<ex>re</ex></abbr>ferred
+<lb/>
+that other suppressed, but not <join original="extin&lt;pc_force=''weak''&gt;=&lt;/pc&gt;[lb]&lt;lb_break=''no''/&gt;guished"><normalised orig="extin=guished" auto="false">extinguished</join></normalised>.</item>
+<lb/>
+<item>An Exige<abbr_type=''macron''><ex>n</ex>t</abbr> may <metamark_function=''insertion''>^</metamark><c/>
+<add_type=''authorial''>
+not
+</add>
+<c/> be awarded against
+<lb/>
+an <normalised orig="Earle" auto="false">Earl</normalised>: for the dignity of <normalised orig="hys" auto="false">his</normalised>
+<lb/>
+name.</item>
+<lb/>
+<item>The <normalised orig="Lawe" auto="false">Law</normalised> denieth not to wom<abbr_type=''macron''>e<ex>n</ex></abbr> the
+<lb/>
+<normalised orig="pryveledge" auto="false">privilege</normalised> they have by their <join original="hus&lt;pc_force=''weak''&gt;=&lt;/pc&gt;[lb]&lt;lb_break=''no''/&gt;bands"><normalised orig="hus=bands" auto="false">husbands</join></normalised>. <foreign_xml:lang=''la''><normalised orig="Vxor" auto="false">Uxor</normalised> enim gaudet viri <join original="Pri&lt;pc_force=''weak''&gt;=&lt;/pc&gt;[lb]&lt;lb_break=''no''/&gt;vilegiis"><normalised orig="Pri=vilegiis" auto="false">Privilegiis</join></normalised>.</foreign></item>
+<lb/>
+<item>An <normalised orig="Earle" auto="false">Earl</normalised> is <normalised orig="priueledged" auto="false">privileged</normalised> because
+<lb/>
+he is a Lo<abbr_type=''truncation''_subtype=''colon''><ex>rd</ex>:</abbr> of the Parliament.</item>
+<lb/>
+<item>It is (of some) doubted whether an
+<lb/>
+<normalised orig="Earle" auto="false">Earl</normalised> in respect only he is a <join original="duk&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="dukes" auto="false">duke's</join></normalised></abbr>
+<lb/>
+<normalised orig="sonne" auto="false">son</normalised> may <normalised orig="clayme" auto="false">claim</normalised> <g_ref=''#thorn''>th</g><ex>a</ex><hi_rend=''sl''>t</hi> <c/>
+<add_type=''authorial''>
+<normalised orig="benefite" auto="false">benefit</normalised> of
+</add>
+<c/> <normalised orig="priueledge" auto="false">privilege</normalised>.</item>
+<lb/>
+<item>To <normalised orig="doubte" auto="false">doubt</normalised> whether <join original="awom&lt;abbr_type=''macron''&gt;a&lt;ex&gt;n"><normalised orig="awoman" auto="false">a woman</join></normalised></ex></abbr> may use
+<lb/>
+<g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> name  dignity <c/>
+<del>
+of
+</del>
+<c/> she <metamark_function=''insertion''>^</metamark><c/>
+<add_type=''authorial''>
+<normalised orig="receaveth" auto="false">receiveth</normalised> from her
+</add>
+<c/> <normalised orig="husbande" auto="false">husband</normalised>
+<lb/>
+is to <normalised orig="doubte" auto="false">doubt</normalised> of the <normalised orig="equitie" auto="false">equity</normalised> of the
+<lb/>
+<normalised orig="Lawe" auto="false">Law</normalised>.</item>
+<lb/>
+The <normalised orig="Lawe" auto="false">Law</normalised> <g_ref=''#thorn''>th</g><ex>a</ex><hi_rend=''sl''>t</hi> bereaveth the wife of her
+<lb/>
+<item>names <normalised orig="receaved" auto="false">received</normalised> of her <normalised orig="owne" auto="false">own</normalised> <normalised orig="howse" auto="false">house</normalised>
+<lb/>
+ought to <normalised orig="endowe" auto="false">endow</normalised> her w<ex>i</ex><hi_rend=''sl''>th</hi> all her <join original="hus&lt;pc_force=''weak''&gt;=&lt;/pc&gt;[lb]&lt;lb_break=''no''/&gt;band&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="hus=bandes" auto="false">husband's</join></normalised></abbr> <normalised orig="Tytles" auto="false">Titles</normalised>.</item>
+<lb/>
+<item>Wom<abbr_type=''macron''>e<ex>n</ex></abbr> are denied the name of <normalised orig="theire" auto="false">their</normalised>
+<lb/>
+<join original="husband&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="husbandes" auto="false">husband's</join></normalised></abbr> dignities <g_ref=''#thorn''>th</g><ex>a</ex><hi_rend=''sl''>t</hi> are annexed
+<lb/>
+to administration.</item>
+<lb/>
+<item><normalised orig="Yf" auto="false">If</normalised> names of dignities are <normalised orig="extincte" auto="false">extinct</normalised>
+<lb/>
+in wom<abbr_type=''macron''>e<ex>n</ex></abbr>: th<abbr_type=''macron''>e<ex>n</ex></abbr> <join original="conveighanc&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="conveighances" auto="false">conveyances</join></normalised></abbr>  <normalised orig="ffyines" auto="false">Fines</normalised>
+<lb/>
+passed by those names should be <normalised orig="vtterly" auto="false">utterly</normalised>
+<lb/>
+<normalised orig="voyde" auto="false">void</normalised>: but in <normalised orig="deede" auto="false">deed</normalised> are not./</item>
+<lb/>
+<item>In <normalised orig="makinge" auto="false">making</normalised> of <join original="writt&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="writtes" auto="false">writs</join></normalised></abbr>: <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> co<abbr_type=''macron''>m<ex>m</ex></abbr>o<abbr_type=''macron''><ex>n</ex></abbr> <normalised orig="Lawe" auto="false">Law</normalised>
+<lb/>
+<normalised orig="determyneth" auto="false">determineth</normalised> not of <join original="right&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="rightes" auto="false">rights</join></normalised></abbr> of names
+<lb/>
+of nobility. but only of the <normalised orig="vse" auto="false">use</normalised> of them
+<lb/>
+to avoid confusion of names in <join original="writt&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="writtes" auto="false">writs</join></normalised></abbr>
+<lb/>
+and <normalised orig="pleaes" auto="false">pleas</normalised>, w<ex>hi</ex><hi_rend=''sl''>ch</hi> require <join original="eu&lt;abbr_type=''brevigraph''_subtype=''brev-er''&gt;er&lt;/abbr&gt;y"><normalised orig="euery" auto="false">every</join></normalised> <normalised orig="thinge" auto="false">thing</normalised> <join original="cert&lt;abbr_type=''macron''&gt;e&lt;ex&gt;n"><normalised orig="certen" auto="false">certain</join></normalised></ex></abbr>.</item>
+<lb/>
+<item>These <join original="woord&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="woordes" auto="false">words</join></normalised></abbr> <foreign_xml:lang=''la''>q<ex>ua</ex><hi_rend=''sl''>e</hi> fuit <normalised orig="Vxor" auto="false">Uxor</normalised> Comit<abbr_type=''brevigraph''_subtype=''brev-es''>is</abbr>: Ar<abbr_type=''macron''>o<ex>n</ex></abbr><abbr_type=''truncation''_subtype=''colon''><ex>del</ex>:</abbr>
+<lb/>
+determineth not or taketh <normalised orig="awaye" auto="false">away</normalised> her
+<lb/>
+<normalised orig="Dignitye" auto="false">Dignity</normalised>: but declare a determination
+<lb/>
+of the <normalised orig="mariage" auto="false">marriage</normalised> betwixt the Late <normalised orig="Earle" auto="false">Earl</normalised>
+<lb/>
+her.</foreign>
+<cb/>
+<lb/>
+<item>Wom<abbr_type=''macron''>e<ex>n</ex></abbr> may <normalised orig="vse" auto="false">use</normalised> names of dignities and
+<lb/>
+they are not <normalised orig="loste" auto="false">lost</normalised> by non <normalised orig="vse" auto="false">use</normalised> in <normalised orig="Courte" auto="false">Court</normalised>.</item>
+<lb/>
+<item>The <normalised orig="writte" auto="false">writ</normalised> <g_ref=''#thorn''>th</g><ex>a</ex><hi_rend=''sl''>t</hi> expresseth her not <join original="Coun&lt;pc_force=''weak''&gt;=&lt;/pc&gt;[lb]&lt;lb_break=''no''/&gt;tesse"><normalised orig="Coun=tesse" auto="false">Countess</join></normalised> intendeth her <normalised orig="Countesse" auto="false">Countess</normalised></item>
+<lb/>
+<item>The <normalised orig="Courte" auto="false">Court</normalised> laboureth only to conserve
+<lb/>
+<normalised orig="forme" auto="false">form</normalised> of <abbr_type=''brevigraph''_subtype=''brev-p''><join original="p&lt;ex&gt;ro&lt;/ex&gt;&lt;/abbr&gt;ceadinge"><normalised orig="proceadinge" auto="false">proceeding</join></normalised>  not to <normalised orig="determyne" auto="false">determine</normalised>
+<lb/>
+of the <normalised orig="meere" auto="false">mere</normalised> <normalised orig="righte" auto="false">right</normalised> of dignities.</item>
+<lb/>
+<item>These <join original="Woord&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Woordes" auto="false">Words</join></normalised></abbr> <foreign_xml:lang=''la''>Nobilis</foreign>  <foreign_xml:lang=''la''>ignobilis</foreign> <normalised orig="doe" auto="false">do</normalised>
+<lb/>
+not <normalised orig="alwaies" auto="false">always</normalised> signify (as in o<ex>u</ex><hi_rend=''sl''>r</hi> English)
+<lb/>
+noble  not noble; but <normalised orig="somtyme" auto="false">sometimes</normalised>, <join original="g&lt;abbr_type=''macron''&gt;e&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;&lt;abbr_type=''truncation''_subtype=''colon''&gt;&lt;ex&gt;ill&lt;/ex&gt;:&lt;/abbr&gt;&lt;pc_force=''weak''&gt;=&lt;/pc&gt;[lb]&lt;lb_break=''no''/&gt;m&lt;abbr_type=''macron''&gt;a&lt;ex&gt;n"><normalised orig="gentill=man" auto="false">gentleman</join></normalised></ex></abbr> or <join original="g&lt;abbr_type=''macron''&gt;e&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;&lt;abbr_type=''truncation''_subtype=''colon''&gt;&lt;ex&gt;ill&lt;/ex&gt;:&lt;/abbr&gt;wo&lt;abbr_type=''macron''&gt;ma&lt;ex&gt;n"><normalised orig="gentillwoman" auto="false">gentlewoman</join></normalised></ex></abbr>,  no <join original="gent&lt;abbr_type=''truncation''_subtype=''colon''&gt;&lt;ex&gt;ill&lt;/ex&gt;:&lt;/abbr&gt;man"><normalised orig="gentillman" auto="false">gentleman</join></normalised> or no
+<lb/>
+<join original="gent&lt;ex&gt;ill&lt;/ex&gt; wo&lt;abbr_type=''macron''&gt;ma&lt;ex&gt;n"><normalised orig="gentillwoman" auto="false">gentlewoman</join></normalised></ex></abbr>. <normalised orig="Therfore" auto="false">Therefore</normalised> this <normalised orig="sayinge" auto="false">saying</normalised> in
+<lb/>
+<g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> <normalised orig="Ciuile" auto="false">Civil</normalised> <normalised orig="Lawe" auto="false">Law</normalised> . <foreign_xml:lang=''la''>Quod mulier nobilis
+<lb/>
+nubens viro ignobili desinit esse <join original="no&lt;pc_force=''weak''&gt;=&lt;/pc&gt;[lb]&lt;lb_break=''no''/&gt;bilis"><normalised orig="no=bilis" auto="false">nobilis</join></normalised></foreign> . must be <normalised orig="vnderstood" auto="false">understood</normalised> if <abbr_type=''macron''><join original="ge&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;&lt;abbr_type=''truncation''_subtype=''colon''&gt;&lt;ex&gt;ill&lt;/ex&gt;:&lt;/abbr&gt;wo&lt;pc_force=''weak''&gt;=&lt;/pc&gt;[lb]&lt;lb_break=''no''/&gt;man"><normalised orig="gentillwo=men" auto="false">gentlewomen</join></normalised> marry with <normalised orig="suche" auto="false">such</normalised> as are no <join original="gent&lt;ex&gt;ill&lt;/ex&gt;&lt;pc_force=''weak''&gt;=&lt;/pc&gt;[lb]&lt;lb_break=''no''/&gt;men"><normalised orig="gentill=men" auto="false">gentlemen</join></normalised>./</item>
+<lb/>
+<name>
+Brooke
+</name>
+<c/> in his <bibl>Abridg<abbr_type=''macron''>me<ex>n</ex>t</abbr></bibl> noteth <g_ref=''#thorn''>th</g><ex>a</ex><hi_rend=''sl''>t</hi> by
+<lb/>
+<item>o<ex>u</ex><hi_rend=''sl''>r</hi> <normalised orig="lawe" auto="false">law</normalised> a wo<abbr_type=''macron''>ma<ex>n</ex></abbr> so <normalised orig="marryinge" auto="false">marrying</normalised> loseth
+<lb/>
+no dignity.</item>
+<lb/>
+<item>Men <normalised orig="lyvinge" auto="false">living</normalised> at <c/>
+<placeName>
+<normalised orig="Roome" auto="false">Rome</normalised>
+</placeName>
+<c/> are <normalised orig="subiecte" auto="false">subject</normalised> to
+<lb/>
+Romish <normalised orig="Customes" auto="false">Customs</normalised>,  in <c/>
+<placeName>
+<normalised orig="Englande" auto="false">England</normalised>
+</placeName>
+<c/> to <join original="En&lt;pc_force=''weak''&gt;=&lt;/pc&gt;[lb]&lt;lb_break=''no''/&gt;glishe"><normalised orig="En=glishe" auto="false">English</join></normalised>. /</item>
+<lb/>
+<normalised orig="Aunciently" auto="false">Anciently</normalised> in <c/>
+<placeName>
+<normalised orig="Roome" auto="false">Rome</normalised>
+</placeName>
+<c/> the <normalised orig="husbandes" auto="false">husband's</normalised> <join original="dig&lt;pc_force=''weak''&gt;=&lt;/pc&gt;[lb]&lt;lb_break=''no''/&gt;nity"><normalised orig="dig=nity" auto="false">dignity</join></normalised> was co<abbr_type=''macron''>m<ex>m</ex></abbr>unicable to the wife and
+<lb/>
+from the <normalised orig="ffather" auto="false">Father</normalised> to the <normalised orig="sonne" auto="false">son</normalised>  nephew
+<lb/>
+no farther th<abbr_type=''macron''>e<ex>n</ex></abbr> <foreign_xml:lang=''la''><join original="vsq&lt;abbr_type=''brevigraph''_subtype=''truncation-z''&gt;ue"><normalised orig="vsque" auto="false">usque</join></normalised></abbr> Pronepotem</foreign> ./</item>
+<lb/>
+<item>The <normalised orig="dowghter" auto="false">daughter</normalised>: of a Senator <normalised orig="marryinge" auto="false">marrying</normalised> w<ex>i</ex><hi_rend=''sl''>th</hi>
+<lb/>
+a co<abbr_type=''macron''>m<ex>m</ex></abbr>oner lost her nobility or <join original="gene&lt;pc_force=''weak''&gt;=&lt;/pc&gt;[lb]&lt;lb_break=''no''/&gt;&lt;item&gt;rosity"><normalised orig="gene=rosity" auto="false">generosity</join></normalised>: <normalised orig="vntill" auto="false">until</normalised> the <normalised orig="Comon" auto="false">Common</normalised><abbr_type=''brevigraph''_subtype=''brev-er''>er</abbr>s <normalised orig="obtayned" auto="false">obtained</normalised> <g_ref=''#thorn''>th</g><ex>a</ex><hi_rend=''sl''>t</hi>
+<lb/>
+out of the body of th<abbr_type=''macron''>e<ex>m</ex></abbr>; <join original="Senator&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Senatores" auto="false">Senators</join></normalised></abbr> might
+<lb/>
+be ch<abbr_type=''macron''>ose<ex>n</ex></abbr>: Th<abbr_type=''macron''>e<ex>n</ex></abbr> if she <normalised orig="maried" auto="false">married</normalised> w<ex>i</ex><hi_rend=''sl''>th</hi> <normalised orig="suche" auto="false">such</normalised>
+<lb/>
+a one as by his <normalised orig="qualitye" auto="false">quality</normalised> might be chos<abbr_type=''macron''>e<ex>n</ex></abbr>
+<lb/>
+Senator, she had favo<ex>u</ex><hi_rend=''sl''>r</hi></item>
+<lb/>
+The Romans aft<abbr_type=''brevigraph''_subtype=''brev-er''>er</abbr> <join original="x&lt;abbr_type=''macron''&gt;pia&lt;/abbr&gt;n"><normalised orig="xpian" auto="false">Christian</join></normalised> <normalised orig="faithe" auto="false">faith</normalised> <normalised orig="receved" auto="false">received</normalised>
+<lb/>
+<item> publication of <normalised orig="mariage" auto="false">marriage</normalised> (in <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> Lord
+<lb/>
+to be: ho<ex>noura</ex><hi_rend=''sl''>ble</hi>: to all <abbr_type=''brevigraph''_subtype=''brev-p''>p<ex>er</ex></abbr>sons, they <normalised orig="soughte" auto="false">sought</normalised>
+<lb/>
+<join original="Godd&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Goddes" auto="false">God's</join></normalised></abbr> childr<abbr_type=''macron''>e<ex>n</ex></abbr> before the childr<abbr_type=''macron''>e<ex>n</ex></abbr> of
+<lb/>
+<join original="king&lt;ex&gt;es"><normalised orig="kinges" auto="false">kings</join></normalised></ex> to be their <normalised orig="sonnes" auto="false">sons</normalised> in <normalised orig="Lawe" auto="false">Law</normalised>.</item>
+<lb/>
+<item>By a <normalised orig="Romayne" auto="false">Roman</normalised> constitution it was <abbr_type=''brevigraph''_subtype=''brev-p''><join original="p&lt;ex&gt;ro&lt;/ex&gt;&lt;/abbr&gt;[lb]&lt;lb/&gt;[lb]vided"><normalised orig="provided" auto="false">provided</join></normalised> <g_ref=''#thorn''>th</g><ex>a</ex><hi_rend=''sl''>t</hi> <c/>
+<del>
+if
+</del>
+<c/> <join original="eu&lt;abbr_type=''brevigraph''_subtype=''brev-er''&gt;er&lt;/abbr&gt;y"><normalised orig="euery" auto="false">every</join></normalised> noble or <join original="g&lt;abbr_type=''macron''&gt;e&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;illwom&lt;abbr_type=''macron''&gt;a&lt;ex&gt;n"><normalised orig="gentillwoman" auto="false">gentlewoman</join></normalised></ex></abbr>
+<lb/>
+<normalised orig="stayned" auto="false">stained</normalised> w<ex>i</ex><hi_rend=''sl''>th</hi> <normalised orig="vnchastitye" auto="false">unchastity</normalised> should <c/>
+<del>
+Sose
+</del>
+<c/>
+<lb/>
+lose her Nobility. And this carrieth
+<lb/>
+<normalised orig="greate" auto="false">great</normalised> reason w<ex>i</ex><hi_rend=''sl''>th</hi> it; for <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> <normalised orig="forfaiture" auto="false">forfeiture</normalised>
+<lb/>
+is for a most filthy  <normalised orig="vnnoble" auto="false">unnoble</normalised> fault
+<lb/>
+wh<abbr_type=''macron''>e<ex>n</ex></abbr> <normalised orig="thother" auto="false">the other</normalised> is not only for no fault but
+<lb/>
+for an honorable action.</item>
+<lb/>
+<item><normalised orig="ffeodale" auto="false">Feudal</normalised> dignities are not <normalised orig="tyed" auto="false">tied</normalised> to the
+<lb/>
+<abbr_type=''brevigraph''_subtype=''brev-p''>p<ex>er</ex></abbr>son but to the <normalised orig="ffee" auto="false">Fee</normalised> in <normalised orig="theire" auto="false">their</normalised> first
+<lb/>
+creation, that is to the <normalised orig="dukedome" auto="false">dukedom</normalised>
+<lb/>
+Marchionate County or <normalised orig="Baronye" auto="false">Barony</normalised>.</item>
+<lb/>
+<item_style=''list-style-type:_none''><normalised orig="Vnlesse" auto="false">Unless</normalised> <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> <normalised orig="ffee" auto="false">Fee</normalised> be <normalised orig="forfaited" auto="false">forfeited</normalised> there can
+<lb/>
+be no <normalised orig="forfaiture" auto="false">forfeiture</normalised> of the Name.</item>
+<lb/>
+<item>No <join original="g&lt;abbr_type=''macron''&gt;e&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;ilman"><normalised orig="gentilman" auto="false">gentleman</join></normalised> <normalised orig="beinge" auto="false">being</normalised> called to serve the
+<lb/>
+<normalised orig="Kinge" auto="false">King</normalised> <foreign_xml:lang=''la''>a Latere <join original="sc&lt;ex&gt;i&lt;/ex&gt;l&lt;abbr_type=''brevigraph''_subtype=''truncation-z''&gt;icet">scilicet</join></abbr></foreign> in <normalised orig="neerest" auto="false">nearest</normalised> place
+<lb/>
+of service is <normalised orig="therby" auto="false">thereby</normalised> made a <join original="g&lt;abbr_type=''macron''&gt;e&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;ill man"><normalised orig="gentillman" auto="false">gentleman</join></normalised>./</item>
+<lb/>
+<item>
+<name>
+Hostiens<ex>es</ex>
+</name>
+: <normalised orig="saieth" auto="false">sayeth</normalised> <g_ref=''#thorn''>th</g><ex>a</ex><hi_rend=''sl''>t</hi> <normalised orig="somtymes" auto="false">sometimes</normalised>  <g_ref=''#thorn''>th</g><ex>a</ex><hi_rend=''sl''>t</hi> by custom
+<lb/>
+the husband <normalised orig="shyneth" auto="false">shineth</normalised> w<ex>i</ex><hi_rend=''sl''>th</hi> his <normalised orig="wyves" auto="false">wife's</normalised> ~
+<lb/>
+<normalised orig="beames" auto="false">beams</normalised>. As wh<abbr_type=''macron''>e<ex>n</ex></abbr> a <normalised orig="symple" auto="false">simple</normalised> <join original="soldio&lt;ex&gt;u&lt;/ex&gt;&lt;hi_rend=''sl''&gt;r"><normalised orig="soldiour" auto="false">soldier</join></normalised></hi> <c/>
+<del>
+mar
+</del>
+<c/>
+<lb/>
+<normalised orig="marieth" auto="false">marrieth</normalised> w<ex>i</ex><hi_rend=''sl''>th</hi> a <normalised orig="Countesse" auto="false">Countess</normalised></item>
+</item>
+</item>
+</ab></body></text></surface>
+</sourceDoc>
+</TEI>
