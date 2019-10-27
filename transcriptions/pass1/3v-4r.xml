@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><calendarDesc><calendar xml:id="julianMar"><p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p></calendar><calendar xml:id="annoMundi3962"><p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p></calendar><calendar xml:id="beforeBritain"><p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p></calendar></calendarDesc></teiHeader><sourceDoc corresp="Va447"><surface xml:id="151468" n="3r-4v"><media url="https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229348~224981/full/!1024,1024/0/default.jpg" mimeType="image/jpeg"/></surface><text><body><p/><ab><pb n="3r-4v"/><pb n="leaf 3 verso"/><cb/><list rend="bullet"><lb/><item>ffor mariag<abbr type="brevigraph" subtype="brev-es">es</abbr> of Ladies <name>Jacob<ex>us</ex>: Rebuffi</name>
+<lb/>saieth . <foreign xml:lang="la">Si fillia Ducis nubat militi
+<lb/>dicetur Ducissa: quia est dignitas
+<lb/><del>g</del><add type="authorial">G</add>eneris.</foreign></item><lb/><item xml:lang="la">Dignitas gen<abbr type="brevigraph" subtype="brev-er">er</abbr>is <del>maior est</del> veniens
+<lb/>a patre excellentior est, q<ex>u</ex><hi rend="sl">ae</hi> venit
+<lb/>a Marito</item><lb/><item xml:lang="la">Si tam<abbr type="macron">e<ex>n</ex></abbr> dignitas mariti sit maior
+<lb/>poterit vti nobilitate viri.</item><lb/><item>Our Customes agree w<ex>i</ex><hi rend="sl">th</hi> <g ref="#thorn">th</g><hi rend="sl">e</hi> Romans
+<lb/>in some thing<abbr type="brevigraph" subtype="brev-es">es</abbr>: but w<ex>i</ex><hi rend="sl">th</hi> the ffrenche
+<lb/>in moste.</item><lb/><item>In <placeName>Germany</placeName> (by custome) the sonnes
+<lb/>of Dukes <del>are</del> doe all beare the
+<lb/>Names of duk<abbr type="brevigraph" subtype="brev-es">es</abbr> &amp; all their dow<ex>ghteres</ex>:
+<lb/>are called duchesses. In like sorte
+<lb/>of Earles childr<abbr type="macron">e<ex>n</ex></abbr>.</item><lb/><item>The Germans &amp; ffrenche borne in
+<lb/>obedience to the Im<abbr type="brevigraph" subtype="brev-p">p<ex>er</ex></abbr>iall Lawes,
+<lb/>yet in orders of Nobility &amp; chiualry
+<lb/>are not tyed to th<abbr type="macron">e<ex>m</ex></abbr> but to their owne
+<lb/>Customes: much more we (not sub<pc force="weak">=</pc>
+<lb break="no"/>iected therto, &amp; beinge out of that homag)
+<lb/>may likwise followe o<ex>u</ex><hi rend="sl">r</hi> owne customes
+<lb/>of chyvalry.</item><lb/><item>W<ex>i</ex><hi rend="sl">th</hi> vs duk<abbr type="brevigraph" subtype="brev-es">es</abbr> sonnes are not duk<abbr type="brevigraph" subtype="brev-es">es</abbr> <g ref="#thorn">th</g> <hi rend="sl">e</hi> only
+<lb/>eldest succedeth in dignity &amp; his ffather
+<lb/>lyvinge beareth <g ref="#thorn">th</g><hi rend="sl">e</hi> name of an Earle
+<lb/> &amp; is in degree above all symple Earles.</item><lb/><item>Their yong<abbr type="brevigraph" subtype="brev-er">er</abbr> sonnes are all Lord<abbr type="brevigraph" subtype="brev-es">es</abbr> &amp; in
+<lb/>degree above all Barons.</item><lb/><item>Their dow<ex>ghters</ex>: are all Ladies, in degree
+<lb/>above all Cou<abbr type="macron">ntess<ex>es</ex></abbr> holdinge theire
+<lb/>name &amp; place aft<abbr type="brevigraph" subtype="brev-er">er</abbr> they marry (if
+<lb/>they take to husbande a knighte <abbr type="brevigraph" subtype="truncation-z">esq<ex>uier</ex></abbr>
+<lb/>or gent<ex>ilman</ex>: but if they marry a noble
+<lb/>m<abbr type="macron">a<ex>n</ex></abbr>; they followe his degree and
+<lb/>lose theire owne. / .</item><lb/><item>Likwise theldest sonne of an Earle
+<lb/>only succedeth in his ffathers dignity
+<lb/>beinge in his ffathers lifetime a Lord
+<lb/>in degree above all Barons.</item><lb/><item>These are Lord<abbr type="brevigraph" subtype="brev-es">es</abbr> &amp; Ladies by custome
+<lb/>of Chiualrye beyond <g ref="#thorn">th</g><hi rend="sl">e</hi> memory of
+<lb/>m<abbr type="macron">a<ex>n</ex></abbr>, as strong in this kind of o<abbr type="brevigraph" subtype="brev-p">p<ex>er</ex></abbr>a<abbr type="macron">tio<ex>n</ex></abbr>
+<lb/> &amp; in theire <abbr type="brevigraph" subtype="brev-p">p<ex>ro</ex></abbr><abbr type="brevigraph" subtype="brev-p">p<ex>er</ex></abbr> Courte, as any g<abbr type="macron"><ex>e</ex>n<ex>er</ex>all</abbr>
+<lb/>Custome at the Co<abbr type="macron">m<ex>m</ex></abbr>on Lawe.</item><lb/><item>These are Lord<abbr type="brevigraph" subtype="brev-es">es</abbr> by the Auncient
+<lb/>Lawe, albeit <g ref="#thorn">th</g><hi rend="sl">e</hi> co<abbr type="macron">m<ex>m</ex></abbr>on lawe taketh
+<lb/>knowledge of no other Lordes but
+<lb/>Lord<abbr type="brevigraph" subtype="brev-es">es</abbr> of Parlia<abbr type="macron">me<ex>n</ex>t</abbr>e &amp; scarcely of
+<lb/>all these. Therfore an Argumente
+<lb/>draw<abbr type="macron">e<ex>n</ex></abbr> out of forme in the Como<abbr type="macron"><ex>n</ex></abbr>place
+<lb/>ought not to be a conclusion to no<pc force="weak">=</pc>
+<lb break="no"/>bilitye. <del>at the Co<abbr type="macron">m<ex>m</ex></abbr>on Lawe</del>.</item><lb/><item>It is the man<abbr type="brevigraph" subtype="brev-er">er</abbr> of that Courte for con<pc force="weak">=</pc>
+<lb break="no"/>servation of forme to varye in woord<abbr type="brevigraph" subtype="brev-es">es</abbr>
+<lb/>from the symple trewthe: yea &amp; in
+<lb/>this case to terme some Barons knight<abbr type="brevigraph" subtype="brev-es">es</abbr>
+<lb/>w<ex>hi</ex><hi rend="sl">ch</hi> in deede are none./</item><cb/><lb/><item>Of dukedomes Earldomes &amp; Baro<pc force="weak">=</pc>
+<lb break="no"/>nies, none are spoyled but by the
+<lb/>highest Criminall offenc<ex>es</ex>.</item><lb/><item>Wh<abbr type="macron">e<ex>n</ex></abbr> <name>De la poole</name> was created Earle
+<lb/>of Suff<ex>olk</ex>: by thesame patent his wife
+<lb/>was created by name (a forme not
+<lb/>vsuall) Countesse for terme of her
+<lb/>life, w<ex>hi</ex><hi rend="sl">ch</hi> name by second mariage
+<lb/>could not be tak<abbr type="macron">e<ex>n</ex></abbr> awaye.</item><lb/><item>The widowe of <name>Hen<ex>ry</ex>:5:</name>
+<lb/>maried w<ex>i</ex><hi rend="sl">th</hi> <name>Ow<abbr type="macron">e<ex>n</ex></abbr> Tewther.</name>
+<lb/>The <name>Countesse of Som<abbr type="brevigraph" subtype="brev-er">er</abbr>set</name>
+<lb/>mar<hi rend="sl">r</hi><ex>ied</ex>: w<ex>i</ex><hi rend="sl">th</hi> <name>De la poole</name>.
+<lb/><name>Cicely</name> do<ex>wghter</ex>: of:<name>Ed<ex>ward</ex>:4</name>: mar<ex>ied</ex>:
+<lb/>w<ex>i</ex><hi rend="sl">th</hi> <name>Kyme</name>.
+<lb/>The <name>La<ex>dy</ex>: Parre</name>. widdow:
+<lb/>to <name>Hen<ex>ry</ex>:8</name>: mar<ex>ied</ex>: <name>S<ex>i</ex><hi rend="sl">r</hi>
+<lb/>Tho<ex>mas</ex>: Seymor</name> } And all of th<abbr type="macron">e<ex>m</ex></abbr> reteyned theire stiles &amp; dignities.</item><lb/><item>Co<abbr type="macron">m<ex>m</ex></abbr>on  conveighanc<abbr type="brevigraph" subtype="brev-es">es</abbr> ffynes, and
+<lb/>Record<abbr type="brevigraph" subtype="brev-es">es</abbr> are plentifull witness<abbr type="brevigraph" subtype="brev-es">es</abbr>
+<lb/>of the like. And this Custome is
+<lb/>as olde as <placeName>Englande </placeName>itselfe.</item><lb/><item>Wh<abbr type="macron">e<ex>n</ex></abbr> they take fr<abbr type="macron">o<ex>m</ex></abbr> wom<abbr type="macron">e<ex>n</ex></abbr> their name
+<lb/> &amp; dignities &amp; fr<abbr type="macron">o<ex>m</ex></abbr> Barons their name
+<lb/>of Lorde: it is to be vnderstoude
+<lb/>qu<abbr type="macron">a<ex>n</ex>tu<ex>m</ex></abbr> ad form<abbr type="macron">a<ex>m</ex></abbr> fforencem &amp; n<abbr type="macron">o<ex>n</ex></abbr> alit<abbr type="brevigraph" subtype="brev-er">er</abbr></item><lb/>.<metamark>flourish</metamark>.
+<lb/><item>Writts in <date calendar="#julianMar" datingMethod="#julianMar" notBefore-custom="1216-10-28" notAfter-custom="1272-11-16">Hen<ex>ry</ex>: 3: tyme</date> served only
+<lb/>to calle to the <abbr type="brevigraph" subtype="brev-p">p<ex>ar</ex></abbr>lia<abbr type="macron">me<ex>n</ex>t</abbr> Barons al<pc force="weak">=</pc>
+<lb break="no"/>ready <del>created</del> made of w<ex>hi</ex><hi rend="sl">ch</hi> some
+<lb/>had theire Creations beyond mans
+<lb/>memory havinge sate in theyre
+<lb/>Baronies &amp; stiles of absolute inhe<pc force="weak">=</pc>
+<lb break="no"/>ritance in ffeesymple <foreign xml:lang="la">Ab Digni<pc force="weak">=</pc>
+<lb break="no"/>tat<abbr type="macron">e<ex>m</ex></abbr> coni<abbr type="macron">u<ex>n</ex></abbr>ct<abbr type="macron">a<ex>m</ex></abbr> feodo: &amp; feod<abbr type="macron">u<ex>m</ex></abbr> con<pc force="weak">=</pc>
+<lb break="no"/>i<abbr type="macron">u<ex>n</ex></abbr>ct<abbr type="macron">u<ex>m</ex></abbr> Dignitati.</foreign></item><lb/><item>Nothinge is more vntrowe th<abbr type="macron">e<ex>n</ex></abbr> <g ref="#thorn">th</g><ex>a</ex><hi rend="sl">t</hi> <del>Bar<abbr type="macron">o<ex>n</ex></abbr>s</del>
+<lb/><g ref="#thorn"> th</g><hi rend="sl">e</hi> p<ex>r</ex><hi rend="sl">i</hi>mer, materiall, &amp; finall <del>c....st</del>
+<lb/>dignity of a Bar<abbr type="macron">o<ex>n</ex></abbr> was to have
+<lb/>seate in <abbr type="brevigraph" subtype="brev-p">p<ex>ar</ex></abbr>lia<abbr type="macron">me<ex>n</ex>t</abbr>e.</item><lb/><item>Aft<abbr type="brevigraph" subtype="brev-er">er</abbr> solempne institution of <abbr type="brevigraph" subtype="brev-p">p<ex>ar</ex></abbr>lia<abbr type="macron">me<ex>n</ex>t</abbr>e
+<lb/>a rate was agreed vp<abbr type="macron">o<ex>n</ex></abbr> for <del>suff<abbr type="macron">icie<ex>n</ex></abbr>cy</del>
+<lb/>sufficiency in posessions &amp; <g ref="#thorn">th</g><hi rend="sl">e</hi> persons
+<lb/>qualified accordingly might be called
+<lb/>to <abbr type="brevigraph" subtype="brev-p">p<ex>ar</ex></abbr>liament by the king<abbr type="brevigraph" subtype="brev-es">es</abbr> writte, &amp; holde
+<lb/>that dignity to the<ex>m</ex> &amp; to theire heyres
+<lb/>in like man<abbr type="brevigraph" subtype="brev-er">er</abbr> as <g ref="#thorn">th</g><hi rend="sl">e</hi> Anci<abbr type="macron">e<ex>n</ex>t</abbr> Barons
+<lb/>dyd.</item><lb/><item>That Aunci<abbr type="macron">e<ex>n</ex>t</abbr> Baronies &amp; not writt<abbr type="brevigraph" subtype="brev-es">es</abbr>
+<lb/>made Barons: ap<abbr type="brevigraph" subtype="brev-p">p<ex>er</ex></abbr>eth by Baronies
+<lb/>granted to Religious houses by w<ex>hi</ex><hi rend="sl">ch</hi>
+<lb/>imediately <g ref="#thorn">th</g><hi rend="sl">e</hi> Abbot<abbr type="brevigraph" subtype="brev-es">es</abbr> &amp; Pryors were
+<lb/>Lord<abbr type="brevigraph" subtype="brev-es">es</abbr>, &amp; had power to clayme seate
+<lb/>in <abbr type="brevigraph" subtype="brev-p">p<ex>ar</ex></abbr>lia<abbr type="macron">me<ex>n</ex>t</abbr>.</item><lb/><item>Dignities w<ex>i</ex><hi rend="sl">th</hi> <g ref="#thorn">th</g><hi rend="sl">e</hi> Baronies passed by
+<lb/>succession to <abbr type="brevigraph" subtype="brev-p">p<ex>er</ex></abbr>sons ecclesiasticall
+<lb/>&amp; descended by co<abbr type="macron">m<ex>m</ex></abbr>on course of in
+<lb/>herit<abbr type="macron">a<ex>n</ex></abbr>ce to Laye m<abbr type="macron">e<ex>n</ex></abbr>./</item><lb/><item style="list-style-type: none">Creation by writte employeth a
+<lb/>feesymple.</item><pb n="leaf 4 recto"/><cb/><lb/><item>There hathe bene questi<abbr type="macron">o<ex>n</ex></abbr> in tymes
+<lb/>past whether the Style &amp; Armes
+<lb/>of a Baron made by writte should
+<lb/>descende to the heire g<abbr type="macron"><ex>e</ex>n<ex>e</ex>ral</abbr>l a
+<lb/>wom<abbr type="macron">a<ex>n</ex></abbr>: or to a male collat<abbr type="brevigraph" subtype="brev-er">er</abbr>all
+<lb/>heire. And sentence gev<abbr type="macron">e<ex>n</ex></abbr> for
+<lb/>the heire g<abbr type="macron"><ex>e</ex>n<ex>e</ex>ral</abbr>l.</item><lb/><item>The tytle of Duke, marquesse, Earle
+<lb/>have bene only Titles of Office
+<lb/>in olde tyme, &amp; not patrimoniall
+<lb/>but that of Bar<abbr type="macron">o<ex>n</ex></abbr> allwaies feodall.
+<lb/> &amp; therfore cannot w<ex>i</ex><hi rend="sl">th</hi>out manifest
+<lb/>iniury be restrayned to a bare
+<lb/>tytle of Office in <abbr type="brevigraph" subtype="brev-p">p<ex>ar</ex></abbr>lia<abbr type="macron">me<ex>n</ex>t</abbr> to the
+<lb/>disinherison of any heire g<abbr type="macron"><ex>e</ex>n<ex>e</ex>ral</abbr>l
+<lb/>w<ex>i</ex><hi rend="sl">th</hi>out some Cryme or forfaiture.</item><lb/><item>There is a principall Rule in Lawe
+<lb/><abbr type="macron">sc<ex>i</ex>l<abbr type="brevigraph" subtype="truncation-z">icet</abbr></abbr>: <foreign xml:lang="la">Interest Reipub<ex>licae</ex>: ut digni
+<lb/>tates familiar<abbr type="brevigraph" subtype="brev-es">es</abbr> <del>s</del> conseruent<abbr type="brevigraph" subtype="brev-er">ur</abbr></foreign>.</item><lb/><item>The Lawes of nature &amp; nations
+<lb/>doe <abbr type="brevigraph" subtype="brev-p">p<ex>er</ex></abbr>mitte childr<abbr type="macron">e<ex>n</ex></abbr> to be beutified
+<lb/>w<ex>i</ex><hi rend="sl">th</hi> theire parent<abbr type="brevigraph" subtype="brev-es">es</abbr> Nobility pur<pc force="weak">=</pc>
+<lb break="no"/>chased or atchiued by worthye
+<lb/>desert<abbr type="brevigraph" subtype="brev-es">es</abbr> ./. ffor this c<abbr type="macron">o<ex>n</ex></abbr>siderat<ex>ion</ex>
+<lb/>in <placeName>Germany</placeName> all Princ<abbr type="brevigraph" subtype="brev-es">es</abbr> childr<abbr type="macron">e<ex>n</ex></abbr>
+<lb/>(of bothe sexes) beare the names
+<lb/>of dignities vsed by theire pa<abbr type="macron">re<ex>n</ex>t</abbr><abbr type="brevigraph" subtype="brev-es">es</abbr>.</item><lb/><item>Oure fathers consideringe <g ref="#thorn">th</g><ex>a</ex><hi rend="sl">t</hi> none are
+<lb/>borne wise &amp; verteous &amp; <g ref="#thorn">th</g><ex>a</ex><hi rend="sl">t</hi> dought<abbr type="brevigraph" subtype="brev-er">er</abbr><abbr type="brevigraph" subtype="brev-es">es</abbr>
+<lb/>are no lesse naturall child<abbr type="macron">e<ex>n</ex></abbr> then
+<lb/>sonnes, in defect of sonnes receved
+<lb/>th<abbr type="macron">e<ex>n</ex></abbr> to right of inherit<abbr type="macron">a<ex>n</ex></abbr>ce: partly
+<lb/>for <g ref="#thorn">th</g><ex>a</ex><hi rend="sl">t</hi> it was not denied to a wom<abbr type="macron">a<ex>n</ex></abbr>
+<lb/>to be wise &amp; verteous; <abbr type="brevigraph" subtype="brev-p">p<ex>ar</ex></abbr>tly for <g ref="#thorn">th</g><ex>a</ex><hi rend="sl">t</hi>
+<lb/>a m<abbr type="macron">a<ex>n</ex></abbr> may choose to his weake dow<ex>ghter</ex>:
+<lb/>a wise sonne in lawe to his owne
+<lb/>comfort for the c<abbr type="macron">o<ex>n</ex></abbr>servation of his
+<lb/>patrimony, &amp; service of the co<abbr type="macron">m<ex>m</ex></abbr>on
+<lb/>weale: whereas a sonne must be
+<lb/>receaved w<ex>i</ex><hi rend="sl">th</hi> all his im<abbr type="brevigraph" subtype="brev-p">p<ex>er</ex></abbr>fections
+<lb/>as it pleaseth nature to frame
+<lb/>hym./</item><lb/><item>Wome<ex>n</ex> are admitted to tenures by
+<lb/>Martiall service w<ex>hi</ex><hi rend="sl">ch</hi> nature denieth
+<lb/>to theire sexe: but thesame is salued
+<lb/>w<ex>i</ex><hi rend="sl">th</hi> a <abbr type="brevigraph" subtype="brev-p">p<ex>ri</ex></abbr>ueledge of deputation. And
+<lb/>like <abbr type="brevigraph" subtype="brev-p">p<ex>ri</ex></abbr>ueledge is gev<abbr type="macron">e<ex>n</ex></abbr> th<abbr type="macron">e<ex>m</ex></abbr> in service
+<lb/>of witte <add type="authorial"><del>writte</del></add> not denied th<abbr type="macron">e<ex>m</ex></abbr> by the lawe
+<lb/>of God, nature, or nations.</item><lb/><item>Wom<abbr type="macron">e<ex>n</ex></abbr> are not barred the <abbr type="brevigraph" subtype="brev-p">p<ex>ar</ex></abbr>lia<abbr type="macron">me<ex>n</ex>t</abbr>e by
+<lb/>nature, but by Custome.</item><lb/><item>Wom<abbr type="macron">e<ex>n</ex></abbr> are incapeable of inheritance
+<lb/>in publiq<abbr type="brevigraph" subtype="truncation-z">ue</abbr> or meere Judiciall offices.</item><lb/><item style="list-style-type: none">A wom<abbr type="macron">a<ex>n</ex></abbr> lady of a mano<ex>u</ex><hi rend="sl">r</hi> hath in her
+<lb/>owne right Jurisdiction of a Court
+<lb/>Baro<ex>n</ex> &amp; thesame kept in her owne name
+<lb/> &amp; mynistreth iustice by her deputye.</item><cb/><lb/><item>The Lawe <abbr type="brevigraph" subtype="brev-p">p<ex>ro</ex></abbr>nounceth <g ref="#thorn">th</g><hi rend="sl">e</hi> husband &amp;
+<lb/>wife <del>one bodye</del> to make but one body
+<lb/>then in the eye of the Lawe, <g ref="#thorn">th</g><hi rend="sl">e</hi> service
+<lb/>done by the husband for the wife in
+<lb/><abbr type="brevigraph" subtype="brev-p">p<ex>ar</ex></abbr>lia<abbr type="macron">me<ex>n</ex>t</abbr>, is done by an hable <abbr type="brevigraph" subtype="brev-p">p<ex>er</ex></abbr>son,
+<lb/>And in reason the Courte is bett<abbr type="brevigraph" subtype="brev-er">er</abbr> s<ex>er</ex>ved
+<lb/>w<ex>i</ex><hi rend="sl">th</hi> <g ref="#thorn">th<hi rend="sl">e</hi></g> p<hi rend="sl">r</hi><ex>e</ex>sence of her husbande th<abbr type="macron">e<ex>n</ex></abbr> w<ex>i</ex><hi rend="sl">th</hi> a
+<lb/><abbr type="brevigraph" subtype="brev-p">p<ex>ro</ex></abbr>xi of a Baron absent.</item><lb/><item style="list-style-type: none">All speaches of king<abbr type="brevigraph" subtype="brev-es">es</abbr> are not maxims
+<lb/>of Lawe.</item><lb/><item>In <g ref="#thorn">th</g><hi rend="sl">e</hi> case of <name>m<hi rend="sl">r</hi> Wymbishe</name> the kinge gave
+<lb/>sentence that no husband of a Ba<pc force="weak">=</pc>
+<lb break="no"/>ronesse in her owne right should vse
+<lb/>the style of her dignity vntill he had
+<lb/>by her a childe by w<ex>hi</ex><hi rend="sl">ch</hi> he should be<pc force="weak">=</pc>
+<lb break="no"/>come Ten<abbr type="macron">a<ex>n</ex>t</abbr> by curtesy of her Ba<pc force="weak">=</pc>
+<lb break="no"/>ronye. ffor th<abbr type="macron">e<ex>n</ex></abbr> by thesame Lawe
+<lb/>of England w<ex>hi</ex><hi rend="sl">ch</hi> gave hym title to the
+<lb/>Baronye he hathe tytle to <g ref="#thorn">th</g><hi rend="sl">e</hi> dignity
+<lb/>as <abbr type="brevigraph" subtype="brev-p">p<ex>ar</ex></abbr>cell of his wyves inheritance
+<lb/>And so Bar<abbr type="macron">o<ex>n</ex></abbr> by <abbr type="brevigraph" subtype="brev-p">p<ex>er</ex></abbr>mission and
+<lb/>imputation of Lawe &amp; not otherwise
+<lb/>by speciall suite &amp; favo<ex>u</ex><hi rend="sl">r</hi> of the
+<lb/>Prynce.</item><lb/><item>Before this order whoso maried a
+<lb/>Baronesse in her owne righte ime<pc force="weak">=</pc>
+<lb break="no"/>diatly vsed her style w<ex>hi</ex><hi rend="sl">ch</hi> was thoughe
+<lb/>thoughe done rather by Prynces
+<lb/><abbr type="brevigraph" subtype="brev-p">p<ex>er</ex></abbr>mission th<abbr type="macron">e<ex>n</ex></abbr> by war<abbr type="macron">ra<ex>n</ex>t</abbr> of Lawe</item><lb/><item>Not only by wom<abbr type="macron">e<ex>n</ex></abbr> <g ref="#thorn">th</g><ex>a</ex><hi rend="sl">t</hi> are reasonable
+<lb/>creatur<ex>es</ex> but by dome thing<abbr type="brevigraph" subtype="brev-es">es</abbr> titles
+<lb/>or dignities are conveighed. As
+<lb/>the Castle of Arondell, maketh
+<lb/>the posessor and Earle, &amp; thesame
+<lb/>fallinge to a wom<abbr type="macron">a<ex>n</ex></abbr> enhableth her
+<lb/>to transmitte the dignity to her
+<lb/>sonne; &amp; therw<ex>i</ex><hi rend="sl">th</hi>all place in Par<pc force="weak">=</pc>
+<lb break="no"/>lim<abbr type="macron">e<ex>n</ex>t</abbr>.</item><lb/><item>It is thought <g ref="#thorn">th</g><ex>a</ex><hi rend="sl">t</hi> there is a booke case
+<lb/>tendinge to this effect: <g ref="#thorn">th</g><ex>a</ex><hi rend="sl">t</hi> if the king<abbr type="brevigraph" subtype="brev-es">es</abbr>
+<lb/>Baron dye leavinge dyu<abbr type="brevigraph" subtype="brev-er">er</abbr>se doughter<abbr type="brevigraph" subtype="brev-es">es</abbr>
+<lb/><g ref="#thorn">th</g><hi rend="sl">e</hi> dignity is supposed to beat the
+<lb/>king<abbr type="brevigraph" subtype="brev-es">es</abbr> disposition. And <g ref="#thorn">th</g><ex>a</ex><hi rend="sl">t</hi> it groun<pc force="weak">=</pc>
+<lb break="no"/>ded vp<abbr type="macron">o<ex>n</ex></abbr> a maxime in the Cyvile
+<lb/>Lawe <g ref="#thorn">th</g><ex>a</ex><hi rend="sl">t</hi> sayeth <foreign xml:lang="la">Regn<abbr type="macron">u<ex>m</ex></abbr> Ducatus,
+<lb/>Comitat<abbr type="brevigraph" subtype="brev-us">us</abbr> Baronat<abbr type="brevigraph" subtype="brev-us">us</abbr> sunt res in<pc force="weak">=</pc>
+<lb break="no"/>diuiduae.</foreign> &amp; cannot abide .2. head<abbr type="brevigraph" subtype="brev-es">es</abbr>.</item><lb/><item>Therfore a barony dismembred by
+<lb/>sisterss shifte <del>cannot abide two
+<lb/>heade<abbr type="brevigraph" subtype="brev-es">s</abbr></del> hathe the dignity extinct
+<lb/>but wh<abbr type="macron">e<ex>n</ex></abbr> it descendeth to one sole
+<lb/>daught<abbr type="brevigraph" subtype="brev-er">er</abbr> &amp; heire it is otherwise.</item></list></ab></body></text></sourceDoc>
+</TEI>
+
