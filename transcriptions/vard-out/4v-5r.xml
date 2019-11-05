@@ -1,0 +1,121 @@
+<TEI_xmlns=''http://www.tei-c.org/ns/1.0''>
+<teiHeader>
+<calendarDesc>
+<calendar_xml:id=''julianMar''>
+<p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p>
+</calendar>
+<calendar_xml:id=''annoMundi3962''>
+<p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p>
+</calendar>
+<calendar_xml:id=''beforeBritain''>
+<p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p>
+</calendar>
+</calendarDesc>
+</teiHeader>
+<sourceDoc_corresp=''Va447''>
+<surface_xml:id=''151469''_n=''4r-5v''>
+<media_url=''https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229349~224980/full/!1024,1024/0/default.jpg''_mimeType=''image/jpeg''/>
+</surface>
+</sourceDoc>
+<text>
+<body>
+<p/>
+<ab>
+<pb_n=''4r-5v''/>
+<pb_n=''leaf_4_verso''/>
+<pb_n=''leaf_5_recto''/>
+<lb/>
+<heading>Who may <normalised orig="haue" auto="false">have</normalised> a <normalised orig="Clothe" auto="false">Cloth</normalised> of Estate
+<lb/>
+and who not.</heading>
+<lb/>
+<label_place=''margin''>Duke</label> A Duke may <normalised orig="haue" auto="false">have</normalised> a <normalised orig="Clothe" auto="false">Cloth</normalised> of Estate in all places
+<lb/>
+out of <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> <join original="king&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="kinges" auto="false">king's</join></normalised></abbr> p<hi_rend=''sl''>r</hi><ex>e</ex>sence so that it come not to <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> <normalised orig="grounde" auto="false">ground</normalised>
+<lb/>
+by 
+<measure>
+<normalised orig="halfe" auto="false">half</normalised> a <normalised orig="yarde" auto="false">yard</normalised>.
+</measure>
+ And no <normalised orig="Earle" auto="false">Earl</normalised> to <normalised orig="walke" auto="false">walk</normalised> with
+<lb/>
+<normalised orig="hym" auto="false">him</normalised>.
+<lb/>
+A Duk<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> eldest <normalised orig="sonne" auto="false">son</normalised> is borne a <normalised orig="Marques" auto="false">Marquess</normalised> &amp; shall
+<lb/>
+have <normalised orig="asmany" auto="false">as many</normalised> <join original="pouldering&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="poulderinges" auto="false">powderings</join></normalised></abbr> as a <normalised orig="Marques" auto="false">Marquess</normalised>. But
+<lb/>
+shall <normalised orig="goe" auto="false">go</normalised> <normalised orig="belowe" auto="false">below</normalised> <normalised orig="hym" auto="false">him</normalised>./
+<lb/>
+A Duk<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> eldest Daught<abbr_type=''brevigraph''_subtype=''brev-er''>er</abbr> is <normalised orig="borne" auto="false">born</normalised> a <normalised orig="Marchionesse" auto="false">Marchioness</normalised>./
+<lb/>
+A Duk<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> <join original="yong&lt;abbr_type=''brevigraph''_subtype=''brev-er''&gt;er"><normalised orig="yonger" auto="false">younger</join></normalised></abbr> <normalised orig="sonnes" auto="false">sons</normalised> are <normalised orig="borne" auto="false">born</normalised> <normalised orig="Earles" auto="false">Earls</normalised>. But shall
+<lb/>
+<normalised orig="goe" auto="false">go</normalised> after them./
+<lb/>
+<label_place=''margin''><normalised orig="Marques" auto="false">Marquess</normalised></label> A <normalised orig="Marquesse" auto="false">Marquess</normalised> <normalised orig="hathe" auto="false">hath</normalised> a <normalised orig="Clothe" auto="false">Cloth</normalised> of Estate but it
+<lb/>
+must <normalised orig="hange" auto="false">hang</normalised> 
+<measure>
+a <normalised orig="yarde" auto="false">yard</normalised>
+</measure>
+ fr<abbr_type=''macron''>o<ex>m</ex></abbr> the <normalised orig="grounde" auto="false">ground</normalised> But in the
+<lb/>
+Dukes <normalised orig="howse" auto="false">house</normalised> or <normalised orig="kinges" auto="false">king's</normalised> presence he <normalised orig="hathe" auto="false">hath</normalised>
+<lb/>
+none.
+<lb/>
+A <normalised orig="Marchionesse" auto="false">Marchioness</normalised> may have her <normalised orig="gowne" auto="false">gown</normalised> <normalised orig="birne" auto="false">borne</normalised> by a
+<lb/>
+<join original="knight&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="knightes" auto="false">knight's</join></normalised></abbr> wife but in <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> p<hi_rend=''sl''>r</hi><ex>e</ex>sence of a Dukes wife
+<lb/>
+by a <join original="gentillwo&lt;abbr_type=''macron''&gt;ma&lt;ex&gt;n"><normalised orig="gentillwoman" auto="false">gentlewoman</join></normalised></ex></abbr>./
+<lb/>
+A <normalised orig="Marquises" auto="false">Marquess's</normalised> eldest <normalised orig="sonne" auto="false">son</normalised> is <normalised orig="borne" auto="false">born</normalised> an <normalised orig="Earle" auto="false">Earl</normalised> but goeth
+<lb/>
+aft<abbr_type=''brevigraph''_subtype=''brev-er''>er</abbr> all <normalised orig="Earles" auto="false">Earls</normalised>, And before a Dukes <normalised orig="yongest" auto="false">youngest</normalised> <normalised orig="sonne" auto="false">son</normalised>.
+<lb/>
+His wife goeth <normalised orig="beneathe" auto="false">beneath</normalised> all Countesses &amp; above
+<lb/>
+all <normalised orig="Marquises" auto="false">Marquesses'</normalised> daughters. but <normalised orig="dawghters" auto="false">daughters</normalised> and
+<lb/>
+<normalised orig="heires" auto="false">heirs</normalised>.
+<lb/>
+A <normalised orig="Marquises" auto="false">Marquess's</normalised> <join original="dawght&lt;abbr_type=''brevigraph''_subtype=''brev-er''&gt;er"><normalised orig="dawghter" auto="false">daughter</join></normalised></abbr> is <normalised orig="borne" auto="false">born</normalised> a <normalised orig="Countesse" auto="false">Countess</normalised> but
+<lb/>
+shall goes <normalised orig="beneathe" auto="false">beneath</normalised> all Countesses.
+<lb/>
+<label_place=''margin''><normalised orig="Earle" auto="false">Earl</normalised></label> An <normalised orig="Earle" auto="false">Earl</normalised> in his <normalised orig="howse" auto="false">house</normalised> may have a <normalised orig="clothe" auto="false">cloth</normalised> of Estate
+<lb/>
+fringed round about w<ex>i</ex><hi_rend=''sl''>th</hi>out any <normalised orig="pendante" auto="false">pendant</normalised>.
+<lb/>
+An <normalised orig="Earle" auto="false">Earl</normalised> shall have no <normalised orig="Assaies" auto="false">Assays</normalised> in a <join original="Marques&lt;pc_force=''weak''&gt;=&lt;/pc&gt;[lb]&lt;lb_break=''no''/&gt;ses"><normalised orig="Marques=ses" auto="false">Marquess's</join></normalised> p<hi_rend=''sl''>r</hi><ex>e</ex>sence but his <normalised orig="Cuppe" auto="false">Cup</normalised> <join original="cou&lt;abbr_type=''brevigraph''_subtype=''brev-er''&gt;er&lt;/abbr&gt;ed"><normalised orig="couered" auto="false">covered</join></normalised>.
+<lb/>
+No <normalised orig="Countesse" auto="false">Countess</normalised> may have her <normalised orig="gowne" auto="false">gown</normalised> borne in the
+<lb/>
+Marchionesses p<hi_rend=''sl''>r</hi><ex>e</ex>sense <c/>
+<del>
+but
+</del>
+<c/> by a <join original="gentillwom&lt;abbr_type=''macron''&gt;a&lt;ex&gt;n"><normalised orig="gentillwoman" auto="false">gentlewoman</join></normalised></ex></abbr>
+<lb/>
+but by a <normalised orig="Gentillman" auto="false">Gentleman</normalised>./
+<lb/>
+An <normalised orig="Earles" auto="false">Earl's</normalised> eldest <normalised orig="sonne" auto="false">son</normalised> is <normalised orig="borne" auto="false">born</normalised> a <normalised orig="Viscounte" auto="false">Viscount</normalised>.
+<lb/>
+but shall <normalised orig="goe" auto="false">go</normalised> <normalised orig="beneathe" auto="false">beneath</normalised> all <join original="viscount&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="viscountes" auto="false">viscounts</join></normalised></abbr>.
+<lb/>
+An <normalised orig="Earles" auto="false">Earl's</normalised> <join original="yong&lt;abbr_type=''brevigraph''_subtype=''brev-er''&gt;er"><normalised orig="yonger" auto="false">younger</join></normalised></abbr> <normalised orig="sonnes" auto="false">sons</normalised> be <normalised orig="borne" auto="false">born</normalised> as Barons.
+<lb/>
+but shall <normalised orig="goe" auto="false">go</normalised> <normalised orig="belowe" auto="false">below</normalised> all Barons./
+<lb/>
+<label_place=''margin''>Visco<abbr_type=''macron''>u<ex>n</ex>t</abbr>.</label> A Viscount his eldest <normalised orig="sonne" auto="false">son</normalised> is borne a Bar<abbr_type=''macron''>o<ex>n</ex></abbr>
+<lb/>
+but shall <normalised orig="goe" auto="false">go</normalised> <normalised orig="belowe" auto="false">below</normalised> all Barons except <normalised orig="Earles" auto="false">Earls</normalised>
+<lb/>
+<join original="yong&lt;abbr_type=''brevigraph''_subtype=''brev-er''&gt;er"><normalised orig="yonger" auto="false">younger</join></normalised></abbr> <normalised orig="sonnes" auto="false">sons</normalised>./
+<lb/>
+</ab>
+</body>
+</text>
+</TEI>

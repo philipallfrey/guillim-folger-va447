@@ -1,0 +1,122 @@
+<TEI_xmlns=''http://www.tei-c.org/ns/1.0''>
+<teiHeader>
+<calendarDesc>
+<calendar_xml:id=''julianMar''>
+<p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p>
+</calendar>
+<calendar_xml:id=''annoMundi3962''>
+<p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p>
+</calendar>
+<calendar_xml:id=''beforeBritain''>
+<p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p>
+</calendar>
+</calendarDesc>
+</teiHeader>
+<sourceDoc_corresp=''Va447''>
+<surface_xml:id=''151469''_n=''4r-5v''>
+<media_url=''https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229349~224980/full/!1024,1024/0/default.jpg''_mimeType=''image/jpeg''/>
+</surface>
+</sourceDoc>
+<text>
+<body>
+<p/>
+<ab>
+<pb_n=''4r-5v''/>
+<pb_n=''leaf_4_verso''/>
+<pb_n=''leaf_5_recto''/>
+<lb/>
+<heading>Who may haue a Clothe of Estate
+<lb/>
+and who not.</heading>
+<lb/>
+<label_place=''margin''>Duke</label> A Duke may haue a Clothe of Estate in all places
+<lb/>
+out of <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> king<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> p<hi_rend=''sl''>r</hi><ex>e</ex>sence so that it come not to <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> grounde
+<lb/>
+by 
+<measure>
+halfe a yarde.
+</measure>
+ And no Earle to walke with
+<lb/>
+hym.
+<lb/>
+A Duk<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> eldest sonne is borne a Marques &amp; shall
+<lb/>
+have asmany pouldering<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> as a Marques. But
+<lb/>
+shall goe belowe hym./
+<lb/>
+A Duk<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> eldest Daught<abbr_type=''brevigraph''_subtype=''brev-er''>er</abbr> is borne a Marchionesse./
+<lb/>
+A Duk<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> yong<abbr_type=''brevigraph''_subtype=''brev-er''>er</abbr> sonnes are borne Earles. But shall
+<lb/>
+goe after them./
+<lb/>
+<label_place=''margin''>Marques</label> A Marquesse hathe a Clothe of Estate but it
+<lb/>
+must hange 
+<measure>
+a yarde
+</measure>
+ fr<abbr_type=''macron''>o<ex>m</ex></abbr> the grounde But in the
+<lb/>
+Dukes howse or kinges presence he hathe
+<lb/>
+none.
+<lb/>
+A Marchionesse may have her gowne birne by a
+<lb/>
+knight<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> wife but in <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> p<hi_rend=''sl''>r</hi><ex>e</ex>sence of a Dukes wife
+<lb/>
+by a gentillwo<abbr_type=''macron''>ma<ex>n</ex></abbr>./
+<lb/>
+A Marquises eldest sonne is borne an Earle but goeth
+<lb/>
+aft<abbr_type=''brevigraph''_subtype=''brev-er''>er</abbr> all Earles, And before a Dukes yongest sonne.
+<lb/>
+His wife goeth beneathe all Countesses &amp; above
+<lb/>
+all Marquises daughters. but dawghters and
+<lb/>
+heires.
+<lb/>
+A Marquises dawght<abbr_type=''brevigraph''_subtype=''brev-er''>er</abbr> is borne a Countesse but
+<lb/>
+shall goes beneathe all Countesses.
+<lb/>
+<label_place=''margin''>Earle</label> An Earle in his howse may have a clothe of Estate
+<lb/>
+fringed round about w<ex>i</ex><hi_rend=''sl''>th</hi>out any pendante.
+<lb/>
+An Earle shall have no Assaies in a Marques<pc_force=''weak''>=</pc>
+<lb_break=''no''/>ses p<hi_rend=''sl''>r</hi><ex>e</ex>sence but his Cuppe cou<abbr_type=''brevigraph''_subtype=''brev-er''>er</abbr>ed.
+<lb/>
+No Countesse may have her gowne borne in the
+<lb/>
+Marchionesses p<hi_rend=''sl''>r</hi><ex>e</ex>sense <c/>
+<del>
+but
+</del>
+<c/> by a gentillwom<abbr_type=''macron''>a<ex>n</ex></abbr>
+<lb/>
+but by a Gentillman./
+<lb/>
+An Earles eldest sonne is borne a Viscounte.
+<lb/>
+but shall goe beneathe all viscount<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr>.
+<lb/>
+An Earles yong<abbr_type=''brevigraph''_subtype=''brev-er''>er</abbr> sonnes be borne as Barons.
+<lb/>
+but shall goe belowe all Barons./
+<lb/>
+<label_place=''margin''>Visco<abbr_type=''macron''>u<ex>n</ex>t</abbr>.</label> A Viscount his eldest sonne is borne a Bar<abbr_type=''macron''>o<ex>n</ex></abbr>
+<lb/>
+but shall goe belowe all Barons except Earles
+<lb/>
+yong<abbr_type=''brevigraph''_subtype=''brev-er''>er</abbr> sonnes./
+<lb/>
+</ab>
+</body>
+</text>
+</TEI>
