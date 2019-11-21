@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<calendarDesc>
+			<calendar xml:id="julianMar">
+				<p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p>
+			</calendar>
+			<calendar xml:id="annoMundi3962">
+				<p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p>
+			</calendar>
+			<calendar xml:id="beforeBritain">
+				<p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p>
+			</calendar>
+		</calendarDesc>
+	</teiHeader>
+	<sourceDoc corresp="Va447">
+		<surface xml:id="151470" n="5r-6v">
+			<media url="https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229350~224979/full/!1024,1024/0/default.jpg" mimeType="image/jpeg"/>
+			<zone resp="#Vet-PhilipAllfrey">
+<pb n="leaf 5 verso" />
+<lb/>All viscount<brev-es>es</brev-es> yong<brev-er>er</brev-er> sonnes be borne Baro<macron>n<ex>n</ex></macron>et<brev-es>es</brev-es>
+<lb/> &amp; shall weare as many pawldering<brev-es>es</brev-es> as
+<lb/>Baronett<brev-es>es</brev-es> but shall goe belowe them.
+<lb/><label place="margin">Baron.</label> A Baron may have his gowne borne vp
+<lb/>by a m<macron>a<ex>n</ex></macron> in a Viscount<brev-es>es</brev-es> p<sl>r</sl><ex>e</ex>sence &amp; the
+<lb/>Cou<brev-er>er</brev-er> of his cupp helde vnder whilesthe
+<lb/>Drinketh. His eldest sonne shall goeas <del>a</del>
+<lb/>a Banneret &amp; have the vp<brev-p>p<ex>er</ex></brev-p> hande of
+<lb/>a Bann<brev-er>er</brev-er>et Because his father is a Peere of <brev-y>th</brev-y><sl>e</sl> Realme.
+<lb/>This daught<brev-er>er</brev-er> shall goe aboue all Bann<brev-er>er</brev-er>ettes
+<lb/>wyves &amp; knight<brev-es>es</brev-es> wyv<brev-es>es</brev-es>. Except she doe
+<lb/>marry w<ex>i</ex><sl>th</sl> one vnder degree of a
+<lb/>knighte.
+<lb/><label place="margin">knight</label> A knight<brev-es>es</brev-es> wyfe may have her kyrtle
+<lb/>borne vp except in her betters
+<lb/>p<sl>r</sl><ex>e</ex>sence And her foot sheete in like
+<lb/>sorte.
+<lb/>And if any of the Bloode Royall stande
+<lb/>in place they must stand above all
+<lb/>of that degree they be of themselues./
+<lb/><metamark>flourish</metamark>
+<lb/><heading>
+<lb/>Nomber of mowrner<brev-es>s</brev-es>
+<lb/>for eu<brev-er>er</brev-er>y estate.</heading>
+<lb/>A kinge hathe — xv<sup>en</sup>
+<lb/>A Queene — xiii
+<lb/>A Prynce — xiii.
+<lb/>A Marquise — xi.
+<lb/>An Earle — x.
+<lb/>A Viscounte —
+<lb/>{ A Baron. —
+<lb/>{ A knight — v.
+<lb><name>M<sl>r</sl> Morgan<brev-es>es</brev-es></name> booke
+<lb/>of <brev-y>th</brev-y><sl>e</sl> <place>Temple</place> (a <place>Norh<macron>a<ex>m</ex></macron>pt<macron>o<ex>n</ex></macron>shire</place> m<macron>a<ex>n</ex></macron>)
+<lb/>
+<pb n="leaf 6 recto" />
+<lb/><date calendar="#julianMar" datingMethod="#julianMar" notBefore-custom="1521-04-22" notAfter-custom="1522-04-21">A<ex>nn</ex><sl>o</sl>. 13: Hen<ex>rici</ex>:8</date>.
+<lb/><name>Dux: Buckingh<macron>a<ex>m</ex></macron></name> condemnat<brev-er>ur</brev-er> cor<macron>a<ex>m</ex></macron> <name>Tho<ex>mas</ex>: duce Norff<ex>olk</ex>: eo tem<brev-p>p<ex>or</ex></brev-p>e Senescall
+<lb/>Anglia</name> iudicio pari<macron>u<ex>m</ex></macron> suo<brev-rum>rum</brev-rum> <macron>sc<ex>i</ex>l<brev-z>icet</brev-z></macron> vni<brev-us>us</brev-us> ducis. vni<brev-us>us</brev-us> marchio<ex>n</ex>is .7. Comit<macron>u<ex>m</ex></macron>
+<lb/>et .12. Baron<macron>u<ex>m</ex></macron>.
+<lb/><date  calendar="#julianMar" datingMethod="#julianMar" when-custom="1521-05-17">Die ven<ex>er</ex>is :17: maii</date> <name>Edw<ex>ardus</ex>: dux Buck<ex>ingham</ex>:</name> decollat<brev-us>us</brev-us> est su<brev-p>p<ex>er</ex></brev-p> <place>monte<ex>m</ex> iuxta
+<lb/>Turrim London</place>. sepult<brev-us>us</brev-us> in <place>ecc<macron>l<ex>es</ex>ia</macron> ordinis S<ex>anc</ex><sl>ti</sl> August<macron>in<ex>i</ex></macron></place>
+<lb/><date calendar="#julianMar" datingMethod="#julianMar" when-custom="1523-04-27">A<ex>nn</ex>o .15 :Hen<ex>rici</ex>: 8: 27: Apr<ex>ilis</ex>:</date> tem<brev-p>p<ex>or</ex></brev-p>e <brev-p>p<ex>ar</ex></brev-p>liam<macron>e<ex>n</ex>t</macron>i <name>Arthur<brev-us>us</brev-us> Plantagenet</name> miles <macron>fili<ex>us</ex></macron>
+<lb/>noth<brev-us>us</brev-us> <name>Reg<brev-es>is</brev-es> Edw<ex>ardi</ex>:4</name>: ap<ex>u</ex><sl>d</sl> <place>font<macron>e<ex>m</ex></macron> Brigidia</place>. creat<brev-er>ur</brev-er> vice<macron>co<ex>m</ex>es</macron> de Insula
+<lb/>iure <name>vxoris relicte. Edm<macron>o<ex>ndi</ex></macron>: Dudley</name> decollati.
+<lb/><date calendar="#julianMar" datingMethod="#julianMar" notBefore-custom="1515-04-22" notAfter-custom="1516-04-21">A<ex>nn</ex><sl>o</sl> .7 :Hen<ex>rici</ex>: 8:</date> <name>Margareta Regina <place>Scotie</place></name> nupta est <name>Archibaldo Dowglas
+<lb/>C<macron>o<ex>m</ex>iti</macron> de Angois</name> sine assensa Reg<brev-es>is</brev-es> ffratris sui, &amp; aufuge<macron>ru<ex>n</ex>t</macron> in <place>Angliam</place>
+<lb/> &amp; in <place>Castro Harbothell</place> in <place>Comitat<ex>u</ex> Northumb<ex>rensi</ex></place>: nata est <name>margareta filia
+<lb/> eor<macron>u<ex>m</ex></macron></name>.
+<lb/><date datingMethod="#julianMar" when-custom="1248">A<ex>nn</ex><sl>o</sl>:1248.</date> <date datingMethod="#julianMar" notBefore-custom="1246-10-28" notAfter-custom="1247-10-27">31:Hen<ex>rici</ex>:3:</date> <name>Thomas de Bellocampo <macron>Co<ex>m</ex>es</macron> <del>Nor...</del>
+<lb/>Norwic<ex>i</ex>: et Mariscall<brev-us>us</brev-us> Angliae</name> <date datingMethod="#julianMar" when-custom="1354-08-24">.24. die Augusti .1354.</date> <date datingMethod="#julianMar" notBefore-custom="1353-01-25" notAfter-custom="1354-01-24">28
+<lb/>Edw<ex>ardi</ex>: 3:</date> ... vn<brev-us>us</brev-us> int<brev-er>er</brev-er> caeteros nobiles qui scripserunt ad p<macron>apa<ex>m</ex></macron>
+<lb/>circa negotia <place>ffranciae</place>./ <name>Math. Paris</name>. fol. 1004
+<lb/><heading>Cart<ex>a</ex>: <date datingMethod="#julianMar" notBefore-custom="1227-10-28" notAfter-custom="1227-10-27">Anno: 12: Hen<ex>rici</ex>: 3:</date></heading>
+<lb/><name>Rog<brev-er>er</brev-er><brev-us>us</brev-us> de Dant<ex>es</ex>: vel Antes</name> &amp; <name>matildis Comitissa Hereff<ex>ordensis</ex></name>
+<lb/><name> vxor eius</name>† soror <name>W<macron>ill<ex>el</ex>mi</macron>: <del>Comes de</del> mandevill nuper
+<lb/>Comit<brev-es>is</brev-es> Essex<ex>ensis</ex></name>./ † De <macron>Dau<ex>n</ex>t</macron>esia ./
+<lb/><label place="margin"><date datingMethod="#julianMar" notBefore-custom="1520-04-22" notAfter-custom="1521-04-21">a<ex>nn</ex><sl>o</sl> .12. h<ex>enrici</ex>: 8.</date></label> <name>C<macron>o<ex>m</ex>es</macron> Kyldare</name> depu<macron>tat<ex>us</ex></macron> ter<macron>r<ex>ae</ex></macron> <place>Hiberniae</place> exon<brev-er>er</brev-er><macron>atur</macron> ab officio, &amp; <name>Tho<ex>mas</ex>
+<lb/>C<macron>o<ex>m</ex>e</macron>s Surreggia</name> eius loco constituit<brev-er>ur</brev-er> Deputat<brev-us>us</brev-us> eiu<macron>sde<ex>m</ex></macron> terre
+<lb/><brev-p>p<ex>ro</ex></brev-p>cur<macron>a<ex>n</ex>t</macron>e <name>Wolseo Cardinali</name>, qui <date datingMethod="#julianMar" when-custom="1521-04">in initio Aprilis</date> iter arripuit
+<lb/>versus <place>Hiber<macron>nia<ex>m</ex></macron></place>.
+<lb/>
+</zone>
+</surface>
+</sourceDoc>
+<text>
+<body>
+	<p/>
+</body>
+</text>
+</TEI>

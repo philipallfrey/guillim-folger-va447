@@ -1,0 +1,255 @@
+<TEI_xmlns=''http://www.tei-c.org/ns/1.0''><teiHeader><calendarDesc><calendar_xml:id=''julianMar''><p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p></calendar><calendar_xml:id=''annoMundi3962''><p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p></calendar><calendar_xml:id=''beforeBritain''><p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p></calendar></calendarDesc></teiHeader><sourceDoc_corresp=''Va447''><surface_xml:id=''151470''_n=''5r-6v''><media_url=''https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229350~224979/full/!1024,1024/0/default.jpg''_mimeType=''image/jpeg''/></surface><text><body><p/><ab>
+<pb_n=''5r-6v''/>
+<pb_n=''leaf_5_verso''/>
+<lb/>
+All viscount<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> yong<abbr_type=''brevigraph''_subtype=''brev-er''>er</abbr> sonnes be borne Baro<abbr_type=''macron''>n<ex>n</ex></abbr>et<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr>
+<lb/>
+&amp; shall weare as many pawldering<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> as
+<lb/>
+Baronett<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> but shall goe belowe them.
+<lb/>
+<label_place=''margin''>Baron.</label> A Baron may have his gowne borne vp
+<lb/>
+by a m<abbr_type=''macron''>a<ex>n</ex></abbr> in a Viscount<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> p<hi_rend=''sl''>r</hi><ex>e</ex>sence &amp; the
+<lb/>
+Cou<abbr_type=''brevigraph''_subtype=''brev-er''>er</abbr> of his cupp helde vnder whilesthe
+<lb/>
+Drinketh. His eldest sonne shall goeas <c/>
+<del>
+a
+</del>
+<c/>
+<lb/>
+a Banneret &amp; have the vp<abbr_type=''brevigraph''_subtype=''brev-p''>p<ex>er</ex></abbr> hande of
+<lb/>
+a Bann<abbr_type=''brevigraph''_subtype=''brev-er''>er</abbr>et Because his father is a Peere of <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> Realme.
+<lb/>
+This daught<abbr_type=''brevigraph''_subtype=''brev-er''>er</abbr> shall goe aboue all Bann<abbr_type=''brevigraph''_subtype=''brev-er''>er</abbr>ettes
+<lb/>
+wyves &amp; knight<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> wyv<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr>. Except she doe
+<lb/>
+marry w<ex>i</ex><hi_rend=''sl''>th</hi> one vnder degree of a
+<lb/>
+knighte.
+<lb/>
+<label_place=''margin''>knight</label> A knight<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> wyfe may have her kyrtle
+<lb/>
+borne vp except in her betters
+<lb/>
+p<hi_rend=''sl''>r</hi><ex>e</ex>sence And her foot sheete in like
+<lb/>
+sorte.
+<lb/>
+And if any of the Bloode Royall stande
+<lb/>
+in place they must stand above all
+<lb/>
+of that degree they be of themselues./
+<lb/>
+<metamark>flourish</metamark>
+<lb/>
+<heading>
+<lb/>
+Nomber of mowrner<abbr_type=''brevigraph''_subtype=''brev-es''>s</abbr>
+<lb/>
+for eu<abbr_type=''brevigraph''_subtype=''brev-er''>er</abbr>y estate.</heading>
+<lb/>
+A kinge hathe &amp;#8212; xv<hi_rend=''sup''>en</hi>
+<lb/>
+A Queene &amp;#8212; xiii
+<lb/>
+A Prynce &amp;#8212; xiii.
+<lb/>
+A Marquise &amp;#8212; xi.
+<lb/>
+An Earle &amp;#8212; x.
+<lb/>
+A Viscounte &amp;#8212;
+<lb/>
+{ A Baron. &amp;#8212;
+<lb/>
+{ A knight &amp;#8212; v.
+<lb>
+<name>
+M<hi_rend=''sl''>r</hi> Morgan<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr>
+</name>
+<c/> booke
+<lb/>
+of <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> <c/>
+<placeName>
+Temple
+</placeName>
+<c/> (a <c/>
+<placeName>
+Norh<abbr_type=''macron''>a<ex>m</ex></abbr>pt<abbr_type=''macron''>o<ex>n</ex></abbr>shire
+</placeName>
+<c/> m<abbr_type=''macron''>a<ex>n</ex></abbr>)
+<lb/>
+<pb_n=''leaf_6_recto''/>
+<lb/>
+<date_calendar=''#julianMar''_datingMethod=''#julianMar''_notBefore-custom=''1521-04-22''_notAfter-custom=''1522-04-21''>A<ex>nn</ex><hi_rend=''sl''>o</hi>. 13: Hen<abbr_type=''truncation''_subtype=''colon''><ex>rici</ex>:</abbr>8</date>.
+<lb/>
+<name>
+Dux: Buckingh<abbr_type=''macron''>a<ex>m</ex></abbr>
+</name>
+<c/> condemnat<abbr_type=''brevigraph''_subtype=''brev-er''>ur</abbr> cor<abbr_type=''macron''>a<ex>m</ex></abbr> <c/>
+<name>
+Tho<abbr_type=''truncation''_subtype=''colon''><ex>mas</ex>:</abbr> duce Norff<abbr_type=''truncation''_subtype=''colon''><ex>olk</ex>:</abbr> eo tem<abbr_type=''brevigraph''_subtype=''brev-p''>p<ex>or</ex></abbr>e Senescall
+<lb/>
+Anglia
+</name>
+<c/> iudicio pari<abbr_type=''macron''>u<ex>m</ex></abbr> suo<abbr_type=''brevigraph''_subtype=''brev-rum''>rum</abbr> <abbr_type=''macron''>sc<ex>i</ex>l<abbr_type=''brevigraph''_subtype=''truncation-z''>icet</abbr></abbr> vni<abbr_type=''brevigraph''_subtype=''brev-us''>us</abbr> ducis. vni<abbr_type=''brevigraph''_subtype=''brev-us''>us</abbr> marchio<ex>n</ex>is .7. Comit<abbr_type=''macron''>u<ex>m</ex></abbr>
+<lb/>
+et .12. Baron<abbr_type=''macron''>u<ex>m</ex></abbr>.
+<lb/>
+<date_calendar=''#julianMar''_datingMethod=''#julianMar''_when-custom=''1521-05-17''>Die ven<ex>er</ex>is :17: maii</date> <c/>
+<name>
+Edw<abbr_type=''truncation''_subtype=''colon''><ex>ardus</ex>:</abbr> dux Buck<abbr_type=''truncation''_subtype=''colon''><ex>ingham</ex>:</abbr>
+</name>
+<c/> decollat<abbr_type=''brevigraph''_subtype=''brev-us''>us</abbr> est su<abbr_type=''brevigraph''_subtype=''brev-p''>p<ex>er</ex></abbr> <c/>
+<placeName>
+monte<ex>m</ex> iuxta
+<lb/>
+Turrim London
+</placeName>
+. sepult<abbr_type=''brevigraph''_subtype=''brev-us''>us</abbr> in <c/>
+<placeName>
+ecc<abbr_type=''macron''>l<ex>es</ex>ia</abbr> ordinis S<ex>anc</ex><hi_rend=''sl''>ti</hi> August<abbr_type=''macron''>in<ex>i</ex></abbr>
+</placeName>
+<lb/>
+<date_calendar=''#julianMar''_datingMethod=''#julianMar''_when-custom=''1523-04-27''>A<ex>nn</ex>o .15 :Hen<abbr_type=''truncation''_subtype=''colon''><ex>rici</ex>:</abbr> 8: 27: Apr<abbr_type=''truncation''_subtype=''colon''><ex>ilis</ex>:</abbr></date> tem<abbr_type=''brevigraph''_subtype=''brev-p''>p<ex>or</ex></abbr>e <abbr_type=''brevigraph''_subtype=''brev-p''>p<ex>ar</ex></abbr>liam<abbr_type=''macron''>e<ex>n</ex>t</abbr>i <c/>
+<name>
+Arthur<abbr_type=''brevigraph''_subtype=''brev-us''>us</abbr> Plantagenet
+</name>
+<c/> miles <abbr_type=''macron''>fili<ex>us</ex></abbr>
+<lb/>
+noth<abbr_type=''brevigraph''_subtype=''brev-us''>us</abbr> <c/>
+<name>
+Reg<abbr_type=''brevigraph''_subtype=''brev-es''>is</abbr> Edw<abbr_type=''truncation''_subtype=''colon''><ex>ardi</ex>:</abbr>4
+</name>
+: ap<ex>u</ex><hi_rend=''sl''>d</hi> <c/>
+<placeName>
+font<abbr_type=''macron''>e<ex>m</ex></abbr> Brigidia
+</placeName>
+. creat<abbr_type=''brevigraph''_subtype=''brev-er''>ur</abbr> vice<abbr_type=''macron''>co<ex>m</ex>es</abbr> de Insula
+<lb/>
+iure <c/>
+<name>
+vxoris relicte. Edm<abbr_type=''macron''>o<ex>ndi</ex></abbr>: Dudley
+</name>
+<c/> decollati.
+<lb/>
+<date_calendar=''#julianMar''_datingMethod=''#julianMar''_notBefore-custom=''1515-04-22''_notAfter-custom=''1516-04-21''>A<ex>nn</ex><hi_rend=''sl''>o</hi> .7 :Hen<abbr_type=''truncation''_subtype=''colon''><ex>rici</ex>:</abbr> 8:</date> <c/>
+<name>
+Margareta Regina <c/>
+<placeName>
+Scotie
+</placeName>
+</name>
+<c/> nupta est <c/>
+<name>
+Archibaldo Dowglas
+<lb/>
+C<abbr_type=''macron''>o<ex>m</ex>iti</abbr> de Angois
+</name>
+<c/> sine assensa Reg<abbr_type=''brevigraph''_subtype=''brev-es''>is</abbr> ffratris sui, &amp; aufuge<abbr_type=''macron''>ru<ex>n</ex>t</abbr> in <c/>
+<placeName>
+Angliam
+</placeName>
+<lb/>
+&amp; in <c/>
+<placeName>
+Castro Harbothell
+</placeName>
+<c/> in <c/>
+<placeName>
+Comitat<ex>u</ex> Northumb<ex>rensi</ex>
+</placeName>
+: nata est <c/>
+<name>
+margareta filia
+<lb/>
+eor<abbr_type=''macron''>u<ex>m</ex></abbr>
+</name>
+.
+<lb/>
+<date_datingMethod=''#julianMar''_when-custom=''1248''>A<ex>nn</ex><hi_rend=''sl''>o</hi>:1248.</date> <date_datingMethod=''#julianMar''_notBefore-custom=''1246-10-28''_notAfter-custom=''1247-10-27''>31:Hen<abbr_type=''truncation''_subtype=''colon''><ex>rici</ex>:</abbr>3:</date> <c/>
+<name>
+Thomas de Bellocampo <abbr_type=''macron''>Co<ex>m</ex>es</abbr> <c/>
+<del>
+Nor...
+</del>
+<c/>
+<lb/>
+Norwic<abbr_type=''truncation''_subtype=''colon''><ex>i</ex>:</abbr> et Mariscall<abbr_type=''brevigraph''_subtype=''brev-us''>us</abbr> Angliae
+</name>
+<c/> <date_datingMethod=''#julianMar''_when-custom=''1354-08-24''>.24. die Augusti .1354.</date> <date_datingMethod=''#julianMar''_notBefore-custom=''1353-01-25''_notAfter-custom=''1354-01-24''>28
+<lb/>
+Edw<abbr_type=''truncation''_subtype=''colon''><ex>ardi</ex>:</abbr> 3:</date> ... vn<abbr_type=''brevigraph''_subtype=''brev-us''>us</abbr> int<abbr_type=''brevigraph''_subtype=''brev-er''>er</abbr> caeteros nobiles qui scripserunt ad p<abbr_type=''macron''>apa<ex>m</ex></abbr>
+<lb/>
+circa negotia <c/>
+<placeName>
+ffranciae
+</placeName>
+./ <c/>
+<name>
+Math. Paris
+</name>
+. fol. 1004
+<lb/>
+<heading>Cart<abbr_type=''truncation''_subtype=''colon''><ex>a</ex>:</abbr> <date_datingMethod=''#julianMar''_notBefore-custom=''1227-10-28''_notAfter-custom=''1227-10-27''>Anno: 12: Hen<abbr_type=''truncation''_subtype=''colon''><ex>rici</ex>:</abbr> 3:</date></heading>
+<lb/>
+<name>
+Rog<abbr_type=''brevigraph''_subtype=''brev-er''>er</abbr><abbr_type=''brevigraph''_subtype=''brev-us''>us</abbr> de Dant<abbr_type=''truncation''_subtype=''colon''><ex>es</ex>:</abbr> vel Antes
+</name>
+<c/> &amp; <c/>
+<name>
+matildis Comitissa Hereff<ex>ordensis</ex>
+</name>
+<lb/>
+<name>
+ vxor eius
+</name>
+&amp;#8224; soror <c/>
+<name>
+W<abbr_type=''macron''>ill<ex>el</ex>mi</abbr>: <c/>
+<del>
+Comes de
+</del>
+<c/> mandevill nuper
+<lb/>
+Comit<abbr_type=''brevigraph''_subtype=''brev-es''>is</abbr> Essex<ex>ensis</ex>
+</name>
+./ &amp;#8224; De <abbr_type=''macron''>Dau<ex>n</ex>t</abbr>esia ./
+<lb/>
+<label_place=''margin''><date_datingMethod=''#julianMar''_notBefore-custom=''1520-04-22''_notAfter-custom=''1521-04-21''>a<ex>nn</ex><hi_rend=''sl''>o</hi> .12. h<abbr_type=''truncation''_subtype=''colon''><ex>enrici</ex>:</abbr> 8.</date></label> <c/>
+<name>
+C<abbr_type=''macron''>o<ex>m</ex>es</abbr> Kyldare
+</name>
+<c/> depu<abbr_type=''macron''>tat<ex>us</ex></abbr> ter<abbr_type=''macron''>r<ex>ae</ex></abbr> <c/>
+<placeName>
+Hiberniae
+</placeName>
+<c/> exon<abbr_type=''brevigraph''_subtype=''brev-er''>er</abbr><abbr_type=''macron''>atur</abbr> ab officio, &amp; <c/>
+<name>
+Tho<ex>mas</ex>
+<lb/>
+C<abbr_type=''macron''>o<ex>m</ex>e</abbr>s Surreggia
+</name>
+<c/> eius loco constituit<abbr_type=''brevigraph''_subtype=''brev-er''>ur</abbr> Deputat<abbr_type=''brevigraph''_subtype=''brev-us''>us</abbr> eiu<abbr_type=''macron''>sde<ex>m</ex></abbr> terre
+<lb/>
+<abbr_type=''brevigraph''_subtype=''brev-p''>p<ex>ro</ex></abbr>cur<abbr_type=''macron''>a<ex>n</ex>t</abbr>e <c/>
+<name>
+Wolseo Cardinali
+</name>
+, qui <date_datingMethod=''#julianMar''_when-custom=''1521-04''>in initio Aprilis</date> iter arripuit
+<lb/>
+versus <c/>
+<placeName>
+Hiber<abbr_type=''macron''>nia<ex>m</ex></abbr>
+</placeName>
+.
+<lb/>
+</lb>
+</ab></body></text></sourceDoc>
+</TEI>
