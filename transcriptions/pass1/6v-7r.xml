@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <calendarDesc>
+      <calendar xml:id="julianMar">
+        <p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p>
+      </calendar>
+      <calendar xml:id="annoMundi3962">
+        <p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p>
+      </calendar>
+      <calendar xml:id="beforeBritain">
+        <p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p>
+      </calendar>
+    </calendarDesc>
+  </teiHeader>
+  <sourceDoc corresp="Va447">
+    <surface xml:id="151471" n="6v-7r">
+      <media url="https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229351~224978/full/!1024,1024/0/default.jpg" mimeType="image/jpeg"/>
+    </surface>
+  </sourceDoc>
+  <text>
+    <body>
+      <p/>
+      <ab><pb n="6v-7r"/><pb n="leaf 6 verso"/><pb n="leaf 7 recto"/><lb/>Int<ex>er</ex>: Recorda Turr<ex>is</ex> London. int<ex>er</ex> alia
+<lb/>invenit<ex>ur</ex> ut sequit<ex>ur</ex>
+<lb/><bibl>Clausa .<date calendar="#julianMar" datingMethod="#julianMar" notBefore-custom="1368-01-25" notAfter-custom="1369-01-24">a<ex>nn</ex><hi rend="sl">o</hi>: 43: Edw<ex>ardi</ex>: 3</date> ii
+<lb/>In Dorso.</bibl>
+<lb/><name>Edward<abbr type="brevigraph" subtype="brev-us">us</abbr> princeps Aquitaniae, &amp; Walliae. Dux Cornubiae
+<lb/> &amp; Comes Cestriae, fili<abbr type="brevigraph" subtype="brev-us">us</abbr> Regis p<ex>r</ex><hi rend="sl">i</hi>mogenit<abbr type="brevigraph" subtype="brev-us">us</abbr></name> ./
+<lb/><bibl>.2. par<abbr type="brevigraph" subtype="brev-es">s</abbr> Pat<ex>entium</ex>: Normaniae :<date calendar="#julianMar" datingMethod="#julianMar" notBefore-custom="1417-03-21" notAfter-custom="1418-03-20">a<ex>nn</ex><hi rend="sl">o</hi>: 6: Hen<ex>rici</ex>: 5<ex>ti</ex></date></bibl>
+<lb/>inter alia invenit<abbr type="brevigraph" subtype="brev-er">ur</abbr>
+<lb/>.44. Agencourte Rex Armor<ex>um</ex>
+<lb/><heading>Sacra<abbr type="macron">me<ex>n</ex>tu<ex>m</ex></abbr> milit<abbr type="macron">u<ex>m</ex></abbr> Balnei.</heading>
+<lb/>yo<hi rend="sl">u</hi> shall sweare so helpe yo<hi rend="sl">u</hi> god &amp; by this holy Ault<abbr type="brevigraph" subtype="brev-er">er</abbr> <g ref="#thorn">th</g><ex>a</ex><hi rend="sl">t</hi> ye towche that
+<lb/>ye faithfully beleve in Almighty God &amp; his holy churche, &amp; defend
+<lb/>the liberties of thesame. ye shall also <del>owe</del><add type="authorial">bere</add> faithe to yo<ex>u</ex><hi rend="sl">r</hi> sou<abbr type="brevigraph" subtype="brev-er">er</abbr>aigne Lo<ex>rd</ex>:
+<lb/>the kinge: &amp; his ryte &amp; quarell maynteyne to suffer deathe for yt
+<lb/>ye shall also suffer no extortion to be done to yo<ex>u</ex><hi rend="sl">r</hi> power. ye shall
+<lb/>also not suffer any false Judge<abbr type="macron">me<ex>n</ex>t</abbr> to be gev<abbr type="macron">e<ex>n</ex></abbr> to yo<ex>u</ex><hi rend="sl">r</hi> wyttinge
+<lb/>In witnesse <del>wherof</del> of all these, yo<hi rend="sl">u</hi> shall kysse yo<ex>u</ex><hi rend="sl">r</hi> sworde &amp;
+<lb/>offer it on this holye Aulter ./ &amp;c./
+<lb/><heading>Creatio<abbr type="macron"><ex>n</ex>e<abbr type="brevigraph" subtype="brev-es">s</abbr></abbr> ap<ex>u</ex><hi rend="sl">d</hi> <placeName>Lambhith</placeName><date calendar="#julianMar" datingMethod="#julianMar" when-custom="1514-02-02">:2: feb: a<ex>nn</ex><hi rend="sl">o</hi>: Hen<ex>rici</ex>: 8: 5<hi rend="sl">ti</hi></date></heading>
+<lb/><name>Tho<ex>mas</ex>: C<abbr type="macron">o<ex>m</ex>es</abbr> Surregiae</name>, creat<abbr type="brevigraph" subtype="brev-us">us</abbr> dux Norff<ex>olciae</ex>: c<abbr type="macron">u<ex>m</ex></abbr> Aug<abbr type="macron">me<ex>n</ex>t</abbr>atione Armo<abbr type="brevigraph" subtype="brev-rum">rum</abbr>
+<lb/>Scotiae.
+<lb/><name>Carol<abbr type="brevigraph" subtype="brev-us">us</abbr> Brandon<abbr type="brevigraph" subtype="brev-us">us</abbr> Vicec<abbr type="macron">o<ex>m</ex>es</abbr> <del>insulae</del> de Insula</name> creat<abbr type="brevigraph" subtype="brev-us">us</abbr> dux S<abbr type="macron">uff<ex>olciae</ex>.</abbr>
+<lb/><name>Tho<ex>mas</ex>: Howard<abbr type="brevigraph" subtype="brev-es">us</abbr> Admirall<abbr type="brevigraph" subtype="brev-us">us</abbr></name>. creat<abbr type="brevigraph" subtype="brev-us">us</abbr> Comes Surregiae ./
+<lb/><name>Carol<abbr type="brevigraph" subtype="brev-us">us</abbr> Som<abbr type="brevigraph" subtype="brev-er">er</abbr>set<abbr type="brevigraph" subtype="brev-us">us</abbr> <abbr type="macron">d<ex>omi</ex>n<abbr type="brevigraph" subtype="brev-us">us</abbr></abbr> Herbert<abbr type="brevigraph" subtype="brev-us">us</abbr></name>. creat<abbr type="brevigraph" subtype="brev-us">us</abbr> C<abbr type="macron">o<ex>m</ex>es</abbr> Wigorniae <add type="authorial">Cam<abbr type="brevigraph" subtype="brev-er">er</abbr>ari<abbr type="brevigraph" subtype="brev-us">us</abbr></add>
+<lb/> &amp; alio die <name>Edw<ex>ardus</ex>: Stanley miles</name> Creat<abbr type="brevigraph" subtype="brev-us">us</abbr> d<ex>omi</ex>n<abbr type="brevigraph" subtype="brev-us">us</abbr> Montegle.
+<lb/><date calendar="#julianMar" datingMethod="#julianMar" when-custom="1509-04-23">23:Apr<ex>ilis</ex>: A<ex>nn</ex><hi rend="sl">o</hi>: Hen<ex>rici</ex>: 8: 1<hi rend="sl">mo</hi></date> <name>. . . . Stafforde</name> frat<abbr type="brevigraph" subtype="brev-er">er</abbr> <name>duc<abbr type="brevigraph" subtype="brev-es">is</abbr> Buckingham</name>
+<lb/>co<abbr type="macron">m<ex>m</ex></abbr>ittit<abbr type="brevigraph" subtype="brev-er">ur</abbr> p<ex>r</ex><hi rend="sl">i</hi>sone in <placeName>Turri Londonensi</placeName>. &amp; cito postea relaxat<ex>ur</ex>: et
+<lb/>Creat<abbr type="brevigraph" subtype="brev-er">ur</abbr> <abbr type="macron">Co<ex>m</ex>es</abbr> Wiltes<ex>hire</ex>./
+<lb/><heading><bibl>Esch<ex>eatriae</ex>: <date calendar="#julianMar" datingMethod="#julianMar" when-custom="1274-09-23">a<ex>nn</ex><hi rend="sl">o</hi>: 2: Ed<ex>wardi</ex>: 1</date></bibl>./</heading>
+<lb/><name>D<abbr type="macron"><ex>omi</ex>na</abbr> Hawisia de London</name> obiit ante <date calendar="#julianMar" datingMethod="#julianMar" when-custom="1274-09-23">.23. Septemb<ex>ris</ex>:a<ex>nn</ex>o .2<hi rend="sl">o</hi>: Edw<ex>ardi</ex>: 1<hi rend="sl">i</hi></date>
+<lb/> &amp; <name>d<abbr type="macron"><ex>omi</ex>n<abbr type="brevigraph" subtype="brev-us">us</abbr></abbr> Pagan<abbr type="brevigraph" subtype="brev-us">us</abbr> de Cadurcis</name> fili<abbr type="brevigraph" subtype="brev-us">us</abbr> et heres eius est plene etat<abbr type="brevigraph" subtype="brev-es">is</abbr>. Tenuit
+<lb/>man<abbr type="brevigraph" subtype="brev-er">er</abbr>i<abbr type="macron">u<ex>m</ex></abbr> de <name>Eastegerston</name> de Rege in Capite <abbr type="brevigraph" subtype="brev-p">p<ex>er</ex></abbr> serian<abbr type="macron">tia<ex>m</ex></abbr> <abbr type="macron">vi<ex>de</ex>l<abbr type="brevigraph" subtype="truncation-z">icet</abbr></abbr> tanq<ex>u</ex><hi rend="sl">a</hi><abbr type="brevigraph" subtype="truncation-z">m</abbr> <abbr type="macron">me<ex>m</ex></abbr>br<abbr type="macron">u<ex>m</ex></abbr>
+<lb/>primus ad Kadwellye. <abbr type="macron">v<ex>ide</ex>li<abbr type="brevigraph" subtype="truncation-z">cet</abbr></abbr>. c<abbr type="macron">u<ex>m</ex></abbr> <unclear>weomestera</unclear>de Kadwelly. Ad conduc<abbr type="macron">e<ex>n</ex></abbr>d<abbr type="macron">u<ex>m</ex></abbr>
+<lb/>Antegard<abbr type="macron">u<ex>m</ex></abbr> exercit<abbr type="brevigraph" subtype="brev-us">us</abbr> D<abbr type="macron"><ex>omi</ex>ni</abbr> Regis quotiens d<abbr type="macron"><ex>omi</ex>n<abbr type="brevigraph" subtype="brev-us">us</abbr></abbr> Rex ierit in <placeName>Westwalliam</placeName>
+<lb/>c<abbr type="macron">u<ex>m</ex></abbr> Exercitu : et in redeundo: ad conducend<abbr type="macron">u<ex>m</ex></abbr> Retrogard<abbr type="macron">u<ex>m</ex></abbr> dicti Exerci=
+<lb/>tus. <metamark>flourish</metamark>.
+<lb/><heading>Pat<ex>entes</ex>:<date calendar="#julianMar" datingMethod="#julianMar" notBefore-custom="1240-10-28" notAfter-custom="1241-10-27">anno: 25: Hen<ex>rici</ex>: 3:</date></heading>
+<lb/>Rex cepit homagi<del>w</del><abbr type="macron">u<ex>m</ex></abbr> <name>willmi de ffortib<brev-z>us</brev-z></name> filii. <name>will<abbr type="macron"><ex>el</ex>mi</abbr> de ffortib<brev-z>us</brev-z></name> q<ex>u</ex><hi rend="sl">o</hi>nd<abbr type="macron">a<ex>m</ex></abbr>
+<lb/>Comit<abbr type="brevigraph" subtype="brev-es">is</abbr> Aubemarle. &amp;c: T: R<ex>ex</ex>: ap<ex>u</ex><hi rend="sl">d</hi> <placeName>wi<del>d</del>ndelsore</placeName>.18. Sept<ex>embris</ex>
+<lb/><heading>Esch<ex>eatriae</ex>: <date calendar="#julianMar" datingMethod="#julianMar" notBefore-custom="1259-10-28" notAfter-custom="1260-10-27">A<ex>nn</ex><hi rend="sl">o</hi>: 44: Hen<ex>rici</ex>: 3.</date></heading>
+<lb/><name>Willm<abbr type="brevigraph" subtype="brev-us">us</abbr> de ffortib<abbr type="brevigraph" subtype="brev-us">us</abbr> C<abbr type="macron">o<ex>m</ex>es</abbr> Albemarle</name> } <name>Thomas de ffortib<abbr type="brevigraph" subtype="brev-us">us</abbr> <abbr type="macron">al<ex>ia</ex>s</abbr>. fforde.</name> } fili<abbr type="brevigraph" subtype="brev-us">us</abbr>.7. A<abbr type="macron">nn<ex>orum</ex></abbr>.
+<lb/><name>Marg<abbr type="brevigraph" subtype="brev-er">er</abbr>ia Comitissa Cantiae</name>.} <name>Jo<abbr type="macron">h<ex>ann</ex>es</abbr> de Burgo</name>. plene etatis ./
+<lb/><date calendar="#julianMar" datingMethod="#julianMar" notBefore-custom="1499-08-12" notAfter-custom="1500-08-11">A<ex>nn</ex><hi rend="sl">o</hi>: 15: Hen<ex>rici</ex>: 7:</date> <name>Edw<ex>ardus</ex>: comes warr<ex>wick</ex></name> condemnat<abbr type="brevigraph" subtype="brev-us">us</abbr> coram <name>J<abbr type="macron">oh<ex>ann</ex>e</abbr> de vere</name> co<ex>m</ex>ite
+<lb/>Oxo<ex>niense</ex>: eo tem<abbr type="brevigraph" subtype="brev-p">p<ex>or</ex></abbr>e Senescallo Angliae<date calendar="#julianMar" datingMethod="#julianMar" when-custom="1499-11-21">:21:die novemb<ex>ris</ex>:</date> ap<ex>u</ex><hi rend="sl">d</hi>: <placeName>westm<ex>onast</ex><abbr type="brevigraph" subtype="brev-er">er</abbr><ex>ium</ex></placeName> et
+<lb/><date calendar="#julianMar" datingMethod="#julianMar" when-custom="1499-11-28">28. die eiusd<abbr type="macron">e<ex>m</ex></abbr> mens<abbr type="brevigraph" subtype="brev-es">is</abbr></date> capite plex<abbr type="brevigraph" subtype="brev-us">us</abbr> est ad <placeName>m<abbr type="macron">o<ex>n</ex>te<ex>m</ex></abbr> iuxta Turrim Londi<pc force="weak">=</pc>
+<lb break="no"/><abbr type="macron">nensem</abbr></placeName> ./
+</ab>
+    </body>
+  </text>
+</TEI>
