@@ -13,14 +13,14 @@
     </calendarDesc>
   </teiHeader>
   <sourceDoc corresp="Va447">
-    <surface xml:id="151469" n="4r-5v">
+    <surface xml:id="151469" n="4v-5r">
       <media url="https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229349~224980/full/!1024,1024/0/default.jpg" mimeType="image/jpeg"/>
     </surface>
   </sourceDoc>
   <text>
     <body>
       <p/>
-      <ab><pb n="4r-5v"/><pb n="leaf 4 verso"/><pb n="leaf 5 recto"/><lb/><heading>Who may haue a Clothe of Estate
+      <ab><pb n="4v-5r"/><pb n="leaf 4 verso"/><pb n="leaf 5 recto"/><lb/><heading>Who may haue a Clothe of Estate
 <lb/>and who not.</heading><lb/><label place="margin">Duke</label> A Duke may haue a Clothe of Estate in all places
 <lb/>out of <g ref="#thorn">th</g><hi rend="sl">e</hi> king<abbr type="brevigraph" subtype="brev-es">es</abbr> p<hi rend="sl">r</hi><ex>e</ex>sence so that it come not to <g ref="#thorn">th</g><hi rend="sl">e</hi> grounde
 <lb/>by <measure>halfe a yarde.</measure> And no Earle to walke with

@@ -12,7 +12,7 @@
       </calendar>
     </calendarDesc>
   </teiHeader>
-  <sourceDoc corresp="Va447"><surface xml:id="151466" n="1r-2v"><media url="https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229346~224983/full/!1024,1024/0/default.jpg" mimeType="image/jpeg"/><text><body><p/><ab><pb n="1r-2v"/><pb n="leaf 1 verso"/><lb/><pb n="leaf 2 recto"/><cb/><list rend="bullet"><lb/><item>Custome is <g ref="#thorn">th</g><hi rend="sl">e</hi> chiefest Rule to deter<pc force="weak">=</pc>
+  <sourceDoc corresp="Va447"><surface xml:id="151466" n="1v-2r"><media url="https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229346~224983/full/!1024,1024/0/default.jpg" mimeType="image/jpeg"/><text><body><p/><ab><pb n="1v-2r"/><pb n="leaf 1 verso"/><lb/><pb n="leaf 2 recto"/><cb/><list rend="bullet"><lb/><item>Custome is <g ref="#thorn">th</g><hi rend="sl">e</hi> chiefest Rule to deter<pc force="weak">=</pc>
 <lb break="no"/>myne matters of hono<hi rend="sl"><ex>u</ex>r</hi></item><lb/><item xml:lang="la">Consuetudo in vnaquaq<ex>ue</ex> Regione, est
 <lb/>omni<abbr type="macron">u<ex>m</ex></abbr> dignitat<abbr type="macron">u<ex>m</ex></abbr> &amp; iurisdiction<abbr type="macron">u<ex>m</ex></abbr> origo
 <lb/>forma &amp; principi<abbr type="macron">u<ex>m</ex></abbr></item><lb/><item xml:lang="la">Consuetudini stand<abbr type="macron">u<ex>m</ex></abbr> est, disponenti
