@@ -1,0 +1,952 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<calendarDesc>
+<calendar xml:id="julianMar">
+<p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p>
+</calendar>
+<calendar xml:id="annoMundi3962">
+<p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p>
+</calendar>
+<calendar xml:id="beforeBritain">
+<p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p>
+</calendar>
+</calendarDesc>
+</teiHeader>
+<sourceDoc corresp="Va447">
+<surface xml:id="151471" n="6v-7r">
+<media url="https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229351~224978/full/!1024,1024/0/default.jpg" mimeType="image/jpeg"/>
+</surface>
+</sourceDoc>
+<text>
+<body>
+<p/>
+<ab>
+<pb n="6v-7r"/>
+<pb n="leaf 6 verso"/>
+<pb n="leaf 7 recto"/>
+<lb/>
+<w><choice><orig>Int<abbr type="truncation" subtype="colon"><ex>er</ex>:</abbr></orig><reg>Inter:</reg></choice></w>
+<c> </c>
+<w>Recorda</w>
+<c> </c>
+<w><choice><orig>Turr<ex>is</ex></orig><reg>Turris</reg></choice></w>
+<c> </c>
+<w>London</w>
+<pc>.</pc>
+<c> </c>
+<w><choice><orig>int<ex>er</ex></orig><reg>inter</reg></choice></w>
+<c> </c>
+<w>alia</w>
+<lb/>
+<w><choice><orig>invenit<ex>ur</ex></orig><reg>invenitur</reg></choice></w>
+<c> </c>
+<w>ut</w>
+<c> </c>
+<w><choice><orig>sequit<ex>ur</ex></orig><reg>sequitur</reg></choice></w>
+<lb/>
+<bibl>
+<w>Clausa</w>
+<c> </c>
+<w><choice><orig>.<date calendar="#julianMar" datingMethod="#julianMar" notBefore-custom="1368-01-25" notAfter-custom="1369-01-24">a<abbr type="superscription"><ex>nn</ex>o</abbr></orig><reg>.anno</reg></choice></w>
+<pc>:</pc>
+<c> </c>
+<w>43</w>
+<pc>:</pc>
+<c> </c>
+<w><choice><orig>Edw<abbr type="truncation" subtype="colon"><ex>ardi</ex>:</abbr></orig><reg>Edwardi:</reg></choice></w>
+<c> </c>
+<w>3</w>
+</date>
+<c> </c>
+<w>ii</w>
+<lb/>
+<w>In</w>
+<c> </c>
+<w>Dorso</w>
+<pc>.</pc>
+</bibl>
+<lb/>
+<name>
+<w><choice><orig>Edward<abbr type="brevigraph" subtype="brev-us">us</abbr></orig><reg>Edwardus</reg></choice></w>
+<c> </c>
+<w>princeps</w>
+<c> </c>
+<w>Aquitaniae</w>
+<pc>,</pc>
+<c> </c>
+<w>&amp;</w>
+<c> </c>
+<w>Walliae</w>
+<pc>.</pc>
+<c> </c>
+<w>Dux</w>
+<c> </c>
+<w>Cornubiae</w>
+<lb/>
+<w>&amp;</w>
+<c> </c>
+<w>Comes</w>
+<c> </c>
+<w>Cestriae</w>
+<pc>,</pc>
+<c> </c>
+<w><choice><orig>fili<abbr type="brevigraph" subtype="brev-us">us</abbr></orig><reg>filius</reg></choice></w>
+<c> </c>
+<w>Regis</w>
+<c> </c>
+<w><choice><orig>p<abbr type="superscription"><ex>r</ex>i</abbr>mogenit<abbr type="brevigraph" subtype="brev-us">us</abbr></orig><reg>primogenitus</reg></choice></w>
+</name>
+<c> </c>
+<w>./</w>
+<lb/>
+<bibl>
+<w>.2</w>
+<pc>.</pc>
+<c> </c>
+<w><choice><orig>par<abbr type="brevigraph" subtype="brev-es">s</abbr></orig><reg>pars</reg></choice></w>
+<c> </c>
+<w><choice><orig>Pat<abbr type="truncation" subtype="colon"><ex>entium</ex>:</abbr></orig><reg>Patentium:</reg></choice></w>
+<c> </c>
+<w>Normaniae</w>
+<c> </c>
+<w><choice><orig>:<date calendar="#julianMar" datingMethod="#julianMar" notBefore-custom="1417-03-21" notAfter-custom="1418-03-20">a<abbr type="superscription"><ex>nn</ex>o</abbr></orig><reg>:anno</reg></choice></w>
+<pc>:</pc>
+<c> </c>
+<w>6</w>
+<pc>:</pc>
+<c> </c>
+<w><choice><orig>Hen<abbr type="truncation" subtype="colon"><ex>rici</ex>:</abbr></orig><reg>Henrici:</reg></choice></w>
+<c> </c>
+<w><choice><orig>5<ex>ti</ex></orig><reg>5ti</reg></choice></w>
+</bibl>
+</date>
+<lb/>
+<w>inter</w>
+<c> </c>
+<w>alia</w>
+<c> </c>
+<w><choice><orig>invenit<abbr type="brevigraph" subtype="brev-er">ur</abbr></orig><reg>invenitur</reg></choice></w>
+<lb/>
+<w>.44</w>
+<pc>.</pc>
+<c> </c>
+<w>Agencourte</w>
+<c> </c>
+<w>Rex</w>
+<c> </c>
+<w><choice><orig>Armor<ex>um</ex></orig><reg>Armorum</reg></choice></w>
+<lb/>
+<heading>
+<w><choice><orig>Sacra<abbr type="macron">me<ex>n</ex>tu<ex>m</ex></abbr></orig><reg>Sacramentum</reg></choice></w>
+<c> </c>
+<w><choice><orig>milit<abbr type="macron">u<ex>m</ex></abbr></orig><reg>militum</reg></choice></w>
+<c> </c>
+<w>Balnei</w>
+<pc>.</pc>
+</heading>
+<lb/>
+<w><choice><orig>yo<abbr type="superscription">u</abbr></orig><reg>you</reg></choice></w>
+<c> </c>
+<w>shall</w>
+<c> </c>
+<w><choice><orig>sweare</orig><reg>swear</reg></choice></w>
+<c> </c>
+<w>so</w>
+<c> </c>
+<w><choice><orig>helpe</orig><reg>help</reg></choice></w>
+<c> </c>
+<w><choice><orig>yo<abbr type="superscription">u</abbr></orig><reg>you</reg></choice></w>
+<c> </c>
+<w>god</w>
+<c> </c>
+<w>&amp;</w>
+<c> </c>
+<w>by</w>
+<c> </c>
+<w>this</w>
+<c> </c>
+<w>holy</w>
+<c> </c>
+<w><choice><orig>Ault<abbr type="brevigraph" subtype="brev-er">er</abbr></orig><reg>Altar</reg></choice></w>
+<c> </c>
+<w><choice><orig><g ref="#thorn">th</g><abbr type="superscription"><ex>a</ex>t</abbr></orig><reg>that</reg></choice></w>
+<c> </c>
+<w>ye</w>
+<c> </c>
+<w><choice><orig>towche</orig><reg>touch</reg></choice></w>
+<c> </c>
+<w>that</w>
+<lb/>
+<w>ye</w>
+<c> </c>
+<w>faithfully</w>
+<c> </c>
+<w><choice><orig>beleve</orig><reg>believe</reg></choice></w>
+<c> </c>
+<w>in</w>
+<c> </c>
+<w>Almighty</w>
+<c> </c>
+<w>God</w>
+<c> </c>
+<w>&amp;</w>
+<c> </c>
+<w>his</w>
+<c> </c>
+<w>holy</w>
+<c> </c>
+<w><choice><orig>churche</orig><reg>church</reg></choice></w>
+<pc>,</pc>
+<c> </c>
+<w>&amp;</w>
+<c> </c>
+<w>defend</w>
+<lb/>
+<w>the</w>
+<c> </c>
+<w>liberties</w>
+<c> </c>
+<w>of</w>
+<c> </c>
+<w><choice><orig>thesame</orig><reg><w>the</w><c> </c><w>same</w></reg></choice></w>
+<pc>.</pc>
+<c> </c>
+<w>ye</w>
+<c> </c>
+<w>shall</w>
+<c> </c>
+<w>also</w>
+<c> </c>
+<del>
+<w>owe</w>
+</del>
+<add type="authorial">
+<w><choice><orig>bere</orig><reg>bear</reg></choice></w>
+</add>
+<c> </c>
+<w><choice><orig>faithe</orig><reg>faith</reg></choice></w>
+<c> </c>
+<w>to</w>
+<c> </c>
+<w><choice><orig>yo<abbr type="superscription"><ex>u</ex>r</abbr></orig><reg>your</reg></choice></w>
+<c> </c>
+<w><choice><orig>sou<abbr type="brevigraph" subtype="brev-er">er</abbr>aigne</orig><reg>sovereign</reg></choice></w>
+<c> </c>
+<w><choice><orig>Lo<abbr type="truncation" subtype="colon"><ex>rd</ex>:</abbr></orig><reg>Lord:</reg></choice></w>
+<lb/>
+<w>the</w>
+<c> </c>
+<w><choice><orig>kinge</orig><reg>king</reg></choice></w>
+<pc>:</pc>
+<c> </c>
+<w>&amp;</w>
+<c> </c>
+<w>his</w>
+<c> </c>
+<w><choice><orig>ryte</orig><reg>right</reg></choice></w>
+<c> </c>
+<w>&amp;</w>
+<c> </c>
+<w><choice><orig>quarell</orig><reg>quarrel</reg></choice></w>
+<c> </c>
+<w><choice><orig>maynteyne</orig><reg>maintain</reg></choice></w>
+<c> </c>
+<w>to</w>
+<c> </c>
+<w>suffer</w>
+<c> </c>
+<w><choice><orig>deathe</orig><reg>death</reg></choice></w>
+<c> </c>
+<w>for</w>
+<c> </c>
+<w><choice><orig>yt</orig><reg>it</reg></choice></w>
+<lb/>
+<w>ye</w>
+<c> </c>
+<w>shall</w>
+<c> </c>
+<w>also</w>
+<c> </c>
+<w>suffer</w>
+<c> </c>
+<w>no</w>
+<c> </c>
+<w>extortion</w>
+<c> </c>
+<w>to</w>
+<c> </c>
+<w>be</w>
+<c> </c>
+<w>done</w>
+<c> </c>
+<w>to</w>
+<c> </c>
+<w><choice><orig>yo<abbr type="superscription"><ex>u</ex>r</abbr></orig><reg>your</reg></choice></w>
+<c> </c>
+<w>power</w>
+<pc>.</pc>
+<c> </c>
+<w>ye</w>
+<c> </c>
+<w>shall</w>
+<lb/>
+<w>also</w>
+<c> </c>
+<w>not</w>
+<c> </c>
+<w>suffer</w>
+<c> </c>
+<w>any</w>
+<c> </c>
+<w>false</w>
+<c> </c>
+<w><choice><orig>Judge<abbr type="macron">me<ex>n</ex>t</abbr></orig><reg>Judgement</reg></choice></w>
+<c> </c>
+<w>to</w>
+<c> </c>
+<w>be</w>
+<c> </c>
+<w><choice><orig>gev<abbr type="macron">e<ex>n</ex></abbr></orig><reg>given</reg></choice></w>
+<c> </c>
+<w>to</w>
+<c> </c>
+<w><choice><orig>yo<abbr type="superscription"><ex>u</ex>r</abbr></orig><reg>your</reg></choice></w>
+<c> </c>
+<w><choice><orig>wyttinge</orig><reg>witting</reg></choice></w>
+<lb/>
+<w>In</w>
+<c> </c>
+<w><choice><orig>witnesse</orig><reg>witness</reg></choice></w>
+<c> </c>
+<del>
+<w><choice><orig>wherof</orig><reg>whereof</reg></choice></w>
+</del>
+<c> </c>
+<w>of</w>
+<c> </c>
+<w>all</w>
+<c> </c>
+<w>these</w>
+<pc>,</pc>
+<c> </c>
+<w><choice><orig>yo<abbr type="superscription">u</abbr></orig><reg>you</reg></choice></w>
+<c> </c>
+<w>shall</w>
+<c> </c>
+<w><choice><orig>kysse</orig><reg>kiss</reg></choice></w>
+<c> </c>
+<w><choice><orig>yo<abbr type="superscription"><ex>u</ex>r</abbr></orig><reg>your</reg></choice></w>
+<c> </c>
+<w><choice><orig>sworde</orig><reg>sword</reg></choice></w>
+<c> </c>
+<w>&amp;</w>
+<lb/>
+<w>offer</w>
+<c> </c>
+<w>it</w>
+<c> </c>
+<w>on</w>
+<c> </c>
+<w>this</w>
+<c> </c>
+<w><choice><orig>holye</orig><reg>holy</reg></choice></w>
+<c> </c>
+<w><choice><orig>Aulter</orig><reg>Altar</reg></choice></w>
+<c> </c>
+<w>./</w>
+<c> </c>
+<w>&amp;c./</w>
+<lb/>
+<heading>
+<w><choice><orig>Creatio<abbr type="macron"><ex>n</ex>e<abbr type="brevigraph" subtype="brev-es">s</abbr></abbr></orig><reg>Creationes</reg></choice></w>
+<c> </c>
+<w><choice><orig>ap<abbr type="superscription"><ex>u</ex>d</abbr></orig><reg>apud</reg></choice></w>
+<c> </c>
+<placeName>
+<w>Lambhith</w>
+</placeName>
+<w><choice><orig><date calendar="#julianMar" datingMethod="#julianMar" when-custom="1514-02-02">:2</orig><reg>:2</reg></choice></w>
+<pc>:</pc>
+<c> </c>
+<w>feb</w>
+<pc>:</pc>
+<c> </c>
+<w><choice><orig>a<abbr type="superscription"><ex>nn</ex>o</abbr></orig><reg>anno</reg></choice></w>
+<pc>:</pc>
+<c> </c>
+<w><choice><orig>Hen<abbr type="truncation" subtype="colon"><ex>rici</ex>:</abbr></orig><reg>Henrici:</reg></choice></w>
+<c> </c>
+<w>8</w>
+<pc>:</pc>
+<c> </c>
+<w><choice><orig>5<abbr type="superscription">ti</abbr></orig><reg>5ti</reg></choice></w>
+</date>
+</heading>
+<lb/>
+<name>
+<w><choice><orig>Tho<abbr type="truncation" subtype="colon"><ex>mas</ex>:</abbr></orig><reg>Thomas:</reg></choice></w>
+<c> </c>
+<w><choice><orig>C<abbr type="macron">o<ex>m</ex>es</abbr></orig><reg>Comes</reg></choice></w>
+<c> </c>
+<w>Surregiae</w>
+</name>
+<pc>,</pc>
+<c> </c>
+<w><choice><orig>creat<abbr type="brevigraph" subtype="brev-us">us</abbr></orig><reg>creatus</reg></choice></w>
+<c> </c>
+<w>dux</w>
+<c> </c>
+<w><choice><orig>Norff<abbr type="truncation" subtype="colon"><ex>olciae</ex>:</abbr></orig><reg>Norffolciae:</reg></choice></w>
+<c> </c>
+<w><choice><orig>c<abbr type="macron">u<ex>m</ex></abbr></orig><reg>cum</reg></choice></w>
+<c> </c>
+<w><choice><orig>Aug<abbr type="macron">me<ex>n</ex>t</abbr>atione</orig><reg>Augmentatione</reg></choice></w>
+<c> </c>
+<w><choice><orig>Armo<abbr type="brevigraph" subtype="brev-rum">rum</abbr></orig><reg>Armorum</reg></choice></w>
+<lb/>
+<w>Scotiae</w>
+<pc>.</pc>
+<lb/>
+<name>
+<w><choice><orig>Carol<abbr type="brevigraph" subtype="brev-us">us</abbr></orig><reg>Carolus</reg></choice></w>
+<c> </c>
+<w><choice><orig>Brandon<abbr type="brevigraph" subtype="brev-us">us</abbr></orig><reg>Brandonus</reg></choice></w>
+<c> </c>
+<w><choice><orig>Vicec<abbr type="macron">o<ex>m</ex>es</abbr></orig><reg>Vicecomes</reg></choice></w>
+<c> </c>
+<del>
+<w>insulae</w>
+</del>
+<c> </c>
+<w>de</w>
+<c> </c>
+<w>Insula</w>
+</name>
+<c> </c>
+<w><choice><orig>creat<abbr type="brevigraph" subtype="brev-us">us</abbr></orig><reg>creatus</reg></choice></w>
+<c> </c>
+<w>dux</w>
+<c> </c>
+<w><choice><orig>S<abbr type="macron">uff<ex>olciae</ex>.</abbr></orig><reg>Suffolciae.</reg></choice></w>
+<lb/>
+<name>
+<w><choice><orig>Tho<abbr type="truncation" subtype="colon"><ex>mas</ex>:</abbr></orig><reg>Thomas:</reg></choice></w>
+<c> </c>
+<w><choice><orig>Howard<abbr type="brevigraph" subtype="brev-es">us</abbr></orig><reg>Howardus</reg></choice></w>
+<c> </c>
+<w><choice><orig>Admirall<abbr type="brevigraph" subtype="brev-us">us</abbr></orig><reg>Admirallus</reg></choice></w>
+</name>
+<pc>.</pc>
+<c> </c>
+<w><choice><orig>creat<abbr type="brevigraph" subtype="brev-us">us</abbr></orig><reg>creatus</reg></choice></w>
+<c> </c>
+<w>Comes</w>
+<c> </c>
+<w>Surregiae</w>
+<c> </c>
+<w>./</w>
+<lb/>
+<name>
+<w><choice><orig>Carol<abbr type="brevigraph" subtype="brev-us">us</abbr></orig><reg>Carolus</reg></choice></w>
+<c> </c>
+<w><choice><orig>Som<abbr type="brevigraph" subtype="brev-er">er</abbr>set<abbr type="brevigraph" subtype="brev-us">us</abbr></orig><reg>Somersetus</reg></choice></w>
+<c> </c>
+<w><choice><orig><abbr type="macron">d<ex>omi</ex>n<abbr type="brevigraph" subtype="brev-us">us</abbr></abbr></orig><reg>dominus</reg></choice></w>
+<c> </c>
+<w><choice><orig>Herbert<abbr type="brevigraph" subtype="brev-us">us</abbr></orig><reg>Herbertus</reg></choice></w>
+</name>
+<pc>.</pc>
+<c> </c>
+<w><choice><orig>creat<abbr type="brevigraph" subtype="brev-us">us</abbr></orig><reg>creatus</reg></choice></w>
+<c> </c>
+<w><choice><orig>C<abbr type="macron">o<ex>m</ex>es</abbr></orig><reg>Comes</reg></choice></w>
+<c> </c>
+<w>Wigorniae</w>
+<c> </c>
+<add type="authorial">
+<w><choice><orig>Cam<abbr type="brevigraph" subtype="brev-er">er</abbr>ari<abbr type="brevigraph" subtype="brev-us">us</abbr></orig><reg>Camerarius</reg></choice></w>
+</add>
+<lb/>
+<w>&amp;</w>
+<c> </c>
+<w>alio</w>
+<c> </c>
+<w>die</w>
+<c> </c>
+<name>
+<w><choice><orig>Edw<abbr type="truncation" subtype="colon"><ex>ardus</ex>:</abbr></orig><reg>Edwardus:</reg></choice></w>
+<c> </c>
+<w>Stanley</w>
+<c> </c>
+<w>miles</w>
+</name>
+<c> </c>
+<w><choice><orig>Creat<abbr type="brevigraph" subtype="brev-us">us</abbr></orig><reg>Creatus</reg></choice></w>
+<c> </c>
+<w><choice><orig>d<ex>omi</ex>n<abbr type="brevigraph" subtype="brev-us">us</abbr></orig><reg>dominus</reg></choice></w>
+<c> </c>
+<w>Montegle</w>
+<pc>.</pc>
+<lb/>
+<w><choice><orig><date calendar="#julianMar" datingMethod="#julianMar" when-custom="1509-04-23">23:Apr<abbr type="truncation" subtype="colon"><ex>ilis</ex>:</abbr></orig><reg>23:Aprilis:</reg></choice></w>
+<c> </c>
+<w><choice><orig>A<abbr type="superscription"><ex>nn</ex>o</abbr></orig><reg>Anno</reg></choice></w>
+<pc>:</pc>
+<c> </c>
+<w><choice><orig>Hen<abbr type="truncation" subtype="colon"><ex>rici</ex>:</abbr></orig><reg>Henrici:</reg></choice></w>
+<c> </c>
+<w>8</w>
+<pc>:</pc>
+<c> </c>
+<w><choice><orig>1<abbr type="superscription">mo</abbr></orig><reg>1mo</reg></choice></w>
+</date>
+<c> </c>
+<name>
+<pc>.</pc>
+<c> </c>
+<pc>.</pc>
+<c> </c>
+<pc>.</pc>
+<c> </c>
+<pc>.</pc>
+<c> </c>
+<w>Stafforde</w>
+</name>
+<c> </c>
+<w><choice><orig>frat<abbr type="brevigraph" subtype="brev-er">er</abbr></orig><reg>frater</reg></choice></w>
+<c> </c>
+<name>
+<w><choice><orig>duc<abbr type="brevigraph" subtype="brev-es">is</abbr></orig><reg>ducis</reg></choice></w>
+<c> </c>
+<w>Buckingham</w>
+</name>
+<lb/>
+<w><choice><orig>co<abbr type="macron">m<ex>m</ex></abbr>ittit<abbr type="brevigraph" subtype="brev-er">ur</abbr></orig><reg>committitur</reg></choice></w>
+<c> </c>
+<w><choice><orig>p<abbr type="superscription"><ex>r</ex>i</abbr>sone</orig><reg>prisone</reg></choice></w>
+<c> </c>
+<w>in</w>
+<c> </c>
+<placeName>
+<w>Turri</w>
+<c> </c>
+<w>Londonensi</w>
+</placeName>
+<pc>.</pc>
+<c> </c>
+<w>&amp;</w>
+<c> </c>
+<w>cito</w>
+<c> </c>
+<w>postea</w>
+<c> </c>
+<w><choice><orig>relaxat<abbr type="truncation" subtype="colon"><ex>ur</ex>:</abbr></orig><reg>relaxatur:</reg></choice></w>
+<c> </c>
+<w>et</w>
+<lb/>
+<w><choice><orig>Creat<abbr type="brevigraph" subtype="brev-er">ur</abbr></orig><reg>Creatur</reg></choice></w>
+<c> </c>
+<w><choice><orig><abbr type="macron">Co<ex>m</ex>es</abbr></orig><reg>Comes</reg></choice></w>
+<c> </c>
+<w><choice><orig>Wiltes<ex>hire</ex>./</orig><reg>Wilteshire./</reg></choice></w>
+<lb/>
+<heading>
+<bibl>
+<w><choice><orig>Esch<abbr type="truncation" subtype="colon"><ex>eatriae</ex>:</abbr></orig><reg>Escheatriae:</reg></choice></w>
+<c> </c>
+<w><choice><orig><date calendar="#julianMar" datingMethod="#julianMar" when-custom="1274-09-23">a<abbr type="superscription"><ex>nn</ex>o</abbr></orig><reg>anno</reg></choice></w>
+<pc>:</pc>
+<c> </c>
+<w>2</w>
+<pc>:</pc>
+<c> </c>
+<w><choice><orig>Ed<abbr type="truncation" subtype="colon"><ex>wardi</ex>:</abbr></orig><reg>Edwardi:</reg></choice></w>
+<c> </c>
+<w>1./</w>
+</bibl>
+</date>
+</heading>
+<lb/>
+<name>
+<w><choice><orig>D<abbr type="macron"><ex>omi</ex>na</abbr></orig><reg>Domina</reg></choice></w>
+<c> </c>
+<w>Hawisia</w>
+<c> </c>
+<w>de</w>
+<c> </c>
+<w>London</w>
+</name>
+<c> </c>
+<w>obiit</w>
+<c> </c>
+<w>ante</w>
+<c> </c>
+<w><choice><orig><date calendar="#julianMar" datingMethod="#julianMar" when-custom="1274-09-23">.23</orig><reg>.23</reg></choice></w>
+<pc>.</pc>
+<c> </c>
+<w><choice><orig>Septemb<abbr type="truncation" subtype="colon"><ex>ris</ex>:</abbr>a<ex>nn</ex>o</orig><reg>Septembris:anno</reg></choice></w>
+<c> </c>
+<w><choice><orig>.2<abbr type="superscription">o</abbr></orig><reg>.2o</reg></choice></w>
+<pc>:</pc>
+<c> </c>
+<w><choice><orig>Edw<abbr type="truncation" subtype="colon"><ex>ardi</ex>:</abbr></orig><reg>Edwardi:</reg></choice></w>
+<c> </c>
+<w><choice><orig>1<abbr type="superscription">i</abbr></orig><reg>1i</reg></choice></w>
+</date>
+<lb/>
+<w>&amp;</w>
+<c> </c>
+<name>
+<w><choice><orig>d<abbr type="macron"><ex>omi</ex>n<abbr type="brevigraph" subtype="brev-us">us</abbr></abbr></orig><reg>dominus</reg></choice></w>
+<c> </c>
+<w><choice><orig>Pagan<abbr type="brevigraph" subtype="brev-us">us</abbr></orig><reg>Paganus</reg></choice></w>
+<c> </c>
+<w>de</w>
+<c> </c>
+<w>Cadurcis</w>
+</name>
+<c> </c>
+<w><choice><orig>fili<abbr type="brevigraph" subtype="brev-us">us</abbr></orig><reg>filius</reg></choice></w>
+<c> </c>
+<w>et</w>
+<c> </c>
+<w>heres</w>
+<c> </c>
+<w>eius</w>
+<c> </c>
+<w>est</w>
+<c> </c>
+<w>plene</w>
+<c> </c>
+<w><choice><orig>etat<abbr type="brevigraph" subtype="brev-es">is</abbr></orig><reg>etatis</reg></choice></w>
+<pc>.</pc>
+<c> </c>
+<w>Tenuit</w>
+<lb/>
+<w><choice><orig>man<abbr type="brevigraph" subtype="brev-er">er</abbr>i<abbr type="macron">u<ex>m</ex></abbr></orig><reg>manerium</reg></choice></w>
+<c> </c>
+<w>de</w>
+<c> </c>
+<name>
+<w>Eastegerston</w>
+</name>
+<c> </c>
+<w>de</w>
+<c> </c>
+<w>Rege</w>
+<c> </c>
+<w>in</w>
+<c> </c>
+<w>Capite</w>
+<c> </c>
+<w><choice><orig><abbr type="brevigraph" subtype="brev-p">p<ex>er</ex></abbr></orig><reg>per</reg></choice></w>
+<c> </c>
+<w><choice><orig>serian<abbr type="macron">tia<ex>m</ex></abbr></orig><reg>seriantiam</reg></choice></w>
+<c> </c>
+<w><choice><orig><abbr type="macron">vi<ex>de</ex>l<abbr type="brevigraph" subtype="truncation-z">icet</abbr></abbr></orig><reg>videlicet</reg></choice></w>
+<c> </c>
+<w><choice><orig>tanq<abbr type="superscription"><ex>u</ex>a</abbr><abbr type="brevigraph" subtype="truncation-z">m</abbr></orig><reg>tanquam</reg></choice></w>
+<c> </c>
+<w><choice><orig><abbr type="macron">me<ex>m</ex></abbr>br<abbr type="macron">u<ex>m</ex></abbr></orig><reg>membrum</reg></choice></w>
+<lb/>
+<w>primus</w>
+<c> </c>
+<w>ad</w>
+<c> </c>
+<w>Kadwellye</w>
+<pc>.</pc>
+<c> </c>
+<w><choice><orig><abbr type="macron">v<ex>ide</ex>li<abbr type="brevigraph" subtype="truncation-z">cet</abbr></abbr></orig><reg>videlicet</reg></choice></w>
+<pc>.</pc>
+<c> </c>
+<w><choice><orig>c<abbr type="macron">u<ex>m</ex></abbr></orig><reg>cum</reg></choice></w>
+<c> </c>
+<w><choice><orig><unclear>weomestera</unclear>de</orig><reg>weomesterade</reg></choice></w>
+<c> </c>
+<w>Kadwelly</w>
+<pc>.</pc>
+<c> </c>
+<w>Ad</w>
+<c> </c>
+<w><choice><orig>conduc<abbr type="macron">e<ex>n</ex></abbr>d<abbr type="macron">u<ex>m</ex></abbr></orig><reg>conducendum</reg></choice></w>
+<lb/>
+<w><choice><orig>Antegard<abbr type="macron">u<ex>m</ex></abbr></orig><reg>Antegardum</reg></choice></w>
+<c> </c>
+<w><choice><orig>exercit<abbr type="brevigraph" subtype="brev-us">us</abbr></orig><reg>exercitus</reg></choice></w>
+<c> </c>
+<w><choice><orig>D<abbr type="macron"><ex>omi</ex>ni</abbr></orig><reg>Domini</reg></choice></w>
+<c> </c>
+<w>Regis</w>
+<c> </c>
+<w>quotiens</w>
+<c> </c>
+<w><choice><orig>d<abbr type="macron"><ex>omi</ex>n<abbr type="brevigraph" subtype="brev-us">us</abbr></abbr></orig><reg>dominus</reg></choice></w>
+<c> </c>
+<w>Rex</w>
+<c> </c>
+<w>ierit</w>
+<c> </c>
+<w>in</w>
+<c> </c>
+<placeName>
+<w>Westwalliam</w>
+</placeName>
+<lb/>
+<w><choice><orig>c<abbr type="macron">u<ex>m</ex></abbr></orig><reg>cum</reg></choice></w>
+<c> </c>
+<w>Exercitu</w>
+<c> </c>
+<pc>:</pc>
+<c> </c>
+<w>et</w>
+<c> </c>
+<w>in</w>
+<c> </c>
+<w>redeundo</w>
+<pc>:</pc>
+<c> </c>
+<w>ad</w>
+<c> </c>
+<w><choice><orig>conducend<abbr type="macron">u<ex>m</ex></abbr></orig><reg>conducendum</reg></choice></w>
+<c> </c>
+<w><choice><orig>Retrogard<abbr type="macron">u<ex>m</ex></abbr></orig><reg>Retrogardum</reg></choice></w>
+<c> </c>
+<w>dicti</w>
+<c> </c>
+<w><choice><orig>Exerci=[lb][lb]tus</orig><reg>Exercitus</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<c> </c>
+<w><choice><orig><metamark>flourish</metamark></orig><reg>flourish</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<heading>
+<w><choice><orig>Pat<abbr type="truncation" subtype="colon"><ex>entes</ex>:</abbr><date calendar="#julianMar" datingMethod="#julianMar" notBefore-custom="1240-10-28" notAfter-custom="1241-10-27">anno</orig><reg>Patentes:anno</reg></choice></w>
+<pc>:</pc>
+<c> </c>
+<w>25</w>
+<pc>:</pc>
+<c> </c>
+<w><choice><orig>Hen<abbr type="truncation" subtype="colon"><ex>rici</ex>:</abbr></orig><reg>Henrici:</reg></choice></w>
+<c> </c>
+<w>3</w>
+<pc>:</pc>
+</date>
+</heading>
+<lb/>
+<w>Rex</w>
+<c> </c>
+<w>cepit</w>
+<c> </c>
+<w><choice><orig>homagi<del>w</del><abbr type="macron">u<ex>m</ex></abbr></orig><reg>homagiwum</reg></choice></w>
+<c> </c>
+<name>
+<w>willmi</w>
+<c> </c>
+<w>de</w>
+<c> </c>
+<w>ffortibz</w>
+</name>
+<c> </c>
+<w>filii</w>
+<pc>.</pc>
+<c> </c>
+<name>
+<w><choice><orig>will<abbr type="macron"><ex>el</ex>mi</abbr></orig><reg>willelmi</reg></choice></w>
+<c> </c>
+<w>de</w>
+<c> </c>
+<w><choice><orig>ffortibz</orig><reg>Fortibus</reg></choice></w>
+</name>
+<c> </c>
+<w><choice><orig>q<abbr type="superscription"><ex>u</ex>o</abbr>nd<abbr type="macron">a<ex>m</ex></abbr></orig><reg>quondam</reg></choice></w>
+<lb/>
+<w><choice><orig>Comit<abbr type="brevigraph" subtype="brev-es">is</abbr></orig><reg>Comitis</reg></choice></w>
+<c> </c>
+<w>Aubemarle</w>
+<pc>.</pc>
+<c> </c>
+<w>&amp;c</w>
+<pc>:</pc>
+<c> </c>
+<w>T</w>
+<pc>:</pc>
+<c> </c>
+<w><choice><orig>R<abbr type="truncation" subtype="colon"><ex>ex</ex>:</abbr></orig><reg>Rex:</reg></choice></w>
+<c> </c>
+<w><choice><orig>ap<abbr type="superscription"><ex>u</ex>d</abbr></orig><reg>apud</reg></choice></w>
+<c> </c>
+<placeName>
+<w><choice><orig>wi<del>d</del>ndelsore</orig><reg>widndelsore</reg></choice></w>
+</placeName>
+<w>.18</w>
+<pc>.</pc>
+<c> </c>
+<w><choice><orig>Sept<ex>embris</ex></orig><reg>Septembris</reg></choice></w>
+<lb/>
+<heading>
+<w><choice><orig>Esch<abbr type="truncation" subtype="colon"><ex>eatriae</ex>:</abbr></orig><reg>Escheatriae:</reg></choice></w>
+<c> </c>
+<w><choice><orig><date calendar="#julianMar" datingMethod="#julianMar" notBefore-custom="1259-10-28" notAfter-custom="1260-10-27">A<abbr type="superscription"><ex>nn</ex>o</abbr></orig><reg>Anno</reg></choice></w>
+<pc>:</pc>
+<c> </c>
+<w>44</w>
+<pc>:</pc>
+<c> </c>
+<w><choice><orig>Hen<abbr type="truncation" subtype="colon"><ex>rici</ex>:</abbr></orig><reg>Henrici:</reg></choice></w>
+<c> </c>
+<w>3</w>
+<pc>.</pc>
+</date>
+</heading>
+<lb/>
+<name>
+<w><choice><orig>Willm<abbr type="brevigraph" subtype="brev-us">us</abbr></orig><reg>Willmus</reg></choice></w>
+<c> </c>
+<w>de</w>
+<c> </c>
+<w><choice><orig>ffortib<abbr type="brevigraph" subtype="brev-us">us</abbr></orig><reg>Fortibus</reg></choice></w>
+<c> </c>
+<w><choice><orig>C<abbr type="macron">o<ex>m</ex>es</abbr></orig><reg>Comes</reg></choice></w>
+<c> </c>
+<w>Albemarle</w>
+</name>
+<c> </c>
+<w>}</w>
+<c> </c>
+<name>
+<w>Thomas</w>
+<c> </c>
+<w>de</w>
+<c> </c>
+<w><choice><orig>ffortib<abbr type="brevigraph" subtype="brev-us">us</abbr></orig><reg>Fortibus</reg></choice></w>
+<c> </c>
+<w><choice><orig><abbr type="macron">al<ex>ia</ex>s</abbr></orig><reg>alias</reg></choice></w>
+<pc>.</pc>
+<c> </c>
+<w><choice><orig>fforde</orig><reg>Forde</reg></choice></w>
+<pc>.</pc>
+</name>
+<c> </c>
+<w>}</w>
+<c> </c>
+<w><choice><orig>fili<abbr type="brevigraph" subtype="brev-us">us</abbr>.7</orig><reg>filius.7</reg></choice></w>
+<pc>.</pc>
+<c> </c>
+<w><choice><orig>A<abbr type="macron">nn<ex>orum</ex></abbr></orig><reg>Annorum</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<name>
+<w><choice><orig>Marg<abbr type="brevigraph" subtype="brev-er">er</abbr>ia</orig><reg>Margeria</reg></choice></w>
+<c> </c>
+<w>Comitissa</w>
+<c> </c>
+<w>Cantiae</w>
+</name>
+<w>.}</w>
+<c> </c>
+<name>
+<w><choice><orig>Jo<abbr type="macron">h<ex>ann</ex>es</abbr></orig><reg>Johannes</reg></choice></w>
+<c> </c>
+<w>de</w>
+<c> </c>
+<w>Burgo</w>
+</name>
+<pc>.</pc>
+<c> </c>
+<w>plene</w>
+<c> </c>
+<w>etatis</w>
+<c> </c>
+<w>./</w>
+<lb/>
+<w><choice><orig><date calendar="#julianMar" datingMethod="#julianMar" notBefore-custom="1499-08-12" notAfter-custom="1500-08-11">A<abbr type="superscription"><ex>nn</ex>o</abbr></orig><reg>Anno</reg></choice></w>
+<pc>:</pc>
+<c> </c>
+<w>15</w>
+<pc>:</pc>
+<c> </c>
+<w><choice><orig>Hen<abbr type="truncation" subtype="colon"><ex>rici</ex>:</abbr></orig><reg>Henrici:</reg></choice></w>
+<c> </c>
+<w>7</w>
+<pc>:</pc>
+</date>
+<c> </c>
+<name>
+<w><choice><orig>Edw<abbr type="truncation" subtype="colon"><ex>ardus</ex>:</abbr></orig><reg>Edwardus:</reg></choice></w>
+<c> </c>
+<w>comes</w>
+<c> </c>
+<w><choice><orig>warr<ex>wick</ex></orig><reg>warrwick</reg></choice></w>
+</name>
+<c> </c>
+<w><choice><orig>condemnat<abbr type="brevigraph" subtype="brev-us">us</abbr></orig><reg>condemnatus</reg></choice></w>
+<c> </c>
+<w>coram</w>
+<c> </c>
+<name>
+<w><choice><orig>J<abbr type="macron">oh<ex>ann</ex>e</abbr></orig><reg>Johanne</reg></choice></w>
+<c> </c>
+<w>de</w>
+<c> </c>
+<w>vere</w>
+</name>
+<c> </c>
+<w><choice><orig>co<ex>m</ex>ite</orig><reg>comite</reg></choice></w>
+<lb/>
+<w><choice><orig>Oxo<abbr type="truncation" subtype="colon"><ex>niense</ex>:</abbr></orig><reg>Oxoniense:</reg></choice></w>
+<c> </c>
+<w>eo</w>
+<c> </c>
+<w><choice><orig>tem<abbr type="brevigraph" subtype="brev-p">p<ex>or</ex></abbr>e</orig><reg>tempore</reg></choice></w>
+<c> </c>
+<w>Senescallo</w>
+<c> </c>
+<w><choice><orig>Angliae<date calendar="#julianMar" datingMethod="#julianMar" when-custom="1499-11-21">:21:die</orig><reg>Angliae:21:die</reg></choice></w>
+<c> </c>
+<w><choice><orig>novemb<abbr type="truncation" subtype="colon"><ex>ris</ex>:</abbr></orig><reg>novembris:</reg></choice></w>
+</date>
+<c> </c>
+<w><choice><orig>ap<abbr type="superscription"><ex>u</ex>d</abbr></orig><reg>apud</reg></choice></w>
+<pc>:</pc>
+<c> </c>
+<placeName>
+<w><choice><orig>westm<abbr type="brevigraph" subtype="brev-er"><ex>onast</ex>er</abbr><ex>ium</ex></orig><reg>westmonasterium</reg></choice></w>
+</placeName>
+<c> </c>
+<w>et</w>
+<lb/>
+<w><choice><orig><date calendar="#julianMar" datingMethod="#julianMar" when-custom="1499-11-28">28</orig><reg>28</reg></choice></w>
+<pc>.</pc>
+<c> </c>
+<w>die</w>
+<c> </c>
+<w><choice><orig>eiusd<abbr type="macron">e<ex>m</ex></abbr></orig><reg>eiusdem</reg></choice></w>
+<c> </c>
+<w><choice><orig>mens<abbr type="brevigraph" subtype="brev-es">is</abbr></orig><reg>mensis</reg></choice></w>
+</date>
+<c> </c>
+<w>capite</w>
+<c> </c>
+<w><choice><orig>plex<abbr type="brevigraph" subtype="brev-us">us</abbr></orig><reg>plexus</reg></choice></w>
+<c> </c>
+<w>est</w>
+<c> </c>
+<w>ad</w>
+<c> </c>
+<placeName>
+<w><choice><orig>m<abbr type="macron">o<ex>n</ex>te<ex>m</ex></abbr></orig><reg>montem</reg></choice></w>
+<c> </c>
+<w>iuxta</w>
+<c> </c>
+<w>Turrim</w>
+<c> </c>
+<w><choice><orig>Londi<pc force="weak">=</pc></orig><reg>Londi=</reg></choice></w>
+<w><choice><orig><lb break="no"/><abbr type="macron">nensem</abbr></orig><reg>nensem</reg></choice></w>
+</placeName>
+<c> </c>
+<w>./</w>
+</ab>
+</body>
+</text>
+</TEI>
