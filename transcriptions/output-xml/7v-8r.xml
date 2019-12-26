@@ -1,0 +1,504 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<calendarDesc>
+<calendar xml:id="julianMar">
+<p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p>
+</calendar>
+<calendar xml:id="annoMundi3962">
+<p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p>
+</calendar>
+<calendar xml:id="beforeBritain">
+<p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p>
+</calendar>
+</calendarDesc>
+</teiHeader>
+<w><choice><orig><sourceDoc corresp="Va447"><surface xml:id="151472" n="6v-7r"><media url="https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229352~224977/full/!1024,1024/0/default.jpg" mimeType="image/jpeg"/><text><body><p/><ab></orig><reg></reg></choice></w>
+<pb n="6v-7r"/>
+<pb n="leaf 7 verso"/>
+<lb/>
+<label place="margin">
+<w><choice><orig><date calendar="#julianMar" datingMethod="#julianMar" notBefore-custom="1515-04-22" notAfter-custom="1516-04-21">a<abbr type="superscription"><ex>nn</ex>o</abbr>.7</orig><reg>anno.7</reg></choice></w>
+<pc>.</pc>
+<c> </c>
+<w><choice><orig>Hen<abbr type="truncation" subtype="colon"><ex>rici</ex>:</abbr></orig><reg>Henrici:</reg></choice></w>
+<c> </c>
+<w>8</w>
+<pc>.</pc>
+</label>
+</date>
+<name>
+<w>Margareta</w>
+<c> </c>
+<w>Regina</w>
+<c> </c>
+<w>Scotiae</w>
+</name>
+<c> </c>
+<w>nupta</w>
+<c> </c>
+<w>est</w>
+<c> </c>
+<name>
+<w>Archibaldo</w>
+<c> </c>
+<w>Dowglass</w>
+<pc>.</pc>
+<lb/>
+<w>Comiti</w>
+<c> </c>
+<w>de</w>
+<c> </c>
+<w>Angois</w>
+</name>
+<c> </c>
+<w>sine</w>
+<c> </c>
+<w>assensu</w>
+<c> </c>
+<w><choice><orig>Reg<abbr type="brevigraph" subtype="brev-es">is</abbr></orig><reg>Regis</reg></choice></w>
+<c> </c>
+<w><choice><orig><abbr type="macron">fr<ex>atr</ex>is</abbr></orig><reg>fratris</reg></choice></w>
+<c> </c>
+<w>sui</w>
+<c> </c>
+<w>&amp;</w>
+<c> </c>
+<w>aufugerunt</w>
+<lb/>
+<w>in</w>
+<c> </c>
+<placeName>
+<w><choice><orig>Angli<abbr type="macron">a<ex>m</ex></abbr></orig><reg>Angliam</reg></choice></w>
+</placeName>
+<pc>,</pc>
+<c> </c>
+<w>et</w>
+<c> </c>
+<w>in</w>
+<c> </c>
+<placeName>
+<w>Castello</w>
+<c> </c>
+<w>de</w>
+<c> </c>
+<w>Herbottell</w>
+</placeName>
+<c> </c>
+<w>in</w>
+<c> </c>
+<placeName>
+<w><choice><orig>Comitat<abbr type="macron">u<ex>m</ex></abbr></orig><reg>Comitatum</reg></choice></w>
+<c> </c>
+<w><choice><orig>Nor<pc force="weak">=</pc>[lb]<lb break="no"/>thumbria</orig><reg>Northumbria</reg></choice></w>
+</placeName>
+<c> </c>
+<w>nata</w>
+<c> </c>
+<w>est</w>
+<c> </c>
+<name>
+<w>Margareta</w>
+<c> </c>
+<w>filia</w>
+<c> </c>
+<w><choice><orig>eor<ex>um</ex></orig><reg>eorum</reg></choice></w>
+</name>
+<w>./</w>
+<c> </c>
+<bibl>
+<w>Ex</w>
+<c> </c>
+<w>Chronica</w>
+<lb/>
+<w>Holl</w>
+</bibl>
+<pb n="leaf 8 recto"/>
+<lb/>
+<lb/>
+<figure>
+<w><choice><orig><heraldry>Tricked</orig><reg>Tricked</reg></choice></w>
+<c> </c>
+<w>coat</w>
+<c> </c>
+<w>of</w>
+<c> </c>
+<w>arms</w>
+<pc>:</pc>
+<c> </c>
+<w>Quarterly</w>
+<c> </c>
+<w>1</w>
+<c> </c>
+<w>and</w>
+<c> </c>
+<w>4</w>
+<c> </c>
+<w><choice><orig><ex>Azure</ex></orig><reg>Azure</reg></choice></w>
+<c> </c>
+<w>semy</w>
+<c> </c>
+<w>de</w>
+<c> </c>
+<w>lis</w>
+<c> </c>
+<w><choice><orig><ex>Or</ex></orig><reg>Or</reg></choice></w>
+<c> </c>
+<w>2</w>
+<c> </c>
+<w>and</w>
+<c> </c>
+<w>3</w>
+<c> </c>
+<w><choice><orig>Eng<ex>land</ex></orig><reg>England</reg></choice></w>
+<pc>.</pc>
+<c> </c>
+<w>Supporters</w>
+<pc>:</pc>
+<c> </c>
+<w>On</w>
+<c> </c>
+<w>the</w>
+<c> </c>
+<w>dexter</w>
+<c> </c>
+<w>A</w>
+<c> </c>
+<w>crowned</w>
+<c> </c>
+<w>lion</w>
+<c> </c>
+<w>rampant</w>
+<c> </c>
+<w>guardant</w>
+<c> </c>
+<w>and</w>
+<c> </c>
+<w>on</w>
+<c> </c>
+<w>the</w>
+<c> </c>
+<w>sinister</w>
+<c> </c>
+<w>a</w>
+<c> </c>
+<w>stag</w>
+<pc>.</pc>
+<c> </c>
+<w>Badges</w>
+<pc>:</pc>
+<c> </c>
+<w>A</w>
+<c> </c>
+<w>sun</w>
+<c> </c>
+<w>in</w>
+<c> </c>
+<w>splendor</w>
+<c> </c>
+<w>Or</w>
+<pc>,</pc>
+<c> </c>
+<w>and</w>
+<c> </c>
+<w>a</w>
+<c> </c>
+<w>stock</w>
+<c> </c>
+<w>eradicated</w>
+<c> </c>
+<w>and</w>
+<c> </c>
+<w><choice><orig>couped.<heraldry/></orig><reg>couped.</reg></choice></w>
+<c> </c>
+<name>
+<del>
+<w><choice><orig>Edward<abbr type="brevigraph" subtype="brev-us">us</abbr></orig><reg>Edwardus</reg></choice></w>
+<c> </c>
+<w><choice><orig>Terti<abbr type="brevigraph" subtype="brev-us">us</abbr></orig><reg>Tertius</reg></choice></w>
+</del>
+</name>
+<c> </c>
+<name>
+<w><choice><orig>Ricard<abbr type="brevigraph" subtype="brev-us">us</abbr></orig><reg>Ricardus</reg></choice></w>
+<c> </c>
+<w><choice><orig>Secund<abbr type="brevigraph" subtype="brev-us">us</abbr></orig><reg>Secundus</reg></choice></w>
+</name>
+<figure>
+<w><choice><orig><heraldry>Tricked</orig><reg>Tricked</reg></choice></w>
+<c> </c>
+<w>coat</w>
+<c> </c>
+<w>of</w>
+<c> </c>
+<w>arms</w>
+<pc>:</pc>
+<c> </c>
+<w>Quarterly</w>
+<c> </c>
+<w>1</w>
+<c> </c>
+<w>and</w>
+<c> </c>
+<w>4</w>
+<c> </c>
+<w><choice><orig><ex>Azure</ex></orig><reg>Azure</reg></choice></w>
+<c> </c>
+<w>semy</w>
+<c> </c>
+<w><choice><orig><ex>de</orig><reg>de</reg></choice></w>
+<c> </c>
+<w>lis</w>
+<c> </c>
+<w><choice><orig>Or</ex></orig><reg>Or</reg></choice></w>
+<pc>,</pc>
+<c> </c>
+<w>2</w>
+<c> </c>
+<w>and</w>
+<c> </c>
+<w>3</w>
+<c> </c>
+<w><choice><orig>Eng<ex>land</ex></orig><reg>England</reg></choice></w>
+<pc>.</pc>
+<c> </c>
+<w>Supporters</w>
+<pc>:</pc>
+<c> </c>
+<w>On</w>
+<c> </c>
+<w>the</w>
+<c> </c>
+<w>dexter</w>
+<c> </c>
+<w>a</w>
+<c> </c>
+<w>crowned</w>
+<c> </c>
+<w>lion</w>
+<c> </c>
+<w>rampant</w>
+<c> </c>
+<w>guardant</w>
+<c> </c>
+<w>Or</w>
+<c> </c>
+<w>and</w>
+<c> </c>
+<w>on</w>
+<c> </c>
+<w>the</w>
+<c> </c>
+<w>sinister</w>
+<c> </c>
+<w>a</w>
+<c> </c>
+<w>Falcon</w>
+<c> </c>
+<w>Argent</w>
+<c> </c>
+<w>belled</w>
+<c> </c>
+<w>and</w>
+<c> </c>
+<w>jessed</w>
+<c> </c>
+<w>Or</w>
+<pc>.</pc>
+<c> </c>
+<w>Badges</w>
+<pc>:</pc>
+<c> </c>
+<w>a</w>
+<c> </c>
+<w>sunburst</w>
+<c> </c>
+<w>Proper</w>
+<c> </c>
+<w>and</w>
+<c> </c>
+<w>a</w>
+<c> </c>
+<w>stock</w>
+<c> </c>
+<w>eradicated</w>
+<c> </c>
+<w>and</w>
+<c> </c>
+<w>couped</w>
+<c> </c>
+<w><choice><orig>Or</heraldry><desc/></orig><reg>Or</reg></choice></w>
+</figure>
+<name>
+<w><choice><orig>Edw<abbr type="truncation" subtype="colon"><ex>ardus</ex>:</abbr></orig><reg>Edwardus:</reg></choice></w>
+<c> </c>
+<w><choice><orig>Terti<abbr type="brevigraph" subtype="brev-us">us</abbr></orig><reg>Tertius</reg></choice></w>
+</name>
+<lb/>
+<figure>
+<w><choice><orig><heraldry>Tricked</orig><reg>Tricked</reg></choice></w>
+<c> </c>
+<w>coat</w>
+<c> </c>
+<w>of</w>
+<c> </c>
+<w>arms</w>
+<pc>:</pc>
+<c> </c>
+<w>Quarterly</w>
+<c> </c>
+<w>1</w>
+<c> </c>
+<w>and</w>
+<c> </c>
+<w>4</w>
+<c> </c>
+<w><choice><orig>ff<ex>rance</ex></orig><reg>France</reg></choice></w>
+<pc>,</pc>
+<c> </c>
+<w>2</w>
+<c> </c>
+<w>and</w>
+<c> </c>
+<w>3</w>
+<c> </c>
+<w><choice><orig>Eng<ex>land</ex></orig><reg>England</reg></choice></w>
+<pc>.</pc>
+<c> </c>
+<w>Supporters</w>
+<pc>:</pc>
+<c> </c>
+<w>On</w>
+<c> </c>
+<w>the</w>
+<c> </c>
+<w>dexter</w>
+<c> </c>
+<w>an</w>
+<c> </c>
+<w>antelope</w>
+<c> </c>
+<w>Argent</w>
+<c> </c>
+<w>ducally</w>
+<c> </c>
+<w>gorged</w>
+<pc>,</pc>
+<c> </c>
+<w>lined</w>
+<pc>,</pc>
+<c> </c>
+<w>and</w>
+<c> </c>
+<w>attired</w>
+<c> </c>
+<w>Or</w>
+<c> </c>
+<w>and</w>
+<c> </c>
+<w>on</w>
+<c> </c>
+<w>the</w>
+<c> </c>
+<w>sinister</w>
+<c> </c>
+<w>a</w>
+<c> </c>
+<w>swan</w>
+<c> </c>
+<w>Argent</w>
+<c> </c>
+<w>ducally</w>
+<c> </c>
+<w>gorged</w>
+<c> </c>
+<w>and</w>
+<c> </c>
+<w>lined</w>
+<c> </c>
+<w>Or</w>
+<pc>.</pc>
+<c> </c>
+<w>Badges</w>
+<pc>:</pc>
+<c> </c>
+<w>a</w>
+<c> </c>
+<w>Tudor</w>
+<c> </c>
+<w>rose</w>
+<c> </c>
+<w>Gules</w>
+<c> </c>
+<w>seeded</w>
+<c> </c>
+<w><choice><orig>Argent</heraldry><desc/></orig><reg>Argent</reg></choice></w>
+</figure>
+<figure>
+<w><choice><orig><heraldry>Tricked</orig><reg>Tricked</reg></choice></w>
+<c> </c>
+<w>coat</w>
+<c> </c>
+<w>of</w>
+<c> </c>
+<w>arms</w>
+<pc>:</pc>
+<c> </c>
+<w>Blank</w>
+<c> </c>
+<w>quarterly</w>
+<c> </c>
+<w>shield</w>
+<pc>.</pc>
+<c> </c>
+<w>Supporters</w>
+<pc>:</pc>
+<c> </c>
+<w>on</w>
+<c> </c>
+<w>the</w>
+<c> </c>
+<w>dexter</w>
+<c> </c>
+<w>a</w>
+<c> </c>
+<w>lion</w>
+<c> </c>
+<w>rampant</w>
+<c> </c>
+<w>guardant</w>
+<c> </c>
+<w>and</w>
+<c> </c>
+<w>on</w>
+<c> </c>
+<w>the</w>
+<c> </c>
+<w>sinister</w>
+<c> </c>
+<w>a</w>
+<c> </c>
+<w>Boar</w>
+<c> </c>
+<w>rampant</w>
+<c> </c>
+<w>Argent</w>
+<c> </c>
+<w>armed</w>
+<c> </c>
+<w>and</w>
+<c> </c>
+<w>bristled</w>
+<c> </c>
+<w><choice><orig>Or</heraldry><desc/></orig><reg>Or</reg></choice></w>
+</figure>
+<name>
+<w><choice><orig><abbr type="macron">Ric<ex>ardus</ex>q</abbr></orig><reg>Ricardusq</reg></choice></w>
+<c> </c>
+<w><choice><orig>Terti<abbr type="brevigraph" subtype="brev-us">us</abbr></orig><reg>Tertius</reg></choice></w>
+</name>
+<lb/>
+<w><choice><orig></heraldry><desc/></orig><reg></reg></choice></w>
+</figure>
+</ab></body></text></surface>
+</sourceDoc>
+</TEI>

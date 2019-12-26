@@ -1,0 +1,92 @@
+<TEI_xmlns=''http://www.tei-c.org/ns/1.0''>
+<teiHeader>
+<calendarDesc>
+<calendar_xml:id=''julianMar''>
+<p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p>
+</calendar>
+<calendar_xml:id=''annoMundi3962''>
+<p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p>
+</calendar>
+<calendar_xml:id=''beforeBritain''>
+<p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p>
+</calendar>
+</calendarDesc>
+</teiHeader>
+<sourceDoc_corresp=''Va447''><surface_xml:id=''151472''_n=''6v-7r''><media_url=''https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229352~224977/full/!1024,1024/0/default.jpg''_mimeType=''image/jpeg''/><text><body><p/><ab>
+<pb_n=''6v-7r''/>
+<pb_n=''leaf_7_verso''/>
+<lb/>
+<label_place=''margin''><date_calendar=''#julianMar''_datingMethod=''#julianMar''_notBefore-custom=''1515-04-22''_notAfter-custom=''1516-04-21''>a<ex>nn</ex><hi_rend=''sl''>o</hi>.7. Hen<abbr_type=''truncation''_subtype=''colon''><ex>rici</ex>:</abbr> 8.</date></label>
+<name>
+Margareta Regina Scotiae
+</name>
+<c/> nupta est <c/>
+<name>
+Archibaldo Dowglass.
+<lb/>
+Comiti de Angois
+</name>
+<c/> sine assensu Reg<abbr_type=''brevigraph''_subtype=''brev-es''>is</abbr> <abbr_type=''macron''>fr<ex>atr</ex>is</abbr> sui &amp; aufugerunt
+<lb/>
+in <c/>
+<placeName>
+Angli<abbr_type=''macron''>a<ex>m</ex></abbr>
+</placeName>
+, et in <c/>
+<placeName>
+Castello de Herbottell
+</placeName>
+<c/> in <c/>
+<placeName>
+Comitat<abbr_type=''macron''>u<ex>m</ex></abbr> Nor<pc_force=''weak''>=</pc>
+<lb_break=''no''/>thumbria
+</placeName>
+<c/> nata est <c/>
+<name>
+Margareta filia eor<ex>um</ex>
+</name>
+./ <bibl>Ex Chronica
+<lb/>
+Holl</bibl>
+<pb_n=''leaf_8_recto''/>
+<lb/>
+<lb/>
+<figure>
+<heraldry>Tricked coat of arms: Quarterly 1 and 4 <ex>Azure</ex> semy de lis <ex>Or</ex> 2 and 3 Eng<ex>land</ex>. Supporters: On the dexter A crowned lion rampant guardant and on the sinister a stag. Badges: A sun in splendor Or, and a stock eradicated and couped.<heraldry/> <c/>
+<name>
+<c/>
+<del>
+Edward<abbr_type=''brevigraph''_subtype=''brev-us''>us</abbr> Terti<abbr_type=''brevigraph''_subtype=''brev-us''>us</abbr>
+</del>
+<c/>
+</name>
+<c/> <c/>
+<name>
+Ricard<abbr_type=''brevigraph''_subtype=''brev-us''>us</abbr> Secund<abbr_type=''brevigraph''_subtype=''brev-us''>us</abbr>
+</name>
+<c/>
+<figure>
+<heraldry>Tricked coat of arms: Quarterly 1 and 4 <ex>Azure</ex> semy <ex>de lis Or</ex>, 2 and 3 Eng<ex>land</ex>. Supporters: On the dexter a crowned lion rampant guardant Or and on the sinister a Falcon Argent belled and jessed Or. Badges: a sunburst Proper and a stock eradicated and couped Or</heraldry><desc/>
+</figure>
+ <c/>
+<name>
+Edw<abbr_type=''truncation''_subtype=''colon''><ex>ardus</ex>:</abbr> Terti<abbr_type=''brevigraph''_subtype=''brev-us''>us</abbr>
+</name>
+<lb/>
+<figure>
+<heraldry>Tricked coat of arms: Quarterly 1 and 4 ff<ex>rance</ex>, 2 and 3 Eng<ex>land</ex>. Supporters: On the dexter an antelope Argent ducally gorged, lined, and attired Or and on the sinister a swan Argent ducally gorged and lined Or. Badges: a Tudor rose Gules seeded Argent</heraldry><desc/>
+</figure>
+
+<figure>
+<heraldry>Tricked coat of arms: Blank quarterly shield. Supporters: on the dexter a lion rampant guardant and on the sinister a Boar rampant Argent armed and bristled Or</heraldry><desc/>
+</figure>
+ <c/>
+<name>
+<abbr_type=''macron''>Ric<ex>ardus</ex>q</abbr> Terti<abbr_type=''brevigraph''_subtype=''brev-us''>us</abbr>
+</name>
+<lb/>
+</heraldry><desc/>
+</figure>
+</ab></body></text></surface>
+</sourceDoc>
+</TEI>
