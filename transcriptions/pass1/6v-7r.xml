@@ -57,7 +57,7 @@
 <lb/>c<abbr type="macron">u<ex>m</ex></abbr> Exercitu : et in redeundo: ad conducend<abbr type="macron">u<ex>m</ex></abbr> Retrogard<abbr type="macron">u<ex>m</ex></abbr> dicti Exerci=
 <lb/>tus. <metamark>flourish</metamark>.
 <lb/><heading>Pat<ex>entes</ex>:<date calendar="#julianMar" datingMethod="#julianMar" notBefore-custom="1240-10-28" notAfter-custom="1241-10-27">anno: 25: Hen<ex>rici</ex>: 3:</date></heading>
-<lb/>Rex cepit homagi<del>w</del><abbr type="macron">u<ex>m</ex></abbr> <name>willmi de ffortib<brev-z>us</brev-z></name> filii. <name>will<abbr type="macron"><ex>el</ex>mi</abbr> de ffortib<brev-z>us</brev-z></name> q<ex>u</ex><hi rend="sl">o</hi>nd<abbr type="macron">a<ex>m</ex></abbr>
+<lb/>Rex cepit homagi<del>w</del><abbr type="macron">u<ex>m</ex></abbr> <name>willmi de ffortib<abbr type="brevigraph" subtype="truncation-z">us</abbr></name> filii. <name>will<abbr type="macron"><ex>el</ex>mi</abbr> de ffortib<abbr type="brevigraph" subtype="truncation-z">us</abbr></name> q<ex>u</ex><hi rend="sl">o</hi>nd<abbr type="macron">a<ex>m</ex></abbr>
 <lb/>Comit<abbr type="brevigraph" subtype="brev-es">is</abbr> Aubemarle. &amp;c: T: R<ex>ex</ex>: ap<ex>u</ex><hi rend="sl">d</hi> <placeName>wi<del>d</del>ndelsore</placeName>.18. Sept<ex>embris</ex>
 <lb/><heading>Esch<ex>eatriae</ex>: <date calendar="#julianMar" datingMethod="#julianMar" notBefore-custom="1259-10-28" notAfter-custom="1260-10-27">A<ex>nn</ex><hi rend="sl">o</hi>: 44: Hen<ex>rici</ex>: 3.</date></heading>
 <lb/><name>Willm<abbr type="brevigraph" subtype="brev-us">us</abbr> de ffortib<abbr type="brevigraph" subtype="brev-us">us</abbr> C<abbr type="macron">o<ex>m</ex>es</abbr> Albemarle</name> } <name>Thomas de ffortib<abbr type="brevigraph" subtype="brev-us">us</abbr> <abbr type="macron">al<ex>ia</ex>s</abbr>. fforde.</name> } fili<abbr type="brevigraph" subtype="brev-us">us</abbr>.7. A<abbr type="macron">nn<ex>orum</ex></abbr>.
@@ -70,3 +70,4 @@
     </body>
   </text>
 </TEI>
+
