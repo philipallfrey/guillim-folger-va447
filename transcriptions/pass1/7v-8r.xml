@@ -12,7 +12,7 @@
       </calendar>
     </calendarDesc>
   </teiHeader>
-  <sourceDoc corresp="Va447"><surface xml:id="151472" n="6v-7r"><media url="https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229352~224977/full/!1024,1024/0/default.jpg" mimeType="image/jpeg"/><text><body><p/><ab><pb n="6v-7r"/><pb n="leaf 7 verso"/><lb/><label place="margin"><date calendar="#julianMar" datingMethod="#julianMar" notBefore-custom="1515-04-22" notAfter-custom="1516-04-21">a<ex>nn</ex><hi rend="sl">o</hi>.7. Hen<ex>rici</ex>: 8.</date></label><name>Margareta Regina Scotiae</name> nupta est <name>Archibaldo Dowglass.
+  <sourceDoc corresp="Va447"><surface xml:id="151472" n="7v-8r"><media url="https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229352~224977/full/!1024,1024/0/default.jpg" mimeType="image/jpeg"/><text><body><p/><ab><pb n="7v-8r"/><pb n="leaf 7 verso"/><lb/><label place="margin"><date calendar="#julianMar" datingMethod="#julianMar" notBefore-custom="1515-04-22" notAfter-custom="1516-04-21">a<ex>nn</ex><hi rend="sl">o</hi>.7. Hen<ex>rici</ex>: 8.</date></label><name>Margareta Regina Scotiae</name> nupta est <name>Archibaldo Dowglass.
 <lb/>Comiti de Angois</name> sine assensu Reg<abbr type="brevigraph" subtype="brev-es">is</abbr> <abbr type="macron">fr<ex>atr</ex>is</abbr> sui &amp; aufugerunt
 <lb/>in <placeName>Angli<abbr type="macron">a<ex>m</ex></abbr></placeName>, et in <placeName>Castello de Herbottell</placeName> in <placeName>Comitat<abbr type="macron">u<ex>m</ex></abbr> Nor<pc force="weak">=</pc>
 <lb break="no"/>thumbria</placeName> nata est <name>Margareta filia eor<ex>um</ex></name>./ <bibl>Ex Chronica
@@ -26,3 +26,4 @@
 </ab></body></text></surface>
 </sourceDoc>
 </TEI>
+
