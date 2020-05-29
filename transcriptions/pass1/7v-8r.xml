@@ -12,18 +12,27 @@
       </calendar>
     </calendarDesc>
   </teiHeader>
-  <sourceDoc corresp="Va447"><surface xml:id="151472" n="7v-8r"><media url="https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229352~224977/full/!1024,1024/0/default.jpg" mimeType="image/jpeg"/><text><body><p/><ab><pb n="7v-8r"/><pb n="leaf 7 verso"/><lb/><label place="margin"><date calendar="#julianMar" datingMethod="#julianMar" notBefore-custom="1515-04-22" notAfter-custom="1516-04-21">a<ex>nn</ex><hi rend="sl">o</hi>.7. Hen<ex>rici</ex>: 8.</date></label><name>Margareta Regina Scotiae</name> nupta est <name>Archibaldo Dowglass.
+  <sourceDoc corresp="Va447">
+    <surface xml:id="151472" n="7v-8r">
+      <media url="https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229352~224977/full/!1024,1024/0/default.jpg" mimeType="image/jpeg"/>
+    </surface>
+  </sourceDoc>
+  <text>
+    <body>
+      <p/>
+      <ab><pb n="7v-8r"/><pb n="leaf 7 verso"/><lb/><label place="margin"><date calendar="#julianMar" datingMethod="#julianMar" notBefore-custom="1515-04-22" notAfter-custom="1516-04-21">a<ex>nn</ex><hi rend="sl">o</hi> .7. Hen<ex>rici</ex>: 8.</date></label><name>Margareta Regina Scotiae</name> nupta est <name>Archibaldo Dowglass.
 <lb/>Comiti de Angois</name> sine assensu Reg<abbr type="brevigraph" subtype="brev-es">is</abbr> <abbr type="macron">fr<ex>atr</ex>is</abbr> sui &amp; aufugerunt
 <lb/>in <placeName>Angli<abbr type="macron">a<ex>m</ex></abbr></placeName>, et in <placeName>Castello de Herbottell</placeName> in <placeName>Comitat<abbr type="macron">u<ex>m</ex></abbr> Nor<pc force="weak">=</pc>
 <lb break="no"/>thumbria</placeName> nata est <name>Margareta filia eor<ex>um</ex></name>./ <bibl>Ex Chronica
 <lb/>Holl</bibl>
 <pb n="leaf 8 recto"/>
+<lb/><figure><achievement rend="trick" represents="Richard II"><arms marshalling="quarterly"><arms pos="1,3" represents="France Ancient"><ex>Azure</ex> semy de lis <ex>Or</ex></arms><arms pos="2,4" represents="England"/></arms><supporter pos="dexter">A crowned lion rampant guardant</supporter><supporter pos="sinister">A stag</supporter><badge>A sun in splendor Or</badge><badge>a stock eradicated and couped</badge></achievement><name><del>Edward<abbr type="brevigraph" subtype="brev-us">us</abbr> Terti<abbr type="brevigraph" subtype="brev-us">us</abbr></del></name><name>Ricard<abbr type="brevigraph" subtype="brev-us">us</abbr> Secund<abbr type="brevigraph" subtype="brev-us">us</abbr></name><desc/></figure>
+<figure><achievement rend="trick" represents="Edward III"><arms marshalling="quarterly"><arms pos="1,3" represents="France Ancient"/><arms pos="2,4" represents="England"/></arms><supporter pos="dexter">A crowned lion rampant guardant Or</supporter><supporter pos="sinister">A Falcon Argent belled and jessed Or</supporter><badge>A sunburst Proper and a stock eradicated and couped Or</badge></achievement><name>Edw<ex>ardus</ex>: Terti<abbr type="brevigraph" subtype="brev-us">us</abbr></name><desc/></figure>
+<lb/><figure><achievement rend="trick"><arms marshalling="quarterly"><arms pos="1,3" represents="France"/><arms pos="2,4" represents="England"/></arms><supporter pos="dexter">An antelope Argent ducally gorged, lined, and attired Or</supporter><supporter pos="sinister">A swan Argent ducally gorged and lined Or</supporter><badge>A Tudor rose Gules seeded Argent</badge></achievement><desc/></figure>
+<figure><achievement rend="trick" represents="Richard III"><arms marshalling="quarterly"/><supporter pos="dexter">A lion rampant guardant Or</supporter><supporter pos="sinister">A Boar rampant Argent armed and bristled Or</supporter></achievement><name><abbr type="macron">Ric<ex>ard</ex><abbr type="brevigraph" subtype="brev-us">us</abbr></abbr> Terti<abbr type="brevigraph" subtype="brev-us">us</abbr></name><desc/></figure>
 <lb/>
-<lb/><figure><heraldry>Tricked coat of arms: Quarterly 1 and 4 <ex>Azure</ex> semy de lis <ex>Or</ex> 2 and 3 Eng<ex>land</ex>. Supporters: On the dexter A crowned lion rampant guardant and on the sinister a stag. Badges: A sun in splendor Or, and a stock eradicated and couped.<heraldry/> <name><del>Edward<abbr type="brevigraph" subtype="brev-us">us</abbr> Terti<abbr type="brevigraph" subtype="brev-us">us</abbr></del></name> <name>Ricard<abbr type="brevigraph" subtype="brev-us">us</abbr> Secund<abbr type="brevigraph" subtype="brev-us">us</abbr></name> <figure><heraldry>Tricked coat of arms: Quarterly 1 and 4 <ex>Azure</ex> semy <ex>de lis Or</ex>, 2 and 3 Eng<ex>land</ex>. Supporters: On the dexter a crowned lion rampant guardant Or and on the sinister a Falcon Argent belled and jessed Or. Badges: a sunburst Proper and a stock eradicated and couped Or</heraldry><desc/></figure> <name>Edw<ex>ardus</ex>: Terti<abbr type="brevigraph" subtype="brev-us">us</abbr></name>
-<lb/><figure><heraldry>Tricked coat of arms: Quarterly 1 and 4 ff<ex>rance</ex>, 2 and 3 Eng<ex>land</ex>. Supporters: On the dexter an antelope Argent ducally gorged, lined, and attired Or and on the sinister a swan Argent ducally gorged and lined Or. Badges: a Tudor rose Gules seeded Argent</heraldry><desc/></figure> <figure><heraldry>Tricked coat of arms: Blank quarterly shield. Supporters: on the dexter a lion rampant guardant and on the sinister a Boar rampant Argent armed and bristled Or</heraldry><desc/></figure> <name><abbr type="macron">Ric<ex>ardus</ex>q</abbr> Terti<abbr type="brevigraph" subtype="brev-us">us</abbr></name>
-<lb/>
-</heraldry><desc/></figure>
-</ab></body></text></surface>
-</sourceDoc>
+</ab>
+    </body>
+  </text>
 </TEI>
 
