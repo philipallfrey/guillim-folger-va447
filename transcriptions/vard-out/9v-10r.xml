@@ -1,0 +1,115 @@
+<TEI_xmlns=''http://www.tei-c.org/ns/1.0''>
+<teiHeader>
+<calendarDesc>
+<calendar_xml:id=''julianMar''>
+<p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p>
+</calendar>
+<calendar_xml:id=''annoMundi3962''>
+<p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p>
+</calendar>
+<calendar_xml:id=''beforeBritain''>
+<p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p>
+</calendar>
+</calendarDesc>
+</teiHeader>
+<sourceDoc_corresp=''Va447''>
+<surface_xml:id=''151474''_n=''9v-10r''>
+<media_url=''https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229353~224976/full/!1024,1024/0/default.jpg''_mimeType=''image/jpeg''/>
+</surface>
+</sourceDoc>
+<text>
+<body>
+<p/>
+<ab>
+<pb_n=''9v-10r''/>
+<lb/>
+<pb_n=''leaf_9_verso''/>
+<lb/>
+Vide <metamark>V</metamark> .129.    In E<abbr_type=''macron''>ccl<ex>es</ex>i</abbr>a de <c/>
+<placeName>
+<normalised orig="Beawdley" auto="false">Bewdley</normalised>
+</placeName>
+<lb/>
+<figure>
+<achievement_rend=''trick''_represents=''Duke_of_York''><arms_marshalling=''quarterly''><arms_pos=''1,3''_represents=''France''><ex>Azure</ex> three fleurs de lis <ex>Or</ex></arms><arms_pos=''2,4''_represents=''England''><ex>Gules</ex> three lions passant guardant <ex>Or</ex></arms> with a label of three points A<ex>rgent</ex> each pendant charged with three roundels G<ex>ules</ex>.</arms><supporter_pos=''both''>a falcon close Argent belled and jessed <ex>Or</ex> with the head of an Angel ducally crowned <ex>Or</ex>.</supporter></achievement><desc/>
+</figure>
+ 
+<figure>
+<achievement_rend=''trick''><arms_marshalling=''quarterly''><arms_pos=''1''_marshalling=''quarterly''_represents=''Duke_of_York''><arms_pos=''1,3''_represents=''France''><ex>Azure</ex> three fleurs de lis <ex>Or</ex></arms><arms_pos=''2,4''_represents=''England''><ex>Gules</ex> three lions passant guardant <ex>Or</ex></arms> with a label of three points <ex>Argent</ex> each pendant charged with three roundels <ex>Gules</ex>.</arms><arms_pos=''2''_represents=''Clarence''><ex>Gules</ex> three lions passant guardant O<ex>r</ex> within a border A<ex>rgent</ex> </arms><arms_pos=''3''_represents=''_Mortimer''>Barry of six <ex>Or</ex> and <ex>Azure</ex> on a chief <ex>Or</ex> two pallets between two gyrons <ex>Azure</ex> over all an inescutcheon A<ex>rgent</ex></arms><arms_pos=''4''_represents=''Ulster''>O<ex>r</ex> a cross G<ex>ules</ex> </arms></arms><supporter_pos=''both''>A lion rampant guardant O<ex>r</ex></supporter></achievement><desc/>
+</figure>
+<lb/>
+<figure>
+<achievement_rend=''trick''_represents=''Prince_of_Wales''><arms_marshalling=''quarterly''><arms_pos=''1,3''_represents=''France''><ex>Azure</ex> three fleurs de lis <ex>Or</ex></arms><arms_pos=''2,4''_represents=''England''><ex>Gules</ex> three lions passant guardant <ex>Or</ex></arms> with a label of three points A<ex>rgent</ex></arms><supporter_pos=''both''>three feathers A<ex>rgent</ex> quilled O<ex>r</ex> enfiled by a ducal coronet</supporter></achievement><desc/>
+</figure>
+ 
+<figure>
+<achievement_rend=''trick''><arms_marshalling=''quarterly''><arms_pos=''1,3''_represents=''France''><ex>Azure</ex> three fleurs de lis <ex>Or</ex></arms><arms_pos=''2,4''_represents=''England''><ex>Gules</ex> three lions passant guardant <ex>Or</ex></arms></arms><supporter_pos=''dexter''>a bull rampant <normalised orig="Dunne" auto="false">Dun</normalised></supporter><supporter_pos=''sinister''>a lion rampant guardant A<ex>rgent</ex></supporter></achievement><desc/>
+</figure>
+<lb/>
+<figure>
+<achievement_rend=''trick''><arms_marshalling=''quarterly_of_six''><arms_pos=''2''_marshalling=''quarterly''/></arms><supporter_pos=''both''>A wolf A<ex>rgent</ex> ducally gorged and lined <ex>Or</ex>.</supporter></achievement><desc/>
+</figure>
+ 
+<figure>
+<achievement_rend=''trick''><arms_marshalling=''quarterly''><arms_pos=''1,3''_represents=''France''><ex>Azure</ex> three fleurs de lis <ex>Or</ex></arms><arms_pos=''2,4''_represents=''England''><ex>Gules</ex> three lions passant guardant <ex>Or</ex></arms> with a label of three points <ex>Argent</ex> each point charged with three roundels <ex>Gules</ex></arms><supporter_pos=''both''>A falcon A<ex>rgent</ex></supporter></achievement><desc/>
+</figure>
+<lb/>
+<figure>
+<achievement_rend=''trick''_represents=''Edward_III''><badge>A sunburst.</badge></achievement>
+<name>
+Edw<abbr_type=''truncation''_subtype=''colon''><ex>ard</ex>:</abbr> 3<ex>r</ex><hi_rend=''sl''>d</hi>
+</name>
+<desc/>
+</figure>
+ 
+<figure>
+<achievement_red=''trick''_represents=''Edward_III''><badge>A stump eradicated.</badge></achievement>
+<name>
+Edw<ex>ard</ex> :3<ex>r</ex><hi_rend=''sl''>d</hi>
+</name>
+<desc/>
+</figure>
+<lb/>
+<pb_n=''leaf_10_recto''/>
+<lb/>
+<figure>
+<achievement_rend=''trick''_represents=''Henry_V''><badge>A rose A<ex>rgent</ex> barbed and seeded G<ex>ules</ex>.</badge><badge>A beacon O<ex>r</ex> fired <abbr_type=''brevigraph''_subtype=''brev-p''>p<ex>ro</ex></abbr><abbr_type=''brevigraph''_subtype=''brev-p''>p<ex>er</ex></abbr>.</badge><arms_marshalling=''quarterly''><arms_pos=''1,3''_represents=''France''><ex>Azure</ex> three fleurs de lis <ex>Or</ex></arms><arms_pos=''2,4''_represents=''England''><ex>Gules</ex> three lions passant guardant <ex>Or</ex></arms></arms><circlet_type=''Garter''>HONI  SOYT  QUI  MAL  Y  PENSE</circlet><supporter_pos=''dexter''>An antelope A<ex>rgent</ex> ducally gorged and lined <ex>Or</ex></supporter><supporter_pos=''sinister''>A lion rampant guardant crowned <ex>Or</ex></supporter></achievement>
+<name>
+Henrici Quinti
+</name>
+<c/> Insignia<desc/>
+</figure>
+<figure>
+<achievement_rend=''trick''_represents=''Henry_VI''><badge>A rose <ex>Argent barbed and seeded Gules.</ex></badge><badge>Two feathers in saltire Argent.</badge><arms_marshalling=''quarterly''><arms_pos=''1,3''_represents=''France''><ex>Azure</ex> three fleurs de lis <ex>Or</ex></arms><arms_pos=''2,4''_represents=''England''><ex>Gules</ex> three lions passant guardant <ex>Or</ex></arms></arms><circlet_type=''Collar_of_Esses''/><supporter_pos=''dexter''>An antelope A<ex>rgent</ex> attired ducally gorged and lined Or</supporter><supporter_pos=''sinister''>A panther incensed</supporter></achievement>
+<name>
+Hen<abbr_type=''truncation''_subtype=''colon''><ex>rici</ex>:</abbr>6:
+</name>
+Insig<abbr_type=''truncation''_subtype=''colon''><ex>nia</ex>:</abbr><desc/>
+</figure>
+<lb/>
+<figure>
+<achievement_rend=''trick''_represents=''Edward_IV''><badge>A rose en soleil.</badge><badge>A falcon in fetterlock.</badge><arms_marshalling=''quarterly''><arms_pos=''1,3''_represents=''France''><ex>Azure</ex> three fleurs de lis <ex>Or</ex></arms><arms_pos=''2,4''_represents=''England''><ex>Gules</ex> three lions passant guardant <ex>Or</ex></arms></arms><circlet_type=''Collar_of_Roses_and_Suns_with_lion_pendant''/><supporter_pos=''dexter''>A lion rampant guardant crowned</supporter><supporter_pos=''sinister''>A bull rampant Sa<ex>ble</ex></supporter></achievement>
+<name>
+Edw<abbr_type=''truncation''_subtype=''colon''><ex>ardi</ex>:</abbr>4<hi_rend=''sl''>ti</hi>:
+</name>
+Insig<abbr_type=''truncation''_subtype=''colon''><ex>nia</ex>:</abbr><desc/>
+</figure>
+<figure>
+<achievement_rend=''trick''_represents=''Henry_VII''><badge>A rose</badge><badge>A portcullis <ex>Or</ex>.</badge><arms_marshalling=''quarterly''><arms_pos=''1,3''_represents=''France''><ex>Azure</ex> three fleurs de lis <ex>Or</ex></arms><arms_pos=''2,4''_represents=''England''><ex>Gules</ex> three lions passant guardant <ex>Or</ex></arms></arms><circlet_type=''Collar_of_Esses_with_rose_pendant''/><supporter_pos=''dexter''>A dragon rampant G<ex>ules</ex></supporter><supporter_pos=''sinister''>A greyhound rampant A<ex>rgent</ex> collared <ex>Gules</ex></supporter></achievement>
+<name>
+Hen<abbr_type=''truncation''_subtype=''colon''><ex>rici</ex>:</abbr>7<hi_rend=''sl''>mi</hi>
+</name>
+:Insig<abbr_type=''truncation''_subtype=''colon''><ex>nia</ex>:</abbr> <desc/>
+</figure>
+<lb/>
+Ex <bibl>Chronographia <c/>
+<name>
+M<abbr_type=''macron''><ex>agist</ex>ri</abbr>
+<lb/>
+<normalised orig="Halle" auto="false">Hall</normalised>
+</name>
+</bibl>
+</ab>
+</body>
+</text>
+</TEI>

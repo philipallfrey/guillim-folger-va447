@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<calendarDesc>
+<calendar xml:id="julianMar">
+<p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p>
+</calendar>
+<calendar xml:id="annoMundi3962">
+<p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p>
+</calendar>
+<calendar xml:id="beforeBritain">
+<p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p>
+</calendar>
+</calendarDesc>
+</teiHeader>
+<sourceDoc corresp="Va447">
+<surface xml:id="151474" n="9v-10r">
+<media url="https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229353~224976/full/!1024,1024/0/default.jpg" mimeType="image/jpeg"/>
+</surface>
+</sourceDoc>
+<text>
+<body>
+<p/>
+<ab>
+<pb n="9v-10r"/>
+<lb/>
+<pb n="leaf 9 verso"/>
+<lb/>
+<w>Vide</w>
+<c> </c>
+<w><choice><orig><metamark>V</metamark></orig><reg>V</reg></choice></w>
+<c> </c>
+<w>.129</w>
+<pc>.</pc>
+<c> </c>
+<c> </c>
+<c> </c>
+<c> </c>
+<w>In</w>
+<c> </c>
+<w><choice><orig>E<abbr type="macron">ccl<ex>es</ex>i</abbr>a</orig><reg>Ecclesia</reg></choice></w>
+<c> </c>
+<w>de</w>
+<c> </c>
+<placeName>
+<w><choice><orig>Beawdley</orig><reg>Bewdley</reg></choice></w>
+</placeName>
+<lb/>
+<figure><achievement rend="trick" represents="Duke of York"><arms marshalling="quarterly"><arms pos="1,3" represents="France"><ex>Azure</ex> three fleurs de lis <ex>Or</ex></arms><arms pos="2,4" represents="England"><ex>Gules</ex> three lions passant guardant <ex>Or</ex></arms> with a label of three points <choice><orig>A<ex>rgent</ex></orig><reg>Argent</reg></choice>
+ each pendant charged with three roundels <choice><orig>G<ex>ules</ex></orig><reg>Gules</reg></choice>
+.</arms><supporter pos="both">a falcon close Argent belled and jessed <ex>Or</ex> with the head of an Angel ducally crowned <ex>Or</ex>.</supporter></achievement><desc/></figure>
+<figure><achievement rend="trick"><arms marshalling="quarterly"><arms pos="1" marshalling="quarterly" represents="Duke of York"><arms pos="1,3" represents="France"><ex>Azure</ex> three fleurs de lis <ex>Or</ex></arms><arms pos="2,4" represents="England"><ex>Gules</ex> three lions passant guardant <ex>Or</ex></arms> with a label of three points <ex>Argent</ex> each pendant charged with three roundels <ex>Gules</ex>.</arms><arms pos="2" represents="Clarence"><ex>Gules</ex> three lions passant guardant <choice><orig>O<ex>r</ex></orig><reg>Or</reg></choice>
+ within a border <choice><orig>A<ex>rgent</ex></orig><reg>Argent</reg></choice>
+ </arms><arms pos="3" represents=" Mortimer">Barry of six <ex>Or</ex> and <ex>Azure</ex> on a chief <ex>Or</ex> two pallets between two gyrons <ex>Azure</ex> over all an inescutcheon <choice><orig>A<ex>rgent</ex></orig><reg>Argent</reg></choice>
+</arms><arms pos="4" represents="Ulster"><choice><orig>O<ex>r</ex></orig><reg>Or</reg></choice>
+ a cross <choice><orig>G<ex>ules</ex></orig><reg>Gules</reg></choice>
+ </arms></arms><supporter pos="both">A lion rampant guardant <choice><orig>O<ex>r</ex></orig><reg>Or</reg></choice>
+</supporter></achievement><desc/></figure>
+<lb/>
+<figure><achievement rend="trick" represents="Prince of Wales"><arms marshalling="quarterly"><arms pos="1,3" represents="France"><ex>Azure</ex> three fleurs de lis <ex>Or</ex></arms><arms pos="2,4" represents="England"><ex>Gules</ex> three lions passant guardant <ex>Or</ex></arms> with a label of three points <choice><orig>A<ex>rgent</ex></orig><reg>Argent</reg></choice>
+</arms><supporter pos="both">three feathers <choice><orig>A<ex>rgent</ex></orig><reg>Argent</reg></choice>
+ quilled <choice><orig>O<ex>r</ex></orig><reg>Or</reg></choice>
+ enfiled by a ducal coronet</supporter></achievement><desc/></figure>
+<figure><achievement rend="trick"><arms marshalling="quarterly"><arms pos="1,3" represents="France"><ex>Azure</ex> three fleurs de lis <ex>Or</ex></arms><arms pos="2,4" represents="England"><ex>Gules</ex> three lions passant guardant <ex>Or</ex></arms></arms><supporter pos="dexter">a bull rampant <normalised orig="Dunne" auto="false">Dun</normalised></supporter><supporter pos="sinister">a lion rampant guardant <choice><orig>A<ex>rgent</ex></orig><reg>Argent</reg></choice>
+</supporter></achievement><desc/></figure>
+<lb/>
+<figure><achievement rend="trick"><arms marshalling="quarterly of six"><arms pos="2" marshalling="quarterly"/></arms><supporter pos="both">A wolf <choice><orig>A<ex>rgent</ex></orig><reg>Argent</reg></choice>
+ ducally gorged and lined <ex>Or</ex>.</supporter></achievement><desc/></figure>
+<figure><achievement rend="trick"><arms marshalling="quarterly"><arms pos="1,3" represents="France"><ex>Azure</ex> three fleurs de lis <ex>Or</ex></arms><arms pos="2,4" represents="England"><ex>Gules</ex> three lions passant guardant <ex>Or</ex></arms> with a label of three points <ex>Argent</ex> each point charged with three roundels <ex>Gules</ex></arms><supporter pos="both">A falcon <choice><orig>A<ex>rgent</ex></orig><reg>Argent</reg></choice>
+</supporter></achievement><desc/></figure>
+<lb/>
+<figure><achievement rend="trick" represents="Edward III"><badge>A sunburst.</badge></achievement><name>Edw<abbr type="truncation" subtype="colon"><ex>ard</ex>:</abbr> <choice><orig>3<ex>r</ex></orig><reg>3r</reg></choice>
+<hi rend="sl">d</hi></name><desc/></figure>
+<figure><achievement red="trick" represents="Edward III"><badge>A stump eradicated.</badge></achievement><name>Edw<ex>ard</ex> :3<ex>r</ex><hi rend="sl">d</hi></name><desc/></figure>
+<lb/>
+<pb n="leaf 10 recto"/>
+<lb/>
+<figure><achievement rend="trick" represents="Henry V"><badge>A rose <choice><orig>A<ex>rgent</ex></orig><reg>Argent</reg></choice>
+ barbed and seeded <choice><orig>G<ex>ules</ex></orig><reg>Gules</reg></choice>
+.</badge><badge>A beacon <choice><orig>O<ex>r</ex></orig><reg>Or</reg></choice>
+ fired <abbr type="brevigraph" subtype="brev-p"><choice><orig>p<ex>ro</ex></orig><reg>pro</reg></choice>
+</abbr><abbr type="brevigraph" subtype="brev-p"><choice><orig>p<ex>er</ex></orig><reg>per</reg></choice>
+</abbr>.</badge><arms marshalling="quarterly"><arms pos="1,3" represents="France"><ex>Azure</ex> three fleurs de lis <ex>Or</ex></arms><arms pos="2,4" represents="England"><ex>Gules</ex> three lions passant guardant <ex>Or</ex></arms></arms><circlet type="Garter">HONI  SOYT  QUI  MAL  Y  PENSE</circlet><supporter pos="dexter">An antelope <choice><orig>A<ex>rgent</ex></orig><reg>Argent</reg></choice>
+ ducally gorged and lined <ex>Or</ex></supporter><supporter pos="sinister">A lion rampant guardant crowned <ex>Or</ex></supporter></achievement><name>Henrici Quinti</name><c/> Insignia<desc/></figure>
+<figure><achievement rend="trick" represents="Henry VI"><badge>A rose <ex>Argent barbed and seeded Gules.</ex></badge><badge>Two feathers in saltire Argent.</badge><arms marshalling="quarterly"><arms pos="1,3" represents="France"><ex>Azure</ex> three fleurs de lis <ex>Or</ex></arms><arms pos="2,4" represents="England"><ex>Gules</ex> three lions passant guardant <ex>Or</ex></arms></arms><circlet type="Collar of Esses"/><supporter pos="dexter">An antelope <choice><orig>A<ex>rgent</ex></orig><reg>Argent</reg></choice>
+ attired ducally gorged and lined Or</supporter><supporter pos="sinister">A panther incensed</supporter></achievement><name>Hen<abbr type="truncation" subtype="colon"><ex>rici</ex>:</abbr>6:</name>Insig<abbr type="truncation" subtype="colon"><ex>nia</ex>:</abbr><desc/></figure>
+<lb/>
+<figure><achievement rend="trick" represents="Edward IV"><badge>A rose en soleil.</badge><badge>A falcon in fetterlock.</badge><arms marshalling="quarterly"><arms pos="1,3" represents="France"><ex>Azure</ex> three fleurs de lis <ex>Or</ex></arms><arms pos="2,4" represents="England"><ex>Gules</ex> three lions passant guardant <ex>Or</ex></arms></arms><circlet type="Collar of Roses and Suns with lion pendant"/><supporter pos="dexter">A lion rampant guardant crowned</supporter><supporter pos="sinister">A bull rampant <choice><orig>Sa<ex>ble</ex></orig><reg>Sable</reg></choice>
+</supporter></achievement><name>Edw<abbr type="truncation" subtype="colon"><ex>ardi</ex>:</abbr>4<hi rend="sl">ti</hi>:</name>Insig<abbr type="truncation" subtype="colon"><ex>nia</ex>:</abbr><desc/></figure>
+<figure><achievement rend="trick" represents="Henry VII"><badge>A rose</badge><badge>A portcullis <ex>Or</ex>.</badge><arms marshalling="quarterly"><arms pos="1,3" represents="France"><ex>Azure</ex> three fleurs de lis <ex>Or</ex></arms><arms pos="2,4" represents="England"><ex>Gules</ex> three lions passant guardant <ex>Or</ex></arms></arms><circlet type="Collar of Esses with rose pendant"/><supporter pos="dexter">A dragon rampant <choice><orig>G<ex>ules</ex></orig><reg>Gules</reg></choice>
+</supporter><supporter pos="sinister">A greyhound rampant <choice><orig>A<ex>rgent</ex></orig><reg>Argent</reg></choice>
+ collared <ex>Gules</ex></supporter></achievement><name>Hen<abbr type="truncation" subtype="colon"><ex>rici</ex>:</abbr>7<hi rend="sl">mi</hi></name>:Insig<abbr type="truncation" subtype="colon"><ex>nia</ex>:</abbr> <desc/></figure>
+<lb/>
+<w>Ex</w>
+<c> </c>
+<bibl>
+<w>Chronographia</w>
+<c> </c>
+<name>
+<w><choice><orig>M<abbr type="macron"><ex>agist</ex>ri</abbr></orig><reg>Magistri</reg></choice></w>
+<lb/>
+<w><choice><orig>Halle</orig><reg>Hall</reg></choice></w>
+</name>
+</bibl>
+</ab>
+</body>
+</text>
+</TEI>
