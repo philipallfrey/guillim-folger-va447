@@ -1,183 +1,24 @@
-<p>
-<w><choice><orig><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><calendarDesc><calendar xml:id="julianMar">The</orig><reg>The</reg></choice></w>
-<c> </c>
-<w>Julian</w>
-<c> </c>
-<w>calendar</w>
-<pc>,</pc>
-<c> </c>
-<w>as</w>
-<c> </c>
-<w>used</w>
-<c> </c>
-<w>in</w>
-<c> </c>
-<w>England</w>
-<c> </c>
-<w>before</w>
-<c> </c>
-<w>1752</w>
-<pc>.</pc>
-<c> </c>
-<w>The</w>
-<c> </c>
-<w>year</w>
-<c> </c>
-<w>starts</w>
-<c> </c>
-<w>on</w>
-<c> </c>
-<w>March</w>
-<c> </c>
-<p>
-<w><choice><orig>25.</calendar><calendar xml:id="annoMundi3962">A</orig><reg>25.A</reg></choice></w>
-</p>
-<c> </c>
-<w>Hebrew</w>
-<c> </c>
-<w>calendar</w>
-<c> </c>
-<w>dating</w>
-<c> </c>
-<w>from</w>
-<c> </c>
-<w>the</w>
-<c> </c>
-<w>creation</w>
-<c> </c>
-<w>of</w>
-<c> </c>
-<w>the</w>
-<c> </c>
-<w>world</w>
-<pc>,</pc>
-<c> </c>
-<w>based</w>
-<c> </c>
-<w>on</w>
-<c> </c>
-<w>biblical</w>
-<c> </c>
-<w>genealogy</w>
-<pc>.</pc>
-<c> </c>
-<w>The</w>
-<c> </c>
-<w>start</w>
-<c> </c>
-<w>date</w>
-<c> </c>
-<w>varies</w>
-<c> </c>
-<w>according</w>
-<c> </c>
-<w>to</w>
-<c> </c>
-<w>the</w>
-<c> </c>
-<w>biblical</w>
-<c> </c>
-<w>texts</w>
-<c> </c>
-<w>used</w>
-<pc>.</pc>
-<c> </c>
-<w>Here</w>
-<pc>,</pc>
-<c> </c>
-<w>based</w>
-<c> </c>
-<w>on</w>
-<c> </c>
-<w>the</w>
-<c> </c>
-<w>dates</w>
-<c> </c>
-<w>given</w>
-<c> </c>
-<w>for</w>
-<c> </c>
-<w>the</w>
-<c> </c>
-<w>same</w>
-<c> </c>
-<w>events</w>
-<c> </c>
-<w>in</w>
-<c> </c>
-<w>other</w>
-<c> </c>
-<w>formats</w>
-<pc>,</pc>
-<c> </c>
-<w>this</w>
-<c> </c>
-<w>calendar</w>
-<c> </c>
-<w>starts</w>
-<c> </c>
-<w>in</w>
-<c> </c>
-<w>3962</w>
-<c> </c>
-<p>
-<w><choice><orig>BC.</calendar><calendar xml:id="beforeBritain">A</orig><reg>BC.A</reg></choice></w>
-</p>
-<c> </c>
-<w>calendar</w>
-<c> </c>
-<w>dating</w>
-<c> </c>
-<w>from</w>
-<c> </c>
-<w>the</w>
-<c> </c>
-<w>Roman</w>
-<c> </c>
-<w>discovery</w>
-<c> </c>
-<w>of</w>
-<c> </c>
-<w>Britain</w>
-<pc>.</pc>
-<c> </c>
-<w>Based</w>
-<c> </c>
-<w>on</w>
-<c> </c>
-<w>the</w>
-<c> </c>
-<w>dates</w>
-<c> </c>
-<w>given</w>
-<c> </c>
-<w>for</w>
-<c> </c>
-<w>the</w>
-<c> </c>
-<w>same</w>
-<c> </c>
-<w>events</w>
-<c> </c>
-<w>in</w>
-<c> </c>
-<w>other</w>
-<c> </c>
-<w>formats</w>
-<pc>,</pc>
-<c> </c>
-<w>this</w>
-<c> </c>
-<w>calendar</w>
-<c> </c>
-<w>starts</w>
-<c> </c>
-<w>in</w>
-<c> </c>
-<w>50</w>
-<c> </c>
-<w><choice><orig>BC.</calendar></calendarDesc></teiHeader><sourceDoc corresp="Va447"><surface xml:id="151474" n="10v-11r"><media url="https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229355~224974/full/!1024,1024/0/default.jpg" mimeType="image/jpeg"/></surface><text><body><p/><ab></orig><reg>BC.</reg></choice></w>
-</p>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader><calendarDesc>
+<calendar xml:id="julianMar">
+<p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p>
+</calendar>
+<calendar xml:id="annoMundi3962">
+<p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p>
+</calendar>
+<calendar xml:id="beforeBritain">
+<p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p>
+</calendar>
+</calendarDesc>
+</teiHeader>
+<sourceDoc corresp="Va447">
+<surface xml:id="151474" n="10v-11r">
+<media url="https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229355~224974/full/!1024,1024/0/default.jpg" mimeType="image/jpeg"/>
+</surface>
+<text>
+<body>
+<p/>
+<ab>
 <pb n="10v-11r"/>
 <lb/>
 <pb n="leaf 10 verso"/>
