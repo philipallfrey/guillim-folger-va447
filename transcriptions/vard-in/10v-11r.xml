@@ -1,0 +1,126 @@
+<TEI_xmlns=''http://www.tei-c.org/ns/1.0''><teiHeader><calendarDesc><calendar_xml:id=''julianMar''><p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p></calendar><calendar_xml:id=''annoMundi3962''><p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p></calendar><calendar_xml:id=''beforeBritain''><p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p></calendar></calendarDesc></teiHeader><sourceDoc_corresp=''Va447''><surface_xml:id=''151474''_n=''10v-11r''><media_url=''https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229355~224974/full/!1024,1024/0/default.jpg''_mimeType=''image/jpeg''/></surface><text><body><p/><ab>
+<pb_n=''10v-11r''/>
+<lb/>
+<pb_n=''leaf_10_verso''/>
+<lb/>
+<figure>
+<achievement_rend=''trick''_represents=''Henry_VII''><arms_marshalling=''quarterly''><arms_pos=''1,3''_represents=''France''><ex>Azure</ex> three fleurs de lis <ex>Or</ex></arms><arms_pos=''2,4''_represents=''England''><ex>Gules</ex> three lions passant guardant <ex>Or</ex></arms></arms><circlet_type=''Garter_with_Rose_pendant''>HONI  SOYT  QUI  MAL  Y  PENSE</circlet><supporter_pos=''dexter''>A lion rampant guardant crowned <ex>Or</ex></supporter><supporter_pos=''sinister''>A dragon rampant <ex>Gules</ex></supporter><badge>A portcullis</badge><badge>A Tudor rose</badge></achievement>
+Insig<abbr_type=''truncation''_subtype=''colon''><ex>nia</ex>:</abbr> <c/>
+<name>
+Hen<ex>rici</ex> : 8 :
+</name>
+<c/>  <desc/>
+</figure>
+<lb/>
+<bibl>Ex Chrono<ex>graphia</ex> M<ex>agist</ex><hi_rend=''sl''>ri</hi> Halle</bibl>
+<lb/>
+<figure>
+<achievement_rend=''trick''><badge>A fleur de lis crowned</badge></achievement><desc/>
+</figure>
+<figure>
+<achievement_rend=''trick''_represents=''Mary_I''><badge>To the dexter on a demi-roundel per pale Azure and Vert a bundle of arrows points downward Or bound armed and feathered Argent impaling to the sinister a demi-rose Gules upon a demi-rose Argent the whole rayonnant and ensigned with a crown Or</badge></achievement><desc/>
+</figure>
+<lb/>
+<pb>
+11r</pb>
+<lb/>
+<heading>The Order of p<hi_rend=''sl''>r</hi><ex>e</ex>cedence of all estat<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr>
+<lb/>
+before his M<abbr_type=''macron''>a<ex>ies</ex>tie</abbr> throwghe <c/>
+<placeName>
+Lond<abbr_type=''macron''>o<ex>n</ex></abbr>
+</placeName>
+<lb/>
+from the <c/>
+<placeName>
+Tower
+</placeName>
+<c/> to <c/>
+<placeName>
+White Halle
+</placeName>
+<c/> <date_calendar=''#julianMar''_datingMethod=''#julianMar''_when-custom=''1603-03-25''>the
+<lb/>
+xv<hi_rend=''sl''>th</hi> daye of Marche Anno d<abbr_type=''macron''><ex>omi</ex>ni</abbr> 1603.
+<lb/>
+<span_xml:lang=''la''>Et Anno <abbr_type=''truncation''_subtype=''colon''>R<ex>egni</ex>R<abbr_type=''truncation''_subtype=''colon''><ex>egis</ex>:</abbr></abbr> Jacobi Primo</span></date> ./ </heading><metamark>flourish</metamark>
+<lb/>
+Messengers of the Chamber.
+<lb/>
+Gent<ex>illmen</ex> Harbengers. Seriant Porter.
+<lb/>
+Gent<ex>illmen</ex>  Esquiers the Prync<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> servants.
+<lb/>
+Gent<ex>illmen</ex>  Esquiers the Queenes servants.
+<lb/>
+Sewers the king<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> servant<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr>.
+<lb/>
+Quart<abbr_type=''brevigraph''_subtype=''brev-er''>er</abbr> Wayters
+<lb/>
+Gent<ex>illmen</ex> Vshers in Ordynarye.
+<lb/>
+Clerk<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> of the Signet.
+<lb/>
+Clerk<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> of the Pryvey Seale
+<lb/>
+Clerk<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> of the Counsell.
+<lb/>
+Clerk<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> of the Parliam<abbr_type=''macron''>e<ex>n</ex></abbr>te.
+<lb/>
+Clerke of the Crowne.
+<lb/>
+Chaplens havinge dignitye.
+<lb/>
+Alderm<abbr_type=''macron''>e<ex>n</ex></abbr> of London.
+<lb/>
+The Prync<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> Cownsell {Nota. <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> prync<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> Serge<abbr_type=''macron''>a<ex>n</ex>t</abbr>e to sorte w<ex>i</ex><hi_rend=''sl''>th</hi> sergeant<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> ./
+<lb/>
+The Queenes Counsell at Lawe.
+<lb/>
+The king<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> Aduocate  Remembrancer.
+<lb/>
+The king<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> Attorney  Solicito<ex>u</ex><hi_rend=''sl''>r</hi> S<ex>i</ex><hi_rend=''sl''>r</hi> ffraunc<ex>is</ex> Bac<abbr_type=''macron''>o<ex>n</ex></abbr> the
+<lb/>
+king<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> Counsell at Lawe.
+<lb/>
+Sergeant<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> at Lawe.
+<lb/>
+The king<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> Serge<abbr_type=''macron''>a<ex>n</ex>t</abbr>e.
+<lb/>
+Masters of the Chauncerye.
+<lb/>
+Bacheler knight<ex>es</ex>.
+<lb/>
+Secretaries for the ffrenche  Latyne tongues  <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> Quene
+<lb/>
+<hi>Solicitor</hi>. <label_place=''margin''>quer whether it should not be Secretary</label>
+<lb>Esquiers for the bodye, Sewers Carvers  Cupp bearers in
+<lb/>
+ordynarye.
+<lb/>
+Masters of standinge Offic<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> beinge no Counsello<ex>u</ex><hi_rend=''sl''>rs</hi> <abbr_type=''macron''>vi<ex>de</ex>l<abbr_type=''brevigraph''_subtype=''truncation-z''>icet</abbr></abbr>. Tent<supplied_reason=''edge-of-folio''>es</supplied>
+<lb/>
+Revells. Armory. Wardrobe.  Ordynance.
+<lb/>
+Masters of the Request<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr>.
+<lb/>
+The Chamberlayne of the Exchecquer.
+<lb/>
+Barons of the Exchecquer.  Judges of the Lawe.
+<lb/>
+The Lorde Chiefe Bar<abbr_type=''macron''>o<ex>n</ex></abbr>,  Lo<abbr_type=''truncation''_subtype=''colon''><ex>rd</ex>:</abbr> Chiefe Justice of the Co<abbr_type=''macron''>m<ex>m</ex>on</abbr>
+<lb/>
+pleaes.
+<lb/>
+Trompett<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr>.
+<lb/>
+Gentillm<abbr_type=''macron''>e<ex>n</ex></abbr> of the pryvey Chamber,  Bedchamber.
+<lb/>
+knight<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> of the Bathe.
+<lb/>
+knight<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> that have bene Lord<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> Ambassado<ex>u</ex><hi_rend=''sl''>rs</hi> Lord<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> p<hi_rend=''sl''>r</hi><ex>e</ex>sident<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr>
+<lb/>
+Lord<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> deputies.
+</lb>
+</ab></body></text></sourceDoc>
+</TEI>

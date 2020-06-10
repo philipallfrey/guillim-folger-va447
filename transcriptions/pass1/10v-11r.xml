@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><calendarDesc><calendar xml:id="julianMar"><p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p></calendar><calendar xml:id="annoMundi3962"><p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p></calendar><calendar xml:id="beforeBritain"><p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p></calendar></calendarDesc></teiHeader><sourceDoc corresp="Va447"><surface xml:id="151474" n="10v-11r"><media url="https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229355~224974/full/!1024,1024/0/default.jpg" mimeType="image/jpeg"/></surface><text><body><p/><ab><pb n="10v-11r"/><lb/><pb n="leaf 10 verso"/><lb/><figure><achievement rend="trick" represents="Henry VII"><arms marshalling="quarterly"><arms pos="1,3" represents="France"><ex>Azure</ex> three fleurs de lis <ex>Or</ex></arms><arms pos="2,4" represents="England"><ex>Gules</ex> three lions passant guardant <ex>Or</ex></arms></arms><circlet type="Garter with Rose pendant">HONI  SOYT  QUI  MAL  Y  PENSE</circlet><supporter pos="dexter">A lion rampant guardant crowned <ex>Or</ex></supporter><supporter pos="sinister">A dragon rampant <ex>Gules</ex></supporter><badge>A portcullis</badge><badge>A Tudor rose</badge></achievement>
+Insig<ex>nia</ex>: <name>Hen<ex>rici</ex> : 8 :</name>  <desc/></figure><lb/><bibl>Ex Chrono<ex>graphia</ex> M<ex>agist</ex><hi rend="sl">ri</hi> Halle</bibl><lb/><figure><achievement rend="trick"><badge>A fleur de lis crowned</badge></achievement><desc/></figure><figure><achievement rend="trick" represents="Mary I"><badge>To the dexter on a demi-roundel per pale Azure and Vert a bundle of arrows points downward Or bound armed and feathered Argent impaling to the sinister a demi-rose Gules upon a demi-rose Argent the whole rayonnant and ensigned with a crown Or</badge></achievement><desc/></figure><lb/><pb>11r</pb><lb/><heading>The Order of p<hi rend="sl">r</hi><ex>e</ex>cedence of all estat<abbr type="brevigraph" subtype="brev-es">es</abbr>
+<lb/>before his M<abbr type="macron">a<ex>ies</ex>tie</abbr> throwghe <placeName>Lond<abbr type="macron">o<ex>n</ex></abbr></placeName>
+<lb/>from the <placeName>Tower</placeName> to <placeName>White Halle</placeName> <date calendar="#julianMar" datingMethod="#julianMar" when-custom="1603-03-25">the
+<lb/>xv<hi rend="sl">th</hi> daye of Marche Anno d<abbr type="macron"><ex>omi</ex>ni</abbr> 1603.
+<lb/><span xml:lang="la">Et Anno <abbr type="truncation" subtype="colon">R<ex>egni</ex>R<ex>egis</ex>:</abbr> Jacobi Primo</span></date> ./ </heading><metamark>flourish</metamark><lb/>Messengers of the Chamber.
+<lb/>Gent<ex>illmen</ex> Harbengers. Seriant Porter.
+<lb/>Gent<ex>illmen</ex>  Esquiers the Prync<abbr type="brevigraph" subtype="brev-es">es</abbr> servants.
+<lb/>Gent<ex>illmen</ex>  Esquiers the Queenes servants.
+<lb/>Sewers the king<abbr type="brevigraph" subtype="brev-es">es</abbr> servant<abbr type="brevigraph" subtype="brev-es">es</abbr>.
+<lb/>Quart<abbr type="brevigraph" subtype="brev-er">er</abbr> Wayters
+<lb/>Gent<ex>illmen</ex> Vshers in Ordynarye.
+<lb/>Clerk<abbr type="brevigraph" subtype="brev-es">es</abbr> of the Signet.
+<lb/>Clerk<abbr type="brevigraph" subtype="brev-es">es</abbr> of the Pryvey Seale
+<lb/>Clerk<abbr type="brevigraph" subtype="brev-es">es</abbr> of the Counsell.
+<lb/>Clerk<abbr type="brevigraph" subtype="brev-es">es</abbr> of the Parliam<abbr type="macron">e<ex>n</ex></abbr>te.
+<lb/>Clerke of the Crowne.
+<lb/>Chaplens havinge dignitye.
+<lb/>Alderm<abbr type="macron">e<ex>n</ex></abbr> of London.
+<lb/>The Prync<abbr type="brevigraph" subtype="brev-es">es</abbr> Cownsell {Nota. <g ref="#thorn">th</g><hi rend="sl">e</hi> prync<abbr type="brevigraph" subtype="brev-es">es</abbr> Serge<abbr type="macron">a<ex>n</ex>t</abbr>e to sorte w<ex>i</ex><hi rend="sl">th</hi> sergeant<abbr type="brevigraph" subtype="brev-es">es</abbr> ./
+<lb/>The Queenes Counsell at Lawe.
+<lb/>The king<abbr type="brevigraph" subtype="brev-es">es</abbr> Aduocate  Remembrancer.
+<lb/>The king<abbr type="brevigraph" subtype="brev-es">es</abbr> Attorney  Solicito<ex>u</ex><hi rend="sl">r</hi> S<ex>i</ex><hi rend="sl">r</hi> ffraunc<ex>is</ex> Bac<abbr type="macron">o<ex>n</ex></abbr> the
+<lb/>king<abbr type="brevigraph" subtype="brev-es">es</abbr> Counsell at Lawe.
+<lb/>Sergeant<abbr type="brevigraph" subtype="brev-es">es</abbr> at Lawe.
+<lb/>The king<abbr type="brevigraph" subtype="brev-es">es</abbr> Serge<abbr type="macron">a<ex>n</ex>t</abbr>e.
+<lb/>Masters of the Chauncerye.
+<lb/>Bacheler knight<ex>es</ex>.
+<lb/>Secretaries for the ffrenche  Latyne tongues  <g ref="#thorn">th</g><hi rend="sl">e</hi> Quene
+<lb/><hi>Solicitor</hi>. <label place="margin">quer whether it should not be Secretary</label>
+<lb>Esquiers for the bodye, Sewers Carvers  Cupp bearers in
+<lb/>ordynarye.
+<lb/>Masters of standinge Offic<abbr type="brevigraph" subtype="brev-es">es</abbr> beinge no Counsello<ex>u</ex><hi rend="sl">rs</hi> <abbr type="macron">vi<ex>de</ex>l<abbr type="brevigraph" subtype="truncation-z">icet</abbr></abbr>. Tent<supplied reason="edge-of-folio">es</supplied>
+<lb/>Revells. Armory. Wardrobe.  Ordynance.
+<lb/>Masters of the Request<abbr type="brevigraph" subtype="brev-es">es</abbr>.
+<lb/>The Chamberlayne of the Exchecquer.
+<lb/>Barons of the Exchecquer.  Judges of the Lawe.
+<lb/>The Lorde Chiefe Bar<abbr type="macron">o<ex>n</ex></abbr>,  Lo<ex>rd</ex>: Chiefe Justice of the Co<abbr type="macron">m<ex>m</ex>on</abbr>
+<lb/>pleaes.
+<lb/>Trompett<abbr type="brevigraph" subtype="brev-es">es</abbr>.
+<lb/>Gentillm<abbr type="macron">e<ex>n</ex></abbr> of the pryvey Chamber,  Bedchamber.
+<lb/>knight<abbr type="brevigraph" subtype="brev-es">es</abbr> of the Bathe.
+<lb/>knight<abbr type="brevigraph" subtype="brev-es">es</abbr> that have bene Lord<abbr type="brevigraph" subtype="brev-es">es</abbr> Ambassado<ex>u</ex><hi rend="sl">rs</hi> Lord<abbr type="brevigraph" subtype="brev-es">es</abbr> p<hi rend="sl">r</hi><ex>e</ex>sident<abbr type="brevigraph" subtype="brev-es">es</abbr>
+<lb/>  Lord<abbr type="brevigraph" subtype="brev-es">es</abbr> deputies.
+</lb>
+</ab></body></text></sourceDoc>
+</TEI>
+

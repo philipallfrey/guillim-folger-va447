@@ -1,0 +1,126 @@
+<TEI_xmlns=''http://www.tei-c.org/ns/1.0''><teiHeader><calendarDesc><calendar_xml:id=''julianMar''><p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p></calendar><calendar_xml:id=''annoMundi3962''><p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p></calendar><calendar_xml:id=''beforeBritain''><p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p></calendar></calendarDesc></teiHeader><sourceDoc_corresp=''Va447''><surface_xml:id=''151474''_n=''10v-11r''><media_url=''https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229355~224974/full/!1024,1024/0/default.jpg''_mimeType=''image/jpeg''/></surface><text><body><p/><ab>
+<pb_n=''10v-11r''/>
+<lb/>
+<pb_n=''leaf_10_verso''/>
+<lb/>
+<figure>
+<achievement_rend=''trick''_represents=''Henry_VII''><arms_marshalling=''quarterly''><arms_pos=''1,3''_represents=''France''><ex>Azure</ex> three fleurs de lis <ex>Or</ex></arms><arms_pos=''2,4''_represents=''England''><ex>Gules</ex> three lions passant guardant <ex>Or</ex></arms></arms><circlet_type=''Garter_with_Rose_pendant''>HONI  <normalised orig="SOYT" auto="false">SOIT</normalised>  QUI  MAL  Y  PENSE</circlet><supporter_pos=''dexter''>A lion rampant guardant crowned <ex>Or</ex></supporter><supporter_pos=''sinister''>A dragon rampant <ex>Gules</ex></supporter><badge>A portcullis</badge><badge>A Tudor rose</badge></achievement>
+Insig<abbr_type=''truncation''_subtype=''colon''><ex>nia</ex>:</abbr> <c/>
+<name>
+Hen<ex>rici</ex> : 8 :
+</name>
+<c/>  <desc/>
+</figure>
+<lb/>
+<bibl>Ex Chrono<ex>graphia</ex> M<ex>agist</ex><hi_rend=''sl''>ri</hi> Halle</bibl>
+<lb/>
+<figure>
+<achievement_rend=''trick''><badge>A fleur de lis crowned</badge></achievement><desc/>
+</figure>
+<figure>
+<achievement_rend=''trick''_represents=''Mary_I''><badge>To the dexter on a demi-roundel per pale Azure and Vert a bundle of arrows points downward Or bound armed and feathered Argent impaling to the sinister a demi-rose Gules upon a demi-rose Argent the whole rayonnant and ensigned with a crown Or</badge></achievement><desc/>
+</figure>
+<lb/>
+<pb>
+11r</pb>
+<lb/>
+<heading>The Order of p<hi_rend=''sl''>r</hi><ex>e</ex>cedence of all estat<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr>
+<lb/>
+before his <join original="M&lt;abbr_type=''macron''&gt;a&lt;ex&gt;ies&lt;/ex&gt;tie"><normalised orig="Maiestie" auto="false">Majesty</join></normalised></abbr> <normalised orig="throwghe" auto="false">through</normalised> <c/>
+<placeName>
+Lond<abbr_type=''macron''>o<ex>n</ex></abbr>
+</placeName>
+<lb/>
+from the <c/>
+<placeName>
+Tower
+</placeName>
+<c/> to <c/>
+<placeName>
+<join original="White Halle"><normalised orig="WhiteHalle" auto="false">Whitehall</join></normalised>
+</placeName>
+<c/> <date_calendar=''#julianMar''_datingMethod=''#julianMar''_when-custom=''1603-03-25''>the
+<lb/>
+xv<hi_rend=''sl''>th</hi> <normalised orig="daye" auto="false">day</normalised> of <normalised orig="Marche" auto="false">March</normalised> Anno d<abbr_type=''macron''><ex>omi</ex>ni</abbr> 1603.
+<lb/>
+<span_xml:lang=''la''>Et Anno <abbr_type=''truncation''_subtype=''colon''>R<ex>egni</ex>R<abbr_type=''truncation''_subtype=''colon''><ex>egis</ex>:</abbr></abbr> Jacobi Primo</span></date> ./ </heading><metamark>flourish</metamark>
+<lb/>
+Messengers of the Chamber.
+<lb/>
+<join original="Gent&lt;ex&gt;illmen"><normalised orig="Gentillmen" auto="false">Gentlemen</join></normalised></ex> <normalised orig="Harbengers" auto="false">Harbingers</normalised>. <normalised orig="Seriant" auto="false">Sergeant</normalised> Porter.
+<lb/>
+<join original="Gent&lt;ex&gt;illmen"><normalised orig="Gentillmen" auto="false">Gentlemen</join></normalised></ex>  <normalised orig="Esquiers" auto="false">Esquires</normalised> the <join original="Prync&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Prynces" auto="false">Prince's</join></normalised></abbr> servants.
+<lb/>
+<join original="Gent&lt;ex&gt;illmen"><normalised orig="Gentillmen" auto="false">Gentlemen</join></normalised></ex>  <normalised orig="Esquiers" auto="false">Esquires</normalised> the <normalised orig="Queenes" auto="false">Queen's</normalised> servants.
+<lb/>
+Sewers the <join original="king&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="kinges" auto="false">king's</join></normalised></abbr> <join original="servant&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="servantes" auto="false">servants</join></normalised></abbr>.
+<lb/>
+Quart<abbr_type=''brevigraph''_subtype=''brev-er''>er</abbr> <normalised orig="Wayters" auto="false">Waiters</normalised>
+<lb/>
+<join original="Gent&lt;ex&gt;illmen"><normalised orig="Gentillmen" auto="false">Gentlemen</join></normalised></ex> <normalised orig="Vshers" auto="false">Ushers</normalised> in <normalised orig="Ordynarye" auto="false">Ordinary</normalised>.
+<lb/>
+<join original="Clerk&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Clerkes" auto="false">Clerks</join></normalised></abbr> of the Signet.
+<lb/>
+<join original="Clerk&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Clerkes" auto="false">Clerks</join></normalised></abbr> of the <normalised orig="Pryvey" auto="false">Privy</normalised> <normalised orig="Seale" auto="false">Seal</normalised>
+<lb/>
+<join original="Clerk&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Clerkes" auto="false">Clerks</join></normalised></abbr> of the <normalised orig="Counsell" auto="false">Council</normalised>.
+<lb/>
+<join original="Clerk&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Clerkes" auto="false">Clerks</join></normalised></abbr> of the <join original="Parliam&lt;abbr_type=''macron''&gt;e&lt;ex&gt;n&lt;/ex&gt;&lt;/abbr&gt;te"><normalised orig="Parliamente" auto="false">Parliament</join></normalised>.
+<lb/>
+<normalised orig="Clerke" auto="false">Clerk</normalised> of the <normalised orig="Crowne" auto="false">Crown</normalised>.
+<lb/>
+<normalised orig="Chaplens" auto="false">Chaplains</normalised> <normalised orig="havinge" auto="false">having</normalised> <normalised orig="dignitye" auto="false">dignity</normalised>.
+<lb/>
+Alderm<abbr_type=''macron''>e<ex>n</ex></abbr> of London.
+<lb/>
+The <join original="Prync&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Prynces" auto="false">Prince's</join></normalised></abbr> <normalised orig="Cownsell" auto="false">Counsel</normalised> {Nota. <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> <join original="prync&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="prynces" auto="false">prince's</join></normalised></abbr> <join original="Serge&lt;abbr_type=''macron''&gt;a&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;e"><normalised orig="Sergeante" auto="false">Serjeant</join></normalised> to <normalised orig="sorte" auto="false">sort</normalised> w<ex>i</ex><hi_rend=''sl''>th</hi> <join original="sergeant&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="sergeantes" auto="false">serjeants</join></normalised></abbr> ./
+<lb/>
+The <normalised orig="Queenes" auto="false">Queen's</normalised> <normalised orig="Counsell" auto="false">Counsel</normalised> at <normalised orig="Lawe" auto="false">Law</normalised>.
+<lb/>
+The <join original="king&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="kinges" auto="false">king's</join></normalised></abbr> <normalised orig="Aduocate" auto="false">Advocate</normalised>  Remembrancer.
+<lb/>
+The <join original="king&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="kinges" auto="false">king's</join></normalised></abbr> Attorney  <join original="Solicito&lt;ex&gt;u&lt;/ex&gt;&lt;hi_rend=''sl''&gt;r"><normalised orig="Solicitour" auto="false">Solicitor</join></normalised></hi> S<ex>i</ex><hi_rend=''sl''>r</hi> <join original="ffraunc&lt;ex&gt;is"><normalised orig="ffrauncis" auto="false">Francis</join></normalised></ex> Bac<abbr_type=''macron''>o<ex>n</ex></abbr> the
+<lb/>
+<join original="king&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="kinges" auto="false">king's</join></normalised></abbr> <normalised orig="Counsell" auto="false">Counsel</normalised> at <normalised orig="Lawe" auto="false">Law</normalised>.
+<lb/>
+<join original="Sergeant&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Sergeantes" auto="false">Serjeants</join></normalised></abbr> at <normalised orig="Lawe" auto="false">Law</normalised>.
+<lb/>
+The <join original="king&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="kinges" auto="false">king's</join></normalised></abbr> <join original="Serge&lt;abbr_type=''macron''&gt;a&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;e"><normalised orig="Sergeante" auto="false">Serjeant</join></normalised>.
+<lb/>
+Masters of the <normalised orig="Chauncerye" auto="false">Chancery</normalised>.
+<lb/>
+<normalised orig="Bacheler" auto="false">Bachelor</normalised> <join original="knight&lt;ex&gt;es"><normalised orig="knightes" auto="false">knights</join></normalised></ex>.
+<lb/>
+Secretaries for the <normalised orig="ffrenche" auto="false">French</normalised>  <normalised orig="Latyne" auto="false">Latin</normalised> tongues  <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> <normalised orig="Quene" auto="false">Queen</normalised>
+<lb/>
+<hi>Solicitor</hi>. <label_place=''margin''>quer whether it should not be Secretary</label>
+<lb><normalised orig="Esquiers" auto="false">Esquires</normalised> for the <normalised orig="bodye" auto="false">body</normalised>, Sewers Carvers  <normalised orig="Cupp" auto="false">Cup</normalised> bearers in
+<lb/>
+<normalised orig="ordynarye" auto="false">ordinary</normalised>.
+<lb/>
+Masters of <normalised orig="standinge" auto="false">standing</normalised> Offic<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> <normalised orig="beinge" auto="false">being</normalised> no <join original="Counsello&lt;ex&gt;u&lt;/ex&gt;&lt;hi_rend=''sl''&gt;rs"><normalised orig="Counsellours" auto="false">Counsellors</join></normalised></hi> <abbr_type=''macron''><join original="vi&lt;ex&gt;de&lt;/ex&gt;l&lt;abbr_type=''brevigraph''_subtype=''truncation-z''&gt;icet">videlicet</join></abbr></abbr>. <join original="Tent&lt;supplied_reason=''edge-of-folio''&gt;es"><normalised orig="Tentes" auto="false">Tents</join></normalised></supplied>
+<lb/>
+Revells. Armory. Wardrobe.  <normalised orig="Ordynance" auto="false">Ordinance</normalised>.
+<lb/>
+Masters of the <join original="Request&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Requestes" auto="false">Requests</join></normalised></abbr>.
+<lb/>
+The <normalised orig="Chamberlayne" auto="false">Chamberlain</normalised> of the <normalised orig="Exchecquer" auto="false">Exchequer</normalised>.
+<lb/>
+Barons of the <normalised orig="Exchecquer" auto="false">Exchequer</normalised>.  Judges of the <normalised orig="Lawe" auto="false">Law</normalised>.
+<lb/>
+The <normalised orig="Lorde" auto="false">Lord</normalised> <normalised orig="Chiefe" auto="false">Chief</normalised> Bar<abbr_type=''macron''>o<ex>n</ex></abbr>,  Lo<abbr_type=''truncation''_subtype=''colon''><ex>rd</ex>:</abbr> <normalised orig="Chiefe" auto="false">Chief</normalised> Justice of the Co<abbr_type=''macron''>m<ex>m</ex>on</abbr>
+<lb/>
+<normalised orig="pleaes" auto="false">pleas</normalised>.
+<lb/>
+<join original="Trompett&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Trompettes" auto="false">Trumpets</join></normalised></abbr>.
+<lb/>
+<join original="Gentillm&lt;abbr_type=''macron''&gt;e&lt;ex&gt;n"><normalised orig="Gentillmen" auto="false">Gentlemen</join></normalised></ex></abbr> of the <normalised orig="pryvey" auto="false">privy</normalised> Chamber,  Bedchamber.
+<lb/>
+<join original="knight&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="knightes" auto="false">knights</join></normalised></abbr> of the <normalised orig="Bathe" auto="false">Bath</normalised>.
+<lb/>
+<join original="knight&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="knightes" auto="false">knights</join></normalised></abbr> that have <normalised orig="bene" auto="false">been</normalised> <join original="Lord&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Lordes" auto="false">Lords</join></normalised></abbr> <join original="Ambassado&lt;ex&gt;u&lt;/ex&gt;&lt;hi_rend=''sl''&gt;rs"><normalised orig="Ambassadours" auto="false">Ambassadors</join></normalised></hi> <join original="Lord&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Lordes" auto="false">Lords</join></normalised></abbr> <join original="p&lt;hi_rend=''sl''&gt;r&lt;/hi&gt;&lt;ex&gt;e&lt;/ex&gt;sident&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="presidentes" auto="false">presidents</join></normalised></abbr>
+<lb/>
+<join original="Lord&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Lordes" auto="false">Lords</join></normalised></abbr> deputies.
+</lb>
+</ab></body></text></sourceDoc>
+</TEI>
