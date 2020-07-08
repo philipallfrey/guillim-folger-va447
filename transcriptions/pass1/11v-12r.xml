@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <calendarDesc>
+      <calendar xml:id="julianMar">
+        <p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p>
+      </calendar>
+      <calendar xml:id="annoMundi3962">
+        <p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p>
+      </calendar>
+      <calendar xml:id="beforeBritain">
+        <p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p>
+      </calendar>
+    </calendarDesc>
+  </teiHeader>
+  <sourceDoc corresp="Va447">
+    <surface xml:id="151476" n="11v-12r">
+      <media url="https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229356~224973/full/!1024,1024/0/default.jpg" mimeType="image/jpeg"/>
+    </surface>
+  </sourceDoc>
+  <text>
+    <body>
+      <p/>
+      <ab><pb n="11v-12r"/><lb/><pb n="leaf 11 verso"/><lb/>The masters of the Jewell howse: &amp; <name>Sir Thomas Chalynor</name>
+<lb/><name>the Prync<abbr type="brevigraph" subtype="brev-es">es</abbr> governo<ex>u</ex><hi rend="sl">r</hi>.</name>
+<lb/><name>The Deane of the King<abbr type="brevigraph" subtype="brev-es">es</abbr> Chappell</name>
+<lb/>Barons yonger sonnes.
+<lb/>Viscount<abbr type="brevigraph" subtype="brev-es">es</abbr> yong<abbr type="brevigraph" subtype="brev-er">er</abbr> Sonnes.
+<lb/>Knight<abbr type="brevigraph" subtype="brev-es">es</abbr> of the pryvey Counsell.
+<lb/>Knight<abbr type="brevigraph" subtype="brev-es">es</abbr> of the Garter.
+<lb/>Barons eldest sonnes.
+<lb/>Earles yonger sonnes.
+<lb/>Viscount<abbr type="brevigraph" subtype="brev-es">es</abbr> elder sonnes.
+<lb/>The Threasourer, &amp; Comptroller amongst Barons
+<lb/>accordinge to theire Creati<abbr type="macron">o<ex>n</ex></abbr>.
+<lb/>Barons of the Parlia<abbr type="macron">me<ex>n</ex>t</abbr>e.
+<lb/>The Pryncipall Secretary beinge a Bar<abbr type="macron">o<ex>n</ex></abbr>.
+<lb/>Bishoppes.
+<lb/>Marquises yong<abbr type="brevigraph" subtype="brev-er">er</abbr> sonnes.
+<lb/>Earles eldest sonnes.
+<lb/>Viscount<ex>es</ex>.
+<lb/>Dukes yong<abbr type="brevigraph" subtype="brev-er">er</abbr> sonnes.
+<lb/>Marquises eldest sonnes.
+<lb/>Earles.
+<lb/>The <name>Lo<ex>rd</ex>: Admyrall</name> &amp; the <name>Lorde Chamberlayne</name>, not being
+<lb/>otherwise employed.
+<lb/>Marquises.
+<lb/>Dukes.
+<list><item n="rank:1-6 file:-3">Sergeant<abbr type="brevigraph" subtype="brev-es">es</abbr> of Armes
+  <item n="rank:1 file:0"><name>Clar<abbr type="macron">e<ex>n</ex>t</abbr>i<abbr type="brevigraph" subtype="brev-us">us</abbr></name> &amp; <name>Norroye king<abbr type="brevigraph" subtype="brev-es">es</abbr> of Armes</name>.</item>
+  <item n="rank:1-6 file:+3">Sergeantes of Armes</item>
+  <item n="rank:2 file:0"><name>Lo<ex>rd</ex>: Treasourer</name>. <name>Lo<ex>rd</ex>: Chauncelo<ex>u</ex><hi rend="sl">r</hi></name></item>
+  <item n="rank:3 file:-1">The Chiefe Gent<ex>illman</ex> vsher.</item>
+  <item n="rank:3 file:0"><name>Garter</name>.</item>
+  <item n="rank:3 file:+1"><name>Lo<ex>rd</ex>: mayor of Londo<abbr type="macron"><ex>n</ex></abbr></name></item>
+  <item n="rank:4 file:0"><name>The Prynce</name>.</item>
+  <item n="rank:5 file:-1"><name>The:E<ex>arle</ex>:of Nottingh<abbr type="macron">a<ex>m</ex></abbr><lb/> Lorde Constable</name></item>
+  <item n="rank:5 file:0">The sworde borne by<lb/>the <name>Earle of Worcest<ex>er</ex>.<lb/> Earle Marshall</name> <metamark>flourish</metamark></item>
+  <item n="rank:5 file:+1"><name>The:E<ex>arle</ex>: of Oxford Lorde greate Chamberlayne.</name></item>
+  <item n="rank:6-8 file:-2">Gent<ex>illmen</ex>: Pensyoners.</item>
+  <item n="rank:6-8 file:-1">ffootem<abbr type="macron">e<ex>n</ex></abbr> &amp; Quirries</item>
+  <item n="rank:6 file:0">The king<ex>es</ex> m<abbr type="macron">a<ex>ies</ex>ti</abbr>e <lb/>vnder his Canopye.</item>
+  <item n="rank:6-8 file:+1">ffootem<abbr type="macron">e<ex>n</ex></abbr> &amp; Quirries</item>
+  <item n="rank:6-8 file:+2">Gent<ex>illmen</ex>: Pensyoners.</item>
+  <item n="rank:7 file:0"><name>The:E<ex>arle</ex>: of Sowthamp<pc force="weak">=</pc>
+    <lb break="no"/>ton m<ex>aste</ex>r of the Horse</name><lb/>leading a spare
+    <lb/>horse. ~ ~
+  </item>
+<item n="rank:8 file:0"><name>S<ex>i</ex><hi rend="sl">r</hi> John Stanhope
+  <lb/>Vicechamberlayne
+  <lb/>to the kinge</name>. ~.</item>
+</item></list>
+<lb/><fw type="catch">The:Lo<ex>rd</ex>:</fw>
+<pb>12r</pb>
+<list><item n="rank:1 file:0"><name>The:Lo<ex>rd</ex>: Sydney
+    <lb/>the Queenes
+    <lb/><del>Vice</del>chamberlaine</name></item><item n="rank:2 file:-1">Vsher:</item><item n="rank:2 file:+1">Vsher.</item><item n="rank:3-4 file:-2">Gentillm<abbr type="macron">e<ex>n</ex></abbr><pc force="weak">=</pc><lb break="no"/> Pensioners.</item><item n="rank:3-4 file:-1">ffootemen.</item><item n="rank:3 file:0"><name>The Queenes Maiestye</name> .~.</item><item n="rank:3-4 file:+1">ffootemen.</item><item n="rank:3-4 file:+2">Gentillm<abbr type="macron">e<ex>n</ex></abbr><pc force="weak">=</pc><lb break="no"/> Pencioners</item><item n="rank:4 file:0">The master of the
+    <lb/>Horse .....
+    <lb/>.... a Scottish<pc force="weak">=</pc>
+    <lb break="no"/>m<abbr type="macron">a<ex>n</ex></abbr> leadinge a
+    <lb/>spare horse.
+  </item></list>
+<lb/>Ladies after theire Degrees.
+<lb/><abbr type="macron">vi<ex>de</ex>l<abbr type="brevigraph" subtype="truncation-z">icet</abbr></abbr>.
+<list><item>Duchesses.</item><item>Marchionesses.</item><item>Countesses</item><item>Viscountesses</item><item>Baronesses.&amp;c.</item></list>
+<lb/>
+<lb/><name>The Lady Arbella</name>.
+<lb/><name>The Countesse of Arondell</name>.
+<lb/>The countesse of
+<list><item><name>Oxforde</name>.</item><item><name>Northumberland</name>.</item><item><name>Shrewsbury</name>.</item><item><name>Darby. the elder.</name></item><item><name>Darby the yong<abbr type="brevigraph" subtype="brev-er">er</abbr></name></item><item><name>Worcester.</name></item><item><name>Rutlande.</name></item><item><name>Comberlande.</name></item><item><name>Sussex.</name></item><item><name>Bathe.</name></item><item><name>Sowthampt<abbr type="macron">o<ex>n</ex></abbr> thelder.</name></item><item><name>Bedforde.</name></item><item><name>Penbrook.</name></item><item><name>Hartforde.</name></item><item><name>Essexe.</name></item><item><name>Nottingham.</name></item><item><name>Suffolk.</name>/</item></list>
+<lb/>The <name>:La<ex>dy</ex>: Riche</name> here by
+<lb/>speciall comannde<abbr type="macron">me<ex>n</ex>t</abbr>e
+<lb/>to goe in place as dowghter
+<lb/>vnto <name>Bowrchier: E<ex>arle</ex> : of Ess<ex>ex</ex></name>
+</ab>
+    </body>
+  </text>
+</TEI>
+

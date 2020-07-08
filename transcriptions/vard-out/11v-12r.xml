@@ -1,0 +1,305 @@
+<TEI_xmlns=''http://www.tei-c.org/ns/1.0''>
+<teiHeader>
+<calendarDesc>
+<calendar_xml:id=''julianMar''>
+<p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p>
+</calendar>
+<calendar_xml:id=''annoMundi3962''>
+<p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p>
+</calendar>
+<calendar_xml:id=''beforeBritain''>
+<p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p>
+</calendar>
+</calendarDesc>
+</teiHeader>
+<sourceDoc_corresp=''Va447''>
+<surface_xml:id=''151476''_n=''11v-12r''>
+<media_url=''https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229356~224973/full/!1024,1024/0/default.jpg''_mimeType=''image/jpeg''/>
+</surface>
+</sourceDoc>
+<text>
+<body>
+<p/>
+<ab>
+<pb_n=''11v-12r''/>
+<lb/>
+<pb_n=''leaf_11_verso''/>
+<lb/>
+The masters of the <normalised orig="Jewell" auto="false">Jewel</normalised> <normalised orig="howse" auto="false">house</normalised>: &amp; <c/>
+<name>
+Sir Thomas Chalynor
+</name>
+<lb/>
+<name>
+the <join original="Prync&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Prynces" auto="false">Prince's</join></normalised></abbr> <join original="governo&lt;ex&gt;u&lt;/ex&gt;&lt;hi_rend=''sl''&gt;r"><normalised orig="governour" auto="false">governor</join></normalised></hi>.
+</name>
+<lb/>
+<name>
+The <normalised orig="Deane" auto="false">Dean</normalised> of the <join original="King&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Kinges" auto="false">King's</join></normalised></abbr> <normalised orig="Chappell" auto="false">Chapel</normalised>
+</name>
+<lb/>
+Barons <normalised orig="yonger" auto="false">younger</normalised> <normalised orig="sonnes" auto="false">sons</normalised>.
+<lb/>
+<join original="Viscount&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Viscountes" auto="false">Viscounts</join></normalised></abbr> <join original="yong&lt;abbr_type=''brevigraph''_subtype=''brev-er''&gt;er"><normalised orig="yonger" auto="false">younger</join></normalised></abbr> <normalised orig="Sonnes" auto="false">Sons</normalised>.
+<lb/>
+<join original="Knight&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Knightes" auto="false">Knights</join></normalised></abbr> of the <normalised orig="pryvey" auto="false">privy</normalised> <normalised orig="Counsell" auto="false">Council</normalised>.
+<lb/>
+<join original="Knight&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Knightes" auto="false">Knights</join></normalised></abbr> of the Garter.
+<lb/>
+Barons eldest <normalised orig="sonnes" auto="false">sons</normalised>.
+<lb/>
+<normalised orig="Earles" auto="false">Earls'</normalised> <normalised orig="yonger" auto="false">younger</normalised> <normalised orig="sonnes" auto="false">sons</normalised>.
+<lb/>
+<join original="Viscount&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Viscountes" auto="false">Viscounts'</join></normalised></abbr> elder <normalised orig="sonnes" auto="false">sons</normalised>.
+<lb/>
+The <normalised orig="Threasourer" auto="false">Treasurer</normalised>, &amp; Comptroller amongst Barons
+<lb/>
+<normalised orig="accordinge" auto="false">according</normalised> to <normalised orig="theire" auto="false">their</normalised> Creati<abbr_type=''macron''>o<ex>n</ex></abbr>.
+<lb/>
+Barons of the <join original="Parlia&lt;abbr_type=''macron''&gt;me&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;e"><normalised orig="Parliamente" auto="false">Parliament</join></normalised>.
+<lb/>
+The <normalised orig="Pryncipall" auto="false">Principal</normalised> Secretary <normalised orig="beinge" auto="false">being</normalised> a Bar<abbr_type=''macron''>o<ex>n</ex></abbr>.
+<lb/>
+<normalised orig="Bishoppes" auto="false">Bishops</normalised>.
+<lb/>
+<normalised orig="Marquises" auto="false">Marquesses'</normalised> <join original="yong&lt;abbr_type=''brevigraph''_subtype=''brev-er''&gt;er"><normalised orig="yonger" auto="false">younger</join></normalised></abbr> <normalised orig="sonnes" auto="false">sons</normalised>.
+<lb/>
+<normalised orig="Earles" auto="false">Earls'</normalised> eldest <normalised orig="sonnes" auto="false">sons</normalised>.
+<lb/>
+<join original="Viscount&lt;ex&gt;es"><normalised orig="Viscountes" auto="false">Viscounts</join></normalised></ex>.
+<lb/>
+Dukes <join original="yong&lt;abbr_type=''brevigraph''_subtype=''brev-er''&gt;er"><normalised orig="yonger" auto="false">younger</join></normalised></abbr> <normalised orig="sonnes" auto="false">sons</normalised>.
+<lb/>
+<normalised orig="Marquises" auto="false">Marquesses'</normalised> eldest <normalised orig="sonnes" auto="false">sons</normalised>.
+<lb/>
+<normalised orig="Earles" auto="false">Earls</normalised>.
+<lb/>
+The <c/>
+<name>
+Lo<abbr_type=''truncation''_subtype=''colon''><ex>rd</ex>:</abbr> <normalised orig="Admyrall" auto="false">Admiral</normalised>
+</name>
+<c/> &amp; the <c/>
+<name>
+<normalised orig="Lorde" auto="false">Lord</normalised> <normalised orig="Chamberlayne" auto="false">Chamberlain</normalised>
+</name>
+, not being
+<lb/>
+otherwise employed.
+<lb/>
+<normalised orig="Marquises" auto="false">Marquesses</normalised>.
+<lb/>
+Dukes.
+<list><item_n=''rank:1-6_file:-3''><join original="Sergeant&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Sergeantes" auto="false">Sergeants</join></normalised></abbr> of <normalised orig="Armes" auto="false">Arms</normalised>
+<item_n=''rank:1_file:0''>
+<name>
+<join original="Clar&lt;abbr_type=''macron''&gt;e&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;i&lt;abbr_type=''brevigraph''_subtype=''brev-us''&gt;us"><normalised orig="Clarentius" auto="false">Clarenceaux</join></normalised></abbr>
+</name>
+<c/> &amp; <c/>
+<name>
+<normalised orig="Norroye" auto="false">Norroy</normalised> <join original="king&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="kinges" auto="false">kings</join></normalised></abbr> of <normalised orig="Armes" auto="false">Arms</normalised>
+</name>
+.</item>
+<item_n=''rank:1-6_file:+3''><normalised orig="Sergeantes" auto="false">Sergeants</normalised> of <normalised orig="Armes" auto="false">Arms</normalised></item>
+<item_n=''rank:2_file:0''>
+<name>
+Lo<abbr_type=''truncation''_subtype=''colon''><ex>rd</ex>:</abbr> <normalised orig="Treasourer" auto="false">Treasurer</normalised>
+</name>
+. <c/>
+<name>
+Lo<abbr_type=''truncation''_subtype=''colon''><ex>rd</ex>:</abbr> <join original="Chauncelo&lt;ex&gt;u&lt;/ex&gt;&lt;hi_rend=''sl''&gt;r"><normalised orig="Chauncelour" auto="false">Chancellor</join></normalised></hi>
+</name>
+</item>
+<item_n=''rank:3_file:-1''>The <normalised orig="Chiefe" auto="false">Chief</normalised> <join original="Gent&lt;ex&gt;illman"><normalised orig="Gentillman" auto="false">Gentleman</join></normalised></ex> <normalised orig="vsher" auto="false">usher</normalised>.</item>
+<item_n=''rank:3_file:0''>
+<name>
+Garter
+</name>
+.</item>
+<item_n=''rank:3_file:+1''>
+<name>
+Lo<abbr_type=''truncation''_subtype=''colon''><ex>rd</ex>:</abbr> mayor of Londo<abbr_type=''macron''><ex>n</ex></abbr>
+</name>
+</item>
+<item_n=''rank:4_file:0''>
+<name>
+The <normalised orig="Prynce" auto="false">Prince</normalised>
+</name>
+.</item>
+<item_n=''rank:5_file:-1''>
+<name>
+The:<join original="E&lt;abbr_type=''truncation''_subtype=''colon''&gt;&lt;ex&gt;arle"><normalised orig="Earle" auto="false">Earl</join></normalised></ex>:</abbr>of Nottingh<abbr_type=''macron''>a<ex>m</ex></abbr>
+<lb/>
+<normalised orig="Lorde" auto="false">Lord</normalised> Constable
+</name>
+</item>
+<item_n=''rank:5_file:0''>The <normalised orig="sworde" auto="false">sword</normalised> borne by
+<lb/>
+the <c/>
+<name>
+<normalised orig="Earle" auto="false">Earl</normalised> of Worcest<ex>er</ex>.
+<lb/>
+<normalised orig="Earle" auto="false">Earl</normalised> Marshall
+</name>
+<c/> <metamark>flourish</metamark></item>
+<item_n=''rank:5_file:+1''>
+<name>
+The:<join original="E&lt;abbr_type=''truncation''_subtype=''colon''&gt;&lt;ex&gt;arle"><normalised orig="Earle" auto="false">Earl</join></normalised></ex>:</abbr> of Oxford <normalised orig="Lorde" auto="false">Lord</normalised> <normalised orig="greate" auto="false">great</normalised> <normalised orig="Chamberlayne" auto="false">Chamberlain</normalised>.
+</name>
+</item>
+<item_n=''rank:6-8_file:-2''><join original="Gent&lt;abbr_type=''truncation''_subtype=''colon''&gt;&lt;ex&gt;illmen"><normalised orig="Gentillmen" auto="false">Gentlemen</join></normalised></ex>:</abbr> <normalised orig="Pensyoners" auto="false">Pensioners</normalised>.</item>
+<item_n=''rank:6-8_file:-1''><join original="ffootem&lt;abbr_type=''macron''&gt;e&lt;ex&gt;n"><normalised orig="ffootemen" auto="false">Footmen</join></normalised></ex></abbr> &amp; <normalised orig="Quirries" auto="false">Equerries</normalised></item>
+<item_n=''rank:6_file:0''>The king<ex>es</ex> <join original="m&lt;abbr_type=''macron''&gt;a&lt;ex&gt;ies&lt;/ex&gt;ti&lt;/abbr&gt;e"><normalised orig="maiestie" auto="false">majesty</join></normalised>
+<lb/>
+<normalised orig="vnder" auto="false">under</normalised> his <normalised orig="Canopye" auto="false">Canopy</normalised>.</item>
+<item_n=''rank:6-8_file:+1''><join original="ffootem&lt;abbr_type=''macron''&gt;e&lt;ex&gt;n"><normalised orig="ffootemen" auto="false">Footmen</join></normalised></ex></abbr> &amp; <normalised orig="Quirries" auto="false">Equerries</normalised></item>
+<item_n=''rank:6-8_file:+2''><join original="Gent&lt;abbr_type=''truncation''_subtype=''colon''&gt;&lt;ex&gt;illmen"><normalised orig="Gentillmen" auto="false">Gentlemen</join></normalised></ex>:</abbr> <normalised orig="Pensyoners" auto="false">Pensioners</normalised>.</item>
+<item_n=''rank:7_file:0''>
+<name>
+The:<join original="E&lt;abbr_type=''truncation''_subtype=''colon''&gt;&lt;ex&gt;arle"><normalised orig="Earle" auto="false">Earl</join></normalised></ex>:</abbr> of <join original="Sowthamp&lt;pc_force=''weak''&gt;=&lt;/pc&gt;[lb]&lt;lb_break=''no''/&gt;ton"><normalised orig="Sowthamp=ton" auto="false">Southampton</join></normalised> m<ex>aste</ex>r of the Horse
+</name>
+<lb/>
+leading a spare
+<lb/>
+horse. ~ ~
+</item>
+<item_n=''rank:8_file:0''>
+<name>
+S<ex>i</ex><hi_rend=''sl''>r</hi> John Stanhope
+<lb/>
+<normalised orig="Vicechamberlayne" auto="false">Vice-Chamberlain</normalised>
+<lb/>
+to the <normalised orig="kinge" auto="false">king</normalised>
+</name>
+. ~.</item>
+</item></list>
+<lb/>
+<fw_type=''catch''>The:Lo<abbr_type=''truncation''_subtype=''colon''><ex>rd</ex>:</abbr></fw>
+<pb>
+12r</pb>
+<list><item_n=''rank:1_file:0''>
+<name>
+The:Lo<abbr_type=''truncation''_subtype=''colon''><ex>rd</ex>:</abbr> Sydney
+<lb/>
+the <normalised orig="Queenes" auto="false">Queen's</normalised>
+<lb/>
+<del>Vice</del><normalised orig="chamberlaine" auto="false">chamberlain</normalised>
+</name>
+</item><item_n=''rank:2_file:-1''><normalised orig="Vsher" auto="false">Usher</normalised>:</item><item_n=''rank:2_file:+1''><normalised orig="Vsher" auto="false">Usher</normalised>.</item><item_n=''rank:3-4_file:-2''><join original="Gentillm&lt;abbr_type=''macron''&gt;e&lt;ex&gt;n"><normalised orig="Gentillmen" auto="false">Gentlemen</join></normalised></ex></abbr><pc_force=''weak''>=</pc><lb_break=''no''/> Pensioners.</item><item_n=''rank:3-4_file:-1''><normalised orig="ffootemen" auto="false">Footmen</normalised>.</item><item_n=''rank:3_file:0''>
+<name>
+The <normalised orig="Queenes" auto="false">Queen's</normalised> <normalised orig="Maiestye" auto="false">Majesty</normalised>
+</name>
+<c/> .~.</item><item_n=''rank:3-4_file:+1''><normalised orig="ffootemen" auto="false">Footmen</normalised>.</item><item_n=''rank:3-4_file:+2''><join original="Gentillm&lt;abbr_type=''macron''&gt;e&lt;ex&gt;n"><normalised orig="Gentillmen" auto="false">Gentlemen</join></normalised></ex></abbr><pc_force=''weak''>=</pc><lb_break=''no''/> <normalised orig="Pencioners" auto="false">Pensioners</normalised></item><item_n=''rank:4_file:0''>The master of the
+<lb/>
+Horse .....
+<lb/>
+.... a Scottish<pc_force=''weak''>=</pc>
+<lb_break=''no''/>m<abbr_type=''macron''>a<ex>n</ex></abbr> <normalised orig="leadinge" auto="false">leading</normalised> a
+<lb/>
+spare horse.
+</item></list>
+<lb/>
+Ladies after <normalised orig="theire" auto="false">their</normalised> Degrees.
+<lb/>
+<abbr_type=''macron''>vi<ex>de</ex>l<abbr_type=''brevigraph''_subtype=''truncation-z''>icet</abbr></abbr>.
+<list><item>Duchesses.</item><item>Marchionesses.</item><item>Countesses</item><item>Viscountesses</item><item>Baronesses.&amp;c.</item></list>
+<lb/>
+<lb/>
+<name>
+The Lady Arbella
+</name>
+.
+<lb/>
+<name>
+The <normalised orig="Countesse" auto="false">Countess</normalised> of <normalised orig="Arondell" auto="false">Arundel</normalised>
+</name>
+.
+<lb/>
+The <normalised orig="countesse" auto="false">countess</normalised> of
+<list><item>
+<name>
+<normalised orig="Oxforde" auto="false">Oxford</normalised>
+</name>
+.</item><item>
+<name>
+Northumberland
+</name>
+.</item><item>
+<name>
+Shrewsbury
+</name>
+.</item><item>
+<name>
+<normalised orig="Darby" auto="false">Derby</normalised>. the elder.
+</name>
+</item><item>
+<name>
+<normalised orig="Darby" auto="false">Derby</normalised> the <join original="yong&lt;abbr_type=''brevigraph''_subtype=''brev-er''&gt;er"><normalised orig="yonger" auto="false">younger</join></normalised></abbr>
+</name>
+</item><item>
+<name>
+Worcester.
+</name>
+</item><item>
+<name>
+<normalised orig="Rutlande" auto="false">Rutland</normalised>.
+</name>
+</item><item>
+<name>
+<normalised orig="Comberlande" auto="false">Cumberland</normalised>.
+</name>
+</item><item>
+<name>
+Sussex.
+</name>
+</item><item>
+<name>
+<normalised orig="Bathe" auto="false">Bath</normalised>.
+</name>
+</item><item>
+<name>
+<join original="Sowthampt&lt;abbr_type=''macron''&gt;o&lt;ex&gt;n"><normalised orig="Sowthampton" auto="false">Southampton</join></normalised></ex></abbr> <normalised orig="thelder" auto="false">the elder</normalised>.
+</name>
+</item><item>
+<name>
+<normalised orig="Bedforde" auto="false">Bedford</normalised>.
+</name>
+</item><item>
+<name>
+<normalised orig="Penbrook" auto="false">Pembroke</normalised>.
+</name>
+</item><item>
+<name>
+<normalised orig="Hartforde" auto="false">Hertford</normalised>.
+</name>
+</item><item>
+<name>
+<normalised orig="Essexe" auto="false">Essex</normalised>.
+</name>
+</item><item>
+<name>
+Nottingham.
+</name>
+</item><item>
+<name>
+Suffolk.
+</name>
+/</item></list>
+<lb/>
+The <c/>
+<name>
+:La<abbr_type=''truncation''_subtype=''colon''><ex>dy</ex>:</abbr> <normalised orig="Riche" auto="false">Rich</normalised>
+</name>
+<c/> here by
+<lb/>
+<normalised orig="speciall" auto="false">special</normalised> <join original="comannde&lt;abbr_type=''macron''&gt;me&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;e"><normalised orig="comanndemente" auto="false">commandment</join></normalised>
+<lb/>
+to <normalised orig="goe" auto="false">go</normalised> in place as <normalised orig="dowghter" auto="false">daughter</normalised>
+<lb/>
+<normalised orig="vnto" auto="false">unto</normalised> <c/>
+<name>
+<normalised orig="Bowrchier" auto="false">Bourchier</normalised>: <join original="E&lt;ex&gt;arle"><normalised orig="Earle" auto="false">Earl</join></normalised></ex> : of Ess<ex>ex</ex>
+</name>
+</ab>
+</body>
+</text>
+</TEI>
