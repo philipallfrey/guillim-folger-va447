@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<calendarDesc>
+			<calendar xml:id="julianMar">
+				<p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p>
+			</calendar>
+			<calendar xml:id="annoMundi3962">
+				<p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p>
+			</calendar>
+			<calendar xml:id="beforeBritain">
+				<p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p>
+			</calendar>
+		</calendarDesc>
+	</teiHeader>
+	<sourceDoc corresp="Va447">
+		<surface xml:id="151477" n="12v-13r">
+			<media url="https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229357~224972/full/!1024,1024/0/default.jpg" mimeType="image/jpeg"/>
+			<zone resp="#Vet-PhilipAllfrey">
+<lb/><pb n="leaf 12 verso" />
+<lb/>Marquises eldest sonnes wyves.
+<lb/>Marquises Dowghters.
+<lb/>Dukes yonger sonnes wyves.
+<lb/>Viscountesses.
+<lb/>Earles eldest sonnes wyves.
+<lb/>Earles Dowghters.
+<lb/>Marquises yong<brev-er>er</brev-er> sonnes wyves.
+<lb/>Baronesses.
+<lb/><name>The La<ex>dy</ex>: Laware</name>.
+<lb/><name>La<ex>dy</ex>: Lomley</name>.
+<lb/><name>La<ex>dy</ex>: Mordante</name>.
+<lb/><name>La<ex>dy</ex>: Riche</name> ...... vide antea.
+<lb/><name>La<ex>dy</ex>: Northe</name>.
+<lb/><name>La<ex>dy</ex>: Hunesdon</name>.
+<lb/><name>La<ex>dy</ex>: Wotton</name>. <metamark>flourish</metamark> <name>Elizabeth Sowthwell</name> next to <brev-y>th</brev-y><sl>e</sl> knight<brev-es>es</brev-es>
+<lb/>wyves of the Pryvey Chamber.
+<lb/>Maydes of honor w<ex>i</ex><sl>th</sl> theire Mother.
+<lb/>Viscount<brev-es>es</brev-es> eldest sonnes wyves.
+<lb/>Viscount<brev-es>es</brev-es> dowghters.
+<lb/>Earles yong<brev-er>er</brev-er> sonnes wyves.
+<lb/>Barons eldest sonnes wyves.
+<lb/>Barons dowghters.
+<lb/>Knight<brev-es>es</brev-es> Bannerett<brev-es>es</brev-es> wyves.
+<lb/>Viscount<brev-es>es</brev-es> yong<brev-er>er</brev-er> sonnes wyves
+<lb/>Barons yonger sonnes wyves. <metamark>flourish</metamark> <metamark>flourish</metamark> <metamark>flourish</metamark>
+<lb/>The Capt<macron>e<ex>n</ex></macron> of the Garde.
+<lb/>The Gwarde.
+<lb/>Note. that when the messengers of the Chamber &amp; others
+<lb/>(before m<macron>e<ex>n</ex></macron>tioned to be formoste in this p<sl>r</sl><ex>e</ex>cedence) came to <brev-y>th</brev-y><sl>e</sl>
+<lb/>gate of the Cowrte at White Halle they made a stande
+<lb/>devidinge themselues halfe on the one syde &amp; halfe on thother &amp;
+<lb/>making (as it were a Lane for his M<macron>a<ex>ies</ex>tie</macron> to passe throwgh
+<lb/>into thesayde Cowrte. <metamark>flourish</metamark>
+<lb/><pb n="leaf 12 verso" />
+<lb/><heading>Proceedinge to the Parlia<macron>me<ex>n</ex>t</macron>
+<lb/>the <date calendar="#julianMar" datingMethod="#julianMar" when-custom="1603-03-19">.19. of Marche .1603.</date></heading>
+<lb/>Messengers of the Chamber.
+<lb/>Gent<ex>illmen</ex>: &amp; esquiers the king<brev-es>es</brev-es> servant<brev-es>es</brev-es>.
+<lb/>Clerks of the Chauncery.
+<lb/>Clerks of the Signet.
+<lb/>Clerks of the Pryvey seale.
+<lb/>Clerks of the Counsell.
+<lb/>Clerks of the Parlia<macron>me<ex>n</ex>t</macron>e.
+<lb/>The king<brev-es>es</brev-es> Attorney &amp; Solicitor.
+<lb/>Sergeants of the Lawe.
+<lb/>The king<ex>es</ex> Sergeante.
+<lb/>Masters of the Chaun<del>y</del>cery.
+<lb/>Knight<ex>es</ex> Bachelers.
+<lb/>Secretaries of the ffrenche &amp; Latyne tongues.
+<lb/>Esquiers for the bodye in Ordynarye.
+<lb/>Masters of Request<brev-es>es</brev-es>.
+<lb/>Chamberlayne of the Exchecquer.
+<lb/>Barons of the Exchecquer
+<lb/>Judg<brev-es>es</brev-es> of the Lawe.
+<lb/>Lo<ex>rd</ex>: Chiefe Bar<macron>o<ex>n</ex></macron> of <brev-y>th</brev-y><sl>e</sl> Exche<macron>q<brev-z><ex>uer</ex></brev-z></macron>. &amp; Lo<ex>rd</ex>: Chiefe Just<ex>ice</ex>: of <brev-y>th</brev-y><sl>e</sl> <macron>co<ex>m</ex>mo<ex>n</ex></macron>ples
+<lb/>Trompett<ex>es</ex>.
+<lb/>Knight<ex>es</ex> of the Bathe.
+<lb/>Knight<ex>es</ex> that have bene Lord<ex>es</ex> Ambassado<ex>u</ex><sl>rs</sl>. p<sl>r</sl><ex>e</ex>sidentes &amp;
+<lb/>Deputies.
+<lb/>Knight Marshall. the M<ex>aste</ex><sl>r</sl> of the Jewell howse &amp; <name>S<ex>i</ex><sl>r</sl> Tho<ex>mas</ex>:
+<lb/>Chalyno<ex>u</ex><sl>r</sl></name> the Prync<brev-es>es</brev-es> gou<brev-er>er</brev-er>no<ex>u</ex><sl>r</sl>.
+<lb/>The deane of the king<brev-es>es</brev-es> Chappell
+<lb/>Barons yong<brev-er>er</brev-er> sonnes.
+<lb/>Viscount<brev-es>es</brev-es> yong<brev-er>er</brev-er> sonnes.
+<lb/>Knight<brev-es>es</brev-es> of the pryvey Counsell
+<lb/>Knight<brev-es>es</brev-es> of the Garter.
+<lb/>Barons eldest sonnes.
+<lb/>Earles yonger sonnes.
+<lb/>Viscount<brev-es>es</brev-es> elder sonnes.
+<lb/>Threas<ex>ourer</ex>: and Comptroller beinge Barons accordinge
+<lb/>to Creation.
+<lb/>Barons of the Parlia<macron>me<ex>n</ex>t</macron>e.
+<lb/>Pryncipall secretary beinge a Bar<macron>o<ex>n</ex></macron>
+<lb/>Bishoppes.
+<lb/>Marquises yong<brev-er>er</brev-er> sonnes.
+<lb/>Earles eldest sonnes.
+<lb/>Viscount<brev-es>es</brev-es>.
+</zone>
+</surface>
+</sourceDoc>
+<text>
+<body>
+	<p/>
+</body>
+</text>
+</TEI>

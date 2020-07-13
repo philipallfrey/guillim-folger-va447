@@ -1,0 +1,213 @@
+<TEI_xmlns=''http://www.tei-c.org/ns/1.0''>
+<teiHeader>
+<calendarDesc>
+<calendar_xml:id=''julianMar''>
+<p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p>
+</calendar>
+<calendar_xml:id=''annoMundi3962''>
+<p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p>
+</calendar>
+<calendar_xml:id=''beforeBritain''>
+<p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p>
+</calendar>
+</calendarDesc>
+</teiHeader>
+<sourceDoc_corresp=''Va447''>
+<surface_xml:id=''151477''_n=''12v-13r''>
+<media_url=''https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229357~224972/full/!1024,1024/0/default.jpg''_mimeType=''image/jpeg''/>
+</surface>
+</sourceDoc>
+<text>
+<body>
+<p/>
+<ab>
+<pb_n=''12v-13r''/>
+<lb/>
+<pb_n=''leaf_12_verso''/>
+<lb/>
+<normalised orig="Marquises" auto="false">Marquesses'</normalised> eldest <normalised orig="sonnes" auto="false">sons'</normalised> <normalised orig="wyves" auto="false">wives</normalised>.
+<lb/>
+<normalised orig="Marquises" auto="false">Marquesses'</normalised> <normalised orig="Dowghters" auto="false">Daughters</normalised>.
+<lb/>
+Dukes <normalised orig="yonger" auto="false">younger</normalised> <normalised orig="sonnes" auto="false">sons'</normalised> <normalised orig="wyves" auto="false">wives</normalised>.
+<lb/>
+Viscountesses.
+<lb/>
+<normalised orig="Earles" auto="false">Earls'</normalised> eldest <normalised orig="sonnes" auto="false">sons'</normalised> <normalised orig="wyves" auto="false">wives</normalised>.
+<lb/>
+<normalised orig="Earles" auto="false">Earls'</normalised> <normalised orig="Dowghters" auto="false">Daughters</normalised>.
+<lb/>
+Marquises <join original="yong&lt;abbr_type=''brevigraph''_subtype=''brev-er''&gt;er"><normalised orig="yonger" auto="false">younger</join></normalised></abbr> <normalised orig="sonnes" auto="false">sons'</normalised> <normalised orig="wyves" auto="false">wives</normalised>.
+<lb/>
+Baronesses.
+<lb/>
+<name>
+The La<abbr_type=''truncation''_subtype=''colon''><ex>dy</ex>:</abbr> Laware
+</name>
+.
+<lb/>
+<name>
+La<abbr_type=''truncation''_subtype=''colon''><ex>dy</ex>:</abbr> Lomley
+</name>
+.
+<lb/>
+<name>
+La<abbr_type=''truncation''_subtype=''colon''><ex>dy</ex>:</abbr> Mordante
+</name>
+.
+<lb/>
+<name>
+La<abbr_type=''truncation''_subtype=''colon''><ex>dy</ex>:</abbr> Riche
+</name>
+<c/> ...... vide antea.
+<lb/>
+<name>
+La<abbr_type=''truncation''_subtype=''colon''><ex>dy</ex>:</abbr> Northe
+</name>
+.
+<lb/>
+<name>
+La<abbr_type=''truncation''_subtype=''colon''><ex>dy</ex>:</abbr> Hunesdon
+</name>
+.
+<lb/>
+<name>
+La<abbr_type=''truncation''_subtype=''colon''><ex>dy</ex>:</abbr> Wotton
+</name>
+. <metamark>flourish</metamark> <c/>
+<name>
+Elizabeth Sowthwell
+</name>
+<c/> next to <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> knight<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr>
+<lb/>
+<normalised orig="wyves" auto="false">wives</normalised> of the <normalised orig="Pryvey" auto="false">Privy</normalised> Chamber.
+<lb/>
+<normalised orig="Maydes" auto="false">Maids</normalised> of <normalised orig="honor" auto="false">honour</normalised> w<ex>i</ex><hi_rend=''sl''>th</hi> <normalised orig="theire" auto="false">their</normalised> Mother.
+<lb/>
+<join original="Viscount&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Viscountes" auto="false">Viscounts'</join></normalised></abbr> eldest <normalised orig="sonnes" auto="false">sons'</normalised> <normalised orig="wyves" auto="false">wives</normalised>.
+<lb/>
+<join original="Viscount&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Viscountes" auto="false">Viscounts'</join></normalised></abbr> <normalised orig="dowghters" auto="false">daughters</normalised>.
+<lb/>
+<normalised orig="Earles" auto="false">Earls'</normalised> <join original="yong&lt;abbr_type=''brevigraph''_subtype=''brev-er''&gt;er"><normalised orig="yonger" auto="false">younger</join></normalised></abbr> <normalised orig="sonnes" auto="false">sons'</normalised> <normalised orig="wyves" auto="false">wives</normalised>.
+<lb/>
+Barons eldest <normalised orig="sonnes" auto="false">sons'</normalised> <normalised orig="wyves" auto="false">wives</normalised>.
+<lb/>
+Barons <normalised orig="dowghters" auto="false">daughters</normalised>.
+<lb/>
+<join original="Knight&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Knightes" auto="false">Knights</join></normalised></abbr> <join original="Bannerett&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Bannerettes" auto="false">Bannerets'</join></normalised></abbr> <normalised orig="wyves" auto="false">wives</normalised>.
+<lb/>
+<join original="Viscount&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Viscountes" auto="false">Viscounts'</join></normalised></abbr> <join original="yong&lt;abbr_type=''brevigraph''_subtype=''brev-er''&gt;er"><normalised orig="yonger" auto="false">younger</join></normalised></abbr> <normalised orig="sonnes" auto="false">sons'</normalised> <normalised orig="wyves" auto="false">wives</normalised>
+<lb/>
+Barons <normalised orig="yonger" auto="false">younger</normalised> <normalised orig="sonnes" auto="false">sons'</normalised> <normalised orig="wyves" auto="false">wives</normalised>. <metamark>flourish</metamark> <metamark>flourish</metamark> <metamark>flourish</metamark>
+<lb/>
+The <join original="Capt&lt;abbr_type=''macron''&gt;e&lt;ex&gt;n"><normalised orig="Capten" auto="false">Captain</join></normalised></ex></abbr> of the <normalised orig="Garde" auto="false">Guard</normalised>.
+<lb/>
+The <normalised orig="Gwarde" auto="false">Guard</normalised>.
+<lb/>
+Note. that when the messengers of the Chamber &amp; others
+<lb/>
+(before m<abbr_type=''macron''>e<ex>n</ex></abbr>tioned to be <normalised orig="formoste" auto="false">foremost</normalised> in this p<hi_rend=''sl''>r</hi><ex>e</ex>cedence) came to <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi>
+<lb/>
+gate of the <normalised orig="Cowrte" auto="false">Court</normalised> at <join original="White Halle"><normalised orig="WhiteHalle" auto="false">Whitehall</join></normalised> they made a <normalised orig="stande" auto="false">stand</normalised>
+<lb/>
+<normalised orig="devidinge" auto="false">dividing</normalised> <normalised orig="themselues" auto="false">themselves</normalised> <normalised orig="halfe" auto="false">half</normalised> on the one <normalised orig="syde" auto="false">side</normalised> &amp; <normalised orig="halfe" auto="false">half</normalised> on <normalised orig="thother" auto="false">the other</normalised> &amp;
+<lb/>
+making (as it were a Lane for his <join original="M&lt;abbr_type=''macron''&gt;a&lt;ex&gt;ies&lt;/ex&gt;tie"><normalised orig="Maiestie" auto="false">Majesty</join></normalised></abbr> to <normalised orig="passe" auto="false">pass</normalised> <normalised orig="throwgh" auto="false">through</normalised>
+<lb/>
+into <normalised orig="thesayde" auto="false">the said</normalised> <normalised orig="Cowrte" auto="false">Court</normalised>. <metamark>flourish</metamark>
+<lb/>
+<pb_n=''leaf_12_verso''/>
+<lb/>
+<heading><normalised orig="Proceedinge" auto="false">Proceeding</normalised> to the Parlia<abbr_type=''macron''>me<ex>n</ex>t</abbr>
+<lb/>
+the <date_calendar=''#julianMar''_datingMethod=''#julianMar''_when-custom=''1603-03-19''>.19. of <normalised orig="Marche" auto="false">March</normalised> .1603.</date></heading>
+<lb/>
+Messengers of the Chamber.
+<lb/>
+<join original="Gent&lt;abbr_type=''truncation''_subtype=''colon''&gt;&lt;ex&gt;illmen"><normalised orig="Gentillmen" auto="false">Gentlemen</join></normalised></ex>:</abbr> &amp; <normalised orig="esquiers" auto="false">esquires</normalised> the <join original="king&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="kinges" auto="false">king's</join></normalised></abbr> <join original="servant&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="servantes" auto="false">servants</join></normalised></abbr>.
+<lb/>
+Clerks of the <normalised orig="Chauncery" auto="false">Chancery</normalised>.
+<lb/>
+Clerks of the Signet.
+<lb/>
+Clerks of the <normalised orig="Pryvey" auto="false">Privy</normalised> <normalised orig="seale" auto="false">seal</normalised>.
+<lb/>
+Clerks of the <normalised orig="Counsell" auto="false">Council</normalised>.
+<lb/>
+Clerks of the <join original="Parlia&lt;abbr_type=''macron''&gt;me&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;e"><normalised orig="Parliamente" auto="false">Parliament</join></normalised>.
+<lb/>
+The <join original="king&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="kinges" auto="false">king's</join></normalised></abbr> Attorney &amp; Solicitor.
+<lb/>
+Sergeants of the <normalised orig="Lawe" auto="false">Law</normalised>.
+<lb/>
+The <join original="king&lt;ex&gt;es"><normalised orig="kinges" auto="false">king's</join></normalised></ex> <normalised orig="Sergeante" auto="false">Sergeant</normalised>.
+<lb/>
+Masters of the <join original="Chaun&lt;del&gt;y&lt;/del&gt;cery"><normalised orig="Chaunycery" auto="false">Chancery</join></normalised>.
+<lb/>
+<join original="Knight&lt;ex&gt;es"><normalised orig="Knightes" auto="false">Knights</join></normalised></ex> <normalised orig="Bachelers" auto="false">Bachelors</normalised>.
+<lb/>
+Secretaries of the <normalised orig="ffrenche" auto="false">French</normalised> &amp; <normalised orig="Latyne" auto="false">Latin</normalised> tongues.
+<lb/>
+<normalised orig="Esquiers" auto="false">Esquires</normalised> for the <normalised orig="bodye" auto="false">body</normalised> in <normalised orig="Ordynarye" auto="false">Ordinary</normalised>.
+<lb/>
+Masters of <join original="Request&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Requestes" auto="false">Requests</join></normalised></abbr>.
+<lb/>
+<normalised orig="Chamberlayne" auto="false">Chamberlain</normalised> of the <normalised orig="Exchecquer" auto="false">Exchequer</normalised>.
+<lb/>
+Barons of the <normalised orig="Exchecquer" auto="false">Exchequer</normalised>
+<lb/>
+Judg<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> of the <normalised orig="Lawe" auto="false">Law</normalised>.
+<lb/>
+Lo<abbr_type=''truncation''_subtype=''colon''><ex>rd</ex>:</abbr> <normalised orig="Chiefe" auto="false">Chief</normalised> Bar<abbr_type=''macron''>o<ex>n</ex></abbr> of <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> <join original="Exche&lt;abbr_type=''macron''&gt;q&lt;abbr_type=''brevigraph''_subtype=''truncation-z''&gt;&lt;ex&gt;uer&lt;/ex&gt;&lt;/abbr&gt;&lt;/abbr&gt;"><normalised orig="Excheq" auto="false">Exchequer</normalised></join>. &amp; Lo<abbr_type=''truncation''_subtype=''colon''><ex>rd</ex>:</abbr> <normalised orig="Chiefe" auto="false">Chief</normalised> Just<abbr_type=''truncation''_subtype=''colon''><ex>ice</ex>:</abbr> of <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> <abbr_type=''macron''>co<ex>m</ex>mo<ex>n</ex></abbr><normalised orig="ples" auto="false">pleas</normalised>
+<lb/>
+<join original="Trompett&lt;ex&gt;es"><normalised orig="Trompettes" auto="false">Trumpets</join></normalised></ex>.
+<lb/>
+<join original="Knight&lt;ex&gt;es"><normalised orig="Knightes" auto="false">Knights</join></normalised></ex> of the <normalised orig="Bathe" auto="false">Bath</normalised>.
+<lb/>
+<join original="Knight&lt;ex&gt;es"><normalised orig="Knightes" auto="false">Knights</join></normalised></ex> that have <normalised orig="bene" auto="false">been</normalised> Lord<ex>es</ex> <join original="Ambassado&lt;ex&gt;u&lt;/ex&gt;&lt;hi_rend=''sl''&gt;rs"><normalised orig="Ambassadours" auto="false">Ambassadors</join></normalised></hi>. <join original="p&lt;hi_rend=''sl''&gt;r&lt;/hi&gt;&lt;ex&gt;e&lt;/ex&gt;sidentes"><normalised orig="presidentes" auto="false">presidents</join></normalised> &amp;
+<lb/>
+Deputies.
+<lb/>
+Knight Marshall. the M<ex>aste</ex><hi_rend=''sl''>r</hi> of the <normalised orig="Jewell" auto="false">Jewel</normalised> <normalised orig="howse" auto="false">house</normalised>  <c/>
+<name>
+S<ex>i</ex><hi_rend=''sl''>r</hi> Tho<abbr_type=''truncation''_subtype=''colon''><ex>mas</ex>:</abbr>
+<lb/>
+Chalyno<ex>u</ex><hi_rend=''sl''>r</hi>
+</name>
+<c/> the <join original="Prync&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Prynces" auto="false">Prince's</join></normalised></abbr> <join original="gou&lt;abbr_type=''brevigraph''_subtype=''brev-er''&gt;er&lt;/abbr&gt;no&lt;ex&gt;u&lt;/ex&gt;&lt;hi_rend=''sl''&gt;r"><normalised orig="gouernour" auto="false">governor</join></normalised></hi>.
+<lb/>
+The <normalised orig="deane" auto="false">dean</normalised> of the king<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> <normalised orig="Chappell" auto="false">Chapel</normalised>
+<lb/>
+Barons <join original="yong&lt;abbr_type=''brevigraph''_subtype=''brev-er''&gt;er"><normalised orig="yonger" auto="false">younger</join></normalised></abbr> <normalised orig="sonnes" auto="false">sons</normalised>.
+<lb/>
+<join original="Viscount&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Viscountes" auto="false">Viscounts'</join></normalised></abbr> <join original="yong&lt;abbr_type=''brevigraph''_subtype=''brev-er''&gt;er"><normalised orig="yonger" auto="false">younger</join></normalised></abbr> <normalised orig="sonnes" auto="false">sons</normalised>.
+<lb/>
+<join original="Knight&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Knightes" auto="false">Knights</join></normalised></abbr> of the <normalised orig="pryvey" auto="false">privy</normalised> <normalised orig="Counsell" auto="false">Council</normalised>
+<lb/>
+<join original="Knight&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Knightes" auto="false">Knights</join></normalised></abbr> of the Garter.
+<lb/>
+Barons eldest <normalised orig="sonnes" auto="false">sons</normalised>.
+<lb/>
+<normalised orig="Earles" auto="false">Earls'</normalised> <normalised orig="yonger" auto="false">younger</normalised> <normalised orig="sonnes" auto="false">sons</normalised>.
+<lb/>
+<join original="Viscount&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Viscountes" auto="false">Viscounts'</join></normalised></abbr> elder <normalised orig="sonnes" auto="false">sons</normalised>.
+<lb/>
+<join original="Threas&lt;ex&gt;ourer&lt;/ex&gt;"><normalised orig="Threas" auto="false">Treasurer</normalised></join>: and Comptroller <normalised orig="beinge" auto="false">being</normalised> Barons <normalised orig="accordinge" auto="false">according</normalised>
+<lb/>
+to Creation.
+<lb/>
+Barons of the <join original="Parlia&lt;abbr_type=''macron''&gt;me&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;e"><normalised orig="Parliamente" auto="false">Parliament</join></normalised>.
+<lb/>
+<normalised orig="Pryncipall" auto="false">Principal</normalised> secretary <normalised orig="beinge" auto="false">being</normalised> a Bar<abbr_type=''macron''>o<ex>n</ex></abbr>
+<lb/>
+<normalised orig="Bishoppes" auto="false">Bishops</normalised>.
+<lb/>
+<normalised orig="Marquises" auto="false">Marquesses'</normalised> <join original="yong&lt;abbr_type=''brevigraph''_subtype=''brev-er''&gt;er"><normalised orig="yonger" auto="false">younger</join></normalised></abbr> <normalised orig="sonnes" auto="false">sons</normalised>.
+<lb/>
+<normalised orig="Earles" auto="false">Earls'</normalised> eldest <normalised orig="sonnes" auto="false">sons</normalised>.
+<lb/>
+<join original="Viscount&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Viscountes" auto="false">Viscounts</join></normalised></abbr>.
+</ab>
+</body>
+</text>
+</TEI>
