@@ -1,0 +1,1140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<calendarDesc>
+<calendar xml:id="julianMar">
+<p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p>
+</calendar>
+<calendar xml:id="annoMundi3962">
+<p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p>
+</calendar>
+<calendar xml:id="beforeBritain">
+<p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p>
+</calendar>
+</calendarDesc>
+</teiHeader>
+<sourceDoc corresp="Va447">
+<surface xml:id="151478" n="13v-14r">
+<media url="https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229358~224971/full/!1024,1024/0/default.jpg" mimeType="image/jpeg"/>
+</surface>
+</sourceDoc>
+<text>
+<body>
+<p/>
+<ab>
+<pb n="13v-14r"/>
+<lb/>
+<pb n="leaf 13 verso"/>
+<lb/>
+<w>Dukes</w>
+<c> </c>
+<w><choice><orig>yong<abbr type="brevigraph" subtype="brev-er">er</abbr></orig><reg>younger</reg></choice></w>
+<c> </c>
+<w><choice><orig>sonnes</orig><reg>sons</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<w><choice><orig>Marquises</orig><reg>Marquesses'</reg></choice></w>
+<c> </c>
+<w>eldest</w>
+<c> </c>
+<w><choice><orig>sonnes</orig><reg>sons</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<w><choice><orig>Earles</orig><reg>Earls</reg></choice></w>
+<lb/>
+<w><choice><orig>Lo<abbr type="truncation" subtype="colon"><ex>rd</ex>:</abbr></orig><reg>Lord:</reg></choice></w>
+<c> </c>
+<w><choice><orig>Admirall</orig><reg>Admiral</reg></choice></w>
+<c> </c>
+<w>&amp;</w>
+<c> </c>
+<w><choice><orig>Lo<abbr type="truncation" subtype="colon"><ex>rd</ex>:</abbr></orig><reg>Lord:</reg></choice></w>
+<c> </c>
+<w><choice><orig>Chamberlayne</orig><reg>Chamberlain</reg></choice></w>
+<c> </c>
+<w><choice><orig>beinge</orig><reg>being</reg></choice></w>
+<c> </c>
+<w><choice><orig>Earles</orig><reg>Earls</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<w><choice><orig>Duk<abbr type="brevigraph" subtype="brev-es">es</abbr></orig><reg>Dukes</reg></choice></w>
+<c> </c>
+<w>eldest</w>
+<c> </c>
+<w><choice><orig>sonnes</orig><reg>sons</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<w><choice><orig>Marquess<abbr type="macron">es</abbr></orig><reg>Marquesses</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<w>Dukes</w>
+<pc>.</pc>
+<lb/>
+<w><choice><orig>Clarencieulx</orig><reg>Clarenceux</reg></choice></w>
+<c> </c>
+<w>and</w>
+<c> </c>
+<w><choice><orig>Norroye</orig><reg>Norroy</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<w><choice><orig>Lo<abbr type="truncation" subtype="colon"><ex>rd</ex>:</abbr></orig><reg>Lord:</reg></choice></w>
+<c> </c>
+<w><choice><orig>Threass<abbr type="macron"><ex>ourer</ex></abbr></orig><reg>Treasurer</reg></choice></w>
+<c> </c>
+<w>&amp;</w>
+<c> </c>
+<w><choice><orig>Lo<abbr type="truncation" subtype="colon"><ex>rd</ex>:</abbr></orig><reg>Lord:</reg></choice></w>
+<c> </c>
+<w><choice><orig>Chauncelo<abbr type="superscription"><ex>u</ex>r</abbr></orig><reg>Chancellor</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<w>The</w>
+<c> </c>
+<w><choice><orig><w>Arche</w><c> </c><w>Bishoppes</w></orig><reg>Archbishops</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<w>Garter</w>
+<c> </c>
+<w><choice><orig>kinge</orig><reg>king</reg></choice></w>
+<c> </c>
+<w>of</w>
+<c> </c>
+<w><choice><orig>Armes</orig><reg>Arms</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<w>The</w>
+<c> </c>
+<w><choice><orig>Prynce</orig><reg>Prince</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<w>The</w>
+<c> </c>
+<w><choice><orig>Cappe</orig><reg>Cap</reg></choice></w>
+<c> </c>
+<w>of</w>
+<c> </c>
+<w>Estate</w>
+<c> </c>
+<w>borne</w>
+<c> </c>
+<w>by</w>
+<c> </c>
+<w>...</w>
+<pc>.</pc>
+<lb/>
+<w>The</w>
+<c> </c>
+<w><choice><orig>Lo<abbr type="truncation" subtype="colon"><ex>rd</ex>:</abbr></orig><reg>Lord:</reg></choice></w>
+<c> </c>
+<w><choice><orig>greate</orig><reg>great</reg></choice></w>
+<c> </c>
+<w><choice><orig>Chamberlayne</orig><reg>Chamberlain</reg></choice></w>
+<c> </c>
+<w>on</w>
+<c> </c>
+<w>the</w>
+<c> </c>
+<w>right</w>
+<c> </c>
+<w><choice><orig>hande</orig><reg>hand</reg></choice></w>
+<lb/>
+<w>The</w>
+<c> </c>
+<w><choice><orig>:E<abbr type="truncation" subtype="colon"><ex>arle</ex>:</abbr></orig><reg>Earl</reg></choice></w>
+<c> </c>
+<w>Marshall</w>
+<c> </c>
+<w>on</w>
+<c> </c>
+<w>the</w>
+<c> </c>
+<w>left</w>
+<c> </c>
+<w><choice><orig>hande\</orig><reg>hand</reg></choice></w>
+<lb/>
+<w>The</w>
+<c> </c>
+<w><choice><orig>Sworde</orig><reg>Sword</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<w>The</w>
+<c> </c>
+<w><choice><orig>king<abbr type="brevigraph" subtype="brev-es">es</abbr></orig><reg>king's</reg></choice></w>
+<c> </c>
+<w><choice><orig>M<abbr type="macron">a<ex>ies</ex>ti</abbr>e</orig><reg>Majesty</reg></choice></w>
+<lb/>
+<w>The</w>
+<c> </c>
+<w><choice><orig>M<abbr type="superscription"><ex>aste</ex>r</abbr></orig><reg>Master</reg></choice></w>
+<c> </c>
+<w>of</w>
+<c> </c>
+<w>the</w>
+<c> </c>
+<w>horse</w>
+<pc>,</pc>
+<c> </c>
+<w><choice><orig>leadinge</orig><reg>leading</reg></choice></w>
+<c> </c>
+<w>a</w>
+<c> </c>
+<w>horse</w>
+<pc>.</pc>
+<lb/>
+<w>The</w>
+<c> </c>
+<w>Vice</w>
+<c> </c>
+<w><choice><orig>Chamberlayne</orig><reg>Chamberlain</reg></choice></w>
+<c> </c>
+<w>&amp;</w>
+<c> </c>
+<w><choice><orig>gent<ex>illmen</ex></orig><reg>gentlemen</reg></choice></w>
+<c> </c>
+<w>of</w>
+<c> </c>
+<w>the</w>
+<c> </c>
+<w><choice><orig>pryvey</orig><reg>privy</reg></choice></w>
+<c> </c>
+<w>Chamber</w>
+<lb/>
+<w>The</w>
+<c> </c>
+<w><choice><orig>Capt<abbr type="macron">e<ex>n</ex></abbr></orig><reg>Captain</reg></choice></w>
+<c> </c>
+<w>of</w>
+<c> </c>
+<w>the</w>
+<c> </c>
+<w><choice><orig>Gwarde</orig><reg>Guard</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<w>The</w>
+<c> </c>
+<w><choice><orig>Gwarde</orig><reg>Guard</reg></choice></w>
+<c> </c>
+<w><choice><orig>followinge</orig><reg>following</reg></choice></w>
+<c> </c>
+<w><choice><orig>hym./</orig><reg>him</reg></choice></w>
+<c> </c>
+<w><choice><orig><metamark>flourish</metamark></orig><reg>flourish</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<w><choice><orig>.<metamark>flourish</metamark></orig><reg>.flourish</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<heading>
+<w>The</w>
+<c> </c>
+<w>Style</w>
+<c> </c>
+<w>of</w>
+<c> </c>
+<w>the</w>
+<c> </c>
+<w>Duke</w>
+<c> </c>
+<w>of</w>
+<c> </c>
+<w><choice><orig>yorke</orig><reg>york</reg></choice></w>
+<lb/>
+<w>as</w>
+<c> </c>
+<w><choice><orig>thesame</orig><reg><w>the</w><c> </c><w>same</w></reg></choice></w>
+<c> </c>
+<w>was</w>
+<c> </c>
+<w><choice><orig><abbr type="brevigraph" subtype="brev-p">p<ex>ro</ex></abbr>claymed</orig><reg>proclaimed</reg></choice></w>
+<c> </c>
+<w>by</w>
+<c> </c>
+<w><choice><orig>m<abbr type="superscription"><ex>aste</ex>r</abbr></orig><reg>master</reg></choice></w>
+<lb/>
+<w>Garter</w>
+<pc>.</pc>
+<c> </c>
+<w><choice><orig>aft<abbr type="brevigraph" subtype="brev-er">er</abbr></orig><reg>after</reg></choice></w>
+<c> </c>
+<w>the</w>
+<c> </c>
+<w>second</w>
+<c> </c>
+<w>Course</w>
+<c> </c>
+<w>at</w>
+<lb/>
+<w><choice><orig>dyn<abbr type="brevigraph" subtype="brev-er">er</abbr></orig><reg>dinner</reg></choice></w>
+<c> </c>
+<w><choice><orig>tyme</orig><reg>time</reg></choice></w>
+<c> </c>
+<w>the</w>
+<c> </c>
+<w><choice><orig>daye</orig><reg>day</reg></choice></w>
+<c> </c>
+<w>of</w>
+<c> </c>
+<w>his</w>
+<c> </c>
+<w>graces</w>
+<lb/>
+<w><choice><orig>Creati<abbr type="macron">o<ex>n</ex></abbr>./</orig><reg>Creation./</reg></choice></w>
+</heading>
+<lb/>
+<w>Largessa</w>
+<pc>.</pc>
+<lb/>
+<w>Largessa</w>
+<pc>.</pc>
+<lb/>
+<w><choice><orig><foreign xml:lang="la">Illustrissimi</orig><reg>Illustrissimi</reg></choice></w>
+<c> </c>
+<w>et</w>
+<c> </c>
+<w>potentissimi</w>
+<c> </c>
+<w>Principis</w>
+<c> </c>
+<w>et</w>
+<c> </c>
+<w><choice><orig>d<abbr type="macron"><ex>omi</ex>ni</abbr></orig><reg>domini</reg></choice></w>
+<c> </c>
+<w><choice><orig>n<abbr type="macron"><ex>ost</ex>ri</abbr></orig><reg>nostri</reg></choice></w>
+<lb/>
+<w>Regis</w>
+<c> </c>
+<w>filii</w>
+<c> </c>
+<w>Secundo</w>
+<c> </c>
+<w>geniti</w>
+<pc>.</pc>
+<c> </c>
+<w>Caroli</w>
+<c> </c>
+<w>Ducis</w>
+<c> </c>
+<w><choice><orig>Ebor<abbr type="macron"><ex>ac</ex>u<ex>m</ex></abbr></orig><reg>Eboracum</reg></choice></w>
+<lb/>
+<w>&amp;</w>
+<c> </c>
+<w>Albaniae</w>
+<pc>,</pc>
+<c> </c>
+<w>Marchionis</w>
+<c> </c>
+<w>Ormont</w>
+<c> </c>
+<w>Comitis</w>
+<c> </c>
+<w>Ros</w>
+<c> </c>
+<pc>.</pc>
+<c> </c>
+<w>&amp;</w>
+<lb/>
+<w><choice><orig>D<abbr type="macron"><ex>omi</ex>ni</abbr></orig><reg>Domini</reg></choice></w>
+<c> </c>
+<w><choice><orig>Ardmanock.</foreign></orig><reg>Ardmanock.</reg></choice></w>
+<lb/>
+<w><choice><orig><foreign xml:lang="fr">Du</orig><reg>Du</reg></choice></w>
+<c> </c>
+<w>treshault</w>
+<c> </c>
+<w>&amp;</w>
+<c> </c>
+<w><choice><orig>trespuiss<abbr type="macron">a<ex>n</ex>t</abbr></orig><reg>trespuissant</reg></choice></w>
+<c> </c>
+<w>Prynce</w>
+<c> </c>
+<w>le</w>
+<c> </c>
+<w>second</w>
+<c> </c>
+<w>fitz</w>
+<lb/>
+<w>du</w>
+<c> </c>
+<w>Roy</w>
+<c> </c>
+<w><choice><orig><abbr type="macron">n<ex>ot</ex>re</abbr></orig><reg>notre</reg></choice></w>
+<c> </c>
+<w>Seigneur</w>
+<c> </c>
+<w>Charles</w>
+<c> </c>
+<w><choice><orig>Ducq<abbr type="brevigraph" subtype="truncation-z">ue</abbr></orig><reg>Ducque</reg></choice></w>
+<c> </c>
+<w>de</w>
+<c> </c>
+<w>Yorke</w>
+<lb/>
+<w>&amp;</w>
+<c> </c>
+<w>de</w>
+<c> </c>
+<w>Albany</w>
+<c> </c>
+<w>Marquise</w>
+<c> </c>
+<w>d'Ormont</w>
+<pc>:</pc>
+<c> </c>
+<w>Conte</w>
+<c> </c>
+<w>de</w>
+<c> </c>
+<w>Ros</w>
+<lb/>
+<w>&amp;</w>
+<c> </c>
+<w>Baron</w>
+<c> </c>
+<w><choice><orig>d'Armanocke.</foreign></orig><reg>d'Armanocke.</reg></choice></w>
+<lb/>
+<w>Of</w>
+<c> </c>
+<w>the</w>
+<c> </c>
+<w>right</w>
+<c> </c>
+<w><choice><orig>highe</orig><reg>high</reg></choice></w>
+<c> </c>
+<w>&amp;</w>
+<c> </c>
+<w>right</w>
+<c> </c>
+<w>mighty</w>
+<c> </c>
+<w><choice><orig>Prynce</orig><reg>Prince</reg></choice></w>
+<c> </c>
+<w>the</w>
+<c> </c>
+<w><choice><orig>seconde</orig><reg>second</reg></choice></w>
+<lb/>
+<w><choice><orig>Sonne</orig><reg>Son</reg></choice></w>
+<c> </c>
+<w>of</w>
+<c> </c>
+<w><choice><orig>o<abbr type="superscription"><ex>u</ex>r</abbr></orig><reg>our</reg></choice></w>
+<c> </c>
+<w><choice><orig>Sou<abbr type="brevigraph" subtype="brev-er">er</abbr>aigne</orig><reg>Sovereign</reg></choice></w>
+<c> </c>
+<w><choice><orig>Lorde</orig><reg>Lord</reg></choice></w>
+<c> </c>
+<w>the</w>
+<c> </c>
+<w><choice><orig>kinge</orig><reg>king</reg></choice></w>
+<c> </c>
+<w>Charles</w>
+<c> </c>
+<w>duke</w>
+<lb/>
+<w>of</w>
+<c> </c>
+<w><choice><orig>yorke</orig><reg>york</reg></choice></w>
+<c> </c>
+<w>&amp;</w>
+<c> </c>
+<w><choice><orig>Albanye</orig><reg>Albany</reg></choice></w>
+<c> </c>
+<w>Marquis</w>
+<c> </c>
+<w>of</w>
+<c> </c>
+<w><choice><orig>Ormo<abbr type="macron">u<ex>n</ex>t</abbr></orig><reg>Ormount</reg></choice></w>
+<pc>,</pc>
+<c> </c>
+<w><choice><orig>Earle</orig><reg>Earl</reg></choice></w>
+<c> </c>
+<w>of</w>
+<c> </c>
+<w>Ros</w>
+<lb/>
+<w>&amp;</w>
+<c> </c>
+<w><choice><orig>Lorde</orig><reg>Lord</reg></choice></w>
+<c> </c>
+<w>of</w>
+<c> </c>
+<w>Ardmanache./</w>
+<c> </c>
+<w>Large&amp;#223;e</w>
+<pc>.</pc>
+<c> </c>
+<w>Large&amp;#223;e</w>
+<pc>.</pc>
+<lb/>
+<pb n="leaf 14 recto"/>
+<lb/>
+<label place="margin">
+<w>At</w>
+<c> </c>
+<w>the</w>
+<c> </c>
+<w><choice><orig>ffeaste</orig><reg>Feast</reg></choice></w>
+<c> </c>
+<w>of</w>
+<lb/>
+<w>St</w>
+<c> </c>
+<w>George</w>
+<pc>.</pc>
+</label>
+<lb/>
+<w>The</w>
+<c> </c>
+<w>Styles</w>
+<c> </c>
+<w><choice><orig>Tytles</orig><reg>Titles</reg></choice></w>
+<c> </c>
+<w>&amp;</w>
+<c> </c>
+<w>dignities</w>
+<c> </c>
+<w>of</w>
+<c> </c>
+<w>his</w>
+<lb/>
+<w><choice><orig>M<abbr type="macron">a<ex>ies</ex>tie</abbr></orig><reg>Majesty</reg></choice></w>
+<pc>.</pc>
+<c> </c>
+<w>of</w>
+<c> </c>
+<w>the</w>
+<c> </c>
+<w><choice><orig>Prynce</orig><reg>Prince</reg></choice></w>
+<pc>,</pc>
+<c> </c>
+<w>&amp;</w>
+<c> </c>
+<del>
+<w>of</w>
+</del>
+<c> </c>
+<w>the</w>
+<c> </c>
+<w><choice><orig>residewe</orig><reg>residue</reg></choice></w>
+<lb/>
+<w>of</w>
+<c> </c>
+<w>the</w>
+<c> </c>
+<w><choice><orig>ffraternity</orig><reg>Fraternity</reg></choice></w>
+<c> </c>
+<w>of</w>
+<c> </c>
+<w>the</w>
+<c> </c>
+<w><choice><orig>ho<abbr type="superscription"><ex>nora</ex>ble</abbr></orig><reg>honorable</reg></choice></w>
+<pc>:</pc>
+<c> </c>
+<w>Order</w>
+<c> </c>
+<w>of</w>
+<c> </c>
+<w>the</w>
+<lb/>
+<w><choice><orig>Gart<abbr type="brevigraph" subtype="brev-er">er</abbr></orig><reg>Garter</reg></choice></w>
+<pc>:</pc>
+<c> </c>
+<w>set</w>
+<c> </c>
+<w><choice><orig>vp</orig><reg>up</reg></choice></w>
+<c> </c>
+<w>in</w>
+<c> </c>
+<w>the</w>
+<c> </c>
+<w><choice><orig>Chappell</orig><reg>Chapel</reg></choice></w>
+<c> </c>
+<w>at</w>
+<c> </c>
+<placeName>
+<w><choice><orig>Whyte[lb][lb]Halle</orig><reg>Whitehall</reg></choice></w>
+<lb/>
+</placeName>
+<c> </c>
+<w>at</w>
+<c> </c>
+<w><choice><orig>Sain<abbr type="superscription">t</abbr></orig><reg>Saint</reg></choice></w>
+<pc>:</pc>
+<c> </c>
+<w><choice><orig>Georg<abbr type="brevigraph" subtype="brev-es">es</abbr></orig><reg>Georges</reg></choice></w>
+<c> </c>
+<w><choice><orig>ffeaste</orig><reg>Feast</reg></choice></w>
+<c> </c>
+<w>there</w>
+<c> </c>
+<w><choice><orig>hold<abbr type="macron">e<ex>n</ex></abbr></orig><reg>holden</reg></choice></w>
+<lb/>
+<w><choice><orig><date calendar="#julianMar" datingMethod="#julianMar" when-custom="1604-04-23">the:23:daye</orig><reg>day</reg></choice></w>
+<c> </c>
+<w>of</w>
+<c> </c>
+<w><choice><orig>Aprill</orig><reg>April</reg></choice></w>
+<pc>.</pc>
+<c> </c>
+<w><choice><orig><foreign xml:lang="la">Anno</orig><reg>Anno</reg></choice></w>
+<c> </c>
+<w><choice><orig>d<abbr type="macron"><ex>omi</ex>ni</abbr></foreign></orig><reg>domini</reg></choice></w>
+<c> </c>
+<w>.1604</w>
+<pc>.</pc>
+</date>
+<lb/>
+<w>&amp;</w>
+<c> </c>
+<w>Anno</w>
+<c> </c>
+<w>:RR</w>
+<pc>:</pc>
+<c> </c>
+<w>Jacobi</w>
+<c> </c>
+<w>Regis</w>
+<c> </c>
+<w><choice><orig>Angli<abbr type="truncation" subtype="colon"><ex>ae</ex>:</abbr></orig><reg>Angliae:</reg></choice></w>
+<c> </c>
+<w>&amp;c</w>
+<pc>.</pc>
+<c> </c>
+<w><choice><orig>Secund<ex>o</ex></orig><reg>Secundo</reg></choice></w>
+<lb/>
+<w>As</w>
+<c> </c>
+<w>followeth</w>
+<pc>.</pc>
+<lb/>
+<w>A</w>
+<c> </c>
+<w>dextris</w>
+<c> </c>
+<w>Chorea</w>
+<c> </c>
+<w>ascendendo</w>
+<pc>.</pc>
+<lb/>
+<label place="margin">
+<w>de</w>
+<c> </c>
+<w>la</w>
+<c> </c>
+<w>grand</w>
+<c> </c>
+<w>Brittayne</w>
+<c> </c>
+<w><choice><orig>ffr<abbr type="macron">a<ex>n</ex></abbr>c</orig><reg>ffranc</reg></choice></w>
+<c> </c>
+<w>&amp;</w>
+<c> </c>
+<w>IrelandeDu</w>
+</label>
+<c> </c>
+<w>treshault</w>
+<c> </c>
+<w>trespuissant</w>
+<c> </c>
+<w>&amp;</w>
+<c> </c>
+<w>tresexcellent</w>
+<c> </c>
+<w>prince</w>
+<c> </c>
+<w>Jaques</w>
+<lb/>
+<w><choice><orig><abbr type="brevigraph" subtype="brev-p">p<ex>ar</ex></abbr></orig><reg>par</reg></choice></w>
+<c> </c>
+<w>la</w>
+<c> </c>
+<w>grace</w>
+<c> </c>
+<w>de</w>
+<c> </c>
+<w><choice><orig>diew</orig><reg>dieu</reg></choice></w>
+<c> </c>
+<w>Roy</w>
+<c> </c>
+<w><choice><orig>d<del>'Angleterre</orig><reg>d'Angleterre</reg></choice></w>
+<pc>,</pc>
+<c> </c>
+<w>&amp;</w>
+<c> </c>
+<w><choice><orig>d'Escosse.</del>e</orig><reg>d'Escosse.e</reg></choice></w>
+<c> </c>
+<w>la</w>
+<c> </c>
+<w>grand</w>
+<c> </c>
+<w>Brettagne</w>
+<pc>.</pc>
+<c> </c>
+<w>de</w>
+<lb/>
+<w><choice><orig>franc<ex>e</ex></orig><reg>france</reg></choice></w>
+<pc>.</pc>
+<c> </c>
+<w>et</w>
+<c> </c>
+<w>d'Irlande</w>
+<pc>.</pc>
+<c> </c>
+<w>Deffender</w>
+<c> </c>
+<w>de</w>
+<c> </c>
+<w>la</w>
+<c> </c>
+<w>ffoye</w>
+<c> </c>
+<w>&amp;c</w>
+<lb/>
+<w>Soveraigne</w>
+<c> </c>
+<w>du</w>
+<c> </c>
+<w>Tresnoble</w>
+<c> </c>
+<w>Order</w>
+<c> </c>
+<w>de</w>
+<c> </c>
+<w>la</w>
+<c> </c>
+<w><choice><orig>Jarretie<supplied reason="edge-of-folio">re</supplied></orig><reg>Jarretiere</reg></choice></w>
+<lb/>
+<w>2</w>
+<c> </c>
+<w>Du</w>
+<c> </c>
+<w>treshault</w>
+<c> </c>
+<w>&amp;</w>
+<c> </c>
+<w>trespuissant</w>
+<c> </c>
+<w>Prynce</w>
+<c> </c>
+<del>
+<w>Henry</w>
+</del>
+<c> </c>
+<del>
+<w>Charle</w>
+</del>
+<c> </c>
+<w>fitz</w>
+<c> </c>
+<w>aisne</w>
+<lb/>
+<w>du</w>
+<c> </c>
+<w>Roy</w>
+<pc>.</pc>
+<c> </c>
+<w>Prynce</w>
+<c> </c>
+<w>d'la</w>
+<c> </c>
+<w>Grannd</w>
+<c> </c>
+<w>Brittayne</w>
+<c> </c>
+<w>&amp;</w>
+<c> </c>
+<w><choice><orig>d'Irlan<supplied reason="edge-of-folio">d</supplied></orig><reg>d'Irland</reg></choice></w>
+<lb/>
+<label place="margin">
+<w>Chevalier</w>
+<c> </c>
+<w>du</w>
+<c> </c>
+<w>tresnoble</w>
+<c> </c>
+<w>order</w>
+<c> </c>
+<w>de</w>
+<c> </c>
+<w>la</w>
+<c> </c>
+<w>Jartier</w>
+</label>
+<c> </c>
+<w>Duc</w>
+<c> </c>
+<w>de</w>
+<c> </c>
+<w>Cornwaile</w>
+<pc>,</pc>
+<c> </c>
+<w>et</w>
+<c> </c>
+<w>Seigneur</w>
+<c> </c>
+<w>Des</w>
+<c> </c>
+<w>Isles</w>
+<c> </c>
+<w>en</w>
+<c> </c>
+<w>Escosse</w>
+<lb/>
+<w><choice><orig><abbr type="macron">Ch<ex>eva</ex>l<ex>ie</ex>r</abbr></orig><reg>Chevalier</reg></choice></w>
+<pc>.</pc>
+<c> </c>
+<w>du</w>
+<c> </c>
+<w>tresnoble</w>
+<c> </c>
+<w>Order</w>
+<c> </c>
+<w>d'la</w>
+<c> </c>
+<w><choice><orig>Jarretier<ex>e</ex></orig><reg>Jarretiere</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<w>3</w>
+<c> </c>
+<w>Du</w>
+<c> </c>
+<w>tresnoble</w>
+<c> </c>
+<w>&amp;</w>
+<c> </c>
+<w>puissant</w>
+<c> </c>
+<w>Seigneur</w>
+<pc>.</pc>
+<c> </c>
+<w>Charles</w>
+<c> </c>
+<w><choice><orig>Cont<ex>e</ex></orig><reg>Conte</reg></choice></w>
+<c> </c>
+<w>de</w>
+<lb/>
+<w><choice><orig>Nottingh<abbr type="macron">a<ex>m</ex></abbr></orig><reg>Nottingham</reg></choice></w>
+<c> </c>
+<w>Baron</w>
+<c> </c>
+<w>Howarde</w>
+<c> </c>
+<w>de</w>
+<c> </c>
+<w><choice><orig>Effingh<abbr type="macron">a<ex>m</ex></abbr></orig><reg>Effingham</reg></choice></w>
+<c> </c>
+<w>graund</w>
+<c> </c>
+<del>
+<w>Admir</w>
+</del>
+<lb/>
+<w>Admiralle</w>
+<c> </c>
+<w><choice><orig>d'Angleterr<abbr type="truncation" subtype="colon"><ex>e</ex>:</abbr></orig><reg>d'Angleterre:</reg></choice></w>
+<c> </c>
+<w>d'Irlande</w>
+<c> </c>
+<w>&amp;</w>
+<c> </c>
+<w><choice><orig>d'pryncipau<supplied reason="edge-of-folio">te</supplied></orig><reg>d'pryncipaute</reg></choice></w>
+<lb/>
+<w>d'Gales</w>
+<pc>.</pc>
+<c> </c>
+<w>les</w>
+<c> </c>
+<w>seigneuries</w>
+<c> </c>
+<w>Isles</w>
+<c> </c>
+<w>&amp;</w>
+<c> </c>
+<w><choice><orig>Provinc<abbr type="brevigraph" subtype="brev-es">es</abbr></orig><reg>Provinces</reg></choice></w>
+<pc>.</pc>
+<c> </c>
+<w>&amp;c</w>
+<c> </c>
+<w><choice><orig>Go<pc force="weak">=</pc></orig><reg>Go=</reg></choice></w>
+<w><choice><orig><lb break="no"/>verneur</orig><reg>verneur</reg></choice></w>
+<c> </c>
+<w>d'touts</w>
+<c> </c>
+<w>les</w>
+<c> </c>
+<w>Chasteaux</w>
+<c> </c>
+<w>et</w>
+<c> </c>
+<w><choice><orig>ffortresses</orig><reg>Fortresses</reg></choice></w>
+<c> </c>
+<w><choice><orig>mari<pc force="weak">=</pc>[lb]<lb break="no"/>times</orig><reg>maritimes</reg></choice></w>
+<c> </c>
+<w><choice><orig>d'Angleterr<ex>e</ex></orig><reg>d'Angleterre</reg></choice></w>
+<c> </c>
+<w>et</w>
+<c> </c>
+<w><choice><orig>Lyvete<abbr type="macron">na<ex>n</ex>t</abbr></orig><reg>Lyvetenant</reg></choice></w>
+<c> </c>
+<w><choice><orig>g<abbr type="macron"><ex>e</ex>n<ex>e</ex>rall</abbr></orig><reg>generall</reg></choice></w>
+<c> </c>
+<w>des</w>
+<c> </c>
+<w>Armies</w>
+<lb/>
+<w>sur</w>
+<c> </c>
+<w>la</w>
+<c> </c>
+<w>mer</w>
+<pc>.</pc>
+<c> </c>
+<w>Conestable</w>
+<c> </c>
+<w>du</w>
+<c> </c>
+<w>Chasteau</w>
+<c> </c>
+<w>Royall</w>
+<c> </c>
+<w>de</w>
+<lb/>
+<w>Windsore</w>
+<pc>,</pc>
+<c> </c>
+<w>&amp;</w>
+<c> </c>
+<w>Justicier</w>
+<c> </c>
+<w>en</w>
+<c> </c>
+<w>Oyer</w>
+<c> </c>
+<w>des</w>
+<c> </c>
+<w><choice><orig>fforrest<abbr type="brevigraph" subtype="brev-es">es</abbr></orig><reg>fforrestes</reg></choice></w>
+<c> </c>
+<w>&amp;</w>
+<c> </c>
+<w>Chase</w>
+<lb/>
+<w><choice><orig><abbr type="brevigraph" subtype="brev-p">p</abbr><ex>ar</ex></orig><reg>par</reg></choice></w>
+<c> </c>
+<w>de</w>
+<c> </c>
+<w>ca</w>
+<c> </c>
+<w>la</w>
+<c> </c>
+<w>Ryviere</w>
+<c> </c>
+<w>de</w>
+<c> </c>
+<w>Trent</w>
+<pc>.</pc>
+<c> </c>
+<w><choice><orig>/<hand>Et</orig><reg>/Et</reg></choice></w>
+<c> </c>
+<w>grande</w>
+<c> </c>
+<w><choice><orig>Se<pc force="weak">=</pc>[lb]<lb break="no"/>nescall</orig><reg>Senescall</reg></choice></w>
+<c> </c>
+<w><choice><orig><w>dangle</w><c> </c><w>Terre</w></orig><reg>d'Angleterre</reg></choice></w>
+<pc>.</pc>
+<c> </c>
+<w>1614</w>
+<c> </c>
+<w>&amp;</w>
+<c> </c>
+<w><choice><orig>Ch<ex>eva</ex>l<ex>ie</ex>r</orig><reg>Chevalier</reg></choice></w>
+<c> </c>
+<w><choice><orig>&amp;c</hand></orig><reg>&amp;c</reg></choice></w>
+<lb/>
+<w>4</w>
+<c> </c>
+<w>Du</w>
+<c> </c>
+<w>tresnoble</w>
+<c> </c>
+<w>&amp;</w>
+<c> </c>
+<w>puissant</w>
+<c> </c>
+<w><choice><orig>seigneu<abbr type="brevigraph" subtype="brev-er">er</abbr></orig><reg>seigneuer</reg></choice></w>
+<c> </c>
+<w><choice><orig>.Tho<abbr type="truncation" subtype="colon"><ex>mas</ex>:</abbr></orig><reg>.Thomas:</reg></choice></w>
+<c> </c>
+<w><choice><orig>Cont<ex>e</ex></orig><reg>Conte</reg></choice></w>
+<c> </c>
+<w>de</w>
+<c> </c>
+<w><choice><orig>Or<pc force="weak">=</pc>[lb]<lb break="no"/>monde</orig><reg>Ormonde</reg></choice></w>
+<c> </c>
+<w>&amp;</w>
+<c> </c>
+<w>du</w>
+<c> </c>
+<w>Ossery</w>
+<pc>.</pc>
+<c> </c>
+<w>Viscount</w>
+<c> </c>
+<w>de</w>
+<c> </c>
+<w>Thurles</w>
+<pc>.</pc>
+<c> </c>
+<w>Baron</w>
+<lb/>
+<w>d'</w>
+<c> </c>
+<w>Artelo</w>
+<pc>.</pc>
+<c> </c>
+<w><choice><orig>Seigneur<ex>e</ex></orig><reg>Seigneure</reg></choice></w>
+<c> </c>
+<w>de</w>
+<c> </c>
+<w>Liberties</w>
+<c> </c>
+<w>&amp;</w>
+<c> </c>
+<w>Regalities</w>
+<c> </c>
+<w>d</w>
+<lb/>
+<w>Tipperary</w>
+<pc>.</pc>
+<c> </c>
+<w>graund</w>
+<c> </c>
+<w><choice><orig>Thre<abbr type="macron">ss<ex>ourer</ex></abbr></orig><reg>Thressourer</reg></choice></w>
+<pc>.</pc>
+<c> </c>
+<w>d'Irlande</w>
+<pc>.</pc>
+<c> </c>
+<w><choice><orig>C<abbr type="macron">h<ex>eva</ex>l<ex>ie</ex>r</abbr></orig><reg>Chevalier</reg></choice></w>
+<c> </c>
+<w>du</w>
+<lb/>
+<w>tresnoble</w>
+<c> </c>
+<w>Order</w>
+<c> </c>
+<w>de</w>
+<c> </c>
+<w>la</w>
+<c> </c>
+<w><choice><orig>Jarretier<ex>e</ex></orig><reg>Jarretiere</reg></choice></w>
+<lb/>
+<w>5</w>
+<c> </c>
+<w>Du</w>
+<c> </c>
+<w>tresnoble</w>
+<c> </c>
+<w>et</w>
+<c> </c>
+<w>puissant</w>
+<c> </c>
+<w><choice><orig>seigneur<ex>e</ex></orig><reg>seigneure</reg></choice></w>
+<c> </c>
+<w>Gilbert</w>
+<c> </c>
+<w>Conte</w>
+<c> </c>
+<w><choice><orig>d<supplied reason="edge-of-folio">e</supplied></orig><reg>de</reg></choice></w>
+<lb/>
+<w>Shrewsbury</w>
+<c> </c>
+<w>Weshforde</w>
+<c> </c>
+<w>&amp;</w>
+<c> </c>
+<w>Waterforde</w>
+<c> </c>
+<w><choice><orig>Bar<abbr type="macron">o<ex>n</ex></abbr></orig><reg>Baron</reg></choice></w>
+<c> </c>
+<w><choice><orig>Talbo<supplied reason="edge-of-folio">t</supplied></orig><reg>Talbot</reg></choice></w>
+<lb/>
+<w><choice><orig>seigneur<ex>e</ex></orig><reg>seigneure</reg></choice></w>
+<c> </c>
+<w>Comyne</w>
+<c> </c>
+<w>de</w>
+<c> </c>
+<w>Badenowgh</w>
+<c> </c>
+<w>Valence</w>
+<c> </c>
+<w>et</w>
+<lb/>
+<w>Moncheusey</w>
+<c> </c>
+<w>de</w>
+<c> </c>
+<w>Strange</w>
+<c> </c>
+<w>d'Blackmore</w>
+<c> </c>
+<w>Gifford</w>
+<lb/>
+<w>de</w>
+<c> </c>
+<w>Brymsfielde</w>
+<pc>.</pc>
+<c> </c>
+<w>Clifforde</w>
+<c> </c>
+<w>du</w>
+<c> </c>
+<w>Corsham</w>
+<c> </c>
+<w><choice><orig>ffurniva<supplied reason="edge-of-folio">l</supplied></orig><reg>Furnival</reg></choice></w>
+<lb/>
+<w><choice><orig>verde<abbr type="macron">o<ex>n</ex></abbr></orig><reg>verdeon</reg></choice></w>
+<pc>.</pc>
+<c> </c>
+<w>&amp;</w>
+<c> </c>
+<w>Lovestoft</w>
+<pc>.</pc>
+<c> </c>
+<w>Justicier</w>
+<c> </c>
+<w>en</w>
+<c> </c>
+<w>Oyer</w>
+<c> </c>
+<w>de</w>
+<c> </c>
+<w><choice><orig><abbr type="brevigraph" subtype="brev-p">p</abbr><ex>ar</ex></orig><reg>par</reg></choice></w>
+<c> </c>
+<w>de</w>
+<c> </c>
+<w>la</w>
+<c> </c>
+<w>la</w>
+<lb/>
+<w>Riviere</w>
+<c> </c>
+<w><choice><orig>d'Trent<ex>e</ex></orig><reg>d'Trente</reg></choice></w>
+<c> </c>
+<w><choice><orig>C<abbr type="macron">h<ex>eva</ex>l<ex>ie</ex>r</abbr></orig><reg>Chevalier</reg></choice></w>
+<c> </c>
+<w>du</w>
+<c> </c>
+<w>tresnoble</w>
+<c> </c>
+<w>Order</w>
+<c> </c>
+<w>de</w>
+<c> </c>
+<w>la</w>
+<lb/>
+<w><choice><orig>Jarretier<ex>e</ex></orig><reg>Jarretiere</reg></choice></w>
+<c> </c>
+<w>./</w>
+</ab>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <calendarDesc>
+      <calendar xml:id="julianMar">
+        <p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p>
+      </calendar>
+      <calendar xml:id="annoMundi3962">
+        <p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p>
+      </calendar>
+      <calendar xml:id="beforeBritain">
+        <p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p>
+      </calendar>
+    </calendarDesc>
+  </teiHeader>
+  <sourceDoc corresp="Va447">
+    <surface xml:id="151478" n="13v-14r">
+      <media url="https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229358~224971/full/!1024,1024/0/default.jpg" mimeType="image/jpeg"/>
+    </surface>
+  </sourceDoc>
+  <text>
+    <body>
+      <p/>
+      <ab><pb n="13v-14r"/><lb/><pb n="leaf 13 verso"/><lb/>Dukes yong<abbr type="brevigraph" subtype="brev-er">er</abbr> sonnes.
+<lb/>Marquises eldest sonnes.
+<lb/>Earles
+<lb/>Lo<ex>rd</ex>: Admirall &amp; Lo<ex>rd</ex>: Chamberlayne beinge Earles.
+<lb/>Duk<abbr type="brevigraph" subtype="brev-es">es</abbr> eldest sonnes.
+<lb/>Marquess<abbr type="macron">es</abbr>.
+<lb/>Dukes.
+<lb/>Clarencieulx and Norroye.
+<lb/>Lo<ex>rd</ex>: Threass<abbr type="macron"><ex>ourer</ex></abbr> &amp; Lo<ex>rd</ex>: Chauncelo<ex>u</ex><hi rend="sl">r</hi>.
+<lb/>The Arche Bishoppes.
+<lb/>Garter kinge of Armes.
+<lb/>The Prynce.
+<lb/>The Cappe of Estate borne by ....
+<lb/>The Lo<ex>rd</ex>: greate Chamberlayne on the right hande
+<lb/>The :E<ex>arle</ex>: Marshall on the left hande\
+<lb/>The Sworde.
+<lb/>The king<abbr type="brevigraph" subtype="brev-es">es</abbr> M<abbr type="macron">a<ex>ies</ex>ti</abbr>e
+<lb/>The M<ex>aste</ex><hi rend="sl">r</hi> of the horse, leadinge a horse.
+<lb/>The Vice Chamberlayne &amp; gent<ex>illmen</ex> of the pryvey Chamber
+<lb/>The Capt<abbr type="macron">e<ex>n</ex></abbr> of the Gwarde.
+<lb/>The Gwarde followinge hym./ <metamark>flourish</metamark>.
+<lb/>.<metamark>flourish</metamark>.
+<lb/><heading>The Style of the Duke of yorke
+<lb/>as thesame was <abbr type="brevigraph" subtype="brev-p">p<ex>ro</ex></abbr>claymed by m<ex>aste</ex><hi rend="sl">r</hi>
+<lb/>Garter. aft<abbr type="brevigraph" subtype="brev-er">er</abbr> the second Course at
+<lb/>dyn<abbr type="brevigraph" subtype="brev-er">er</abbr> tyme the daye of his graces
+<lb/>Creati<abbr type="macron">o<ex>n</ex></abbr>./</heading>
+<lb/>Largessa.
+<lb/>Largessa.
+<lb/><foreign xml:lang="la">Illustrissimi et potentissimi Principis et d<abbr type="macron"><ex>omi</ex>ni</abbr> n<abbr type="macron"><ex>ost</ex>ri</abbr>
+<lb/>Regis filii Secundo geniti. Caroli Ducis Ebor<abbr type="macron"><ex>ac</ex>u<ex>m</ex></abbr>
+<lb/> &amp; Albaniae, Marchionis Ormont Comitis Ros . &amp;
+<lb/>D<abbr type="macron"><ex>omi</ex>ni</abbr> Ardmanock.</foreign>
+<lb/><foreign xml:lang="fr">Du treshault &amp; trespuiss<abbr type="macron">a<ex>n</ex>t</abbr> Prynce le second fitz
+<lb/>du Roy <abbr type="macron">n<ex>ot</ex>re</abbr> Seigneur Charles Ducq<abbr type="brevigraph" subtype="truncation-z">ue</abbr> de Yorke
+<lb/> &amp; de Albany Marquise d'Ormont: Conte de Ros
+<lb/> &amp; Baron d'Armanocke.</foreign>
+<lb/>Of the right highe &amp; right mighty Prynce the seconde
+<lb/>Sonne of o<ex>u</ex><hi rend="sl">r</hi> Sou<abbr type="brevigraph" subtype="brev-er">er</abbr>aigne Lorde the kinge Charles duke
+<lb/>of yorke &amp; Albanye Marquis of Ormo<abbr type="macron">u<ex>n</ex>t</abbr>, Earle of Ros
+<lb/> &amp; Lorde of Ardmanache./ Large&amp;#223;e. Large&amp;#223;e.
+<lb/><pb n="leaf 14 recto"/>
+<lb/><label place="margin">At the ffeaste of
+<lb/>St George.</label>
+<lb/>The Styles Tytles &amp; dignities of his
+<lb/>M<abbr type="macron">a<ex>ies</ex>tie</abbr>. of the Prynce, &amp; <del>of</del> the residewe
+<lb/>of the ffraternity of the ho<ex>nora</ex><hi rend="sl">ble</hi>: Order of the
+<lb/>Gart<abbr type="brevigraph" subtype="brev-er">er</abbr>: set vp in the Chappell at <placeName>Whyte
+<lb/>Halle</placeName> at Sain<hi rend="sl">t</hi>: Georg<abbr type="brevigraph" subtype="brev-es">es</abbr> ffeaste there hold<abbr type="macron">e<ex>n</ex></abbr>
+<lb/><date calendar="#julianMar" datingMethod="#julianMar" when-custom="1604-04-23">the:23:daye of Aprill. <foreign xml:lang="la">Anno d<abbr type="macron"><ex>omi</ex>ni</abbr></foreign> .1604.</date>
+<lb/> &amp; Anno :RR: Jacobi Regis Angli<ex>ae</ex>: &amp;c. Secund<ex>o</ex>
+<lb/>As followeth.
+<lb/>A dextris Chorea ascendendo.
+<lb/><label place="margin">de la grand Brittayne ffr<abbr type="macron">a<ex>n</ex></abbr>c &amp; Irelande</label>Du treshault trespuissant &amp; tresexcellent prince Jaques
+<lb/><abbr type="brevigraph" subtype="brev-p">p<ex>ar</ex></abbr> la grace de diew Roy d<del>'Angleterre, &amp; d'Escosse.</del>e la grand Brettagne. de
+<lb/>franc<ex>e</ex>. et d'Irlande. Deffender de la ffoye &amp;c
+<lb/>Soveraigne du Tresnoble Order de la Jarretie<supplied reason="edge-of-folio">re</supplied>
+<lb/>2 Du treshault &amp; trespuissant Prynce <del>Henry</del> <del>Charle</del> fitz aisne
+<lb/>du Roy. Prynce d'la Grannd Brittayne &amp; d'Irlan<supplied reason="edge-of-folio">d</supplied>
+<lb/><label place="margin">Chevalier du tresnoble order de la Jartier</label> Duc de Cornwaile, et Seigneur Des Isles en Escosse
+<lb/><abbr type="macron">Ch<ex>eva</ex>l<ex>ie</ex>r</abbr>. du tresnoble Order d'la Jarretier<ex>e</ex>.
+<lb/>3 Du tresnoble &amp; puissant Seigneur. Charles Cont<ex>e</ex> de
+<lb/>Nottingh<abbr type="macron">a<ex>m</ex></abbr> Baron Howarde de Effingh<abbr type="macron">a<ex>m</ex></abbr> graund <del>Admir</del>
+<lb/>Admiralle d'Angleterr<ex>e</ex>: d'Irlande &amp; d'pryncipau<supplied reason="edge-of-folio">te</supplied>
+<lb/>d'Gales. les seigneuries Isles &amp; Provinc<abbr type="brevigraph" subtype="brev-es">es</abbr>. &amp;c Go<pc force="weak">=</pc>
+<lb break="no"/>verneur d'touts les Chasteaux et ffortresses mari<pc force="weak">=</pc>
+<lb break="no"/>times d'Angleterr<ex>e</ex> et Lyvete<abbr type="macron">na<ex>n</ex>t</abbr> g<ex>e</ex><abbr type="macron">n<ex>e</ex>rall</abbr> des Armies
+<lb/>sur la mer. Conestable du Chasteau Royall de
+<lb/>Windsore, &amp; Justicier en Oyer des fforrest<abbr type="brevigraph" subtype="brev-es">es</abbr> &amp; Chase
+<lb/><abbr type="brevigraph" subtype="brev-p">p</abbr><ex>ar</ex> de ca la Ryviere de Trent. /<hand>Et grande Se<pc force="weak">=</pc>
+<lb break="no"/>nescall dangle Terre. 1614 &amp; Ch<ex>eva</ex>l<ex>ie</ex>r &amp;c</hand>
+<lb/>4 Du tresnoble &amp; puissant seigneu<abbr type="brevigraph" subtype="brev-er">er</abbr> .Tho<ex>mas</ex>: Cont<ex>e</ex> de Or<pc force="weak">=</pc>
+<lb break="no"/>monde &amp; du Ossery. Viscount de Thurles. Baron
+<lb/>d' Artelo. Seigneur<ex>e</ex> de Liberties &amp; Regalities d
+<lb/>Tipperary. graund Thre<abbr type="macron">ss<ex>ourer</ex></abbr>. d'Irlande. C<abbr type="macron">h<ex>eva</ex>l<ex>ie</ex>r</abbr> du
+<lb/>tresnoble Order de la Jarretier<ex>e</ex>
+<lb/>5 Du tresnoble et puissant seigneur<ex>e</ex> Gilbert Conte d<supplied reason="edge-of-folio">e</supplied>
+<lb/>Shrewsbury Weshforde &amp; Waterforde Bar<abbr type="macron">o<ex>n</ex></abbr> Talbo<supplied reason="edge-of-folio">t</supplied>
+<lb/>seigneur<ex>e</ex> Comyne de Badenowgh Valence et
+<lb/>Moncheusey de Strange d'Blackmore Gifford
+<lb/>de Brymsfielde. Clifforde du Corsham ffurniva<supplied reason="edge-of-folio">l</supplied>
+<lb/>verde<abbr type="macron">o<ex>n</ex></abbr>. &amp; Lovestoft. Justicier en Oyer de <abbr type="brevigraph" subtype="brev-p">p</abbr><ex>ar</ex> de la la
+<lb/>Riviere d'Trent<ex>e</ex> C<abbr type="macron">h<ex>eva</ex>l<ex>ie</ex>r</abbr> du tresnoble Order de la
+<lb/>Jarretier<ex>e</ex> ./
+</ab>
+    </body>
+  </text>
+</TEI>
+
