@@ -1,0 +1,120 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <calendarDesc>
+      <calendar xml:id="julianMar">
+        <p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p>
+      </calendar>
+      <calendar xml:id="annoMundi3962">
+        <p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p>
+      </calendar>
+      <calendar xml:id="beforeBritain">
+        <p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p>
+      </calendar>
+    </calendarDesc>
+  </teiHeader>
+  <sourceDoc corresp="Va447">
+    <surface xml:id="151479" n="14v-15r">
+      <media url="https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229359~224970/full/!1024,1024/0/default.jpg" mimeType="image/jpeg"/>
+    </surface>
+  </sourceDoc>
+  <text>
+    <body>
+      <p/>
+      <ab>
+        <pb n="14v-15r"/>
+        <pb n="leaf 14 verso"/>
+        <lb/>
+        <heading xml:lang="la">A dextris Chorea Ascendendo</heading>
+        <lb/>
+        <label place="margin">
+          <date calendar="#julianMar" datingMethod="#julianMar" when-custom="1604-04-23">St: Georg<abbr type="brevigraph" subtype="brev-es">es</abbr> feaste 1604</date>
+        </label>
+        <foreign xml:lang="fr">6 Du tresnoble &amp; puissant seigneur<ex>e</ex> Henry Conte de
+<lb/>Northumberlande Baron Perry seignewr<ex>e</ex> de Lucye
+<lb/>Poynings ffitz Payne &amp; Bryan Capitayne De
+<lb/>Cinquante Gentilz homes Pensionaires d' sa M<abbr type="macron">a<ex>ies</ex>tie</abbr>
+<lb/>C<abbr type="macron">h<ex>eva</ex>l<ex>ie</ex>r</abbr>. Du tresnoble Order d'la Jarrettier<ex>e</ex>.
+<lb/>7 Du tresnoble seigneur<ex>e</ex> Edmonde baro<abbr type="macron"><ex>n</ex></abbr> Sheffielde,
+<lb/><label place="margin">gou<abbr type="brevigraph" subtype="brev-er">er</abbr>nor pour sa m<hi rend="sl">a<ex>ies</ex>ti<ex>e</ex></hi> de la ville et Comtt<ex>e</ex> de york</label> President du Conseile estable au pays du Northe.
+<lb/> &amp; Lyveten<abbr type="macron">a<ex>n</ex>t</abbr>e <del>g<abbr type="macron"><ex>e</ex>n<ex>e</ex>rall</abbr></del> d'la Conte de Yorke. C<abbr type="macron">h<ex>eva</ex>l<ex>ie</ex>r</abbr>
+<lb/>du tresnoble Order d'la Jarretier<ex>e</ex>.
+<lb/>8 Du tresnoble &amp; puissant seigneure. Charles Conte d'
+<lb/>Devon : Baron Montioy Lyveten<abbr type="macron">a<ex>n</ex>t</abbr>e Governeur<ex>e</ex>
+<lb/>d'Irlande &amp; grande Maistre d'Artiglery d'Angle
+<lb/>terr<ex>e</ex>. Captayne d'Portesmowth. <abbr type="macron">Ch<ex>eva</ex>l<ex>ie</ex>r</abbr>. Du tresnoble
+<lb/>Order d'la Jarretier<ex>e</ex>./
+<lb/>9 Du tresnoble &amp; puissant seigneur<ex>e</ex> Henry Cont<ex>e</ex> du
+<lb/>Sussex. Viscounte ffitzwater<ex>e</ex>. seigneur<ex>e</ex> d'Egremond
+<lb/>Burnell &amp; Boutatourt<ex>e</ex>. C<abbr type="macron">h<ex>eva</ex>l<ex>ie</ex>r</abbr> du tresnoble Order
+<lb/>d'la Jarretier<ex>e</ex>./
+<lb/>10 Du tresnoble &amp; puissant seigneur<ex>e</ex> Gwillam Cont<ex>e</ex>
+<lb/>de Darby. Baron Stanley. seigneur Straunge
+<lb/>d'Knockinge et Moh<abbr type="macron">u<ex>n</ex></abbr>. seigneur<ex>e</ex> de le Isle de
+<lb/>Man. C<abbr type="macron">h<ex>eva</ex>l<ex>ie</ex>r</abbr>. Du tresnoble Order de la Jarretier<ex>e</ex>.
+<lb/>11 Du treshault &amp; trespuissant seigneur<ex>e</ex> Lovis Duc de
+<lb/>Lenoxe Cont<ex>e</ex> d'Arlaye. Bar<abbr type="macron">o<ex>n</ex></abbr> de Tarbanton
+<lb/>et de Methmen. grand Chamberlayne et Ad
+<lb/>mirall d'Escosse. C<abbr type="macron">h<ex>eva</ex>l<ex>ie</ex>r</abbr>: du tresnoble Order de
+<lb/>la Jarretier<ex>e</ex>./
+<lb/>12 Du tresnoble &amp; puissant Seigneure Joh<abbr type="macron">n</abbr> Cont<ex>e</ex> d'
+<lb/>Marr. Baron Erskyn &amp; du Brychen. C<abbr type="macron">h<ex>eva</ex>l<ex>ie</ex>r</abbr>
+<lb/>du tresnoble Order de la Jarretier./ </foreign>
+        <metamark>flourish</metamark>
+        <lb/>
+        <lb/>
+        <metamark>. flourish .</metamark>
+        <lb/>
+        <heading xml:lang="la">A sinistris Chorea Ascendendo</heading>
+        <lb/>
+        <foreign xml:lang="fr">1 Du treshaulte tresexcell<abbr type="macron">e<ex>n</ex>t</abbr> &amp; tresch<abbr type="macron">ristie<ex>n</ex></abbr> Prynce
+<lb/>Henry le Quatresme <abbr type="brevigraph" subtype="brev-p">p<ex>ar</ex></abbr> la grace de Dieu, Roy
+<lb/>de ffra<abbr type="macron">u<ex>n</ex></abbr>ce et d'Navare. C<abbr type="macron">h<ex>eva</ex>l<ex>ie</ex>r</abbr>. du tresnoble
+<lb/>Order d'la Jarrettier./</foreign>
+        <pb n="leaf 15 recto"/>
+        <lb/>
+        <heading xml:lang="la">A sinistris Chorea ascendendo</heading>
+        <lb/>
+        <label place="margin">
+          <date calendar="#julianMar" datingMethod="#julianMar" when-custom="1604-04-23">S<hi rend="sl">t</hi>: Georges feaste .1604.</date>
+        </label>
+        <foreign xml:lang="fr"> 2 Du treshaulte puissante &amp; tresnoble Prynce ffrederick
+<lb/>Duc d' Wyrtemberge et Tec. C<abbr type="macron">ont<ex>e</ex></abbr>. d'Montbeliard
+<lb/>Seigneur de Haydenheimb. &amp;c. C<abbr type="macron"><ex>heva</ex>l<ex>ie</ex>r</abbr>. du tresnoble
+<lb/>Order d' la Jarretier<ex>e</ex>./
+<lb/>3 Dutresnoble &amp; puissant seigni<abbr type="macron">eur<ex>e</ex></abbr> Thomas Co<abbr type="macron">nt<ex>e</ex></abbr>
+<lb/>d' Dowcet. Bar<abbr type="macron">o<ex>n</ex></abbr> Bucthurst grannd thress<ex>orier</ex>
+<lb/>de Angleterr<ex>e</ex>. C<abbr type="macron">h<ex>eva</ex>l<ex>ie</ex>r</abbr>: Du tresnoble Order d' la
+<lb/>Jarretier<ex>e</ex>
+<lb/>4 Du tresnoble &amp; puissant Seigneu<abbr type="macron">r<ex>e</ex></abbr> George Co<abbr type="macron">nt<ex>e</ex></abbr>
+<lb/>d' Comberlande Baron Clifford de Scipton
+<lb/>Seigneure de Westm<abbr type="brevigraph" subtype="brev-er">er</abbr>lande Vipount, Bromflet
+<lb/> &amp; Vescye. Lyvete<abbr type="macron">na<ex>n</ex>t</abbr> &amp; gou<ex>er</ex>neu<abbr type="macron">r<ex>e</ex></abbr> g<abbr type="macron"><ex>e</ex>n<ex>e</ex>ra</abbr>ll pour
+<lb/>sa <abbr type="macron">Ma<ex>ies</ex>tie</abbr> es pays de Northumberlande Comber
+<lb/>lande &amp; Westmerlande. Et Gardi<ex>en</ex> des March
+<lb/>vers Escosse. C<abbr type="macron">h<ex>eva</ex>l<ex>ie</ex>r</abbr>. du tresnoble Order de la
+<lb/>Jarrettie<abbr type="macron">r</abbr><ex><abbr type="macron">e</abbr></ex>./
+<lb/>5 Du tresnoble &amp; puissant Seigneu<abbr type="macron">r<ex>e</ex></abbr> Edwarde Con<abbr type="macron">t<ex>e</ex></abbr> d
+<lb/>Worcester Seigneu<abbr type="macron">r<ex>e</ex></abbr> Hurburt de Raylande Chepste
+<lb/> &amp; Gowres. Grannd Escuie<abbr type="macron">r<ex>e</ex></abbr> de sa M<abbr type="macron">a<ex>ies</ex>tie</abbr> C<abbr type="macron">h<ex>eva</ex>l<ex>ie</ex>r</abbr>
+<lb/>du tresnoble Order d'la Jarretie<abbr type="macron">r<ex>e</ex></abbr>.
+<lb/>6 Du tres<del>h</del><abbr type="macron">noble</abbr> C<abbr type="macron">h<ex>eva</ex>l<ex>ie</ex>r</abbr>. Henry Lea. C<abbr type="macron">h<ex>eva</ex>l<ex>ie</ex>r</abbr> du res=
+<lb/>noble Order de la Jarretie<abbr type="macron">r<ex>e</ex></abbr>.
+<lb/>7 Du tresnoble Seigneu<abbr type="macron">r<ex>e</ex></abbr> Tho<ex>mas</ex>: Scroope Baron
+<lb/>Scroope de Bolton. Seigneur d'Vpsale. C<abbr type="macron">h<ex>eva</ex>l<ex>ie</ex>r</abbr>
+<lb/>du tresnoble Order d'La Jarretie<abbr type="macron">r<ex>e</ex></abbr>.
+<lb/>8 Du tresnoble seigneure Tho<ex>mas</ex>: Cecyll. Bar<abbr type="macron">o<ex>n</ex></abbr> de
+<lb/>Burleigh. C<abbr type="macron">h<ex>eva</ex>l<ex>ie</ex>r</abbr>. du tresnoble Order de la Jar
+<lb/>retie<abbr type="macron">r</abbr><ex>e</ex>
+<lb/>9 Du tresnoble &amp; puissant seigneure Henry C<abbr type="macron">ont<ex>e</ex></abbr>
+<lb/>de Sowtham<abbr type="macron">pto<ex>n</ex></abbr> baron de Writhowsley d'Tych
+<lb/>fielde. Gou<abbr type="brevigraph" subtype="brev-er">er</abbr>neure d'le Isle d'wight. Ch<ex>eva</ex>l<ex>ie</ex>r. du
+<lb/>tresnoble Order d'la Jarretie<abbr type="macron">r<ex>e</ex></abbr>
+<lb/><hand>Du tresnoble &amp; puissant seigneure <abbr type="macron">Rob<ex>er</ex>te</abbr>. Conte de Salisbury viscount Cramborne
+<lb/>Bar<abbr type="macron">o<ex>n</ex></abbr> Cecill de Esenden. Secretary Principall du Roy <abbr type="macron">n<ex>ot</ex>re</abbr> Seigneure Maister
+<lb/>des gardes nobles d'Angleterre et C<abbr type="macron">h<ex>eva</ex>l<ex>ie</ex>r</abbr>. du tresnoble order de la Jarretier
+<lb/><date calendar="#julianMar" datingMethod="#julianMar" when-custom="1607">1607</date></hand></foreign>
+      </ab>
+    </body>
+  </text>
+</TEI>
+
