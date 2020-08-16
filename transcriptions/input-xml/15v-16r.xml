@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<calendarDesc>
+			<calendar xml:id="julianMar">
+				<p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p>
+			</calendar>
+			<calendar xml:id="annoMundi3962">
+				<p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p>
+			</calendar>
+			<calendar xml:id="beforeBritain">
+				<p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p>
+			</calendar>
+		</calendarDesc>
+	</teiHeader>
+	<sourceDoc corresp="Va447">
+		<surface xml:id="151480" n="15v-16r">
+			<media url="https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229360~224969/full/!1024,1024/0/default.jpg" mimeType="image/jpeg"/>
+			<zone resp="#Vet-PhilipAllfrey">
+<pb n="leaf 15 verso" />
+<lb/><heading xml:lang="la">A sinistris Chorea ascendendo</heading>
+<lb/><label place="margin">St: Georges feaste .1604.</label><foreign xml:lang="fr"> 6 Du tresnoble &amp; puissante seigneu<macron>r<ex>e</ex></macron> Thomas Con<macron>t<ex>e</ex></macron>
+<lb/>d'Suffolke. Bar<macron>o<ex>n</ex></macron> de Wald<macron>e<ex>n</ex></macron> Chamberlayne d
+<lb/><label place="margin"> <ins>et Capitaine d' cinq<macron>ua<ex>n</ex>t</macron> <macron>ge<ex>n</ex>t</macron><ex>ill</ex> homes Pension<brev-er>er</brev-er>s de sa Ma<ex>ies</ex>tie</ins></label> la Maison du Roy <macron>n<ex>ot</ex>re</macron> Seigneur <metamark function="insertion">^</metamark> C<macron>h<ex>eva</ex>l<ex>ie</ex>r</macron> du tres<pc force="weak">=</pc>
+<lb break="no"/>noble Order d'la Jarretier.
+<lb/>7 Du treshonorable C<macron>h<ex>eva</ex>l<ex>ie</ex>r</macron>. Henry Lea C<macron>h<ex>eva</ex>l<ex>ie</ex>r</macron> du
+<lb/>tresnoble Order d'la Jarretie<macron>r<ex>e</ex></macron>.
+<lb/>8 Du tresnoble seigneu<macron>r<ex>e</ex></macron>. Thomas Scroope <del>d'Bolt<macron>o<ex>n</ex></macron></del>
+<lb/>Bar<macron>o<ex>n</ex></macron> Scroope d'Bolton seigneu<macron>r<ex>e</ex></macron> d'Vpsale
+<lb/>C<macron>h<ex>eva</ex>l<ex>ie</ex>r</macron>. du tresnoble Order d'la Jarretier.
+<lb/>9 Du' tresnoble seignieure Thomas Cecyll Bar<macron>o<ex>n</ex></macron> de
+<lb/>Burleighe. C<macron>h<ex>eva</ex>l<ex>ie</ex>r</macron>. Du tresnoble Order d'la Jarretier.
+<lb/>10 Du tresnoble &amp; puissant seignieure Henry Co<macron>nt<ex>e</ex></macron> de
+<lb/>Sowthampton Bar<macron>o<ex>n</ex></macron> Writhowsley de Tychefielde
+<lb/>gou<brev-er>er</brev-er>no<ex>u</ex><sl>r</sl> <metamark function="insertion">^</metamark><ins> et Capitain pour sa ma<ex>ies</ex>tie</ins> de le Isle de Wighte .C<macron>h<ex>eva</ex>l<ex>ie</ex>r</macron>. du tresnoble
+<lb/>Order de la Jarrettie<macron>r<ex>e</ex></macron>.
+<lb/>11 Du tresnoble &amp; puissante seignieu<macron>r<ex>e</ex></macron>: Gwylla<macron>m</macron> Con<macron>t<ex>e</ex></macron>
+<lb/>de Penbrooke Bar<macron>o<ex>n</ex></macron> Harbart d'Cardiffe, seignieu<macron>r<ex>e</ex></macron>
+<lb/>Par<macron>r<ex>e</ex></macron>. &amp; Roos de kendale Marmion et S<ex>ain</ex><sl>te</sl> Qu<macron>inty<ex>n</ex></macron>.
+<lb/>Gard<macron>ie<ex>n</ex></macron> de lestaiguery. et C<macron>h<ex>eva</ex>l<ex>ie</ex>r</macron>. du tresnoble
+<lb/>Order d'la Jarrettie<macron>r<ex>e</ex></macron>./ <metamark>flourish</metamark> . <metamark>flourish</metamark> . <metamark>flourish</metamark>
+<lb/><label place="margin">A Sinist<ex>ris</ex></label> Du teshaulte trespuissante et tresexcellent prince Henry
+<lb/>quatriesme Roy Treschristien de ffraunc et du Navarr
+<lb/>Cheualier du tresnoble ordre de la Jartierre./
+<lb/><del>Du treshault puissante et tresnoble Prynce frederik Duc de
+<lb/>Wirtemberg et Teck Conte de montbeliard</del>(vide in pag
+<lb/>p<sl>r</sl><ex>e</ex>cedent<ex>e</ex>.
+<lb/>Du treshault trespuissant et tresexcel<macron>le<ex>n</ex>t</macron> Prince
+<lb/>Christian par le grace de diew Roy de Danemarch
+<lb/>Norvegue des Wandales et Gothes duc de Slesuic+
+<lb/>Holst Stormanche et detzmarch conte de Olden<pc force="weak">=</pc>
+<lb break="no"/>burge et delmenhorst Cheualier Du tres<pc force="weak">=</pc>
+<lb break="no"/>noble order &amp;c./
+<lb/><label place="margin">A sinistris</label> Du tresnoble et puissante seigneur Henry Conte du
+<lb/>Northampton. Bar<macron>o<ex>n</ex></macron> Howard de Marnhill Constab. de
+<lb/>Chasteau de douurs seigneur gardi<macron>e<ex>n</ex></macron> Chancliere
+<lb/>et Admirall dez Cinq Port<ex>es</ex> C<macron>h<ex>eva</ex>l<ex>ie</ex>r</macron>. du tresnoble.
+<lb/>Ord<del>er</del><ins>re</ins> .&amp;c ./ Du tresnoble et puissant seigneure
+<lb/>Tho<ex>mas</ex>: Viscounte Howard de Bynd<macron>o<ex>n</ex></macron>
+<lb/>C<macron>h<ex>eva</ex>l<ex>ie</ex>r</macron>. du tresnoble ordre &amp;c
+</foreign>
+<pb n="leaf 16 recto" />
+<lb/><label place="margin">Out of <brev-y>th</brev-y><sl>e</sl> Pawne of the <brev-p>p<ex>ar</ex></brev-p>liame<ex>n</ex>t aforesaid as ap<brev-p>p<ex>er</ex></brev-p>eth in <brev-y>th</brev-y><sl>e</sl> office of the Pety bagge.</label>
+<lb/><heading>The names of suche Noble m<macron>e<ex>n</ex></macron> as were
+<lb/>called by Writte to the <brev-p>p<ex>ar</ex></brev-p>liam<macron>e<ex>n</ex>t</macron> hold<macron>e<ex>n</ex></macron>
+<lb/>at Westm<ex>inst</ex><brev-er>er</brev-er>. <date calendar="#julianMar" datingMethod="#julianMar" when-custom="1601-09-11">the xi<sl>th</sl> of Septemb<ex>er</ex>: <foreign xml:lang="la">Anno
+<lb/>RR: Elizab<ex>ethae</ex>: xliii<sl>tio</sl></foreign></date>
+<lb/></heading><name>Tho<ex>mas</ex>: Egerto<ex>u</ex><sl>n</sl> knighte Lo<ex>rd</ex>: kee<brev-p>p<ex>er</ex></brev-p> of the greate seale of Englande</name>
+<lb/><name>Edw<ex>ard</ex>: E<ex>arle</ex>: of Oxforde.</name>
+<lb/><name>W<ex>illia</ex><sl>m</sl>: E<ex>arle</ex> of Darby</name>
+<lb/><name>George E<ex>arle</ex>: of Huntingd<macron>o<ex>n</ex></macron></name>
+<lb/><name>R<macron>ob<ex>er</ex>te</macron>: E<ex>arle</ex>: of Sussex.</name>
+<lb/><name>Gilbert: E<ex>arle</ex>: of Shrewsbury</name>
+<lb/><name>Edward. E<ex>arle</ex>: of Worcest<ex>er</ex></name>
+<lb/><name>Rog<brev-er>er</brev-er>: E<ex>arle</ex>: of Rutlande.</name>
+<lb/><name>W<ex>illia</ex>m: E<ex>arle</ex>: of Bathe.</name>
+<lb/><name>W<ex>illiam</ex>: E<ex>arle</ex>: of Pembroke.</name>
+<lb/><name>Henr<ex>y</ex>: E<ex>arle</ex>: of Kente.</name>
+<lb/><name>Henr<ex>y</ex>: E<ex>arle</ex>: of Lyncolne.</name>
+<lb/><name>Henr<ex>y</ex>: E<ex>arle</ex>: of Northumberland.</name>
+<lb/><name>Edw<ex>ard</ex>: E<ex>arle</ex>: of Hartforde.</name>
+<lb/><name>Charles: E<ex>arle</ex>: of Nottingh<macron>a<ex>m</ex></macron></name>
+<lb/><name>George: E<ex>arle</ex>: of Comberlande.</name>
+<lb/><name>Edwarde: E<ex>arle</ex>: of Bedforde.</name>
+<lb/><name>Antho<ex>ny</ex>: Viscount Mountagute.</name>
+<lb/><name>Tho<ex>mas</ex>: Viscount Howarde of Bynd<macron>o<ex>n</ex></macron>.</name>
+<lb/><name>Tho<ex>mas</ex>: Sackuile of Buckhurst knight high Thr<macron>ess<ex>ourer</ex></macron> of Englande</name>
+<lb/><name>George Cary of Hunesdon knight: Chamberl<macron>e<ex>n</ex></macron> of houshold</name>
+<lb> knighte./<list>
+  <item><name>George Tuchet of Audley.</name> </item>
+  <item><name>Edw<ex>ard</ex>: zowche of zowche.</name> </item>
+  <item><name>Hen<ex>ry</ex>: Barkley of Barkley.</name> </item>
+  <item><name>Edw<ex>ard</ex>: Parker of Morley.</name> </item>
+  <item><name>Henry Brook of Cobh<macron>a<ex>m</ex></macron>.</name> </item>
+  <item><name>Edw<ex>ard</ex>: Stafforde of Stafforde.</name> </item>
+  <item><name>Tho<ex>mas</ex>: Grey of Wylton.</name> </item>
+  <item><name>Tho<ex>mas</ex>: Scroope of Bolton.</name> </item>
+  <item><name>Edw<ex>ard</ex>: Sutton of Dudley.</name> </item>
+  <item><name>John: Lomley of Lomley.</name> </item>
+  <item><name>Edw<ex>ard</ex>: Sturton of Sturt<macron>o<ex>n</ex></macron></name> </item>
+  <item><name>Cutbert Oge of Ogle.</name> </item>
+  <item><name>Charles Blunte of Blunte.</name> </item>
+  <item><name>John darcy of Darcy.</name> </item>
+  <item><name>W<ex>illia</ex><sl>m</sl> Sand<brev-es>es</brev-es> of Vyne.</name> </item>
+  <item><name>Henr<ex>y</ex>. Wyndsor.</name> </item>
+  <item><name>Henr Mordante.</name></item>
+</list>
+<lb/><label place="corner"><foreign xml:lang="la">pl<ex>us</ex> inde</foreign></label>
+<lb/>
+</zone>
+</surface>
+</sourceDoc>
+<text>
+<body>
+	<p/>
+</body>
+</text>
+</TEI>

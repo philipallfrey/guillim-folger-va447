@@ -1,0 +1,265 @@
+<TEI_xmlns=''http://www.tei-c.org/ns/1.0''><teiHeader><calendarDesc><calendar_xml:id=''julianMar''><p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p></calendar><calendar_xml:id=''annoMundi3962''><p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p></calendar><calendar_xml:id=''beforeBritain''><p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p></calendar></calendarDesc></teiHeader><sourceDoc_corresp=''Va447''><surface_xml:id=''151480''_n=''15v-16r''><media_url=''https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229360~224969/full/!1024,1024/0/default.jpg''_mimeType=''image/jpeg''/></surface><text><body><p/><ab>
+<pb_n=''15v-16r''/>
+<pb_n=''leaf_15_verso''/>
+<lb/>
+<heading_xml:lang=''la''>A sinistris Chorea ascendendo</heading>
+<lb/>
+<label_place=''margin''>St: Georges feaste .1604.</label><foreign_xml:lang=''fr''> 6 Du tresnoble &amp; puissante seigneu<abbr_type=''macron''>r<ex>e</ex></abbr> Thomas Con<abbr_type=''macron''>t<ex>e</ex></abbr>
+<lb/>
+d'Suffolke. Bar<abbr_type=''macron''>o<ex>n</ex></abbr> de Wald<abbr_type=''macron''>e<ex>n</ex></abbr> Chamberlayne d
+<lb/>
+<label_place=''margin''><c/>
+<add_type=''authorial''>
+et Capitaine d' cinq<abbr_type=''macron''>ua<ex>n</ex>t</abbr> <abbr_type=''macron''>ge<ex>n</ex>t</abbr><ex>ill</ex> homes Pension<abbr_type=''brevigraph''_subtype=''brev-er''>er</abbr>s de sa Ma<ex>ies</ex>tie
+</add>
+<c/></label> la Maison du Roy <abbr_type=''macron''>n<ex>ot</ex>re</abbr> Seigneur <metamark_function=''insertion''>^</metamark> C<abbr_type=''macron''>h<ex>eva</ex>l<ex>ie</ex>r</abbr> du tres<pc_force=''weak''>=</pc>
+<lb_break=''no''/>noble Order d'la Jarretier.
+<lb/>
+7 Du treshonorable C<abbr_type=''macron''>h<ex>eva</ex>l<ex>ie</ex>r</abbr>. Henry Lea C<abbr_type=''macron''>h<ex>eva</ex>l<ex>ie</ex>r</abbr> du
+<lb/>
+tresnoble Order d'la Jarretie<abbr_type=''macron''>r<ex>e</ex></abbr>.
+<lb/>
+8 Du tresnoble seigneu<abbr_type=''macron''>r<ex>e</ex></abbr>. Thomas Scroope <c/>
+<del>
+d'Bolt<abbr_type=''macron''>o<ex>n</ex></abbr>
+</del>
+<c/>
+<lb/>
+Bar<abbr_type=''macron''>o<ex>n</ex></abbr> Scroope d'Bolton seigneu<abbr_type=''macron''>r<ex>e</ex></abbr> d'Vpsale
+<lb/>
+C<abbr_type=''macron''>h<ex>eva</ex>l<ex>ie</ex>r</abbr>. du tresnoble Order d'la Jarretier.
+<lb/>
+9 Du' tresnoble seignieure Thomas Cecyll Bar<abbr_type=''macron''>o<ex>n</ex></abbr> de
+<lb/>
+Burleighe. C<abbr_type=''macron''>h<ex>eva</ex>l<ex>ie</ex>r</abbr>. Du tresnoble Order d'la Jarretier.
+<lb/>
+10 Du tresnoble &amp; puissant seignieure Henry Co<abbr_type=''macron''>nt<ex>e</ex></abbr> de
+<lb/>
+Sowthampton Bar<abbr_type=''macron''>o<ex>n</ex></abbr> Writhowsley de Tychefielde
+<lb/>
+gou<abbr_type=''brevigraph''_subtype=''brev-er''>er</abbr>no<ex>u</ex><hi_rend=''sl''>r</hi> <metamark_function=''insertion''>^</metamark><c/>
+<add_type=''authorial''>
+ et Capitain pour sa ma<ex>ies</ex>tie
+</add>
+<c/> de le Isle de Wighte .C<abbr_type=''macron''>h<ex>eva</ex>l<ex>ie</ex>r</abbr>. du tresnoble
+<lb/>
+Order de la Jarrettie<abbr_type=''macron''>r<ex>e</ex></abbr>.
+<lb/>
+11 Du tresnoble &amp; puissante seignieu<abbr_type=''macron''>r<ex>e</ex></abbr>: Gwylla<abbr_type=''macron''>m</abbr> Con<abbr_type=''macron''>t<ex>e</ex></abbr>
+<lb/>
+de Penbrooke Bar<abbr_type=''macron''>o<ex>n</ex></abbr> Harbart d'Cardiffe, seignieu<abbr_type=''macron''>r<ex>e</ex></abbr>
+<lb/>
+Par<abbr_type=''macron''>r<ex>e</ex></abbr>. &amp; Roos de kendale Marmion et S<ex>ain</ex><hi_rend=''sl''>te</hi> Qu<abbr_type=''macron''>inty<ex>n</ex></abbr>.
+<lb/>
+Gard<abbr_type=''macron''>ie<ex>n</ex></abbr> de lestaiguery. et C<abbr_type=''macron''>h<ex>eva</ex>l<ex>ie</ex>r</abbr>. du tresnoble
+<lb/>
+Order d'la Jarrettie<abbr_type=''macron''>r<ex>e</ex></abbr>./ <metamark>flourish</metamark> . <metamark>flourish</metamark> . <metamark>flourish</metamark>
+<lb/>
+<label_place=''margin''>A Sinist<ex>ris</ex></label> Du teshaulte trespuissante et tresexcellent prince Henry
+<lb/>
+quatriesme Roy Treschristien de ffraunc et du Navarr
+<lb/>
+Cheualier du tresnoble ordre de la Jartierre./
+<lb/>
+<del>Du treshault puissante et tresnoble Prynce frederik Duc de
+<lb/>
+Wirtemberg et Teck Conte de montbeliard</del>(vide in pag
+<lb/>
+p<hi_rend=''sl''>r</hi><ex>e</ex>cedent<ex>e</ex>.
+<lb/>
+Du treshault trespuissant et tresexcel<abbr_type=''macron''>le<ex>n</ex>t</abbr> Prince
+<lb/>
+Christian par le grace de diew Roy de Danemarch
+<lb/>
+Norvegue des Wandales et Gothes duc de Slesuic+
+<lb/>
+Holst Stormanche et detzmarch conte de <join original="Olden&lt;pc_force=''weak''&gt;=&lt;/pc&gt;[lb]&lt;lb_break=''no''/&gt;burge"><normalised orig="Olden=burge" auto="false">Oldenburge</join></normalised> et delmenhorst Cheualier Du <join original="tres&lt;pc_force=''weak''&gt;=&lt;/pc&gt;[lb]&lt;lb_break=''no''/&gt;noble"><normalised orig="tres=noble" auto="false">tresnoble</join></normalised> order &amp;c./
+<lb/>
+<label_place=''margin''>A sinistris</label> Du tresnoble et puissante seigneur Henry Conte du
+<lb/>
+Northampton. Bar<abbr_type=''macron''>o<ex>n</ex></abbr> Howard de Marnhill Constab. de
+<lb/>
+Chasteau de douurs seigneur gardi<abbr_type=''macron''>e<ex>n</ex></abbr> Chancliere
+<lb/>
+et Admirall dez Cinq Port<ex>es</ex> C<abbr_type=''macron''>h<ex>eva</ex>l<ex>ie</ex>r</abbr>. du tresnoble.
+<lb/>
+Ord<del>er</del><c/>
+<add_type=''authorial''>
+re
+</add>
+<c/> .&amp;c ./ Du tresnoble et puissant seigneure
+<lb/>
+Tho<abbr_type=''truncation''_subtype=''colon''><ex>mas</ex>:</abbr> Viscounte Howard de Bynd<abbr_type=''macron''>o<ex>n</ex></abbr>
+<lb/>
+C<abbr_type=''macron''>h<ex>eva</ex>l<ex>ie</ex>r</abbr>. du tresnoble ordre &amp;c
+</foreign>
+<pb_n=''leaf_16_recto''/>
+<lb/>
+<label_place=''margin''>Out of <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> <normalised orig="Pawne" auto="false">Pawn</normalised> of the <abbr_type=''brevigraph''_subtype=''brev-p''>p<ex>ar</ex></abbr>liame<ex>n</ex>t aforesaid as <join original="ap&lt;abbr_type=''brevigraph''_subtype=''brev-p''&gt;p&lt;ex&gt;er&lt;/ex&gt;&lt;/abbr&gt;eth"><normalised orig="appereth" auto="false">appeareth</join></normalised> in <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> office of the <normalised orig="Pety" auto="false">Petty</normalised> <normalised orig="bagge" auto="false">bag</normalised>.</label>
+<lb/>
+<heading>The names of <normalised orig="suche" auto="false">such</normalised> Noble m<abbr_type=''macron''>e<ex>n</ex></abbr> as were
+<lb/>
+called by <normalised orig="Writte" auto="false">Writ</normalised> to the <abbr_type=''brevigraph''_subtype=''brev-p''>p<ex>ar</ex></abbr>liam<abbr_type=''macron''>e<ex>n</ex>t</abbr> hold<abbr_type=''macron''>e<ex>n</ex></abbr>
+<lb/>
+at Westm<ex>inst</ex><abbr_type=''brevigraph''_subtype=''brev-er''>er</abbr>. <date_calendar=''#julianMar''_datingMethod=''#julianMar''_when-custom=''1601-09-11''>the xi<hi_rend=''sl''>th</hi> of Septemb<abbr_type=''truncation''_subtype=''colon''><ex>er</ex>:</abbr> <foreign_xml:lang=''la''>Anno
+<lb/>
+RR: Elizab<abbr_type=''truncation''_subtype=''colon''><ex>ethae</ex>:</abbr> xliii<hi_rend=''sl''>tio</hi></foreign></date>
+<lb/>
+</heading>
+<name>
+Tho<abbr_type=''truncation''_subtype=''colon''><ex>mas</ex>:</abbr> Egerto<ex>u</ex><hi_rend=''sl''>n</hi> <normalised orig="knighte" auto="false">knight</normalised> Lo<abbr_type=''truncation''_subtype=''colon''><ex>rd</ex>:</abbr> kee<abbr_type=''brevigraph''_subtype=''brev-p''>p<ex>er</ex></abbr> of the <normalised orig="greate" auto="false">great</normalised> <normalised orig="seale" auto="false">seal</normalised> of <normalised orig="Englande" auto="false">England</normalised>
+</name>
+<lb/>
+<name>
+Edw<abbr_type=''truncation''_subtype=''colon''><ex>ard</ex>:</abbr> <join original="E&lt;abbr_type=''truncation''_subtype=''colon''&gt;&lt;ex&gt;arle"><normalised orig="Earle" auto="false">Earl</join></normalised></ex>:</abbr> of <normalised orig="Oxforde" auto="false">Oxford</normalised>.
+</name>
+<lb/>
+<name>
+W<ex>illia</ex><hi_rend=''sl''>m</hi>: <join original="E&lt;ex&gt;arle"><normalised orig="Earle" auto="false">Earl</join></normalised></ex> of <normalised orig="Darby" auto="false">Derby</normalised>
+</name>
+<lb/>
+<name>
+George <join original="E&lt;abbr_type=''truncation''_subtype=''colon''&gt;&lt;ex&gt;arle"><normalised orig="Earle" auto="false">Earl</join></normalised></ex>:</abbr> of Huntingd<abbr_type=''macron''>o<ex>n</ex></abbr>
+</name>
+<lb/>
+<name>
+R<abbr_type=''macron''>ob<ex>er</ex>te</abbr>: <join original="E&lt;abbr_type=''truncation''_subtype=''colon''&gt;&lt;ex&gt;arle"><normalised orig="Earle" auto="false">Earl</join></normalised></ex>:</abbr> of Sussex.
+</name>
+<lb/>
+<name>
+Gilbert: <join original="E&lt;abbr_type=''truncation''_subtype=''colon''&gt;&lt;ex&gt;arle"><normalised orig="Earle" auto="false">Earl</join></normalised></ex>:</abbr> of Shrewsbury
+</name>
+<lb/>
+<name>
+Edward. <join original="E&lt;abbr_type=''truncation''_subtype=''colon''&gt;&lt;ex&gt;arle"><normalised orig="Earle" auto="false">Earl</join></normalised></ex>:</abbr> of Worcest<ex>er</ex>
+</name>
+<lb/>
+<name>
+Rog<abbr_type=''brevigraph''_subtype=''brev-er''>er</abbr>: <join original="E&lt;abbr_type=''truncation''_subtype=''colon''&gt;&lt;ex&gt;arle"><normalised orig="Earle" auto="false">Earl</join></normalised></ex>:</abbr> of <normalised orig="Rutlande" auto="false">Rutland</normalised>.
+</name>
+<lb/>
+<name>
+W<ex>illia</ex>m: <join original="E&lt;abbr_type=''truncation''_subtype=''colon''&gt;&lt;ex&gt;arle"><normalised orig="Earle" auto="false">Earl</join></normalised></ex>:</abbr> of <normalised orig="Bathe" auto="false">Bath</normalised>.
+</name>
+<lb/>
+<name>
+W<abbr_type=''truncation''_subtype=''colon''><ex>illiam</ex>:</abbr> <join original="E&lt;abbr_type=''truncation''_subtype=''colon''&gt;&lt;ex&gt;arle"><normalised orig="Earle" auto="false">Earl</join></normalised></ex>:</abbr> of Pembroke.
+</name>
+<lb/>
+<name>
+Henr<abbr_type=''truncation''_subtype=''colon''><ex>y</ex>:</abbr> <join original="E&lt;abbr_type=''truncation''_subtype=''colon''&gt;&lt;ex&gt;arle"><normalised orig="Earle" auto="false">Earl</join></normalised></ex>:</abbr> of <normalised orig="Kente" auto="false">Kent</normalised>.
+</name>
+<lb/>
+<name>
+Henr<abbr_type=''truncation''_subtype=''colon''><ex>y</ex>:</abbr> <join original="E&lt;abbr_type=''truncation''_subtype=''colon''&gt;&lt;ex&gt;arle"><normalised orig="Earle" auto="false">Earl</join></normalised></ex>:</abbr> of <normalised orig="Lyncolne" auto="false">Lincoln</normalised>.
+</name>
+<lb/>
+<name>
+Henr<abbr_type=''truncation''_subtype=''colon''><ex>y</ex>:</abbr> <join original="E&lt;abbr_type=''truncation''_subtype=''colon''&gt;&lt;ex&gt;arle"><normalised orig="Earle" auto="false">Earl</join></normalised></ex>:</abbr> of Northumberland.
+</name>
+<lb/>
+<name>
+Edw<abbr_type=''truncation''_subtype=''colon''><ex>ard</ex>:</abbr> <join original="E&lt;abbr_type=''truncation''_subtype=''colon''&gt;&lt;ex&gt;arle"><normalised orig="Earle" auto="false">Earl</join></normalised></ex>:</abbr> of <normalised orig="Hartforde" auto="false">Hertford</normalised>.
+</name>
+<lb/>
+<name>
+Charles: <join original="E&lt;abbr_type=''truncation''_subtype=''colon''&gt;&lt;ex&gt;arle"><normalised orig="Earle" auto="false">Earl</join></normalised></ex>:</abbr> of Nottingh<abbr_type=''macron''>a<ex>m</ex></abbr>
+</name>
+<lb/>
+<name>
+George: <join original="E&lt;abbr_type=''truncation''_subtype=''colon''&gt;&lt;ex&gt;arle"><normalised orig="Earle" auto="false">Earl</join></normalised></ex>:</abbr> of <normalised orig="Comberlande" auto="false">Cumberland</normalised>.
+</name>
+<lb/>
+<name>
+<normalised orig="Edwarde" auto="false">Edward</normalised>: <join original="E&lt;abbr_type=''truncation''_subtype=''colon''&gt;&lt;ex&gt;arle"><normalised orig="Earle" auto="false">Earl</join></normalised></ex>:</abbr> of <normalised orig="Bedforde" auto="false">Bedford</normalised>.
+</name>
+<lb/>
+<name>
+Antho<abbr_type=''truncation''_subtype=''colon''><ex>ny</ex>:</abbr> Viscount Mountagute.
+</name>
+<lb/>
+<name>
+Tho<abbr_type=''truncation''_subtype=''colon''><ex>mas</ex>:</abbr> Viscount Howarde of Bynd<abbr_type=''macron''>o<ex>n</ex></abbr>.
+</name>
+<lb/>
+<name>
+Tho<abbr_type=''truncation''_subtype=''colon''><ex>mas</ex>:</abbr> Sackuile of Buckhurst knight high Thr<abbr_type=''macron''>ess<ex>ourer</ex></abbr> of <normalised orig="Englande" auto="false">England</normalised>
+</name>
+<lb/>
+<name>
+George Cary of Hunesdon knight: <join original="Chamberl&lt;abbr_type=''macron''&gt;e&lt;ex&gt;n"><normalised orig="Chamberlen" auto="false">Chamberlain</join></normalised></ex></abbr> of <normalised orig="houshold" auto="false">household</normalised>
+</name>
+<lb> <normalised orig="knighte" auto="false">knight</normalised>./<list><item>
+<name>
+George Tuchet of Audley.
+</name>
+</item><item>
+<name>
+Edw<abbr_type=''truncation''_subtype=''colon''><ex>ard</ex>:</abbr> zowche of zowche.
+</name>
+</item><item>
+<name>
+Hen<abbr_type=''truncation''_subtype=''colon''><ex>ry</ex>:</abbr> Barkley of Barkley.
+</name>
+</item><item>
+<name>
+Edw<abbr_type=''truncation''_subtype=''colon''><ex>ard</ex>:</abbr> Parker of Morley.
+</name>
+</item><item>
+<name>
+Henry Brook of Cobh<abbr_type=''macron''>a<ex>m</ex></abbr>.
+</name>
+</item><item>
+<name>
+Edw<abbr_type=''truncation''_subtype=''colon''><ex>ard</ex>:</abbr> Stafforde of Stafforde.
+</name>
+</item><item>
+<name>
+Tho<abbr_type=''truncation''_subtype=''colon''><ex>mas</ex>:</abbr> Grey of Wylton.
+</name>
+</item><item>
+<name>
+Tho<abbr_type=''truncation''_subtype=''colon''><ex>mas</ex>:</abbr> Scroope of Bolton.
+</name>
+</item><item>
+<name>
+Edw<abbr_type=''truncation''_subtype=''colon''><ex>ard</ex>:</abbr> Sutton of Dudley.
+</name>
+</item><item>
+<name>
+John: Lomley of Lomley.
+</name>
+</item><item>
+<name>
+Edw<abbr_type=''truncation''_subtype=''colon''><ex>ard</ex>:</abbr> Sturton of Sturt<abbr_type=''macron''>o<ex>n</ex></abbr>
+</name>
+</item><item>
+<name>
+Cutbert Oge of Ogle.
+</name>
+</item><item>
+<name>
+Charles Blunte of Blunte.
+</name>
+</item><item>
+<name>
+John darcy of Darcy.
+</name>
+</item><item>
+<name>
+W<ex>illia</ex><hi_rend=''sl''>m</hi> Sand<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> of Vyne.
+</name>
+</item><item>
+<name>
+Henr<ex>y</ex>. Wyndsor.
+</name>
+</item><item>
+<name>
+Henr Mordante.
+</name>
+</item></list>
+<lb/>
+<label_place=''corner''><foreign_xml:lang=''la''>pl<ex>us</ex> inde</foreign></label>
+<lb/>
+</lb></ab></body></text></sourceDoc>
+</TEI>
