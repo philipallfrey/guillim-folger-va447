@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<calendarDesc>
+			<calendar xml:id="julianMar">
+				<p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p>
+			</calendar>
+			<calendar xml:id="annoMundi3962">
+				<p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p>
+			</calendar>
+			<calendar xml:id="beforeBritain">
+				<p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p>
+			</calendar>
+		</calendarDesc>
+	</teiHeader>
+	<sourceDoc corresp="Va447">
+		<surface xml:id="151480" n="15v-16r">
+			<media url="https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229360~224969/full/!1024,1024/0/default.jpg" mimeType="image/jpeg"/>
+			<zone resp="#Vet-PhilipAllfrey">
+        <pb n="leaf 16 verso" />
+<lb/>knighte<list>
+<item><name>Edwarde Cromwell.</name></item>
+<item><name>Rawfe Ewrye.</name></item>
+<item><name>Phillippe Whart<macron>o<ex>n</ex></macron> of Whart<macron>o<ex>n</ex></macron>.</name></item>
+<item><name>Ro<macron>b<ex>er</ex>t</macron> Riche.</name></item>
+<item><name>Tho<ex>mas</ex>: Darcy of Chiche.</name></item>
+<item><name>W<ex>illia</ex><sl>m</sl>: Chandos of Sudeley.</name></item>
+<item><name>Olyver S<sl>t</sl>: John of Bletsho.</name></item>
+<item><name>Tho<ex>mas</ex>: west d'laware.</name></item>
+<item><name>Edmonde Sheffielde.</name></item>
+<item><name>W<ex>illia</ex>m. Compt<macron>o<ex>n</ex></macron> of Compt<macron>o<ex>n</ex></macron></name></item>
+<item><name>ffraunc<brev-es>es</brev-es> Norris of Rycot.</name></item>
+<item><name>Tho<ex>mas</ex>: Howarde of Walden.</name></item>
+</list> <metamark>flourish</metamark> . <metamark>flourish</metamark> .
+<lb/>
+<lb/><heading>Justic<brev-es>es</brev-es> called by writte
+<lb/>to thesame Parliam<macron>e<ex>n</ex>t</macron>e.</heading>
+<lb/><label place="margin">
+<lb/>Out of the before
+<lb/>m<macron>e<ex>n</ex>t</macron>ioned Pawne.</label> <name>Joh<macron>n<ex>n</ex></macron> Popham Lo<ex>rd</ex>: Chiefe Justice of Englande.</name>
+<lb/><name>Edmonde Anderson knighte Lo<ex>rd</ex>: chiefe Justice of <brev-y>th</brev-y><sl>e</sl> Co<macron>m<ex>m</ex></macron><ex>on</ex>: pleas</name>
+<lb/><name>W<ex>illia</ex>m: Periam knighte, Chiefe Bar<macron>o<ex>n</ex></macron> of the Exchecquer.</name>
+<lb/><name>Joh<macron>n<ex>n</ex></macron> Clenche one of the Justic<brev-es>es</brev-es> of the king<brev-es>es</brev-es> benche.</name>
+<lb/><name>ffraunc<brev-es>es</brev-es> Gandye one other Justice of thesame.</name>
+<lb/><name>Tho<ex>mas</ex>: Walmesley one of the Justic<brev-es>es</brev-es> of the Co<macron>m<ex>m</ex>o</macron>n pleaes.</name>
+<lb/><name>Edward ffenner one other of the Justic<brev-es>es</brev-es> of the king<brev-es>es</brev-es> benche</name>
+<lb/><name>George Kyngesmill one other Justice of the Co<macron>m<ex>m</ex></macron>on pleaes.</name>
+<lb/><name>Peter Warburto<ex>u</ex><sl>n</sl> one other Justice of thesame.</name>
+<lb/><name>R<macron>ob<ex>er</ex>te</macron> Clarke one of the Barons of the Exchequer</name>
+<lb/><name>Joh<macron>n<ex>n</ex></macron> davells. one other of the Barons of <brev-y>th</brev-y><sl>e</sl> Exchequer</name>
+<lb/><name><ex>Christ</ex>ofer Yelverto<ex>u</ex><sl>n</sl>. her M<macron>a<ex>ies</ex>ties</macron> Sergeante at Lawe</name>
+<lb/><name>Edwarde Cooke. her highnesse Attorney g<macron><ex>e</ex>n<ex>e</ex>rall</macron>.</name>
+<lb/><name>Tho<ex>mas</ex>: ffleminge her highnesse solicito<ex>u</ex><sl>r</sl> g<macron><ex>e</ex>n<ex>e</ex>rall</macron></name>
+<lb/>Her M<macron>a<ex>ies</ex>ties</macron> welbeloved &amp; faithfull Counsellor. <name>Robert
+<lb/>Cecill knighte her pryncipall Secretarye</name>. <metamark>flourish</metamark> . <metamark>flourish</metamark> .
+<pb n="leaf 17 recto" />
+<lb/><heading>The <brev-p>p<ex>ro</ex></brev-p>ceedinge to the Churche for
+<lb/>An Earle</heading>
+<lb/>2. Conductors
+<lb/>Poorem<macron>e<ex>n</ex></macron> in gownes.
+<lb/>7. Conductors.
+<lb/>Serv<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es> of gentilm<macron>e<ex>n</ex></macron> knight<brev-es>es</brev-es> Lord<brev-es>es</brev-es> &amp; Earles
+<lb/>Trompeto<ex>u</ex><sl>r</sl>
+<lb/><graphic>Drawing of a standard</graphic> The Standarde
+<lb/>yeom<macron>e<ex>n</ex></macron> serv<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es> to the defunct in Cloak<brev-es>es</brev-es>
+<lb/><graphic>Drawing of a guidon</graphic>The Gwydon.
+<lb/>Gent<ex>illmen</ex> serv<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es> to the defunct in Cloak<brev-es>es</brev-es>.
+<lb/>The Horse.
+<lb/>Gent<ex>illmen</ex> in Gownes.
+<lb/>Chaplaynes.
+<lb/>Counsello<ex>u</ex><sl>rs</sl> at Lawe.
+<lb/>Secretaries to the defunct.
+<lb/>Gent<ex>illman</ex> of his kynred.
+<lb/>Serge<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es> at Lawe.
+<lb/>The High sheriff of the sheere.
+<lb/>Knight<brev-es>es</brev-es>
+<lb/>Steward. Treasourer. Comptroller.
+<lb/>The greate banner borne by a knight. <graphic>Drawing of the great banner</graphic>
+<lb/>{ The Helme &amp; Creast
+<lb/>3 Herehaught<ex>es</ex> { Sworde &amp; Target.
+<lb/>{ Coate
+<lb/><graphic>Drawing of a banner</graphic> { 4. knight<brev-es>es</brev-es> Assistant<brev-es>es</brev-es> to the body <graphic>drawing</graphic> { To beare <graphic>drawing</graphic>
+<lb/><graphic>Drawing of a banner</graphic> <graphic>Drawing of a coffin</graphic>Bodye <graphic>Drawing of a banner</graphic>
+<lb/><graphic>Drawing of a banner</graphic> The horse of Estate lead by a gent<ex>illman</ex>. <graphic>Drawing of a banner</graphic>
+<lb/>Garter.
+<lb/>Chiefe Mourner: An Earle.
+<lb/>.8. Assistant<brev-es>es</brev-es> beinge N<macron>obleme<ex>n.</ex></macron>
+<lb/>2. gent<ex>illman</ex> Vsher<brev-es>es</brev-es> bareheaded.
+<lb/>The noble<macron>me<ex>n</ex></macron> on horsebacke.
+<lb/>The<ex>n</ex> all other yeo<macron>me<ex>n</ex></macron> in Cloak<brev-es>es</brev-es> ./ <graphic>flourish</graphic>
+<lb/><graphic>scribble</graphic>
+<lb/>
+</zone>
+</surface>
+</sourceDoc>
+<text>
+<body>
+	<p/>
+</body>
+</text>
+</TEI>

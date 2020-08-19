@@ -1,0 +1,291 @@
+<TEI_xmlns=''http://www.tei-c.org/ns/1.0''>
+<teiHeader>
+<calendarDesc>
+<calendar_xml:id=''julianMar''>
+<p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p>
+</calendar>
+<calendar_xml:id=''annoMundi3962''>
+<p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p>
+</calendar>
+<calendar_xml:id=''beforeBritain''>
+<p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p>
+</calendar>
+</calendarDesc>
+</teiHeader>
+<sourceDoc_corresp=''Va447''>
+<surface_xml:id=''151480''_n=''15v-16r''>
+<media_url=''https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229360~224969/full/!1024,1024/0/default.jpg''_mimeType=''image/jpeg''/>
+</surface>
+</sourceDoc>
+<text>
+<body>
+<p/>
+<ab>
+<pb_n=''15v-16r''/>
+<pb_n=''leaf_16_verso''/>
+<lb/>
+<normalised orig="knighte" auto="false">knight</normalised><list><item>
+<name>
+<normalised orig="Edwarde" auto="false">Edward</normalised> Cromwell.
+</name>
+</item><item>
+<name>
+<normalised orig="Rawfe" auto="false">Ralph</normalised> Ewrye.
+</name>
+</item><item>
+<name>
+Phillippe Whart<abbr_type=''macron''>o<ex>n</ex></abbr> of Whart<abbr_type=''macron''>o<ex>n</ex></abbr>.
+</name>
+</item><item>
+<name>
+Ro<abbr_type=''macron''>b<ex>er</ex>t</abbr> Riche.
+</name>
+</item><item>
+<name>
+Tho<abbr_type=''truncation''_subtype=''colon''><ex>mas</ex>:</abbr> Darcy of Chiche.
+</name>
+</item><item>
+<name>
+W<ex>illia</ex><hi_rend=''sl''>m</hi>: Chandos of Sudeley.
+</name>
+</item><item>
+<name>
+<normalised orig="Olyver" auto="false">Oliver</normalised> S<hi_rend=''sl''>t</hi>: John of Bletsho.
+</name>
+</item><item>
+<name>
+Tho<abbr_type=''truncation''_subtype=''colon''><ex>mas</ex>:</abbr> west d'laware.
+</name>
+</item><item>
+<name>
+<normalised orig="Edmonde" auto="false">Edmund</normalised> Sheffielde.
+</name>
+</item><item>
+<name>
+W<ex>illia</ex>m. Compt<abbr_type=''macron''>o<ex>n</ex></abbr> of Compt<abbr_type=''macron''>o<ex>n</ex></abbr>
+</name>
+</item><item>
+<name>
+<join original="ffraunc&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="ffraunces" auto="false">Frances</join></normalised></abbr> Norris of Rycot.
+</name>
+</item><item>
+<name>
+Tho<abbr_type=''truncation''_subtype=''colon''><ex>mas</ex>:</abbr> Howarde of Walden.
+</name>
+</item></list><metamark>flourish</metamark> . <metamark>flourish</metamark> .
+<lb/>
+<lb/>
+<heading>Justic<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> called by <normalised orig="writte" auto="false">writ</normalised>
+<lb/>
+to <normalised orig="thesame" auto="false">the same</normalised> <join original="Parliam&lt;abbr_type=''macron''&gt;e&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;e"><normalised orig="Parliamente" auto="false">Parliament</join></normalised>.</heading>
+<lb/>
+<label_place=''margin''>
+<lb/>
+Out of the before
+<lb/>
+m<abbr_type=''macron''>e<ex>n</ex>t</abbr>ioned <normalised orig="Pawne" auto="false">Pawn</normalised>.</label> <c/>
+<name>
+Joh<abbr_type=''macron''>n<ex>n</ex></abbr> Popham Lo<abbr_type=''truncation''_subtype=''colon''><ex>rd</ex>:</abbr> <normalised orig="Chiefe" auto="false">Chief</normalised> Justice of <normalised orig="Englande" auto="false">England</normalised>.
+</name>
+<lb/>
+<name>
+<normalised orig="Edmonde" auto="false">Edmund</normalised> Anderson <normalised orig="knighte" auto="false">knight</normalised> Lo<abbr_type=''truncation''_subtype=''colon''><ex>rd</ex>:</abbr> <normalised orig="chiefe" auto="false">chief</normalised> Justice of <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> Co<abbr_type=''macron''>m<ex>m</ex></abbr><abbr_type=''truncation''_subtype=''colon''><ex>on</ex>:</abbr> pleas
+</name>
+<lb/>
+<name>
+W<ex>illia</ex>m: Periam <normalised orig="knighte" auto="false">knight</normalised>, <normalised orig="Chiefe" auto="false">Chief</normalised> Bar<abbr_type=''macron''>o<ex>n</ex></abbr> of the <normalised orig="Exchecquer" auto="false">Exchequer</normalised>.
+</name>
+<lb/>
+<name>
+Joh<abbr_type=''macron''>n<ex>n</ex></abbr> Clenche one of the Justic<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> of the <join original="king&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="kinges" auto="false">king's</join></normalised></abbr> <normalised orig="benche" auto="false">bench</normalised>.
+</name>
+<lb/>
+<name>
+<join original="ffraunc&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="ffraunces" auto="false">Frances</join></normalised></abbr> Gandye one other Justice of <normalised orig="thesame" auto="false">the same</normalised>.
+</name>
+<lb/>
+<name>
+Tho<abbr_type=''truncation''_subtype=''colon''><ex>mas</ex>:</abbr> Walmesley one of the Justic<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> of the Co<abbr_type=''macron''>m<ex>m</ex>o</abbr>n <normalised orig="pleaes" auto="false">pleas</normalised>.
+</name>
+<lb/>
+<name>
+Edward <normalised orig="ffenner" auto="false">Fenner</normalised> one other of the Justic<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> of the <join original="king&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="kinges" auto="false">king's</join></normalised></abbr> <normalised orig="benche" auto="false">bench</normalised>
+</name>
+<lb/>
+<name>
+George Kyngesmill one other Justice of the Co<abbr_type=''macron''>m<ex>m</ex></abbr>on <normalised orig="pleaes" auto="false">pleas</normalised>.
+</name>
+<lb/>
+<name>
+Peter Warburto<ex>u</ex><hi_rend=''sl''>n</hi> one other Justice of <normalised orig="thesame" auto="false">the same</normalised>.
+</name>
+<lb/>
+<name>
+R<abbr_type=''macron''>ob<ex>er</ex>te</abbr> Clarke one of the Barons of the Exchequer
+</name>
+<lb/>
+<name>
+Joh<abbr_type=''macron''>n<ex>n</ex></abbr> davells. one other of the Barons of <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> Exchequer
+</name>
+<lb/>
+<name>
+<ex><join original="Christ&lt;/ex&gt;ofer"><normalised orig="Christofer" auto="false">Christopher</join></normalised> Yelverto<ex>u</ex><hi_rend=''sl''>n</hi>. her <join original="M&lt;abbr_type=''macron''&gt;a&lt;ex&gt;ies&lt;/ex&gt;ties"><normalised orig="Maiesties" auto="false">Majesty's</join></normalised></abbr> <normalised orig="Sergeante" auto="false">Serjeant</normalised> at <normalised orig="Lawe" auto="false">Law</normalised>
+</name>
+<lb/>
+<name>
+<normalised orig="Edwarde" auto="false">Edward</normalised> Cooke. her <normalised orig="highnesse" auto="false">highness's</normalised> Attorney <join original="g&lt;abbr_type=''macron''&gt;&lt;ex&gt;e&lt;/ex&gt;n&lt;ex&gt;e&lt;/ex&gt;rall"><normalised orig="generall" auto="false">general</join></normalised></abbr>.
+</name>
+<lb/>
+<name>
+Tho<abbr_type=''truncation''_subtype=''colon''><ex>mas</ex>:</abbr> <normalised orig="ffleminge" auto="false">Fleminge</normalised> her <normalised orig="highnesse" auto="false">highness's</normalised> <join original="solicito&lt;ex&gt;u&lt;/ex&gt;&lt;hi_rend=''sl''&gt;r"><normalised orig="solicitour" auto="false">solicitor</join></normalised></hi> g<abbr_type=''macron''><ex>e</ex>n<ex>e</ex>rall</abbr>
+</name>
+<lb/>
+Her <join original="M&lt;abbr_type=''macron''&gt;a&lt;ex&gt;ies&lt;/ex&gt;ties"><normalised orig="Maiesties" auto="false">Majesty's</join></normalised></abbr> <normalised orig="welbeloved" auto="false">well-beloved</normalised> &amp; <normalised orig="faithfull" auto="false">faithful</normalised> Counsellor. <c/>
+<name>
+Robert
+<lb/>
+Cecill <normalised orig="knighte" auto="false">knight</normalised> her <normalised orig="pryncipall" auto="false">principal</normalised> <normalised orig="Secretarye" auto="false">Secretary</normalised>
+</name>
+. <metamark>flourish</metamark> . <metamark>flourish</metamark> .
+<pb_n=''leaf_17_recto''/>
+<lb/>
+<heading>The <abbr_type=''brevigraph''_subtype=''brev-p''><join original="p&lt;ex&gt;ro&lt;/ex&gt;&lt;/abbr&gt;ceedinge"><normalised orig="proceedinge" auto="false">proceeding</join></normalised> to the <normalised orig="Churche" auto="false">Church</normalised> for
+<lb/>
+An <normalised orig="Earle" auto="false">Earl</normalised></heading>
+<lb/>
+2. Conductors
+<lb/>
+<join original="Poorem&lt;abbr_type=''macron''&gt;e&lt;ex&gt;n"><normalised orig="Pooremen" auto="false">Poor men</join></normalised></ex></abbr> in <normalised orig="gownes" auto="false">gowns</normalised>.
+<lb/>
+7. Conductors.
+<lb/>
+<join original="Serv&lt;abbr_type=''macron''&gt;a&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Servantes" auto="false">Servants</join></normalised></abbr> of <join original="gentilm&lt;abbr_type=''macron''&gt;e&lt;ex&gt;n"><normalised orig="gentilmen" auto="false">gentlemen</join></normalised></ex></abbr> <join original="knight&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="knightes" auto="false">knights</join></normalised></abbr> <join original="Lord&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Lordes" auto="false">Lords</join></normalised></abbr> &amp; <normalised orig="Earles" auto="false">Earls</normalised>
+<lb/>
+<join original="Trompeto&lt;ex&gt;u&lt;/ex&gt;&lt;hi_rend=''sl''&gt;r"><normalised orig="Trompetour" auto="false">Trumpeter</join></normalised></hi>
+<lb/>
+<figure>
+<desc>
+Drawing of a standard
+</desc>
+</figure>
+ The <normalised orig="Standarde" auto="false">Standard</normalised>
+<lb/>
+yeom<abbr_type=''macron''>e<ex>n</ex></abbr> <join original="serv&lt;abbr_type=''macron''&gt;a&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="servantes" auto="false">servants</join></normalised></abbr> to the defunct in <join original="Cloak&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Cloakes" auto="false">Cloaks</join></normalised></abbr>
+<lb/>
+<figure>
+<desc>
+Drawing of a guidon
+</desc>
+</figure>
+The <normalised orig="Gwydon" auto="false">Guidon</normalised>.
+<lb/>
+<join original="Gent&lt;ex&gt;illmen"><normalised orig="Gentillmen" auto="false">Gentlemen</join></normalised></ex> <join original="serv&lt;abbr_type=''macron''&gt;a&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="servantes" auto="false">servants</join></normalised></abbr> to the defunct in <join original="Cloak&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Cloakes" auto="false">Cloaks</join></normalised></abbr>.
+<lb/>
+The Horse.
+<lb/>
+<join original="Gent&lt;ex&gt;illmen"><normalised orig="Gentillmen" auto="false">Gentlemen</join></normalised></ex> in <normalised orig="Gownes" auto="false">Gowns</normalised>.
+<lb/>
+<normalised orig="Chaplaynes" auto="false">Chaplains</normalised>.
+<lb/>
+<join original="Counsello&lt;ex&gt;u&lt;/ex&gt;&lt;hi_rend=''sl''&gt;rs"><normalised orig="Counsellours" auto="false">Counsellors</join></normalised></hi> at <normalised orig="Lawe" auto="false">Law</normalised>.
+<lb/>
+Secretaries to the defunct.
+<lb/>
+<join original="Gent&lt;ex&gt;illman"><normalised orig="Gentillman" auto="false">Gentleman</join></normalised></ex> of his <normalised orig="kynred" auto="false">kindred</normalised>.
+<lb/>
+<join original="Serge&lt;abbr_type=''macron''&gt;a&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Sergeantes" auto="false">Serjeants</join></normalised></abbr> at <normalised orig="Lawe" auto="false">Law</normalised>.
+<lb/>
+The High sheriff of the <normalised orig="sheere" auto="false">shire</normalised>.
+<lb/>
+Knight<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr>
+<lb/>
+Steward. <normalised orig="Treasourer" auto="false">Treasurer</normalised>. Comptroller.
+<lb/>
+The <normalised orig="greate" auto="false">great</normalised> banner borne by a knight. 
+<figure>
+<desc>
+Drawing of the great banner
+</desc>
+</figure>
+<lb/>
+{ The <normalised orig="Helme" auto="false">Helm</normalised> &amp; <normalised orig="Creast" auto="false">Crest</normalised>
+<lb/>
+3 <join original="Herehaught&lt;ex&gt;es"><normalised orig="Herehaughtes" auto="false">Heralds</join></normalised></ex> { <normalised orig="Sworde" auto="false">Sword</normalised> &amp; Target.
+<lb/>
+{ <normalised orig="Coate" auto="false">Coat</normalised>
+<lb/>
+<figure>
+<desc>
+Drawing of a banner
+</desc>
+</figure>
+ { 4. knight<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> Assistant<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> to the body 
+<figure>
+<desc>
+drawing
+</desc>
+</figure>
+ { To <normalised orig="beare" auto="false">bear</normalised> 
+<figure>
+<desc>
+drawing
+</desc>
+</figure>
+<lb/>
+<figure>
+<desc>
+Drawing of a banner
+</desc>
+</figure>
+ 
+<figure>
+<desc>
+Drawing of a coffin
+</desc>
+</figure>
+<normalised orig="Bodye" auto="false">Body</normalised> 
+<figure>
+<desc>
+Drawing of a banner
+</desc>
+</figure>
+<lb/>
+<figure>
+<desc>
+Drawing of a banner
+</desc>
+</figure>
+ The horse of Estate <normalised orig="lead" auto="false">led</normalised> by a <join original="gent&lt;ex&gt;illman"><normalised orig="gentillman" auto="false">gentleman</join></normalised></ex>. 
+<figure>
+<desc>
+Drawing of a banner
+</desc>
+</figure>
+<lb/>
+Garter.
+<lb/>
+<normalised orig="Chiefe" auto="false">Chief</normalised> Mourner: An <normalised orig="Earle" auto="false">Earl</normalised>.
+<lb/>
+.8. <join original="Assistant&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Assistantes" auto="false">Assistants</join></normalised></abbr> <normalised orig="beinge" auto="false">being</normalised> N<abbr_type=''macron''>obleme<ex>n.</ex></abbr>
+<lb/>
+2. <join original="gent&lt;ex&gt;illman"><normalised orig="gentillman" auto="false">gentlemen</join></normalised></ex> <join original="Vsher&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Vsheres" auto="false">Ushers</join></normalised></abbr> bareheaded.
+<lb/>
+The noble<abbr_type=''macron''>me<ex>n</ex></abbr> on <normalised orig="horsebacke" auto="false">horseback</normalised>.
+<lb/>
+The<ex>n</ex> all other yeo<abbr_type=''macron''>me<ex>n</ex></abbr> in <join original="Cloak&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Cloakes" auto="false">Cloaks</join></normalised></abbr> ./ 
+<figure>
+<desc>
+flourish
+</desc>
+</figure>
+<lb/>
+<figure>
+<desc>
+scribble
+</desc>
+</figure>
+<lb/>
+</ab>
+</body>
+</text>
+</TEI>
