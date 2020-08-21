@@ -1,0 +1,150 @@
+<TEI_xmlns=''http://www.tei-c.org/ns/1.0''><teiHeader><calendarDesc><calendar_xml:id=''julianMar''><p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p></calendar><calendar_xml:id=''annoMundi3962''><p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p></calendar><calendar_xml:id=''beforeBritain''><p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p></calendar></calendarDesc></teiHeader><sourceDoc_corresp=''Va447''><surface_xml:id=''151482''_n=''17v-18r''><media_url=''https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229362~224967/full/!1024,1024/0/default.jpg''_mimeType=''image/jpeg''/></surface><text><body><p/><ab>
+<pb_n=''17v-18r''/>
+<pb_n=''leaf_17_verso''/>
+<lb/>
+<pb>
+17v</pb>
+<lb/>
+<heading>Hach<abbr_type=''macron''>me<ex>n</ex>t</abbr><abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> for an <normalised orig="Earle" auto="false">Earl</normalised>.</heading>
+<lb/>
+<heading>6. Bannerolles</heading>
+<figure>
+<desc>
+Drawing of six bannerolles
+</desc>
+</figure>
+<lb/>
+<heading>The <normalised orig="Standarde" auto="false">Standard</normalised></heading>
+<figure>
+<desc>
+Drawing of a standard
+</desc>
+</figure>
+<heading>The great Banner</heading>
+<figure>
+<desc>
+Drawing of a banner
+</desc>
+</figure>
+<lb/>
+<heading>The <normalised orig="Coate" auto="false">Coat</normalised>.</heading>
+<figure>
+<desc>
+Drawing of a tabard
+</desc>
+</figure>
+<figure>
+<desc>
+Drawing of a sword and shield
+</desc>
+</figure>
+<figure>
+<desc>
+Drawing of a helmet
+</desc>
+</figure>
+<lb/>
+<heading>The Hearse for an <normalised orig="Earle" auto="false">Earl</normalised>.</heading><lb>
+<figure>
+<desc>
+Drawing of a hearse
+</desc>
+</figure>
+<lb/>
+4. <join original="Assist&lt;abbr_type=''macron''&gt;a&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Assistantes" auto="false">Assistants</join></normalised></abbr>
+<lb/>
+4. <join original="Assist&lt;abbr_type=''macron''&gt;a&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Assistantes" auto="false">Assistants</join></normalised></abbr>
+<lb/>
+<normalised orig="Chiefe" auto="false">Chief</normalised> Mourn<abbr_type=''brevigraph''_subtype=''brev-er''>er</abbr>
+<pb_n=''leaf_17_verso''/>
+<lb/>
+<heading>The <normalised orig="proceedinge" auto="false">proceeding</normalised> to <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> <normalised orig="Churche" auto="false">Church</normalised>
+<lb/>
+for a <normalised orig="Countesse" auto="false">Countess</normalised>.</heading>
+<lb/>
+<lb/>
+Two Conductors.
+<lb/>
+<normalised orig="Poore" auto="false">Poor</normalised> W<abbr_type=''macron''>ome<ex>n</ex></abbr>
+<lb/>
+2. Conductors
+<lb/>
+<join original="Servaunt&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Servauntes" auto="false">Servants</join></normalised></abbr> of Gent<ex>illmen</ex>. <join original="Knight&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Knightes" auto="false">Knights</join></normalised></abbr> <join original="Lord&lt;ex&gt;es"><normalised orig="Lordes" auto="false">Lords</join></normalised></ex> <join original="Earl&lt;ex&gt;es"><normalised orig="Earles" auto="false">Earls</join></normalised></ex>
+<lb/>
+<join original="Serva&lt;ex&gt;n&lt;/ex&gt;t&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Servantes" auto="false">Servants</join></normalised></abbr> of <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> defunct.
+<lb/>
+<join original="Gent&lt;ex&gt;illmen"><normalised orig="Gentillmen" auto="false">Gentlemen</join></normalised></ex> <join original="serv&lt;abbr_type=''macron''&gt;a&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="servantes" auto="false">servants</join></normalised></abbr> to <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> <normalised orig="deffunct" auto="false">defunct</normalised>.
+<lb/>
+<normalised orig="Chaplaynes" auto="false">Chaplains</normalised>.
+<lb/>
+Other <join original="gentill&lt;abbr_type=''macron''&gt;me&lt;ex&gt;n"><normalised orig="gentillmen" auto="false">gentlemen</join></normalised></ex></abbr>.
+<lb/>
+<normalised orig="Esquiers" auto="false">Esquires</normalised>.
+<lb/>
+<normalised orig="Knightes" auto="false">Knights</normalised>.
+<lb/>
+Steward. <normalised orig="Treasorer" auto="false">Treasurer</normalised>. Comptroller.
+<lb/>
+Preacher.
+<lb/>
+<figure>
+<desc>
+Drawing of the great banner
+</desc>
+</figure>
+ The <normalised orig="greate" auto="false">great</normalised> Banner.
+<lb/>
+Officers of <normalised orig="Armes" auto="false">Arms</normalised>
+<lb/>
+4. <join original="Assista&lt;ex&gt;n&lt;/ex&gt;t&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Assistantes" auto="false">Assistants</join></normalised></abbr> to the <normalised orig="bodye" auto="false">body</normalised>
+<lb/>
+<figure>
+<desc>
+Drawing of three bannerolles
+</desc>
+</figure>
+ The Corps
+<figure>
+<desc>
+Drawing of a coffin around the words The Corps
+</desc>
+</figure>
+
+<figure>
+<desc>
+Drawing of three bannerolles
+</desc>
+</figure>
+<lb/>
+A <join original="gent&lt;ex&gt;illman"><normalised orig="gentillman" auto="false">gentleman</join></normalised></ex> <normalised orig="Vsher" auto="false">Usher</normalised>. Garter. A <join original="gent&lt;abbr_type=''truncation''_subtype=''colon''&gt;&lt;ex&gt;illman"><normalised orig="gentillman" auto="false">gentleman</join></normalised></ex>:</abbr> <normalised orig="Vsher" auto="false">Usher</normalised>.
+<lb/>
+A Lady <normalised orig="Chiefe" auto="false">Chief</normalised> <normalised orig="Mowrner" auto="false">Mourner</normalised>. assisted by
+<lb/>
+two <normalised orig="Earles" auto="false">Earls</normalised>  her <normalised orig="Trayne" auto="false">Train</normalised> borne.
+<lb/>
+.8. other <normalised orig="Ladyes" auto="false">Ladies</normalised> <join original="Assistant&lt;ex&gt;es"><normalised orig="Assistantes" auto="false">Assistants</join></normalised></ex>
+<lb/>
+2. in Cloak<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr>
+<lb/>
+All other <normalised orig="Ladyes" auto="false">Ladies</normalised>  <join original="Gent&lt;abbr_type=''macron''&gt;ilwome&lt;ex&gt;n"><normalised orig="Gentilwomen" auto="false">Gentlewomen</join></normalised></ex></abbr>
+<lb/>
+<join original="Gentilwo&lt;abbr_type=''macron''&gt;me&lt;ex&gt;n"><normalised orig="Gentilwomen" auto="false">Gentlewomen</join></normalised></ex></abbr> to the <normalised orig="Defuncte" auto="false">Defunct</normalised>.
+<lb/>
+Ladies <join original="gentilw&lt;abbr_type=''macron''&gt;ome&lt;ex&gt;n"><normalised orig="gentilwomen" auto="false">gentlewomen</join></normalised></ex></abbr>
+<lb/>
+<metamark>flourish</metamark> Yeomen in <normalised orig="Coates" auto="false">Coats</normalised>./ <metamark>flourish</metamark>
+<lb/>
+<metamark>scribble</metamark>
+<lb/>
+<label_place=''margin''>The <normalised orig="outwarde" auto="false">outward</normalised> <normalised orig="Raile" auto="false">Rail</normalised> of the frame of the <normalised orig="herse" auto="false">hearse</normalised> <normalised orig="nexte" auto="false">next</normalised> <normalised orig="followinge" auto="false">following</normalised></label>
+<figure>
+<desc>
+Drawing of the frame of the hearse
+</desc>
+</figure>
+ A <normalised orig="dore" auto="false">door</normalised> .4. <normalised orig="foote" auto="false">foot</normalised> at <normalised orig="eche" auto="false">each</normalised> <normalised orig="ende" auto="false">end</normalised> w<ex>i</ex><hi_rend=''sl''>th</hi> a <normalised orig="Raile" auto="false">Rail</normalised> to <normalised orig="lifte" auto="false">lift</normalised> <normalised orig="vp" auto="false">up</normalised>  <normalised orig="downe" auto="false">down</normalised> ./
+<lb/>
+The .2. <normalised orig="endes" auto="false">ends</normalised> of <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> Hearse to be .9. <normalised orig="foote" auto="false">foot</normalised> ./ <metamark>flourish</metamark>
+<lb/>
+</lb></ab></body></text></sourceDoc>
+</TEI>
