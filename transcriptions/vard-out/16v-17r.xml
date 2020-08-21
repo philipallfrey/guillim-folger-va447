@@ -13,7 +13,7 @@
 </calendarDesc>
 </teiHeader>
 <sourceDoc_corresp=''Va447''>
-<surface_xml:id=''151480''_n=''15v-16r''>
+<surface_xml:id=''151480''_n=''16v-17r''>
 <media_url=''https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229360~224969/full/!1024,1024/0/default.jpg''_mimeType=''image/jpeg''/>
 </surface>
 </sourceDoc>
@@ -21,7 +21,7 @@
 <body>
 <p/>
 <ab>
-<pb_n=''15v-16r''/>
+<pb_n=''16v-17r''/>
 <pb_n=''leaf_16_verso''/>
 <lb/>
 <normalised orig="knighte" auto="false">knight</normalised><list><item>
@@ -201,7 +201,7 @@ Knight<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr>
 <lb/>
 Steward. <normalised orig="Treasourer" auto="false">Treasurer</normalised>. Comptroller.
 <lb/>
-The <normalised orig="greate" auto="false">great</normalised> banner borne by a knight. 
+The <normalised orig="greate" auto="false">great</normalised> banner borne by a knight.
 <figure>
 <desc>
 Drawing of the great banner
@@ -219,13 +219,13 @@ Drawing of the great banner
 Drawing of a banner
 </desc>
 </figure>
- { 4. knight<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> Assistant<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> to the body 
+ { 4. knight<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> Assistant<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> to the body
 <figure>
 <desc>
 drawing
 </desc>
 </figure>
- { To <normalised orig="beare" auto="false">bear</normalised> 
+ { To <normalised orig="beare" auto="false">bear</normalised>
 <figure>
 <desc>
 drawing
@@ -237,13 +237,13 @@ drawing
 Drawing of a banner
 </desc>
 </figure>
- 
+
 <figure>
 <desc>
 Drawing of a coffin
 </desc>
 </figure>
-<normalised orig="Bodye" auto="false">Body</normalised> 
+<normalised orig="Bodye" auto="false">Body</normalised>
 <figure>
 <desc>
 Drawing of a banner
@@ -255,7 +255,7 @@ Drawing of a banner
 Drawing of a banner
 </desc>
 </figure>
- The horse of Estate <normalised orig="lead" auto="false">led</normalised> by a <join original="gent&lt;ex&gt;illman"><normalised orig="gentillman" auto="false">gentleman</join></normalised></ex>. 
+ The horse of Estate <normalised orig="lead" auto="false">led</normalised> by a <join original="gent&lt;ex&gt;illman"><normalised orig="gentillman" auto="false">gentleman</join></normalised></ex>.
 <figure>
 <desc>
 Drawing of a banner
@@ -272,7 +272,7 @@ Garter.
 <lb/>
 The noble<abbr_type=''macron''>me<ex>n</ex></abbr> on <normalised orig="horsebacke" auto="false">horseback</normalised>.
 <lb/>
-The<ex>n</ex> all other yeo<abbr_type=''macron''>me<ex>n</ex></abbr> in <join original="Cloak&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Cloakes" auto="false">Cloaks</join></normalised></abbr> ./ 
+The<ex>n</ex> all other yeo<abbr_type=''macron''>me<ex>n</ex></abbr> in <join original="Cloak&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Cloakes" auto="false">Cloaks</join></normalised></abbr> ./
 <figure>
 <desc>
 flourish

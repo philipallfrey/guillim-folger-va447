@@ -13,14 +13,14 @@
     </calendarDesc>
   </teiHeader>
   <sourceDoc corresp="Va447">
-    <surface xml:id="151480" n="15v-16r">
+    <surface xml:id="151480" n="16v-17r">
       <media url="https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229360~224969/full/!1024,1024/0/default.jpg" mimeType="image/jpeg"/>
     </surface>
   </sourceDoc>
   <text>
     <body>
       <p/>
-      <ab><pb n="15v-16r"/><pb n="leaf 16 verso"/><lb/>knighte<list><item><name>Edwarde Cromwell.</name></item><item><name>Rawfe Ewrye.</name></item><item><name>Phillippe Whart<abbr type="macron">o<ex>n</ex></abbr> of Whart<abbr type="macron">o<ex>n</ex></abbr>.</name></item><item><name>Ro<abbr type="macron">b<ex>er</ex>t</abbr> Riche.</name></item><item><name>Tho<ex>mas</ex>: Darcy of Chiche.</name></item><item><name>W<ex>illia</ex><hi rend="sl">m</hi>: Chandos of Sudeley.</name></item><item><name>Olyver S<hi rend="sl">t</hi>: John of Bletsho.</name></item><item><name>Tho<ex>mas</ex>: west d'laware.</name></item><item><name>Edmonde Sheffielde.</name></item><item><name>W<ex>illia</ex>m. Compt<abbr type="macron">o<ex>n</ex></abbr> of Compt<abbr type="macron">o<ex>n</ex></abbr></name></item><item><name>ffraunc<abbr type="brevigraph" subtype="brev-es">es</abbr> Norris of Rycot.</name></item><item><name>Tho<ex>mas</ex>: Howarde of Walden.</name></item></list><metamark>flourish</metamark> . <metamark>flourish</metamark> .
+      <ab><pb n="16v-17r"/><pb n="leaf 16 verso"/><lb/>knighte<list><item><name>Edwarde Cromwell.</name></item><item><name>Rawfe Ewrye.</name></item><item><name>Phillippe Whart<abbr type="macron">o<ex>n</ex></abbr> of Whart<abbr type="macron">o<ex>n</ex></abbr>.</name></item><item><name>Ro<abbr type="macron">b<ex>er</ex>t</abbr> Riche.</name></item><item><name>Tho<ex>mas</ex>: Darcy of Chiche.</name></item><item><name>W<ex>illia</ex><hi rend="sl">m</hi>: Chandos of Sudeley.</name></item><item><name>Olyver S<hi rend="sl">t</hi>: John of Bletsho.</name></item><item><name>Tho<ex>mas</ex>: west d'laware.</name></item><item><name>Edmonde Sheffielde.</name></item><item><name>W<ex>illia</ex>m. Compt<abbr type="macron">o<ex>n</ex></abbr> of Compt<abbr type="macron">o<ex>n</ex></abbr></name></item><item><name>ffraunc<abbr type="brevigraph" subtype="brev-es">es</abbr> Norris of Rycot.</name></item><item><name>Tho<ex>mas</ex>: Howarde of Walden.</name></item></list><metamark>flourish</metamark> . <metamark>flourish</metamark> .
 <lb/>
 <lb/><heading>Justic<abbr type="brevigraph" subtype="brev-es">es</abbr> called by writte
 <lb/>to thesame Parliam<abbr type="macron">e<ex>n</ex>t</abbr>e.</heading>
@@ -82,4 +82,3 @@
     </body>
   </text>
 </TEI>
-
