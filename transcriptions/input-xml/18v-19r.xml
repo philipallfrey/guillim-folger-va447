@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<calendarDesc>
+			<calendar xml:id="julianMar">
+				<p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p>
+			</calendar>
+			<calendar xml:id="annoMundi3962">
+				<p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p>
+			</calendar>
+			<calendar xml:id="beforeBritain">
+				<p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p>
+			</calendar>
+		</calendarDesc>
+	</teiHeader>
+	<sourceDoc corresp="Va447">
+		<surface xml:id="151484" n="18v-19r">
+			<media url="https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229364~224965/full/!1024,1024/0/default.jpg" mimeType="image/jpeg"/>
+			<zone resp="#Vet-PhilipAllfrey">
+        <pb n="leaf 18 verso" />
+        <lb/><pb>18v</pb>
+        <lb/><graphic>Labelled drawing of a the frame for a hearse</graphic>
+        <lb/>The wydnesse of the doore at eche ende .4. foote.
+        <lb/>The tymber of these .4. vpright Postes to be .5. ynches square and .12. foote longe.
+        <lb/>smale tymbre of Three inches square
+        <lb/>This poste 10 foote high and .4. ynches square.
+        <lb/>This poste
+        <lb/>standeth in the
+        <lb/>middle to beare
+        <lb/>the toppe &amp; goeth
+        <lb/>no lower th<macron>e<ex>n</ex></macron> the .2.<sl>d</sl>
+        <lb/>Raile and is borne by
+        <lb/>a crosse beame <brev-y>th</brev-y><ex>a</ex><sl>t</sl> goeth
+        <lb/>fr<macron>o<ex>m</ex></macron> syde to syde w<ex>i</ex><sl>th</sl>in <brev-y>th</brev-y><sl>e</sl> hearse.
+        <lb/>.1. foote. .2. foote. .6. foote betweene these .2. Railes .3. foote .8. ynches.
+        <lb/>.12. foote Longe.
+        <lb/>The .2. sydes of the Hearse to be
+        <lb/>.12. foote in lengthe and <brev-y>th</brev-y><sl>e</sl> Tymber
+        <lb/>to be .4. ynches square.
+        <lb/>The breadthe to be a 3<sl>d</sl> <brev-p>p<ex>ar</ex></brev-p>te therof
+        <lb/><macron>vi<ex>de</ex>l<brev-z>icet</brev-z></macron> .9. foote.
+        <lb/>This ground sill to be strong<brev-er>er</brev-er> then the rest./
+        <lb/>There must be an <del>outrayle</del> Outward Rayle of .22. foote
+        <lb/>in lengthe, & .18. in breadthe; Of Tymber aboute foure
+        <lb/>ynches square./
+        <lb/>The Compasse of a hearse of this syze: .14. yard<brev-es>es</brev-es>
+        <lb/><pb>19r</pb>
+        <lb/><heading>Proceedinge at a funerall
+        <lb/>of a Baron <metamark>flourish</metamark></heading>
+        <lb/>.2. Conductors.
+        <lb/>Poore m<macron>e<ex>n</ex></macron>.
+        <lb/>2. Conductors.
+        <lb/>Servamtes of Gent<ex>illmen</ex>. Knight<brev-es>es</brev-es>. Barons. Earles.
+        <lb/><graphic>Drawing of the standard</graphic> The Standard
+        <lb/>Serv<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es> of the deffunct in Cloakes
+        <lb/>Gent<ex>illmen</ex> serv<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es> of the deffunct in Cloak<brev-es>es</brev-es>.
+        <lb/>Apotycaries
+        <lb/>Chirurgians.
+        <lb/>Phisi<del>s</del><ins>c</ins>yans.
+        <lb/>Chapleynes.
+        <lb/>Secretaries.
+        <lb/>Gent<ex>illmen</ex> in Gownes.
+        <lb/>Steward. Treasourer. Comptroller.
+        <lb/>Knight<brev-es>es</brev-es>
+        <lb/><ins>The Preacher</ins>
+        <lb/><ins>The greate Banner</ins> <graphic>Drawing of the great banner</graphic>
+        <lb/>The Executors.
+        <lb/>{ Helme &amp; Creaste.
+        <lb/>3 Heroldes { Sworde &amp; Target.
+        <lb/>{ Coate Armo<ex>u</ex><sl>r</sl>
+        <lb/>
+        <lb/><graphic>Drawing of two bannerolles</graphic> 4. Assist<macron>a<ex>n</ex>t</macron>es <macron>vi<ex>de</ex>l<brev-z>icet</brev-z></macron> .at
+        <lb/> eche corn<brev-er>er</brev-er> one. <graphic>Drawing of two bannerolles</graphic>
+        <lb/>The Corps <graphic>Drawing of a coffin around the words The Corps</graphic>
+        <lb/>A g<macron>ent<ex>illman</ex></macron> vsher. Garter. A g<macron>ent<ex>illman</ex></macron> vsher
+        <lb/>Chiefe Mourn<brev-er>er</brev-er>
+        <lb/>6. Assistant<ex>es</ex>.
+        <lb/>2. <macron>ge<ex>n</ex>t</macron><ex>illman</ex> vshers bareheaded.
+        <lb/>Lord<brev-es>es</brev-es> &amp; knight<ex>es</ex> on horsbacke.
+        <lb/>Then yeo<macron>me<ex>n</ex></macron> in Coates.
+        <lb/>Then all other knight<brev-es>es</brev-es> &amp; gen<macron>tilme<ex>n</ex></macron>
+        <lb/><graphic>flourish</graphic> not beinge in black<brev-es>es</brev-es> <graphic>flourish</graphic> .
+        <lb/><graphic>scribble</graphic>
+        <lb/><hand>Quere for the funerall of an
+        <lb/>Archbishoppe
+        <lb/>Bishoppe
+        <lb/>knight of the gart<brev-er>er</brev-er>
+        <lb/><unclear>???????</unclear>
+        <lb/><unclear>??????????</unclear>
+      </zone>
+    </surface>
+  </sourceDoc>
+  <text>
+    <body>
+      <p/>
+    </body>
+  </text>
+</TEI>
