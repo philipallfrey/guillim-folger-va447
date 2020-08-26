@@ -1,0 +1,128 @@
+<TEI_xmlns=''http://www.tei-c.org/ns/1.0''><teiHeader><calendarDesc><calendar_xml:id=''julianMar''><p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p></calendar><calendar_xml:id=''annoMundi3962''><p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p></calendar><calendar_xml:id=''beforeBritain''><p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p></calendar></calendarDesc></teiHeader><sourceDoc_corresp=''Va447''><surface_xml:id=''151485''_n=''19v-20r''><media_url=''https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229362~224967/full/!1024,1024/0/default.jpg''_mimeType=''image/jpeg''/></surface><text><body><p/><ab>
+<pb_n=''19v-20r''/>
+<pb_n=''leaf_19_verso''/>
+<lb/>
+<heading>4. Bannerolles</heading>
+<figure>
+<desc>
+Drawing of four bannerolles
+</desc>
+</figure>
+<heading>The great Banner</heading>
+<figure>
+<desc>
+Drawing of a banner
+</desc>
+</figure>
+<lb/>
+<figure>
+<desc>
+Drawing of a standard
+</desc>
+</figure>
+<lb/>
+<figure>
+<desc>
+Drawing of a tabard
+</desc>
+</figure>
+<figure>
+<desc>
+Drawing of a helmet
+</desc>
+</figure>
+<figure>
+<desc>
+Drawing of a sword and shield
+</desc>
+</figure>
+<lb>
+<figure>
+<desc>
+Drawing of a hearse
+</desc>
+</figure>
+<lb/>
+3 Assist<abbr_type=''macron''>a<ex>n</ex>t</abbr><abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> 3. Assist<abbr_type=''macron''>a<ex>n</ex>t</abbr><abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr>
+<lb/>
+<pb_n=''leaf_20_recto''/>
+<lb/>
+The <abbr_type=''brevigraph''_subtype=''brev-p''><join original="p&lt;ex&gt;ro&lt;/ex&gt;&lt;/abbr&gt;ceadinge"><normalised orig="proceadinge" auto="false">proceeding</join></normalised> at the <join original="ffun&lt;abbr_type=''brevigraph''_subtype=''brev-er''&gt;er&lt;/abbr&gt;all"><normalised orig="ffunerall" auto="false">Funeral</join></normalised>
+<lb/>
+of a <normalised orig="Baronnesse" auto="false">Baroness</normalised>.
+<lb/>
+2. Conductors
+<lb/>
+<join original="Poorew&lt;abbr_type=''macron''&gt;ome&lt;ex&gt;n"><normalised orig="Poorewomen" auto="false">Poor women</join></normalised></ex></abbr>
+<lb/>
+2. Conductors.
+<lb/>
+<normalised orig="Servauntes" auto="false">Servants</normalised> of { <join original="Gent&lt;ex&gt;illmen"><normalised orig="Gentillmen" auto="false">Gentlemen</join></normalised></ex>. <join original="Knight&lt;ex&gt;es"><normalised orig="Knightes" auto="false">Knights</join></normalised></ex> <join original="Lord&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Lordes" auto="false">Lords</join></normalised></abbr>. <normalised orig="Earles" auto="false">Earls</normalised>
+<lb/>
+<join original="Serv&lt;abbr_type=''macron''&gt;a&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;es"><normalised orig="Servantes" auto="false">Servants</join></normalised> of <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> <normalised orig="deffunct" auto="false">defunct</normalised>.
+<lb/>
+The <normalised orig="Stewarde" auto="false">Steward</normalised>
+<lb/>
+Doctors
+<lb/>
+Preacher
+<lb/>
+The <normalised orig="greate" auto="false">great</normalised> Banner 
+<figure>
+<desc>
+Drawing of the great banner
+</desc>
+</figure>
+<lb/>
+Officers of <normalised orig="Armes" auto="false">Arms</normalised>.
+<lb/>
+4 <join original="Assist&lt;abbr_type=''macron''&gt;a&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Assistantes" auto="false">Assistants</join></normalised></abbr> to the <normalised orig="Bodye" auto="false">Body</normalised>
+<lb/>
+<figure>
+<desc>
+Drawing of two bannerolles
+</desc>
+</figure>
+ The <normalised orig="Bodye" auto="false">Body</normalised> 
+<figure>
+<desc>
+Drawing of a coffin around the words The <normalised orig="Bodye" auto="false">Body</normalised>
+</desc>
+</figure>
+ 
+<figure>
+<desc>
+Drawing of two bannerolles
+</desc>
+</figure>
+<lb/>
+Garter. &amp; a <abbr_type=''macron''><join original="ge&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;&lt;abbr_type=''truncation''_subtype=''colon''&gt;&lt;ex&gt;illman"><normalised orig="gentillman" auto="false">gentleman</join></normalised></ex>:</abbr> <normalised orig="Vsher" auto="false">Usher</normalised>.
+<lb/>
+A Lady <normalised orig="Chiefe" auto="false">Chief</normalised> <normalised orig="Mowrner" auto="false">Mourner</normalised> supported
+<lb/>
+by .2. <join original="Knight&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Knightes" auto="false">Knights</join></normalised></abbr> <normalised orig="he" auto="false">her</normalised> <normalised orig="Trayne" auto="false">Train</normalised> borne by
+<lb/>
+a <join original="gentilwo&lt;abbr_type=''macron''&gt;ma&lt;ex&gt;n"><normalised orig="gentilwoman" auto="false">gentlewoman</join></normalised></ex></abbr>
+<lb/>
+6. Lady <join original="Assistant&lt;ex&gt;es"><normalised orig="Assistantes" auto="false">Assistants</join></normalised></ex>
+<lb/>
+2. Yeo<abbr_type=''macron''>me<ex>n</ex></abbr>
+<lb/>
+<c/>
+<del>
+Th
+</del>
+<c/><add_type=''authorial''><join original="G&lt;/add&gt;entilwo&lt;abbr_type=''macron''&gt;me&lt;ex&gt;n"><normalised orig="Gentilwomen" auto="false">Gentlewomen</join></normalised></ex></abbr> in <join original="black&lt;ex&gt;es"><normalised orig="blackes" auto="false">blacks</join></normalised></ex>
+<lb/>
+2. Yeo<abbr_type=''macron''>me<ex>n</ex></abbr>.
+<lb/>
+The Ladies <abbr_type=''macron''><join original="ge&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;ill&lt;abbr_type=''macron''&gt;wome&lt;ex&gt;n"><normalised orig="gentillwomen" auto="false">gentlewomen</join></normalised></ex></abbr>
+<lb/>
+Yeo<abbr_type=''macron''>me<ex>n</ex></abbr> in <join original="Cloak&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Cloakes" auto="false">Cloaks</join></normalised></abbr>
+<lb/>
+<lb/>
+<metamark>flourish</metamark> The <normalised orig="parishe" auto="false">parish</normalised> &amp; others. <metamark>flourish</metamark> .
+<lb/>
+<metamark>scribble</metamark>
+</lb></ab></body></text></sourceDoc>
+</TEI>
