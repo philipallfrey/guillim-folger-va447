@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<calendarDesc>
+			<calendar xml:id="julianMar">
+				<p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p>
+			</calendar>
+			<calendar xml:id="annoMundi3962">
+				<p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p>
+			</calendar>
+			<calendar xml:id="beforeBritain">
+				<p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p>
+			</calendar>
+		</calendarDesc>
+	</teiHeader>
+	<sourceDoc corresp="Va447">
+		<surface xml:id="151485" n="19v-20r">
+			<media url="https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229362~224967/full/!1024,1024/0/default.jpg" mimeType="image/jpeg"/>
+			<zone resp="#Vet-PhilipAllfrey">
+        <pb n="leaf 19 verso" />
+        <lb/><heading>4. Bannerolles</heading><graphic>Drawing of four bannerolles</graphic> <heading>The great Banner</heading><graphic>Drawing of a banner</graphic>
+        <lb/><graphic>Drawing of a standard</graphic>
+        <lb/><graphic>Drawing of a tabard</graphic> <graphic>Drawing of a helmet</graphic> <graphic>Drawing of a sword and shield</graphic>
+        <lb><graphic>Drawing of a hearse</graphic>
+        <lb/>3 Assist<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es> 3. Assist<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es>
+        <lb/>
+        <pb n="leaf 20 recto" />
+        <lb/>The <brev-p>p<ex>ro</ex></brev-p>ceadinge at the ffun<brev-er>er</brev-er>all
+        <lb/>of a Baronnesse.
+        <lb/>2. Conductors
+        <lb/>Poorew<macron>ome<ex>n</ex></macron>
+        <lb/>2. Conductors.
+        <lb/>Servauntes of { Gent<ex>illmen</ex>. Knight<ex>es</ex> Lord<brev-es>es</brev-es>. Earles
+        <lb/>Serv<macron>a<ex>n</ex>t</macron>es of <brev-y>th</brev-y><sl>e</sl> deffunct.
+        <lb/>The Stewarde
+        <lb/>Doctors
+        <lb/>Preacher
+        <lb/>The greate Banner <graphic>Drawing of the great banner</graphic>
+        <lb/>Officers of Armes.
+        <lb/>4 Assist<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es> to the Bodye
+        <lb/><graphic>Drawing of two bannerolles</graphic> The Bodye <graphic>Drawing of a coffin around the words The Bodye</graphic> <graphic>Drawing of two bannerolles</graphic>
+        <lb/>Garter. &amp; a <macron>ge<ex>n</ex>t</macron><ex>illman</ex>: Vsher.
+        <lb/>A Lady Chiefe Mowrner supported
+        <lb/>by .2. Knight<brev-es>es</brev-es> he Trayne borne by
+        <lb/>a gentilwo<macron>ma<ex>n</ex></macron>
+        <lb/>6. Lady Assistant<ex>es</ex>
+        <lb/>2. Yeo<macron>me<ex>n</ex></macron>
+        <lb/><del>Th</del><ins>G</ins>entilwo<macron>me<ex>n</ex></macron> in black<ex>es</ex>
+        <lb/>2. Yeo<macron>me<ex>n</ex></macron>.
+        <lb/>The Ladies <macron>ge<ex>n</ex>t</macron>ill<macron>wome<ex>n</ex></macron>
+        <lb/>Yeo<macron>me<ex>n</ex></macron> in Cloak<brev-es>es</brev-es>
+        <lb/>
+        <lb/><metamark>flourish</metamark> The parishe &amp; others. <metamark>flourish</metamark> .
+        <lb/><metamark>scribble</metamark>
+      </zone>
+      </surface>
+      </sourceDoc>
+      <text>
+      <body>
+        <p/>
+      </body>
+      </text>
+      </TEI>
