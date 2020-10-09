@@ -1,0 +1,835 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<calendarDesc>
+<calendar xml:id="julianMar">
+<p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p>
+</calendar>
+<calendar xml:id="annoMundi3962">
+<p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p>
+</calendar>
+<calendar xml:id="beforeBritain">
+<p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p>
+</calendar>
+</calendarDesc>
+</teiHeader>
+<sourceDoc corresp="Va447">
+<surface xml:id="151485" n="20v-21r">
+<media url="https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229366~224963/full/!1024,1024/0/default.jpg" mimeType="image/jpeg"/>
+</surface>
+</sourceDoc>
+<text>
+<body>
+<p/>
+<ab>
+<pb n="20v-21r"/>
+<pb n="leaf 20 verso"/>
+<lb/>
+<pb>
+<w><choice><orig>20v</pb></orig><reg>20v</reg></choice></w>
+<lb/>
+<heading>
+<w>The</w>
+<c> </c>
+<w><choice><orig><abbr type="brevigraph" subtype="brev-p">p<ex>ro</ex></abbr>ceedinge</orig><reg>proceeding</reg></choice></w>
+<c> </c>
+<w>at</w>
+<c> </c>
+<w>a</w>
+<c> </c>
+<w><choice><orig>knight<abbr type="brevigraph" subtype="brev-es">es</abbr></orig><reg>knight's</reg></choice></w>
+<lb/>
+<w><choice><orig>ffunerall</orig><reg>Funeral</reg></choice></w>
+<pc>.</pc>
+</heading>
+<lb/>
+<w>2</w>
+<pc>.</pc>
+<c> </c>
+<w>Conductors</w>
+<pc>.</pc>
+<lb/>
+<w><choice><orig>poorm<abbr type="macron">e<ex>n</ex></abbr></orig><reg><w>poor</w><c> </c><w>men</w></reg></choice></w>
+<c> </c>
+<w>in</w>
+<c> </c>
+<w><choice><orig>gownes</orig><reg>gowns</reg></choice></w>
+<c> </c>
+<w>.2</w>
+<pc>.</pc>
+<c> </c>
+<w>&amp;</w>
+<c> </c>
+<w>.2</w>
+<pc>.</pc>
+<lb/>
+<w><choice><orig>Yeom<abbr type="macron">e<ex>n</ex></abbr></orig><reg>Yeomen</reg></choice></w>
+<c> </c>
+<w>in</w>
+<c> </c>
+<w><choice><orig>Cloak<abbr type="brevigraph" subtype="brev-es">es</abbr></orig><reg>Cloaks</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<figure><desc>Drawing of the standard</desc></figure>
+<w>The</w>
+<c> </c>
+<w><choice><orig>Standarde</orig><reg>Standard</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<w><choice><orig>Servant<abbr type="brevigraph" subtype="brev-es">es</abbr></orig><reg>Servants</reg></choice></w>
+<c> </c>
+<w>of</w>
+<c> </c>
+<w><choice><orig>gentilm<abbr type="macron">e<ex>n</ex></abbr></orig><reg>gentlemen</reg></choice></w>
+<lb/>
+<w><choice><orig>Serv<abbr type="macron">a<ex>n</ex>t</abbr><abbr type="brevigraph" subtype="brev-es">es</abbr></orig><reg>Servants</reg></choice></w>
+<c> </c>
+<w>of</w>
+<c> </c>
+<w><choice><orig>knight<abbr type="brevigraph" subtype="brev-es">es</abbr></orig><reg>knights</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<w><choice><orig>Serv<abbr type="macron">a<ex>n</ex>t</abbr><abbr type="brevigraph" subtype="brev-es">es</abbr></orig><reg>Servants</reg></choice></w>
+<c> </c>
+<w>of</w>
+<c> </c>
+<w><choice><orig>Lord<abbr type="brevigraph" subtype="brev-es">es</abbr></orig><reg>Lords</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<w><choice><orig>Serv<abbr type="macron">a<ex>n</ex>t</abbr><abbr type="brevigraph" subtype="brev-es">es</abbr></orig><reg>Servants</reg></choice></w>
+<c> </c>
+<w>to</w>
+<c> </c>
+<w>the</w>
+<c> </c>
+<w><choice><orig>deffunct</orig><reg>defunct</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<w>In</w>
+<c> </c>
+<w><choice><orig>gownes</orig><reg>gowns</reg></choice></w>
+<c> </c>
+<w>or</w>
+<c> </c>
+<w>otherwise</w>
+<c> </c>
+<w>in</w>
+<c> </c>
+<item>
+<w><choice><orig><normalised orig="blackes" auto="false">blacks</normalised><list>Gent<ex>ilmen</ex></orig><reg>Gentlemen</reg></choice></w>
+<c> </c>
+<w><choice><orig>serv<abbr type="macron">a<ex>n</ex>t</abbr><abbr type="brevigraph" subtype="brev-es">es</abbr></orig><reg>servants</reg></choice></w>
+<c> </c>
+<w>to</w>
+<c> </c>
+<w>the</w>
+<c> </c>
+<item>
+<w><choice><orig><normalised orig="deffunct" auto="false">defunct</normalised>.Esquires.Knight<abbr type="brevigraph" subtype="brev-es">es</abbr></list></orig><reg>Knights</reg></choice></w>
+</item>
+<lb/>
+<w>The</w>
+<c> </c>
+<w>preacher</w>
+<pc>.</pc>
+<lb/>
+<figure><desc>Drawing of a pennon</desc></figure>
+<w>The</w>
+<c> </c>
+<w>pennon</w>
+<pc>.</pc>
+<lb/>
+<w><choice><orig>Helme</orig><reg>Helm</reg></choice></w>
+<c> </c>
+<w>&amp;</w>
+<c> </c>
+<w><choice><orig>Creaste</orig><reg>Crest</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<w><choice><orig>Sworde</orig><reg>Sword</reg></choice></w>
+<c> </c>
+<w>&amp;</w>
+<c> </c>
+<w>Targ</w>
+<pc>.</pc>
+<lb/>
+<w><choice><orig>Coate</orig><reg>Coat</reg></choice></w>
+<c> </c>
+<w>of</w>
+<c> </c>
+<w><choice><orig>Armes</orig><reg>Arms</reg></choice></w>
+<lb/>
+<figure><desc>Drawing of the rails around the coffin with labels showing positions of Assistants and Chief Mourner</desc></figure>
+<lb/>
+<figure><desc>Drawing of a coffin</desc></figure>
+<lb/>
+<w><choice><orig>Chiefe</orig><reg>Chief</reg></choice></w>
+<c> </c>
+<w>Mourner</w>
+<pc>.</pc>
+<lb/>
+<w>4</w>
+<c> </c>
+<w><choice><orig>Assisst<abbr type="macron">a<ex>n</ex>t</abbr><abbr type="brevigraph" subtype="brev-es">es</abbr></orig><reg>Assistants</reg></choice></w>
+<c> </c>
+<w><choice><orig>Knight<abbr type="brevigraph" subtype="brev-es">es</abbr></orig><reg>Knights</reg></choice></w>
+<lb/>
+<w><choice><orig>knight<abbr type="brevigraph" subtype="brev-es">es</abbr></orig><reg>knights</reg></choice></w>
+<c> </c>
+<w>&amp;</w>
+<c> </c>
+<w><choice><orig>Lord<abbr type="brevigraph" subtype="brev-es">es</abbr></orig><reg>Lords</reg></choice></w>
+<c> </c>
+<w>on</w>
+<c> </c>
+<w>horse</w>
+<lb/>
+<w><choice><orig>yf</orig><reg>if</reg></choice></w>
+<c> </c>
+<w>there</w>
+<c> </c>
+<w>be</w>
+<c> </c>
+<w><choice><orig>anye</orig><reg>any</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<w>2</w>
+<pc>.</pc>
+<c> </c>
+<w><choice><orig>yeom<abbr type="macron">e<ex>n</ex></abbr></orig><reg>yeomen</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<w><choice><orig>Gentillwo<abbr type="macron">me<ex>n</ex></abbr></orig><reg>Gentlewomen</reg></choice></w>
+<c> </c>
+<w>in</w>
+<c> </c>
+<w><choice><orig>black<abbr type="brevigraph" subtype="brev-es">es</abbr></orig><reg>blacks</reg></choice></w>
+<lb/>
+<w><choice><orig>Yeom<abbr type="macron">e<ex>n</ex></abbr></orig><reg>Yeomen</reg></choice></w>
+<c> </c>
+<w>in</w>
+<c> </c>
+<w><choice><orig>Coat<abbr type="brevigraph" subtype="brev-es">es</abbr></orig><reg>Coats</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<w>The</w>
+<c> </c>
+<w><choice><orig>g<abbr type="macron">e<ex>n</ex>t</abbr>ilwo<abbr type="macron">me<ex>n</ex></abbr></orig><reg>gentlewomen</reg></choice></w>
+<c> </c>
+<w><choice><orig>w<abbr type="superscription"><ex>i</ex>th</abbr>out</orig><reg>without</reg></choice></w>
+<c> </c>
+<w><choice><orig>black<abbr type="brevigraph" subtype="brev-es">es</abbr></orig><reg>blacks</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<w>The</w>
+<c> </c>
+<w><choice><orig>parrishe</orig><reg>parish</reg></choice></w>
+<c> </c>
+<w>&amp;</w>
+<c> </c>
+<w>others./</w>
+<c> </c>
+<w><choice><orig><metamark>flourish</metamark></orig><reg>flourish</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<w><choice><orig><metamark>scribble</metamark></orig><reg>scribble</reg></choice></w>
+<lb/>
+<w>The</w>
+<c> </c>
+<w><choice><orig>funerall</orig><reg>funeral</reg></choice></w>
+<pc>.</pc>
+<c> </c>
+<w>of</w>
+<c> </c>
+<w>an</w>
+<c> </c>
+<w>Esquire</w>
+<c> </c>
+<w>in</w>
+<c> </c>
+<w>all</w>
+<c> </c>
+<w><choice><orig>poynt<abbr type="brevigraph" subtype="brev-es">es</abbr></orig><reg>points</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<w>as</w>
+<c> </c>
+<w>a</w>
+<c> </c>
+<w><choice><orig>knight<abbr type="brevigraph" subtype="brev-es">es</abbr></orig><reg>knight's</reg></choice></w>
+<c> </c>
+<w><choice><orig>funerall</orig><reg>funeral</reg></choice></w>
+<c> </c>
+<w>except</w>
+<c> </c>
+<w>the</w>
+<lb/>
+<w><choice><orig>Dowble</orig><reg>Double</reg></choice></w>
+<c> </c>
+<w><choice><orig>Rayle</orig><reg>Rail</reg></choice></w>
+<pc>;</pc>
+<c> </c>
+<w><choice><orig><hand>the</orig><reg>the</reg></choice></w>
+<c> </c>
+<w><choice><orig>hach<abbr type="macron">me<ex>n</ex>t</abbr><abbr type="brevigraph" subtype="brev-es">es</abbr></orig><reg>hatchments</reg></choice></w>
+<c> </c>
+<w>&amp;</w>
+<c> </c>
+<w><choice><orig>Assist<abbr type="macron">a<ex>n</ex>t</abbr><abbr type="brevigraph" subtype="brev-es">es</abbr></orig><reg>Assistants</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<w>He</w>
+<c> </c>
+<w>is</w>
+<c> </c>
+<w>to</w>
+<c> </c>
+<w>have</w>
+<c> </c>
+<w>a</w>
+<c> </c>
+<w><choice><orig>Pen<abbr type="macron">o<ex>n</ex></abbr></orig><reg>Penon</reg></choice></w>
+<c> </c>
+<w>of</w>
+<c> </c>
+<w>his</w>
+<c> </c>
+<w><choice><orig>Armes</orig><reg>Arms</reg></choice></w>
+<c> </c>
+<w>}</w>
+<c> </c>
+<w>Bro</w>
+<pc>:</pc>
+<lb/>
+<w>An</w>
+<c> </c>
+<w><choice><orig>helme</orig><reg>helm</reg></choice></w>
+<pc>,</pc>
+<c> </c>
+<w>and</w>
+<c> </c>
+<w><choice><orig>Creaste</orig><reg>Crest</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<w>A</w>
+<c> </c>
+<w><choice><orig>Coate</orig><reg>Coat</reg></choice></w>
+<c> </c>
+<w><choice><orig>Armo<abbr type="superscription"><ex>u</ex>r</abbr></orig><reg>Armour</reg></choice></w>
+<lb/>
+<w>An</w>
+<c> </c>
+<w><choice><orig>Esquier</orig><reg>Esquire</reg></choice></w>
+<c> </c>
+<w>to</w>
+<c> </c>
+<w>be</w>
+<c> </c>
+<w><choice><orig>Chiefe</orig><reg>Chief</reg></choice></w>
+<c> </c>
+<w><choice><orig>Mowrn<abbr type="brevigraph" subtype="brev-er">er</abbr></orig><reg>Mourner</reg></choice></w>
+<lb/>
+<w>Two</w>
+<c> </c>
+<w>Esquires</w>
+<c> </c>
+<w>for</w>
+<c> </c>
+<w><choice><orig>Assistant<abbr type="brevigraph" subtype="brev-es">es</abbr></orig><reg>Assistants</reg></choice></w>
+<c> </c>
+<w><choice><orig>./</hand></orig><reg>./</reg></choice></w>
+<pb n="leaf 21 recto"/>
+<cb/>
+<heading>
+<w>The</w>
+<c> </c>
+<w><choice><orig><abbr type="brevigraph" subtype="brev-p">p<ex>ro</ex></abbr>ceedinge</orig><reg>proceeding</reg></choice></w>
+<c> </c>
+<w>at</w>
+<c> </c>
+<w>a</w>
+<c> </c>
+<w><choice><orig>Cytezens</orig><reg>Citizen's</reg></choice></w>
+<lb/>
+<w><choice><orig>ffunerall</orig><reg>Funeral</reg></choice></w>
+</heading>
+<lb/>
+<lb/>
+<w>The</w>
+<c> </c>
+<w><choice><orig>Chil<abbr type="macron">dre<ex>n</ex></abbr></orig><reg>Children</reg></choice></w>
+<c> </c>
+<w>of</w>
+<c> </c>
+<w>the</w>
+<c> </c>
+<w><choice><orig>hospitall</orig><reg>hospital</reg></choice></w>
+<lb/>
+<w>2</w>
+<pc>.</pc>
+<c> </c>
+<w>Conductors</w>
+<pc>.</pc>
+<lb/>
+<w><choice><orig>Poore<abbr type="macron">me<ex>n</ex></abbr></orig><reg><w>Poor</w><c> </c><w>men</w></reg></choice></w>
+<c> </c>
+<w>in</w>
+<c> </c>
+<w><choice><orig>Gownes</orig><reg>Gowns</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<w><choice><orig>Gen<abbr type="macron">t<ex>ilmen</ex></abbr></orig><reg>Gentlemen</reg></choice></w>
+<c> </c>
+<w><choice><orig>serv<abbr type="macron">a<ex>n</ex>t</abbr>es</orig><reg>servants</reg></choice></w>
+<c> </c>
+<w>in</w>
+<c> </c>
+<w><choice><orig>Cloak<abbr type="brevigraph" subtype="brev-es">es</abbr></orig><reg>Cloaks</reg></choice></w>
+<lb/>
+<w><choice><orig>Gentil<abbr type="macron">me<ex>n</ex></abbr></orig><reg>Gentlemen</reg></choice></w>
+<c> </c>
+<w>in</w>
+<c> </c>
+<w><choice><orig>Cloak<abbr type="brevigraph" subtype="brev-es">es</abbr></orig><reg>Cloaks</reg></choice></w>
+<lb/>
+<w><choice><orig>Gentill<abbr type="macron">me<ex>n</ex></abbr></orig><reg>Gentlemen</reg></choice></w>
+<c> </c>
+<w>in</w>
+<c> </c>
+<w><choice><orig>Gownes</orig><reg>Gowns</reg></choice></w>
+<lb/>
+<w><choice><orig>Alder<abbr type="macron">me<ex>n</ex></abbr></orig><reg>Aldermen</reg></choice></w>
+<c> </c>
+<w>in</w>
+<c> </c>
+<w><choice><orig>black<abbr type="brevigraph" subtype="brev-es">es</abbr></orig><reg>blacks</reg></choice></w>
+<lb/>
+<w>The</w>
+<c> </c>
+<w><choice><orig>p<abbr type="superscription">r<ex>e</ex></abbr>cher</orig><reg>preacher</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<figure><desc>Drawing of the pennon</desc></figure>
+<w>His</w>
+<c> </c>
+<w><choice><orig>penn<abbr type="macron">o<ex>n</ex></abbr></orig><reg>pennon</reg></choice></w>
+<lb/>
+<w><choice><orig>Helme</orig><reg>Helm</reg></choice></w>
+<c> </c>
+<w>&amp;</w>
+<c> </c>
+<w><choice><orig>Creast</orig><reg>Crest</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<w><choice><orig>Coate</orig><reg>Coat</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<figure><desc>A penn<abbr type="macron"><choice><orig>o<ex>n</ex></orig><reg>on</reg></choice>
+</abbr> of the March<abbr type="macron"><choice><orig>a<ex>n</ex></orig><reg>an</reg></choice>
+t</abbr><abbr type="brevigraph" subtype="brev-es">es</abbr></desc></figure>
+<figure><desc>Drawing of a coffin</desc></figure>
+<figure><desc>A pen<abbr type="macron"><choice><orig>no<ex>n</ex></orig><reg>non</reg></choice>
+</abbr> of his Company.</desc></figure>
+<lb/>
+<w><choice><orig>Chiefe</orig><reg>Chief</reg></choice></w>
+<c> </c>
+<w><choice><orig>Mourn<ex>er</ex></orig><reg>Mourner</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<w>2</w>
+<pc>.</pc>
+<c> </c>
+<w><choice><orig>Assist<abbr type="macron">a<ex>n</ex>t</abbr><abbr type="brevigraph" subtype="brev-es">es</abbr></orig><reg>Assistants</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<w><choice><orig>Alder<abbr type="macron">me<ex>n</ex></abbr></orig><reg>Aldermen</reg></choice></w>
+<c> </c>
+<w>not</w>
+<c> </c>
+<w>in</w>
+<c> </c>
+<w><choice><orig>black<abbr type="brevigraph" subtype="brev-es">es</abbr></orig><reg>blacks</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<w><choice><orig>Gentilwo<abbr type="macron">me<ex>n</ex></abbr></orig><reg>Gentlewomen</reg></choice></w>
+<c> </c>
+<w>in</w>
+<c> </c>
+<w><choice><orig>black<abbr type="brevigraph" subtype="brev-es">es</abbr></orig><reg>blacks</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<w>The</w>
+<c> </c>
+<w><choice><orig>Lyu<abbr type="brevigraph" subtype="brev-er">er</abbr>ey</orig><reg>Livery</reg></choice></w>
+<c> </c>
+<w>of</w>
+<c> </c>
+<w>his</w>
+<c> </c>
+<w>Company</w>
+<pc>.</pc>
+<lb/>
+<w>Masters</w>
+<c> </c>
+<w>of</w>
+<c> </c>
+<w>the</w>
+<c> </c>
+<w><choice><orig>hospitall</orig><reg>hospital</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<w>All</w>
+<c> </c>
+<w>other</w>
+<c> </c>
+<w><choice><orig>gent<ex>illmen</ex></orig><reg>gentlemen</reg></choice></w>
+<c> </c>
+<w>not</w>
+<c> </c>
+<w>in</w>
+<c> </c>
+<w><choice><orig>blacke</orig><reg>black</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<w>The</w>
+<c> </c>
+<w><choice><orig>parrishe</orig><reg>parish</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<w><choice><orig>.<metamark>flourish</metamark></orig><reg>.flourish</reg></choice></w>
+<pc>.</pc>
+<lb/>
+<figure><desc>Drawing of the rails around the coffin with labels showing positions of Assistants and Chief Mourner</desc></figure>
+<cb/>
+<lb/>
+<w><choice><orig>March<abbr type="macron">a<ex>n</ex>t</abbr></orig><reg>Merchant</reg></choice></w>
+<c> </c>
+<w><choice><orig>V<abbr type="macron">e<ex>n</ex>t</abbr>erers</orig><reg>Venturers</reg></choice></w>
+<w><choice><orig><achievement rend="trick" represents="Company of Merchant Adventurers of London"><arms>Barry</orig><reg>Barry</reg></choice></w>
+<c> </c>
+<w>nebuly</w>
+<c> </c>
+<w><choice><orig><ex>Argent</orig><reg>Argent</reg></choice></w>
+<c> </c>
+<w>and</w>
+<c> </c>
+<w><choice><orig>Azure</ex></orig><reg>Azure</reg></choice></w>
+<pc>,</pc>
+<c> </c>
+<w>a</w>
+<c> </c>
+<w>chief</w>
+<c> </c>
+<w>quarterly</w>
+<c> </c>
+<w><choice><orig><ex>Gules</orig><reg>Gules</reg></choice></w>
+<c> </c>
+<w>and</w>
+<c> </c>
+<w><choice><orig>Or</ex></orig><reg>Or</reg></choice></w>
+<c> </c>
+<w>in</w>
+<c> </c>
+<w>the</w>
+<c> </c>
+<w>first</w>
+<c> </c>
+<w>and</w>
+<c> </c>
+<w>fourth</w>
+<c> </c>
+<w>quarters</w>
+<c> </c>
+<w>a</w>
+<c> </c>
+<w>lion</w>
+<c> </c>
+<w>passant</w>
+<c> </c>
+<w>guardant</w>
+<c> </c>
+<w><choice><orig><ex>Or</ex></orig><reg>Or</reg></choice></w>
+<c> </c>
+<w>in</w>
+<c> </c>
+<w>the</w>
+<c> </c>
+<w>second</w>
+<c> </c>
+<w>and</w>
+<c> </c>
+<w>third</w>
+<c> </c>
+<w>two</w>
+<c> </c>
+<w>roses</w>
+<c> </c>
+<w><choice><orig><ex>Gules</ex>.</arms><supporter pos="both">A</orig><reg>Gules.A</reg></choice></w>
+<c> </c>
+<w>pegagus</w>
+<c> </c>
+<w><choice><orig><ex>Argent</ex></orig><reg>Argent</reg></choice></w>
+<c> </c>
+<w>wings</w>
+<c> </c>
+<w>elevated</w>
+<c> </c>
+<w>and</w>
+<c> </c>
+<w>charged</w>
+<c> </c>
+<w>with</w>
+<c> </c>
+<w>two</w>
+<c> </c>
+<w>roses</w>
+<c> </c>
+<w><choice><orig><ex>Gules</ex></supporter><motto pos="below">God</orig><reg>GulesGod</reg></choice></w>
+<c> </c>
+<w>Be</w>
+<c> </c>
+<w>our</w>
+<c> </c>
+<w><choice><orig>friend</motto></achievement></orig><reg>friend</reg></choice></w>
+<lb/>
+<w><choice><orig>Marchant</orig><reg>Merchant</reg></choice></w>
+<c> </c>
+<w>of</w>
+<c> </c>
+<w><choice><orig>Moscovie</orig><reg>Muscovy</reg></choice></w>
+<w><choice><orig><achievement rend="trick" represents="Muscovy Company"><arms>Barry</orig><reg>Barry</reg></choice></w>
+<c> </c>
+<w>of</w>
+<c> </c>
+<w>six</w>
+<c> </c>
+<w><choice><orig><ex>Argent</orig><reg>Argent</reg></choice></w>
+<c> </c>
+<w>and</w>
+<c> </c>
+<w><choice><orig>Azure</ex></orig><reg>Azure</reg></choice></w>
+<c> </c>
+<w>over</w>
+<c> </c>
+<w>all</w>
+<c> </c>
+<w>a</w>
+<c> </c>
+<w>ship</w>
+<c> </c>
+<w>of</w>
+<c> </c>
+<w>three</w>
+<c> </c>
+<w>masts</w>
+<c> </c>
+<w>in</w>
+<c> </c>
+<w>full</w>
+<c> </c>
+<w>sail</w>
+<c> </c>
+<w>towards</w>
+<c> </c>
+<w>sinister</w>
+<c> </c>
+<w>proper</w>
+<c> </c>
+<w>all</w>
+<c> </c>
+<w>between</w>
+<c> </c>
+<w>three</w>
+<c> </c>
+<w>bezants</w>
+<pc>,</pc>
+<c> </c>
+<w>a</w>
+<c> </c>
+<w>chief</w>
+<c> </c>
+<w><choice><orig><ex>Or</ex></orig><reg>Or</reg></choice></w>
+<c> </c>
+<w>on</w>
+<c> </c>
+<w>a</w>
+<c> </c>
+<w>pale</w>
+<c> </c>
+<w>between</w>
+<c> </c>
+<w>two</w>
+<c> </c>
+<w>roses</w>
+<c> </c>
+<w><choice><orig><ex>Gules</ex></orig><reg>Gules</reg></choice></w>
+<c> </c>
+<w>a</w>
+<c> </c>
+<w>lion</w>
+<c> </c>
+<w>passant</w>
+<c> </c>
+<w>guardant</w>
+<c> </c>
+<w><choice><orig><ex>Gules</ex>.</arms><supporter pos="both">A</orig><reg>Gules.A</reg></choice></w>
+<c> </c>
+<w>pegagus</w>
+<c> </c>
+<w><choice><orig><ex>Argent</ex></orig><reg>Argent</reg></choice></w>
+<c> </c>
+<w>wings</w>
+<c> </c>
+<w>elevated</w>
+<c> </c>
+<w>and</w>
+<c> </c>
+<w>charged</w>
+<c> </c>
+<w>with</w>
+<c> </c>
+<w>two</w>
+<c> </c>
+<w>roses</w>
+<c> </c>
+<w><choice><orig><ex>Gules</ex></supporter><motto pos="below"/></achievement></orig><reg>Gules</reg></choice></w>
+<lb/>
+<w><choice><orig>March<abbr type="macron">a<ex>n</ex>t</abbr>e</orig><reg>Merchant</reg></choice></w>
+<c> </c>
+<w>of</w>
+<c> </c>
+<w><choice><orig><g ref="#thorn">th</g><abbr type="superscription">e</abbr></orig><reg>the</reg></choice></w>
+<c> </c>
+<w>Staple</w>
+<w><choice><orig><achievement rend="trick" represents="Company of Merchants of the Staple of England"><arms>Barry</orig><reg>Barry</reg></choice></w>
+<c> </c>
+<w>nebuly</w>
+<c> </c>
+<w>of</w>
+<c> </c>
+<w>six</w>
+<c> </c>
+<w>Argent</w>
+<c> </c>
+<w>and</w>
+<c> </c>
+<w>Azure</w>
+<pc>,</pc>
+<c> </c>
+<w>on</w>
+<c> </c>
+<w>a</w>
+<c> </c>
+<w>chief</w>
+<c> </c>
+<w>Gules</w>
+<c> </c>
+<w>a</w>
+<c> </c>
+<w>lion</w>
+<c> </c>
+<w>passant</w>
+<c> </c>
+<w>guardant</w>
+<c> </c>
+<w><choice><orig>Or</arms><motto pos="below"/></achievement></orig><reg>Or</reg></choice></w>
+<w><choice><orig><achievement rend="trick" represents="Spanish Company"><arms>Azure</orig><reg>Azure</reg></choice></w>
+<c> </c>
+<w>on</w>
+<c> </c>
+<w>a</w>
+<c> </c>
+<w>sea</w>
+<c> </c>
+<w>proper</w>
+<c> </c>
+<w>a</w>
+<c> </c>
+<w>ship</w>
+<c> </c>
+<w>of</w>
+<c> </c>
+<w>three</w>
+<c> </c>
+<w>masts</w>
+<c> </c>
+<w>in</w>
+<c> </c>
+<w>full</w>
+<c> </c>
+<w>sail</w>
+<c> </c>
+<w><choice><orig><ex>Or</ex></orig><reg>Or</reg></choice></w>
+<c> </c>
+<w>the</w>
+<c> </c>
+<w>sails</w>
+<c> </c>
+<w>and</w>
+<c> </c>
+<w>rigging</w>
+<c> </c>
+<w><choice><orig><ex>Argent</ex></orig><reg>Argent</reg></choice></w>
+<c> </c>
+<w>on</w>
+<c> </c>
+<w>each</w>
+<c> </c>
+<w>a</w>
+<c> </c>
+<w>cross</w>
+<c> </c>
+<w><choice><orig><ex>Gules</ex></orig><reg>Gules</reg></choice></w>
+<pc>,</pc>
+<c> </c>
+<w>between</w>
+<c> </c>
+<w>in</w>
+<c> </c>
+<w>chief</w>
+<c> </c>
+<w>a</w>
+<c> </c>
+<w>sun</w>
+<c> </c>
+<w>in</w>
+<c> </c>
+<w>splendour</w>
+<c> </c>
+<w><choice><orig><ex>Or</ex></orig><reg>Or</reg></choice></w>
+<c> </c>
+<w>and</w>
+<c> </c>
+<w>an</w>
+<c> </c>
+<w>estoile</w>
+<c> </c>
+<w><choice><orig><ex>Argent</ex></orig><reg>Argent</reg></choice></w>
+<pc>,</pc>
+<c> </c>
+<w>a</w>
+<c> </c>
+<w>chief</w>
+<c> </c>
+<w><choice><orig>A<ex>rgent</ex></orig><reg>Argent</reg></choice></w>
+<c> </c>
+<w>on</w>
+<c> </c>
+<w>a</w>
+<c> </c>
+<w>cross</w>
+<c> </c>
+<w><choice><orig>G<ex>ules</ex></orig><reg>Gules</reg></choice></w>
+<c> </c>
+<w>lion</w>
+<c> </c>
+<w>passant</w>
+<c> </c>
+<w>guardant</w>
+<c> </c>
+<w><choice><orig><ex>Or</ex></orig><reg>Or</reg></choice></w>
+<c> </c>
+<w><choice><orig></arms></achievement></orig><reg></reg></choice></w>
+</ab>
+</body>
+</text>
+</TEI>

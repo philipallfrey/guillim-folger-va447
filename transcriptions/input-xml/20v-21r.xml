@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <calendarDesc>
+      <calendar xml:id="julianMar">
+        <p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p>
+      </calendar>
+      <calendar xml:id="annoMundi3962">
+        <p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p>
+      </calendar>
+      <calendar xml:id="beforeBritain">
+        <p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p>
+      </calendar>
+    </calendarDesc>
+  </teiHeader>
+  <sourceDoc corresp="Va447">
+    <surface xml:id="151485" n="20v-21r">
+      <media url="https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229366~224963/full/!1024,1024/0/default.jpg" mimeType="image/jpeg"/>
+      <zone resp="#Vet-PhilipAllfrey">
+        <pb n="leaf 20 verso" />
+        <lb/><pb>20v</pb>
+        <lb/><heading>The <brev-p>p<ex>ro</ex></brev-p>ceedinge at a knight<brev-es>es</brev-es>
+        <lb/>ffunerall.</heading>
+        <lb/>2. Conductors.
+        <lb/>poorm<macron>e<ex>n</ex></macron> in gownes .2. &amp; .2.
+        <lb/>Yeom<macron>e<ex>n</ex></macron> in Cloak<brev-es>es</brev-es>.
+        <lb/><graphic>Drawing of the standard</graphic> The Standarde.
+        <lb/>Servant<brev-es>es</brev-es> of gentilm<macron>e<ex>n</ex></macron>
+        <lb/>Serv<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es> of knight<brev-es>es</brev-es>.
+        <lb/>Serv<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es> of Lord<brev-es>es</brev-es>.
+        <lb/>Serv<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es> to the deffunct.
+        <lb/>In gownes or otherwise in blackes<list><item>Gent<ex>ilmen</ex> serv<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es> to the deffunct.</item>
+          <item>Esquires.</item>
+          <item>Knight<brev-es>es</brev-es></item>
+        </list>
+        <lb/>The preacher.
+        <lb/><graphic>Drawing of a pennon</graphic> The pennon.
+        <lb/>Helme &amp; Creaste.
+        <lb/>Sworde &amp; Targ.
+        <lb/>Coate of Armes
+        <lb/><graphic>Drawing of the rails around the coffin with labels showing positions of Assistants and Chief Mourner</graphic>
+        <lb/><graphic>Drawing of a coffin</graphic>
+        <lb/>Chiefe Mourner.
+        <lb/>4 Assisst<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es> Knight<brev-es>es</brev-es>
+        <lb/>knight<brev-es>es</brev-es> &amp; Lord<brev-es>es</brev-es> on horse
+        <lb/>yf there be anye.
+        <lb/>2. yeom<macron>e<ex>n</ex></macron>.
+        <lb/>Gentillwo<macron>me<ex>n</ex></macron> in black<brev-es>es</brev-es>
+        <lb/>Yeom<macron>e<ex>n</ex></macron> in Coat<brev-es>es</brev-es>.
+        <lb/>The g<macron>e<ex>n</ex>t</macron>ilwo<macron>me<ex>n</ex></macron> w<ex>i</ex><sl>th</sl>out black<brev-es>es</brev-es>.
+        <lb/>The parrishe &amp; others./ <metamark>flourish</metamark>.
+        <lb/><metamark>scribble</metamark>
+        <lb/>The funerall. of an Esquire in all poynt<brev-es>es</brev-es>.
+        <lb/>as a knight<brev-es>es</brev-es> funerall except the
+        <lb/>Dowble Rayle; <hand>the hach<macron>me<ex>n</ex>t</macron><brev-es>es</brev-es> &amp; Assist<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es>.
+        <lb/>He is to have a Pen<macron>o<ex>n</ex></macron> of his Armes } Bro:
+        <lb/>An helme, and Creaste.
+        <lb/>A Coate Armo<ex>u</ex><sl>r</sl>
+        <lb/>An Esquier to be Chiefe Mowrn<brev-er>er</brev-er>
+        <lb/>Two Esquires for Assistant<brev-es>es</brev-es> ./</hand>
+        <pb n="leaf 21 recto" />
+        <cb />
+        <heading>The <brev-p>p<ex>ro</ex></brev-p>ceedinge at a Cytezens
+        <lb/>ffunerall</heading>
+        <lb/>
+        <lb/>The Chil<macron>dre<ex>n</ex></macron> of the hospitall
+        <lb/>2. Conductors.
+        <lb/>Poore<macron>me<ex>n</ex></macron> in Gownes.
+        <lb/>Gen<macron>t<ex>ilmen</ex></macron> serv<macron>a<ex>n</ex>t</macron>es in Cloak<brev-es>es</brev-es>
+        <lb/>Gentil<macron>me<ex>n</ex></macron> in Cloak<brev-es>es</brev-es>
+        <lb/>Gentill<macron>me<ex>n</ex></macron> in Gownes
+        <lb/>Alder<macron>me<ex>n</ex></macron> in black<brev-es>es</brev-es>
+        <lb/>The p<sl>r</sl><ex>e</ex>cher.
+        <lb/><graphic>Drawing of the pennon</graphic> His penn<macron>o<ex>n</ex></macron>
+        <lb/>Helme &amp; Creast.
+        <lb/>Coate.
+        <lb/><graphic>A penn<macron>o<ex>n</ex></macron> of the March<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es></graphic> <graphic>Drawing of a coffin</graphic> <graphic>A pen<macron>no<ex>n</ex></macron> of his Company.</graphic>
+        <lb/>Chiefe Mourn<ex>er</ex>.
+        <lb/>2. Assist<macron>a<ex>n</ex>t</macron><brev-es>es</brev-es>.
+        <lb/>Alder<macron>me<ex>n</ex></macron> not in black<brev-es>es</brev-es>.
+        <lb/>Gentilwo<macron>me<ex>n</ex></macron> in black<brev-es>es</brev-es>.
+        <lb/>The Lyu<brev-er>er</brev-er>ey of his Company.
+        <lb/>Masters of the hospitall.
+        <lb/>All other gent<ex>illmen</ex> not in blacke.
+        <lb/>The parrishe.
+        <lb/>.<metamark>flourish</metamark>.
+        <lb/><graphic>Drawing of the rails around the coffin with labels showing positions of Assistants and Chief Mourner</graphic>
+        <cb/>
+        <lb/>March<macron>a<ex>n</ex>t</macron> V<macron>e<ex>n</ex>t</macron>erers
+        <achievement rend="trick" represents="Company of Merchant Adventurers of London">
+         <arms>Barry nebuly <ex>Argent and Azure</ex>, a chief quarterly <ex>Gules and Or</ex> in the first and fourth quarters a lion passant guardant <ex>Or</ex> in the second and third two roses <ex>Gules</ex>.</arms>
+         <supporter pos="both">A pegagus <ex>Argent</ex> wings elevated and charged with two roses <ex>Gules</ex></supporter>
+         <motto pos="below">God Be our friend</motto>
+        </achievement>
+        <lb/>Marchant of Moscovie
+        <achievement rend="trick" represents="Muscovy Company">
+         <arms>Barry of six <ex>Argent and Azure</ex> over all a ship of three masts in full sail towards sinister proper all between three bezants, a chief <ex>Or</ex> on a pale between two roses <ex>Gules</ex> a lion passant guardant <ex>Gules</ex>.</arms>
+         <supporter pos="both">A pegagus <ex>Argent</ex> wings elevated and charged with two roses <ex>Gules</ex></supporter>
+         <motto pos="below"></motto>
+        </achievement>
+        <lb/>March<macron>a<ex>n</ex>t</macron>e of <brev-y>th</brev-y><sl>e</sl> Staple
+        <achievement rend="trick" represents="Company of Merchants of the Staple of England">
+         <arms>Barry nebuly of six Argent and Azure, on a chief Gules a lion passant guardant Or</arms>
+         <motto pos="below"></motto>
+        </achievement>
+        <achievement rend="trick" represents="Spanish Company">
+         <arms>Azure on a sea proper a ship of three masts in full sail <ex>Or</ex> the sails and rigging <ex>Argent</ex> on each a cross <ex>Gules</ex>, between in chief a sun in splendour <ex>Or</ex> and an estoile <ex>Argent</ex>, a chief A<ex>rgent</ex> on a cross G<ex>ules</ex> lion passant guardant <ex>Or</ex> </arms>
+        </achievement>
+      </zone>
+      </surface>
+      </sourceDoc>
+      <text>
+      <body>
+        <p/>
+      </body>
+      </text>
+      </TEI>

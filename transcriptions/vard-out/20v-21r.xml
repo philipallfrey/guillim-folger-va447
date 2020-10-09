@@ -1,0 +1,208 @@
+<TEI_xmlns=''http://www.tei-c.org/ns/1.0''>
+<teiHeader>
+<calendarDesc>
+<calendar_xml:id=''julianMar''>
+<p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p>
+</calendar>
+<calendar_xml:id=''annoMundi3962''>
+<p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p>
+</calendar>
+<calendar_xml:id=''beforeBritain''>
+<p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p>
+</calendar>
+</calendarDesc>
+</teiHeader>
+<sourceDoc_corresp=''Va447''>
+<surface_xml:id=''151485''_n=''20v-21r''>
+<media_url=''https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229366~224963/full/!1024,1024/0/default.jpg''_mimeType=''image/jpeg''/>
+</surface>
+</sourceDoc>
+<text>
+<body>
+<p/>
+<ab>
+<pb_n=''20v-21r''/>
+<pb_n=''leaf_20_verso''/>
+<lb/>
+<pb>
+20v</pb>
+<lb/>
+<heading>The <abbr_type=''brevigraph''_subtype=''brev-p''><join original="p&lt;ex&gt;ro&lt;/ex&gt;&lt;/abbr&gt;ceedinge"><normalised orig="proceedinge" auto="false">proceeding</join></normalised> at a <join original="knight&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="knightes" auto="false">knight's</join></normalised></abbr>
+<lb/>
+<normalised orig="ffunerall" auto="false">Funeral</normalised>.</heading>
+<lb/>
+2. Conductors.
+<lb/>
+<join original="poorm&lt;abbr_type=''macron''&gt;e&lt;ex&gt;n"><normalised orig="poormen" auto="false">poor men</join></normalised></ex></abbr> in <normalised orig="gownes" auto="false">gowns</normalised> .2. &amp; .2.
+<lb/>
+Yeom<abbr_type=''macron''>e<ex>n</ex></abbr> in <join original="Cloak&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Cloakes" auto="false">Cloaks</join></normalised></abbr>.
+<lb/>
+<figure>
+<desc>
+Drawing of the standard
+</desc>
+</figure>
+ The <normalised orig="Standarde" auto="false">Standard</normalised>.
+<lb/>
+<join original="Servant&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Servantes" auto="false">Servants</join></normalised></abbr> of <join original="gentilm&lt;abbr_type=''macron''&gt;e&lt;ex&gt;n"><normalised orig="gentilmen" auto="false">gentlemen</join></normalised></ex></abbr>
+<lb/>
+<join original="Serv&lt;abbr_type=''macron''&gt;a&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Servantes" auto="false">Servants</join></normalised></abbr> of <join original="knight&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="knightes" auto="false">knights</join></normalised></abbr>.
+<lb/>
+<join original="Serv&lt;abbr_type=''macron''&gt;a&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Servantes" auto="false">Servants</join></normalised></abbr> of <join original="Lord&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Lordes" auto="false">Lords</join></normalised></abbr>.
+<lb/>
+<join original="Serv&lt;abbr_type=''macron''&gt;a&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Servantes" auto="false">Servants</join></normalised></abbr> to the <normalised orig="deffunct" auto="false">defunct</normalised>.
+<lb/>
+In <normalised orig="gownes" auto="false">gowns</normalised> or otherwise in <normalised orig="blackes" auto="false">blacks</normalised><list><item><join original="Gent&lt;ex&gt;ilmen"><normalised orig="Gentilmen" auto="false">Gentlemen</join></normalised></ex> <join original="serv&lt;abbr_type=''macron''&gt;a&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="servantes" auto="false">servants</join></normalised></abbr> to the <normalised orig="deffunct" auto="false">defunct</normalised>.</item><item>Esquires.</item><item><join original="Knight&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Knightes" auto="false">Knights</join></normalised></abbr></item></list>
+<lb/>
+The preacher.
+<lb/>
+<figure>
+<desc>
+Drawing of a pennon
+</desc>
+</figure>
+ The pennon.
+<lb/>
+<normalised orig="Helme" auto="false">Helm</normalised> &amp; <normalised orig="Creaste" auto="false">Crest</normalised>.
+<lb/>
+<normalised orig="Sworde" auto="false">Sword</normalised> &amp; Targ.
+<lb/>
+<normalised orig="Coate" auto="false">Coat</normalised> of <normalised orig="Armes" auto="false">Arms</normalised>
+<lb/>
+<figure>
+<desc>
+Drawing of the rails around the coffin with labels showing positions of Assistants and Chief Mourner
+</desc>
+</figure>
+<lb/>
+<figure>
+<desc>
+Drawing of a coffin
+</desc>
+</figure>
+<lb/>
+<normalised orig="Chiefe" auto="false">Chief</normalised> Mourner.
+<lb/>
+4 <join original="Assisst&lt;abbr_type=''macron''&gt;a&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Assisstantes" auto="false">Assistants</join></normalised></abbr> <join original="Knight&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Knightes" auto="false">Knights</join></normalised></abbr>
+<lb/>
+<join original="knight&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="knightes" auto="false">knights</join></normalised></abbr> &amp; <join original="Lord&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Lordes" auto="false">Lords</join></normalised></abbr> on horse
+<lb/>
+<normalised orig="yf" auto="false">if</normalised> there be <normalised orig="anye" auto="false">any</normalised>.
+<lb/>
+2. yeom<abbr_type=''macron''>e<ex>n</ex></abbr>.
+<lb/>
+<join original="Gentillwo&lt;abbr_type=''macron''&gt;me&lt;ex&gt;n"><normalised orig="Gentillwomen" auto="false">Gentlewomen</join></normalised></ex></abbr> in <join original="black&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="blackes" auto="false">blacks</join></normalised></abbr>
+<lb/>
+Yeom<abbr_type=''macron''>e<ex>n</ex></abbr> in <join original="Coat&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Coates" auto="false">Coats</join></normalised></abbr>.
+<lb/>
+The <join original="g&lt;abbr_type=''macron''&gt;e&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;ilwo&lt;abbr_type=''macron''&gt;me&lt;ex&gt;n"><normalised orig="gentilwomen" auto="false">gentlewomen</join></normalised></ex></abbr> w<ex>i</ex><hi_rend=''sl''>th</hi>out <join original="black&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="blackes" auto="false">blacks</join></normalised></abbr>.
+<lb/>
+The <normalised orig="parrishe" auto="false">parish</normalised> &amp; others./ <metamark>flourish</metamark>.
+<lb/>
+<metamark>scribble</metamark>
+<lb/>
+The <normalised orig="funerall" auto="false">funeral</normalised>. of an Esquire in all <join original="poynt&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="poyntes" auto="false">points</join></normalised></abbr>.
+<lb/>
+as a <join original="knight&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="knightes" auto="false">knight's</join></normalised></abbr> <normalised orig="funerall" auto="false">funeral</normalised> except the
+<lb/>
+<normalised orig="Dowble" auto="false">Double</normalised> <normalised orig="Rayle" auto="false">Rail</normalised>; <hand>the <join original="hach&lt;abbr_type=''macron''&gt;me&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="hachmentes" auto="false">hatchments</join></normalised></abbr> &amp; <join original="Assist&lt;abbr_type=''macron''&gt;a&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Assistantes" auto="false">Assistants</join></normalised></abbr>.
+<lb/>
+He is to have a Pen<abbr_type=''macron''>o<ex>n</ex></abbr> of his <normalised orig="Armes" auto="false">Arms</normalised> } Bro:
+<lb/>
+An <normalised orig="helme" auto="false">helm</normalised>, and <normalised orig="Creaste" auto="false">Crest</normalised>.
+<lb/>
+A <normalised orig="Coate" auto="false">Coat</normalised> Armo<ex>u</ex><hi_rend=''sl''>r</hi>
+<lb/>
+An <normalised orig="Esquier" auto="false">Esquire</normalised> to be <normalised orig="Chiefe" auto="false">Chief</normalised> <join original="Mowrn&lt;abbr_type=''brevigraph''_subtype=''brev-er''&gt;er"><normalised orig="Mowrner" auto="false">Mourner</join></normalised></abbr>
+<lb/>
+Two Esquires for <join original="Assistant&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Assistantes" auto="false">Assistants</join></normalised></abbr> ./</hand>
+<pb_n=''leaf_21_recto''/>
+<cb/>
+<heading>The <abbr_type=''brevigraph''_subtype=''brev-p''><join original="p&lt;ex&gt;ro&lt;/ex&gt;&lt;/abbr&gt;ceedinge"><normalised orig="proceedinge" auto="false">proceeding</join></normalised> at a <normalised orig="Cytezens" auto="false">Citizen's</normalised>
+<lb/>
+<normalised orig="ffunerall" auto="false">Funeral</normalised></heading>
+<lb/>
+<lb/>
+The Chil<abbr_type=''macron''>dre<ex>n</ex></abbr> of the <normalised orig="hospitall" auto="false">hospital</normalised>
+<lb/>
+2. Conductors.
+<lb/>
+<join original="Poore&lt;abbr_type=''macron''&gt;me&lt;ex&gt;n"><normalised orig="Pooremen" auto="false">Poor men</join></normalised></ex></abbr> in <normalised orig="Gownes" auto="false">Gowns</normalised>.
+<lb/>
+<join original="Gen&lt;abbr_type=''macron''&gt;t&lt;ex&gt;ilmen"><normalised orig="Gentilmen" auto="false">Gentlemen</join></normalised></ex></abbr> <join original="serv&lt;abbr_type=''macron''&gt;a&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;es"><normalised orig="servantes" auto="false">servants</join></normalised> in <join original="Cloak&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Cloakes" auto="false">Cloaks</join></normalised></abbr>
+<lb/>
+<join original="Gentil&lt;abbr_type=''macron''&gt;me&lt;ex&gt;n"><normalised orig="Gentilmen" auto="false">Gentlemen</join></normalised></ex></abbr> in <join original="Cloak&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Cloakes" auto="false">Cloaks</join></normalised></abbr>
+<lb/>
+<join original="Gentill&lt;abbr_type=''macron''&gt;me&lt;ex&gt;n"><normalised orig="Gentillmen" auto="false">Gentlemen</join></normalised></ex></abbr> in <normalised orig="Gownes" auto="false">Gowns</normalised>
+<lb/>
+Alder<abbr_type=''macron''>me<ex>n</ex></abbr> in <join original="black&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="blackes" auto="false">blacks</join></normalised></abbr>
+<lb/>
+The <join original="p&lt;hi_rend=''sl''&gt;r&lt;/hi&gt;&lt;ex&gt;e&lt;/ex&gt;cher"><normalised orig="precher" auto="false">preacher</join></normalised>.
+<lb/>
+<figure>
+<desc>
+Drawing of the pennon
+</desc>
+</figure>
+ His penn<abbr_type=''macron''>o<ex>n</ex></abbr>
+<lb/>
+<normalised orig="Helme" auto="false">Helm</normalised> &amp; <normalised orig="Creast" auto="false">Crest</normalised>.
+<lb/>
+<normalised orig="Coate" auto="false">Coat</normalised>.
+<lb/>
+<figure>
+<desc>
+A penn<abbr_type=''macron''>o<ex>n</ex></abbr> of the March<abbr_type=''macron''>a<ex>n</ex>t</abbr><abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr>
+</desc>
+</figure>
+
+<figure>
+<desc>
+Drawing of a coffin
+</desc>
+</figure>
+
+<figure>
+<desc>
+A pen<abbr_type=''macron''>no<ex>n</ex></abbr> of his Company.
+</desc>
+</figure>
+<lb/>
+<normalised orig="Chiefe" auto="false">Chief</normalised> Mourn<ex>er</ex>.
+<lb/>
+2. <join original="Assist&lt;abbr_type=''macron''&gt;a&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Assistantes" auto="false">Assistants</join></normalised></abbr>.
+<lb/>
+Alder<abbr_type=''macron''>me<ex>n</ex></abbr> not in <join original="black&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="blackes" auto="false">blacks</join></normalised></abbr>.
+<lb/>
+<join original="Gentilwo&lt;abbr_type=''macron''&gt;me&lt;ex&gt;n"><normalised orig="Gentilwomen" auto="false">Gentlewomen</join></normalised></ex></abbr> in <join original="black&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="blackes" auto="false">blacks</join></normalised></abbr>.
+<lb/>
+The <join original="Lyu&lt;abbr_type=''brevigraph''_subtype=''brev-er''&gt;er&lt;/abbr&gt;ey"><normalised orig="Lyuerey" auto="false">Livery</join></normalised> of his Company.
+<lb/>
+Masters of the <normalised orig="hospitall" auto="false">hospital</normalised>.
+<lb/>
+All other <join original="gent&lt;ex&gt;illmen"><normalised orig="gentillmen" auto="false">gentlemen</join></normalised></ex> not in <normalised orig="blacke" auto="false">black</normalised>.
+<lb/>
+The <normalised orig="parrishe" auto="false">parish</normalised>.
+<lb/>
+.<metamark>flourish</metamark>.
+<lb/>
+<figure>
+<desc>
+Drawing of the rails around the coffin with labels showing positions of Assistants and Chief Mourner
+</desc>
+</figure>
+<cb/>
+<lb/>
+<join original="March&lt;abbr_type=''macron''&gt;a&lt;ex&gt;n&lt;/ex&gt;t"><normalised orig="Marchant" auto="false">Merchant</join></normalised></abbr> <join original="V&lt;abbr_type=''macron''&gt;e&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;erers"><normalised orig="Venterers" auto="false">Venturers</join></normalised>
+<achievement_rend=''trick''_represents=''Company_of_Merchant_Adventurers_of_London''><arms>Barry nebuly <ex>Argent and Azure</ex>, a chief quarterly <ex>Gules and Or</ex> in the first and fourth quarters a lion passant guardant <ex>Or</ex> in the second and third two roses <ex>Gules</ex>.</arms><supporter_pos=''both''>A pegagus <ex>Argent</ex> wings elevated and charged with two roses <ex>Gules</ex></supporter><motto_pos=''below''>God Be our friend</motto></achievement>
+<lb/>
+<normalised orig="Marchant" auto="false">Merchant</normalised> of <normalised orig="Moscovie" auto="false">Muscovy</normalised>
+<achievement_rend=''trick''_represents=''Muscovy_Company''><arms>Barry of six <ex>Argent and Azure</ex> over all a ship of three masts in full sail towards sinister proper all between three bezants, a chief <ex>Or</ex> on a pale between two roses <ex>Gules</ex> a lion passant guardant <ex>Gules</ex>.</arms><supporter_pos=''both''>A pegagus <ex>Argent</ex> wings elevated and charged with two roses <ex>Gules</ex></supporter><motto_pos=''below''/></achievement>
+<lb/>
+<join original="March&lt;abbr_type=''macron''&gt;a&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;e"><normalised orig="Marchante" auto="false">Merchant</join></normalised> of <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> Staple
+<achievement_rend=''trick''_represents=''Company_of_Merchants_of_the_Staple_of_England''><arms>Barry nebuly of six Argent and Azure, on a chief Gules a lion passant guardant Or</arms><motto_pos=''below''/></achievement>
+<achievement_rend=''trick''_represents=''Spanish_Company''><arms>Azure on a sea proper a ship of three masts in full sail <ex>Or</ex> the sails and rigging <ex>Argent</ex> on each a cross <ex>Gules</ex>, between in chief a sun in splendour <ex>Or</ex> and an estoile <ex>Argent</ex>, a chief A<ex>rgent</ex> on a cross G<ex>ules</ex> lion passant guardant <ex>Or</ex> </arms></achievement>
+</ab>
+</body>
+</text>
+</TEI>
