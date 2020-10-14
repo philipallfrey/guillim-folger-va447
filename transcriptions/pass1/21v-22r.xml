@@ -1,0 +1,36 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><calendarDesc><calendar xml:id="julianMar"><p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p></calendar><calendar xml:id="annoMundi3962"><p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p></calendar><calendar xml:id="beforeBritain"><p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p></calendar></calendarDesc></teiHeader><sourceDoc corresp="Va447"><surface xml:id="151487" n="21v-22r"><media url="https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229367~224962/full/!1024,1024/0/default.jpg" mimeType="image/jpeg"/></surface><text><body><p/><ab><pb n="21v-22r"/><pb n="leaf 21 verso"/><lb/><heading>The man<abbr type="brevigraph" subtype="brev-er">er</abbr> of Offeringe</heading><lb/>ffirst the Chiefe Mowrn<abbr type="brevigraph" subtype="brev-er">er</abbr> to offer alone for <g ref="#thorn">th</g><hi rend="sl">e</hi> defunct
+        <lb/>beinge attended on by the Assisstant<abbr type="brevigraph" subtype="brev-es">es</abbr>. The Chiefe
+        <lb/>mowrn<abbr type="brevigraph" subtype="brev-er">er</abbr> to tarry still at the C<abbr type="macron">om<ex>m</ex>vn</abbr>ion Table to receave
+        <lb/>the Hachment<abbr type="brevigraph" subtype="brev-es">es</abbr>. The Assistant<abbr type="brevigraph" subtype="brev-es">es</abbr> to goe backe to the
+        <lb/>Hearse.
+        <lb/>ffirst to be offered the Coate of Armes.
+        <lb/>Then the Sworde.
+        <lb/>The the Targe.
+        <lb/>Then the Helme &amp; Creaste.
+        <lb/>The then Pen<abbr type="macron">o<ex>n</ex></abbr>
+        <lb/>Then the Standarde.
+        <lb/>Then the Chiefe Mowrn<abbr type="brevigraph" subtype="brev-er">er</abbr> to be broought downe &amp; after
+        <lb/>a little pawse to offer for hymselfe.
+        <lb/>Then the .4. Assistant<abbr type="brevigraph" subtype="brev-es">es</abbr> (if he be a knighte
+        <lb/>The Gent<ex>illmen</ex> in Gownes.
+        <lb/>Then Gent<ex>illmen</ex> Cloak<abbr type="brevigraph" subtype="brev-es">es</abbr>
+        <lb/>Then to retowrne backe in <abbr type="brevigraph" subtype="brev-p">p<ex>ro</ex></abbr>ceadinge home in order
+        <lb/>asthey came to the Churche <metamark>flourish</metamark> .Bro:/
+        <lb/>
+        <pb n="leaf 22 recto"/>
+        <lb/><heading>The nobility placed acordinge to theire
+        <lb/><del>Creati<abbr type="macron">o<ex>n</ex></abbr></del> degrees &amp; aft<abbr type="brevigraph" subtype="brev-er">er</abbr> the Auncienty of
+        <lb/>theire Creati<abbr type="macron">o<ex>n</ex>s</abbr> <date calendar="#julianMar" datingMethod="#julianMar" when-custom="1577">.1577.</date>
+        <cb/>
+        <lb/><name>Marquesse of Wynchest<abbr type="brevigraph" subtype="brev-er">er</abbr></name>
+        <lb/>
+        <list rend="numbered"><item n="1"><name><name>E<ex>arle</ex>: of Arondell.</name></name></item><item n="2"><name>E<ex>arle</ex>: of Ox<abbr type="macron">o<ex>n</ex></abbr>.</name></item><item n="3"><name>E<ex>arle</ex>: of - Northumberland</name></item><item n="4"><name>The:E<ex>arle</ex>: of Shrewsbury</name></item><item n="5"><name>Kent.</name></item><item n="6"><name>Derby.</name></item><item n="7"><name>Worcest<abbr type="brevigraph" subtype="brev-er">er</abbr>.</name></item><item n="8"><name>Rutlande.</name></item><item n="9"><name>Comberland.</name></item><item n="10"><name>Sussex.</name></item><item n="11"><name>Huntingd<abbr type="macron">o<ex>n</ex></abbr></name></item><item n="12"><name>Bathe</name></item><item n="13"><name>Warwike.</name></item><item n="14"><name>Sowthampt<abbr type="macron">o<ex>n</ex></abbr></name></item><item n="15"><name><del>Essexe</del>Bedforde.</name></item><item n="16"><name>Pembroke.</name></item><item n="17"><name>Hertford.</name></item><item n="18"><name>Leycest<abbr type="brevigraph" subtype="brev-er">er</abbr></name></item><item n="19"><name>Essex.</name></item><item n="20"><name>Lyncolne. <del>W</del></name></item></list>
+        <lb/>
+        <lb/>Viscount<abbr type="brevigraph" subtype="brev-es">es</abbr><list><item><name>Montague.</name></item><item><name>Byndon.</name></item></list>
+        <lb/>
+        <lb/>Lorde<list rend="numbered"><item n="1"><name>Abergaueny</name></item><item n="2"><name>Audley of heely castle</name></item><item n="3"><name>Souche of haringworth</name></item><item n="4"><name>Willowghby of Eresby</name></item><item n="5"><name>Strange.</name></item><cb/><item n="6"><name>Barkley</name></item><item n="7"><name>Morley.</name></item><item n="8"><name>Dacres of herst<pc force="weak">=</pc>
+        <lb break="no"/>monceaulx ces Aust</name></item><item n="9"><name>Cob<abbr type="macron">ha<ex>m</ex></abbr>.</name></item><item n="10"><name>Stafford.</name></item><item n="11"><name>Grey Wylton</name></item><item n="12"><name>Scroope of Bolt<abbr type="macron">o<ex>n</ex></abbr></name></item><item n="13"><name>dudley of dud<ex>le</ex>y castle</name></item><item n="14"><name>Lomley.</name></item><item n="15"><name>Sturton.</name></item><item n="16"><name>Mountioy.</name></item><item n="17"><name>Ogle.</name></item><item n="18"><name>Darcy of Menell</name></item><item n="19"><name>Mountegle</name></item><item n="20"><name>Sand<abbr type="brevigraph" subtype="brev-es">es</abbr></name></item><item n="21"><name>Vaulx of Harow<abbr type="macron">de<ex>n</ex></abbr></name></item><item n="22"><name>Windsor of Brad<macron>e<ex>n</ex></macron><macron>ha<ex>m</ex></macron></name></item><item n="23"><name>Wentworth</name></item><item n="24"><name>Burghe</name></item><item n="25"><name>Mordant</name><date calendar="#julianMar" datingMethod="#julianMar" notBefore-custom="1532-04-22" notAfter-custom="1533-04-21">.24. H<ex>enrici</ex>:8.</date></item><item n="26"><name>Russell</name><date calendar="#julianMar" datingMethod="#julianMar" notBefore-custom="1538-04-22" notAfter-custom="1539-04-21">:30:H<ex>enrici</ex>:8.</date></item><item n="27"><name>Cromwell.</name></item><item n="28"><name>Evers of Ingleby</name></item><item n="29"><name>Wharton</name></item><item n="30"><name>Riche.</name></item><item n="31"><name>Willowghby. <abbr type="macron"><abbr type="brevigraph" subtype="brev-p">p<ex>ar</ex></abbr>ha<ex>m</ex></abbr></name></item><item n="32"><name>Sheffield.</name></item><item n="33"><name>Paget of Beawdese<ex>rt</ex>
+        <lb/> of Drayton</name></item><item n="34"><name>Darcy of Chiche</name></item><item n="35"><name>Howard of Effingh<abbr type="macron">a<ex>m</ex></abbr></name></item><item n="36"><name>Northe of Carthelege</name></item><item n="37"><name>Chandos.</name></item><item n="38"><name>Huneson.</name></item><item n="39"><name>St: John of Bletsho</name></item></list>
+      </heading>
+      </ab></body></text></sourceDoc>
+</TEI>
