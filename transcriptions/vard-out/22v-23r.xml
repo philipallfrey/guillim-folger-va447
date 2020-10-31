@@ -1,0 +1,69 @@
+<TEI_xmlns=''http://www.tei-c.org/ns/1.0''><teiHeader><calendarDesc><calendar_xml:id=''julianMar''><p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p></calendar><calendar_xml:id=''annoMundi3962''><p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p></calendar><calendar_xml:id=''beforeBritain''><p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p></calendar></calendarDesc></teiHeader><sourceDoc_corresp=''Va447''><surface_xml:id=''151488''_n=''22v-23r''><media_url=''https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229367~224962/full/!1024,1024/0/default.jpg''_mimeType=''image/jpeg''/></surface><text><body><p/><ab>
+<pb_n=''22v-23r''/>
+<pb_n=''leaf_22_verso''/>
+<lb>Lord<list_rend=''numbered''><item_n=''40''>Buckhurst.</item><item_n=''41''><normalised orig="delaware" auto="false">De La Warre</normalised>.</item><item_n=''42''><normalised orig="Burleigh" auto="false">Burghley</normalised>.</item><item_n=''43''>Compton</item><item_n=''44''><normalised orig="Cheney" auto="false">Cheyne</normalised> of <join original="Tuddin&lt;abbr_type=''macron''&gt;gto&lt;ex&gt;n"><normalised orig="Tuddington" auto="false">Toddington</join></normalised></ex></abbr>.</item><item_n=''45''><normalised orig="Norrys" auto="false">Norreys</normalised> of <normalised orig="Rycot" auto="false">Rycote</normalised></item></list> .<metamark>flourish</metamark>./ <metamark>flourish</metamark> .
+<lb/>
+/ /
+<pb_n=''leaf_23_recto''/>
+<lb/>
+<normalised orig="ffirst" auto="false">First</normalised> <join original="Cloak&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Cloakes" auto="false">Cloaks</join></normalised></abbr>.
+<lb/>
+<normalised orig="Gownes" auto="false">Gowns</normalised>.
+<lb/>
+The Preacher.
+<lb/>
+The <normalised orig="Penon" auto="false">Pennon</normalised>.
+<lb/>
+The <normalised orig="Heraulde" auto="false">Herald</normalised>.
+<lb/>
+The <normalised orig="Bodye" auto="false">Body</normalised> 
+<figure>
+<desc>
+Drawing of a coffin around the words The body
+</desc>
+</figure>
+ The body
+<lb/>
+The <normalised orig="Chiefe" auto="false">Chief</normalised> <join original="mowrn&lt;abbr_type=''brevigraph''_subtype=''brev-er''&gt;er"><normalised orig="mowrner" auto="false">mourner</join></normalised></abbr> supported.
+<lb/>
+w<ex>i</ex><hi_rend=''sl''>th</hi> a <join original="gent&lt;abbr_type=''truncation''_subtype=''colon''&gt;&lt;ex&gt;ilman"><normalised orig="gentilman" auto="false">gentleman</join></normalised></ex>:</abbr> Close <normalised orig="Mowrner" auto="false">Mourner</normalised>.
+<lb/>
+<normalised orig="ffowre" auto="false">Four</normalised> <join original="gentilwo&lt;abbr_type=''macron''&gt;me&lt;ex&gt;n"><normalised orig="gentilwomen" auto="false">gentlewomen</join></normalised></ex></abbr> <join original="Assistant&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Assistantes" auto="false">Assistants</join></normalised></abbr>
+<lb/>
+The <normalised orig="Parishe" auto="false">Parish</normalised> &amp; other Company.
+<lb/>
+<heading>The <normalised orig="offeringe" auto="false">offering</normalised>.</heading>
+<lb/>
+The <join original="Mynist&lt;abbr_type=''brevigraph''_subtype=''brev-er''&gt;er"><normalised orig="Mynister" auto="false">Minister</join></normalised></abbr> taketh the <normalised orig="Bason" auto="false">Basin</normalised>
+<lb/>
+The <normalised orig="Chiefe" auto="false">Chief</normalised> <join original="Mowrn&lt;abbr_type=''brevigraph''_subtype=''brev-er''&gt;er"><normalised orig="Mowrner" auto="false">Mourner</join></normalised></abbr> supported w<ex>i</ex><hi_rend=''sl''>th</hi>
+<lb/>
+a <join original="gent&lt;abbr_type=''truncation''_subtype=''colon''&gt;&lt;ex&gt;ilman"><normalised orig="gentilman" auto="false">gentleman</join></normalised></ex>:</abbr> attended w<ex>i</ex><hi_rend=''sl''>th</hi> the <normalised orig="fower" auto="false">four</normalised>
+<lb/>
+<join original="Assistant&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Assistantes" auto="false">Assistants</join></normalised></abbr> offereth for the <normalised orig="defuncte" auto="false">defunct</normalised>
+<lb/>
+a <normalised orig="peece" auto="false">piece</normalised> of <normalised orig="golde" auto="false">gold</normalised> .
+<lb/>
+Th<abbr_type=''macron''>e<ex>n</ex></abbr> to offer for her <normalised orig="selfe" auto="false">self</normalised> supported
+<lb/>
+by the <join original="gent&lt;abbr_type=''macron''&gt;ilma&lt;ex&gt;n"><normalised orig="gentilman" auto="false">gentleman</join></normalised></ex></abbr> <normalised orig="onlye" auto="false">only</normalised>.
+<lb/>
+Then the .4. <join original="gentilwo&lt;abbr_type=''macron''&gt;me&lt;ex&gt;n"><normalised orig="gentilwomen" auto="false">gentlewomen</join></normalised></ex></abbr> <join original="Assistant&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Assistantes" auto="false">Assistants</join></normalised></abbr>
+<lb/>
+to offer all together. <metamark>flourish</metamark>
+<lb/>
+The <join original="gent&lt;abbr_type=''macron''&gt;&lt;ex&gt;ilman"><normalised orig="gentilman" auto="false">gentleman</join></normalised></ex></abbr> w<ex>i</ex><hi_rend=''sl''>th</hi> the Pe<abbr_type=''macron''>n<ex>n</ex></abbr>on.
+<lb/>
+The <join original="gentil&lt;abbr_type=''macron''&gt;ma&lt;ex&gt;n"><normalised orig="gentilman" auto="false">gentleman</join></normalised></ex></abbr> supporter.
+<lb/>
+The <join original="g&lt;abbr_type=''macron''&gt;ent&lt;ex&gt;ilmen"><normalised orig="gentilmen" auto="false">gentlemen</join></normalised></ex></abbr>: <normalised orig="Mowrners" auto="false">Mourners</normalised>
+<lb/>
+The wo<abbr_type=''macron''>me<ex>n</ex></abbr> <normalised orig="Mowrners" auto="false">Mourners</normalised> .<metamark>flourish</metamark> . <metamark>flourish</metamark> ./
+<lb/>
+<metamark>scribble</metamark>
+<lb/>
+<lb/>
+At: Ho
+<lb/>
+</lb></ab></body></text></sourceDoc>
+</TEI>

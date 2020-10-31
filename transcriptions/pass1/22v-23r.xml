@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><calendarDesc><calendar xml:id="julianMar"><p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p></calendar><calendar xml:id="annoMundi3962"><p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p></calendar><calendar xml:id="beforeBritain"><p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p></calendar></calendarDesc></teiHeader><sourceDoc corresp="Va447"><surface xml:id="151488" n="22v-23r"><media url="https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229367~224962/full/!1024,1024/0/default.jpg" mimeType="image/jpeg"/></surface><text><body><p/><ab><pb n="22v-23r"/><pb n="leaf 22 verso"/><lb>Lord<list rend="numbered"><item n="40">Buckhurst.</item><item n="41">delaware.</item><item n="42">Burleigh.</item><item n="43">Compton</item><item n="44">Cheney of Tuddin<abbr type="macron">gto<ex>n</ex></abbr>.</item><item n="45">Norrys of Rycot</item></list> .<metamark>flourish</metamark>./ <metamark>flourish</metamark> .
+        <lb/>/ /
+        <pb n="leaf 23 recto"/>
+        <lb/>ffirst Cloak<abbr type="brevigraph" subtype="brev-es">es</abbr>.
+        <lb/>Gownes.
+        <lb/>The Preacher.
+        <lb/>The Penon.
+        <lb/>The Heraulde.
+        <lb/>The Bodye <figure><desc>Drawing of a coffin around the words The body</desc></figure> The body
+        <lb/>The Chiefe mowrn<abbr type="brevigraph" subtype="brev-er">er</abbr> supported.
+        <lb/>w<ex>i</ex><hi rend="sl">th</hi> a gent<ex>ilman</ex>: Close Mowrner.
+        <lb/>ffowre gentilwo<abbr type="macron">me<ex>n</ex></abbr> Assistant<abbr type="brevigraph" subtype="brev-es">es</abbr>
+        <lb/>The Parishe &amp; other Company.
+        <lb/><heading>The offeringe.</heading>
+        <lb/>The Mynist<abbr type="brevigraph" subtype="brev-er">er</abbr> taketh the Bason
+        <lb/>The Chiefe Mowrn<abbr type="brevigraph" subtype="brev-er">er</abbr> supported w<ex>i</ex><hi rend="sl">th</hi>
+        <lb/>a gent<ex>ilman</ex>: attended w<ex>i</ex><hi rend="sl">th</hi> the fower
+        <lb/>Assistant<abbr type="brevigraph" subtype="brev-es">es</abbr> offereth for the defuncte 
+        <lb/>a peece of golde .
+        <lb/>Th<abbr type="macron">e<ex>n</ex></abbr> to offer for her selfe supported
+        <lb/>by the gent<abbr type="macron">ilma<ex>n</ex></abbr> onlye.
+        <lb/>Then the .4. gentilwo<abbr type="macron">me<ex>n</ex></abbr> Assistant<abbr type="brevigraph" subtype="brev-es">es</abbr>
+        <lb/>to offer all together. <metamark>flourish</metamark>
+        <lb/>The gent<abbr type="macron"><ex>ilman</ex></abbr> w<ex>i</ex><hi rend="sl">th</hi> the Pe<abbr type="macron">n<ex>n</ex></abbr>on.
+        <lb/>The gentil<abbr type="macron">ma<ex>n</ex></abbr> supporter.
+        <lb/>The g<abbr type="macron">ent<ex>ilmen</ex></abbr>: Mowrners
+        <lb/>The wo<abbr type="macron">me<ex>n</ex></abbr> Mowrners .<metamark>flourish</metamark> . <metamark>flourish</metamark> ./
+        <lb/><metamark>scribble</metamark>
+        <lb/>
+        <lb/>At: Ho
+        <lb/>
+      </lb></ab></body></text></sourceDoc>
+</TEI>
+
