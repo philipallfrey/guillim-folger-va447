@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><calendarDesc><calendar xml:id="julianMar"><p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p></calendar><calendar xml:id="annoMundi3962"><p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p></calendar><calendar xml:id="beforeBritain"><p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p></calendar></calendarDesc></teiHeader><sourceDoc corresp="Va447"><surface xml:id="151489" n="23v-24r"><media url="https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229369~224960/full/!1024,1024/0/default.jpg" mimeType="image/jpeg"/></surface><text><body><p/><ab><pb n="23v-24r"/><pb n="leaf 23 verso"/><heading>The <abbr type="brevigraph" subtype="brev-p">p<ex>ro</ex></abbr>portion of the ffun<abbr type="brevigraph" subtype="brev-er">er</abbr>all hearse of
+        <lb/>Edmonde Bridges Lo<ex>rd</ex>: Chandos Knighte of
+        <lb/>the most ho<ex>nora</ex><hi rend="sl">ble</hi> in the Chappell of <g ref="#thorn">th</g><hi rend="sl">e</hi> Castle
+        <lb/>of Sudeleye in Co<abbr type="macron">m<ex>itatu</ex></abbr>: Glowc<ex>estrense</ex> the <gap>..</gap> daye
+        <lb/>of <gap>...</gap> Anno :RR: Elizabethe. <add type="authorial">xlii<hi rend="sup">to</hi></add></heading><lb/><lb/><figure><desc>Drawing of a funeral hearse</desc></figure><pb n="leaf 23 verso"/><heading><lb/><lb/><heading>The Office of a Kinge of Armes
+        <lb/>w<ex>i</ex><hi rend="sl">th</hi> his Authority w<ex>i</ex><hi rend="sl">th</hi>in his <abbr type="brevigraph" subtype="brev-p">p<ex>ro</ex></abbr>vince.</heading><lb/><label place="margin">Notice &amp; keping of Recordes</label> ffirst, as nighe as he can he shall take knowledge and keepe
+        <lb/>Recorde of the Armes, Creast<abbr type="brevigraph" subtype="brev-es">es</abbr>, Cognisanc<abbr type="brevigraph" subtype="brev-es">es</abbr> and Auncieant
+        <lb/>vsed woord<abbr type="brevigraph" subtype="brev-es">es</abbr>: As also of the Lyne Discente or pedegre
+        <lb/>of eu<abbr type="brevigraph" subtype="brev-er">er</abbr>y Gentill<abbr type="macron">ma<ex>n</ex></abbr> w<ex>i</ex><hi rend="sl">th</hi>in his <abbr type="brevigraph" subtype="brev-p">p<ex>ro</ex></abbr>vince of what estate
+        <lb/>or degree soeu<abbr type="brevigraph" subtype="brev-er">er</abbr> he be./
+        <lb/><label place="margin">Notice of foundac<abbr type="macron"><ex>i</ex>on</abbr>s of Churches. &amp;c.</label> <abbr type="macron">It<ex>e</ex>m</abbr> he shall enter into all Churches Chappells Oratories
+        <lb/>Castles howses or Aunci<abbr type="macron">e<ex>n</ex>t</abbr> building<abbr type="brevigraph" subtype="brev-es">es</abbr> to take knowledge
+        <lb/>of theire ffoundacions, &amp; of the noble Estat<abbr type="brevigraph" subtype="brev-es">es</abbr> buried in them
+        <lb/>as also of thiere Armes &amp; Armes of the places theire head
+        <lb/>and their Anci<abbr type="macron">e<ex>n</ex>t</abbr> Records./
+        <lb/><label place="margin">false Armes.</label> <abbr type="macron">It<ex>e</ex>m</abbr> he shall <abbr type="brevigraph" subtype="brev-p">p<ex>ro</ex></abbr>hibite any Gentill<abbr type="macron">ma<ex>n</ex></abbr> to beare the Armes
+        <lb/>of another or suche as be not trewe Armory, &amp; as he ough<supplied reason="edge-of-folio">t</supplied>
+        <lb/>accordinge to the Lawe of Armes .//
+        <lb/><label place="margin">March<abbr type="macron">a<ex>n</ex>t</abbr><abbr type="brevigraph" subtype="brev-es">es</abbr> marke</label> <abbr type="macron">It<ex>e</ex>m</abbr> he shall <abbr type="brevigraph" subtype="brev-p">p<ex>ro</ex></abbr>hibite any March<abbr type="macron">a<ex>n</ex>t</abbr>e notary or other, to
+        <lb/>put theyre names mark<abbr type="brevigraph" subtype="brev-es">es</abbr> or deuises w<ex>i</ex><hi rend="sl">th</hi>in Escocheons
+        <lb/>or Shield<abbr type="brevigraph" subtype="brev-es">es</abbr> w<ex>hi</ex><hi rend="sl">ch</hi> <abbr type="brevigraph" subtype="brev-p">p<ex>er</ex></abbr>tayne to Gentill<abbr type="macron">me<ex>n</ex></abbr> only bearinge Armes
+        <lb/> &amp; to none other ./
+        <lb/><label place="margin">Armes borne w<ex>i</ex><hi rend="sl">th</hi>out authority</label> Itm he shall make diligent searche if any beare Armes
+        <lb/>w<ex>i</ex><hi rend="sl">th</hi>out Authoritye or good righte, &amp; fyndinge suche although
+        <lb/>they be trewe Armorye, he shall <abbr type="brevigraph" subtype="brev-p">p<ex>ro</ex></abbr>hibite them.
+        <lb/><label place="margin">Graunting of Confir<ex>mations</ex>: of Armes. Creast<abbr type="brevigraph" subtype="brev-es">es</abbr> &amp;c</label><abbr type="macron">It<ex>e</ex>m</abbr> thesaide kinge of Armes in his <abbr type="brevigraph" subtype="brev-p">p<ex>ro</ex></abbr>vince hathe fullpower &amp;
+        <lb/>authoritye by the king<abbr type="brevigraph" subtype="brev-es">es</abbr> graunte &amp; by vertue of his Office to geve
+        <lb/> confirmations to all noble<abbr type="macron">me<ex>n</ex></abbr> &amp; Genti<abbr type="macron">llme<ex>n</ex></abbr> ignor<abbr type="macron">a<ex>n</ex>t</abbr>e of theire
+        <lb/>Armes or Creast<abbr type="brevigraph" subtype="brev-es">es</abbr>: for w<ex>hi</ex><hi rend="sl">ch</hi> he ought to have the ffee belonginge
+        <lb/>thervnto./
+        <lb/><label place="margin">Geving Armes</label> <abbr type="macron">It<ex>e</ex>m</abbr> he hathe authority to geve Armes &amp; Creast<abbr type="brevigraph" subtype="brev-es">es</abbr> to persons of
+        <lb/>habilitye deservinge well of the Prynce &amp; Co<abbr type="macron">m<ex>m</ex>o</abbr>n weale, by
+        <lb/>reason of Office, Authority, Wisdome, Learninge good maner
+        <lb/>&amp; sober governem<abbr type="macron">e<ex>n</ex>t</abbr>./ They to have suche graunted by
+        <lb/>patent vnder the seale of Office of thesaide kinge of Armes
+        <lb/>&amp; to paye therfore the ffees accustomed.
+        <lb/><label place="margin">None may erecte Standard<abbr type="brevigraph" subtype="brev-es">es</abbr> B<abbr type="macron">an<ex>n</ex>ers</abbr> Coate Armo<ex>u</ex><hi rend="sl">r</hi>. &amp;c</label> <abbr type="macron">It<ex>e</ex>m</abbr> no Gentill<abbr type="macron">ma<ex>n</ex></abbr> or others may erect &amp; set vp in any churche
+        <lb/>at any funeralles, either Banners, Standard<abbr type="brevigraph" subtype="brev-es">es</abbr> or Coates
+        <lb/>of Armes, helmes, Creast<abbr type="brevigraph" subtype="brev-es">es</abbr>, or Sworde, or any other hatch<abbr type="macron">me<ex>n</ex>t</abbr>
+        <lb/>w<ex>i</ex><hi rend="sl">th</hi>out the licence of thesaide kinge of Armes of the <abbr type="brevigraph" subtype="brev-p">p<ex>ro</ex></abbr>vince
+        <lb/>Or by the allowance of his marshall or deputy./ Because
+        <lb/>the Armes of the noble Estate deceassed the daye of his deathe
+        <lb/>the place of his buriall his Mariag<abbr type="brevigraph" subtype="brev-es">es</abbr> &amp; his yssues owghte
+        <lb/>to be tak<abbr type="macron">e<ex>n</ex></abbr> by Certificat &amp; Recorded in the Office of thesaid
+        <lb/>kinge of Armes for his <abbr type="brevigraph" subtype="brev-p">p<ex>er</ex></abbr>petuall memorye
+        <lb/><label place="margin">Bearing of differ<abbr type="macron">e<ex>n</ex></abbr>ces</label> <abbr type="macron">It<ex>e</ex>m</abbr> no Gentill<abbr type="macron">me<ex>n</ex></abbr> owght to beare theire difference in Armory
+        <lb/>otherwise t<abbr type="macron">he<ex>n</ex></abbr> the order of Armes requireth ./
+      </heading></ab></body></text></sourceDoc>
+</TEI>

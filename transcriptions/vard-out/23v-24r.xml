@@ -1,0 +1,116 @@
+<TEI_xmlns=''http://www.tei-c.org/ns/1.0''><teiHeader><calendarDesc><calendar_xml:id=''julianMar''><p>The Julian calendar, as used in England before 1752. The year starts on March 25.</p></calendar><calendar_xml:id=''annoMundi3962''><p>A Hebrew calendar dating from the creation of the world, based on biblical genealogy. The start date varies according to the biblical texts used. Here, based on the dates given for the same events in other formats, this calendar starts in 3962 BC.</p></calendar><calendar_xml:id=''beforeBritain''><p>A calendar dating from the Roman discovery of Britain. Based on the dates given for the same events in other formats, this calendar starts in 50 BC.</p></calendar></calendarDesc></teiHeader><sourceDoc_corresp=''Va447''><surface_xml:id=''151489''_n=''23v-24r''><media_url=''https://luna.folger.edu/luna/servlet/iiif/FOLGERCM1~6~6~1229369~224960/full/!1024,1024/0/default.jpg''_mimeType=''image/jpeg''/></surface><text><body><p/><ab>
+<pb_n=''23v-24r''/>
+<pb_n=''leaf_23_verso''/>
+<heading>The <abbr_type=''brevigraph''_subtype=''brev-p''>p<ex>ro</ex></abbr>portion of the <join original="ffun&lt;abbr_type=''brevigraph''_subtype=''brev-er''&gt;er&lt;/abbr&gt;all"><normalised orig="ffunerall" auto="false">Funeral</join></normalised> hearse of
+<lb/>
+<normalised orig="Edmonde" auto="false">Edmund</normalised> <normalised orig="Bridges" auto="false">Brydges</normalised> Lo<abbr_type=''truncation''_subtype=''colon''><ex>rd</ex>:</abbr> Chandos <normalised orig="Knighte" auto="false">Knight</normalised> of
+<lb/>
+the most ho<ex>nora</ex><hi_rend=''sl''>ble</hi> in the <normalised orig="Chappell" auto="false">Chapel</normalised> of <g_ref=''#thorn''>th</g><hi_rend=''sl''>e</hi> Castle
+<lb/>
+of <normalised orig="Sudeleye" auto="false">Sudeley</normalised> in Co<abbr_type=''macron''>m<ex>itatu</ex></abbr>: Glowc<ex>estrense</ex> the <gap>..</gap> <normalised orig="daye" auto="false">day</normalised>
+<lb/>
+of <gap>...</gap> Anno :RR: Elizabethe. <c/>
+<add_type=''authorial''>
+xlii<hi_rend=''sup''>to</hi>
+</add>
+<c/></heading>
+<lb/>
+<lb/>
+<figure>
+<desc>
+Drawing of a funeral hearse
+</desc>
+</figure>
+<pb_n=''leaf_23_verso''/>
+<heading>
+<lb/>
+<lb/>
+<heading>The Office of a <normalised orig="Kinge" auto="false">King</normalised> of <normalised orig="Armes" auto="false">Arms</normalised>
+<lb/>
+w<ex>i</ex><hi_rend=''sl''>th</hi> his Authority w<ex>i</ex><hi_rend=''sl''>th</hi>in his <abbr_type=''brevigraph''_subtype=''brev-p''>p<ex>ro</ex></abbr>vince.</heading>
+<lb/>
+<label_place=''margin''>Notice &amp; <normalised orig="keping" auto="false">keeping</normalised> of <normalised orig="Recordes" auto="false">Records</normalised></label> <normalised orig="ffirst" auto="false">First</normalised>, as <normalised orig="nighe" auto="false">nigh</normalised> as he can he shall take knowledge and <normalised orig="keepe" auto="false">keep</normalised>
+<lb/>
+<normalised orig="Recorde" auto="false">Record</normalised> of the <normalised orig="Armes" auto="false">Arms</normalised>, <join original="Creast&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Creastes" auto="false">Crests</join></normalised></abbr>, Cognisanc<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> and <normalised orig="Auncieant" auto="false">Ancient</normalised>
+<lb/>
+<normalised orig="vsed" auto="false">used</normalised> <join original="woord&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="woordes" auto="false">words</join></normalised></abbr>: As also of the <normalised orig="Lyne" auto="false">Line</normalised> <normalised orig="Discente" auto="false">Descent</normalised> or <normalised orig="pedegre" auto="false">pedigree</normalised>
+<lb/>
+of <join original="eu&lt;abbr_type=''brevigraph''_subtype=''brev-er''&gt;er&lt;/abbr&gt;y"><normalised orig="euery" auto="false">every</join></normalised> <join original="Gentill&lt;abbr_type=''macron''&gt;ma&lt;ex&gt;n"><normalised orig="Gentillman" auto="false">Gentleman</join></normalised></ex></abbr> w<ex>i</ex><hi_rend=''sl''>th</hi>in his <abbr_type=''brevigraph''_subtype=''brev-p''>p<ex>ro</ex></abbr>vince of what estate
+<lb/>
+or degree <join original="soeu&lt;abbr_type=''brevigraph''_subtype=''brev-er''&gt;er"><normalised orig="soeuer" auto="false">soever</join></normalised></abbr> he be./
+<lb/>
+<label_place=''margin''>Notice of <join original="foundac&lt;abbr_type=''macron''&gt;&lt;ex&gt;i&lt;/ex&gt;on&lt;/abbr&gt;s"><normalised orig="foundacions" auto="false">foundations</join></normalised> of Churches. &amp;c.</label> <abbr_type=''macron''>It<ex>e</ex>m</abbr> he shall enter into all Churches <normalised orig="Chappells" auto="false">Chapels</normalised> Oratories
+<lb/>
+Castles <normalised orig="howses" auto="false">houses</normalised> or <join original="Aunci&lt;abbr_type=''macron''&gt;e&lt;ex&gt;n&lt;/ex&gt;t"><normalised orig="Auncient" auto="false">Ancient</join></normalised></abbr> <join original="building&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="buildinges" auto="false">buildings</join></normalised></abbr> to take knowledge
+<lb/>
+of <normalised orig="theire" auto="false">their</normalised> <normalised orig="ffoundacions" auto="false">Foundations</normalised>, &amp; of the noble Estat<abbr_type=''brevigraph''_subtype=''brev-es''>es</abbr> buried in them
+<lb/>
+as also of <normalised orig="thiere" auto="false">their</normalised> <normalised orig="Armes" auto="false">Arms</normalised> &amp; <normalised orig="Armes" auto="false">Arms</normalised> of the places <normalised orig="theire" auto="false">their</normalised> head
+<lb/>
+and their Anci<abbr_type=''macron''>e<ex>n</ex>t</abbr> Records./
+<lb/>
+<label_place=''margin''>false <normalised orig="Armes" auto="false">Arms</normalised>.</label> <abbr_type=''macron''>It<ex>e</ex>m</abbr> he shall <abbr_type=''brevigraph''_subtype=''brev-p''><join original="p&lt;ex&gt;ro&lt;/ex&gt;&lt;/abbr&gt;hibite"><normalised orig="prohibite" auto="false">prohibit</join></normalised> any <join original="Gentill&lt;abbr_type=''macron''&gt;ma&lt;ex&gt;n"><normalised orig="Gentillman" auto="false">Gentleman</join></normalised></ex></abbr> to <normalised orig="beare" auto="false">bear</normalised> the <normalised orig="Armes" auto="false">Arms</normalised>
+<lb/>
+of another or <normalised orig="suche" auto="false">such</normalised> as be not <normalised orig="trewe" auto="false">true</normalised> Armory, &amp; as he ough<supplied_reason=''edge-of-folio''>t</supplied>
+<lb/>
+<normalised orig="accordinge" auto="false">according</normalised> to the <normalised orig="Lawe" auto="false">Law</normalised> of <normalised orig="Armes" auto="false">Arms</normalised> .//
+<lb/>
+<label_place=''margin''><join original="March&lt;abbr_type=''macron''&gt;a&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Marchantes" auto="false">Merchants</join></normalised></abbr> <normalised orig="marke" auto="false">mark</normalised></label> <abbr_type=''macron''>It<ex>e</ex>m</abbr> he shall <abbr_type=''brevigraph''_subtype=''brev-p''><join original="p&lt;ex&gt;ro&lt;/ex&gt;&lt;/abbr&gt;hibite"><normalised orig="prohibite" auto="false">prohibit</join></normalised> any <join original="March&lt;abbr_type=''macron''&gt;a&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;e"><normalised orig="Marchante" auto="false">Merchant</join></normalised> notary or other, to
+<lb/>
+put <normalised orig="theyre" auto="false">their</normalised> names <join original="mark&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="markes" auto="false">marks</join></normalised></abbr> or <normalised orig="deuises" auto="false">devices</normalised> w<ex>i</ex><hi_rend=''sl''>th</hi>in <normalised orig="Escocheons" auto="false">Escutcheons</normalised>
+<lb/>
+or <join original="Shield&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Shieldes" auto="false">Shields</join></normalised></abbr> w<ex>hi</ex><hi_rend=''sl''>ch</hi> <abbr_type=''brevigraph''_subtype=''brev-p''><join original="p&lt;ex&gt;er&lt;/ex&gt;&lt;/abbr&gt;tayne"><normalised orig="pertayne" auto="false">pertain</join></normalised> to <join original="Gentill&lt;abbr_type=''macron''&gt;me&lt;ex&gt;n"><normalised orig="Gentillmen" auto="false">Gentlemen</join></normalised></ex></abbr> only <normalised orig="bearinge" auto="false">bearing</normalised> <normalised orig="Armes" auto="false">Arms</normalised>
+<lb/>
+&amp; to none other ./
+<lb/>
+<label_place=''margin''><normalised orig="Armes" auto="false">Arms</normalised> borne w<ex>i</ex><hi_rend=''sl''>th</hi>out authority</label> Itm he shall make diligent <normalised orig="searche" auto="false">search</normalised> if any <normalised orig="beare" auto="false">bear</normalised> <normalised orig="Armes" auto="false">Arms</normalised>
+<lb/>
+w<ex>i</ex><hi_rend=''sl''>th</hi>out <normalised orig="Authoritye" auto="false">Authority</normalised> or good <normalised orig="righte" auto="false">right</normalised>, &amp; <normalised orig="fyndinge" auto="false">finding</normalised> <normalised orig="suche" auto="false">such</normalised> although
+<lb/>
+they be <normalised orig="trewe" auto="false">true</normalised> <normalised orig="Armorye" auto="false">Armory</normalised>, he shall <abbr_type=''brevigraph''_subtype=''brev-p''><join original="p&lt;ex&gt;ro&lt;/ex&gt;&lt;/abbr&gt;hibite"><normalised orig="prohibite" auto="false">prohibit</join></normalised> them.
+<lb/>
+<label_place=''margin''><normalised orig="Graunting" auto="false">Granting</normalised> of Confir<abbr_type=''truncation''_subtype=''colon''><ex>mations</ex>:</abbr> of <normalised orig="Armes" auto="false">Arms</normalised>. <join original="Creast&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Creastes" auto="false">Crests</join></normalised></abbr> &amp;c</label><abbr_type=''macron''>It<ex>e</ex>m</abbr> <normalised orig="thesaide" auto="false">the said</normalised> <normalised orig="kinge" auto="false">king</normalised> of <normalised orig="Armes" auto="false">Arms</normalised> in his <abbr_type=''brevigraph''_subtype=''brev-p''>p<ex>ro</ex></abbr>vince <normalised orig="hathe" auto="false">hath</normalised> <normalised orig="fullpower" auto="false">full power</normalised> &amp;
+<lb/>
+<normalised orig="authoritye" auto="false">authority</normalised> by the <join original="king&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="kinges" auto="false">king's</join></normalised></abbr> <normalised orig="graunte" auto="false">grant</normalised> &amp; by <normalised orig="vertue" auto="false">virtue</normalised> of his Office to <normalised orig="geve" auto="false">give</normalised>
+<lb/>
+confirmations to all noble<abbr_type=''macron''>me<ex>n</ex></abbr> &amp; <join original="Genti&lt;abbr_type=''macron''&gt;llme&lt;ex&gt;n"><normalised orig="Gentillmen" auto="false">Gentlemen</join></normalised></ex></abbr> <join original="ignor&lt;abbr_type=''macron''&gt;a&lt;ex&gt;n&lt;/ex&gt;t&lt;/abbr&gt;e"><normalised orig="ignorante" auto="false">ignorant</join></normalised> of <normalised orig="theire" auto="false">their</normalised>
+<lb/>
+<normalised orig="Armes" auto="false">Arms</normalised> or <join original="Creast&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Creastes" auto="false">Crests</join></normalised></abbr>: for w<ex>hi</ex><hi_rend=''sl''>ch</hi> he ought to have the <normalised orig="ffee" auto="false">Fee</normalised> <normalised orig="belonginge" auto="false">belonging</normalised>
+<lb/>
+<normalised orig="thervnto" auto="false">thereunto</normalised>./
+<lb/>
+<label_place=''margin''><normalised orig="Geving" auto="false">Giving</normalised> <normalised orig="Armes" auto="false">Arms</normalised></label> <abbr_type=''macron''>It<ex>e</ex>m</abbr> he <normalised orig="hathe" auto="false">hath</normalised> authority to <normalised orig="geve" auto="false">give</normalised> <normalised orig="Armes" auto="false">Arms</normalised> &amp; <join original="Creast&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Creastes" auto="false">Crests</join></normalised></abbr> to persons of
+<lb/>
+<normalised orig="habilitye" auto="false">ability</normalised> <normalised orig="deservinge" auto="false">deserving</normalised> well of the <normalised orig="Prynce" auto="false">Prince</normalised> &amp; Co<abbr_type=''macron''>m<ex>m</ex>o</abbr>n <normalised orig="weale" auto="false">weal</normalised>, by
+<lb/>
+reason of Office, Authority, <normalised orig="Wisdome" auto="false">Wisdom</normalised>, <normalised orig="Learninge" auto="false">Learning</normalised> good <normalised orig="maner" auto="false">manner</normalised>
+<lb/>
+&amp; sober <join original="governem&lt;abbr_type=''macron''&gt;e&lt;ex&gt;n&lt;/ex&gt;t"><normalised orig="governement" auto="false">government</join></normalised></abbr>./ They to have <normalised orig="suche" auto="false">such</normalised> <normalised orig="graunted" auto="false">granted</normalised> by
+<lb/>
+patent <normalised orig="vnder" auto="false">under</normalised> the <normalised orig="seale" auto="false">seal</normalised> of Office of <normalised orig="thesaide" auto="false">the said</normalised> <normalised orig="kinge" auto="false">king</normalised> of <normalised orig="Armes" auto="false">Arms</normalised>
+<lb/>
+&amp; to <normalised orig="paye" auto="false">pay</normalised> <normalised orig="therfore" auto="false">therefor</normalised> the <normalised orig="ffees" auto="false">Fees</normalised> accustomed.
+<lb/>
+<label_place=''margin''>None may <normalised orig="erecte" auto="false">erect</normalised> <join original="Standard&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Standardes" auto="false">Standards</join></normalised></abbr> B<abbr_type=''macron''>an<ex>n</ex>ers</abbr> <normalised orig="Coate" auto="false">Coat</normalised> Armo<ex>u</ex><hi_rend=''sl''>r</hi>. &amp;c</label> <abbr_type=''macron''>It<ex>e</ex>m</abbr> no <join original="Gentill&lt;abbr_type=''macron''&gt;ma&lt;ex&gt;n"><normalised orig="Gentillman" auto="false">Gentleman</join></normalised></ex></abbr> or others may erect &amp; set <normalised orig="vp" auto="false">up</normalised> in any <normalised orig="churche" auto="false">church</normalised>
+<lb/>
+at any <normalised orig="funeralles" auto="false">funerals</normalised>, either Banners, <join original="Standard&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Standardes" auto="false">Standards</join></normalised></abbr> or <normalised orig="Coates" auto="false">Coats</normalised>
+<lb/>
+of <normalised orig="Armes" auto="false">Arms</normalised>, <normalised orig="helmes" auto="false">helms</normalised>, <join original="Creast&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Creastes" auto="false">Crests</join></normalised></abbr>, or <normalised orig="Sworde" auto="false">Sword</normalised>, or any other hatch<abbr_type=''macron''>me<ex>n</ex>t</abbr>
+<lb/>
+w<ex>i</ex><hi_rend=''sl''>th</hi>out the licence of <normalised orig="thesaide" auto="false">the said</normalised> <normalised orig="kinge" auto="false">king</normalised> of <normalised orig="Armes" auto="false">Arms</normalised> of the <abbr_type=''brevigraph''_subtype=''brev-p''>p<ex>ro</ex></abbr>vince
+<lb/>
+Or by the allowance of his marshall or deputy./ Because
+<lb/>
+the <normalised orig="Armes" auto="false">Arms</normalised> of the noble Estate <normalised orig="deceassed" auto="false">deceased</normalised> the <normalised orig="daye" auto="false">day</normalised> of his <normalised orig="deathe" auto="false">death</normalised>
+<lb/>
+the place of his <normalised orig="buriall" auto="false">burial</normalised> his <join original="Mariag&lt;abbr_type=''brevigraph''_subtype=''brev-es''&gt;es"><normalised orig="Mariages" auto="false">Marriages</join></normalised></abbr> &amp; his <normalised orig="yssues" auto="false">issues</normalised> <normalised orig="owghte" auto="false">ought</normalised>
+<lb/>
+to be tak<abbr_type=''macron''>e<ex>n</ex></abbr> by <normalised orig="Certificat" auto="false">Certificate</normalised> &amp; Recorded in the Office of <normalised orig="thesaid" auto="false">the said</normalised>
+<lb/>
+<normalised orig="kinge" auto="false">king</normalised> of <normalised orig="Armes" auto="false">Arms</normalised> for his <abbr_type=''brevigraph''_subtype=''brev-p''><join original="p&lt;ex&gt;er&lt;/ex&gt;&lt;/abbr&gt;petuall"><normalised orig="perpetuall" auto="false">perpetual</join></normalised> <normalised orig="memorye" auto="false">memory</normalised>
+<lb/>
+<label_place=''margin''>Bearing of differ<abbr_type=''macron''>e<ex>n</ex></abbr>ces</label> <abbr_type=''macron''>It<ex>e</ex>m</abbr> no <join original="Gentill&lt;abbr_type=''macron''&gt;me&lt;ex&gt;n"><normalised orig="Gentillmen" auto="false">Gentlemen</join></normalised></ex></abbr> <normalised orig="owght" auto="false">ought</normalised> to <normalised orig="beare" auto="false">bear</normalised> <normalised orig="theire" auto="false">their</normalised> difference in Armory
+<lb/>
+otherwise t<abbr_type=''macron''>he<ex>n</ex></abbr> the order of <normalised orig="Armes" auto="false">Arms</normalised> requireth ./
+</heading></ab></body></text></sourceDoc>
+</TEI>
